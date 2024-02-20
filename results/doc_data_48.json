@@ -1,0 +1,426 @@
+{
+  "text": "In Ancient Rome, a province (Latin, provincia, pl. provinciae) was a territorial unit of the empire's territorial possessions outside of Italy. The word province in modern English has its origins in the term used by the Romans.",
+  "ents": [
+    {
+      "start": 3,
+      "end": 15,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 36,
+      "end": 44,
+      "label": "CLASS"
+    },
+    {
+      "start": 58,
+      "end": 63,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 82,
+      "end": 91,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 110,
+      "end": 124,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 149,
+      "end": 165,
+      "label": "CLASS"
+    },
+    {
+      "start": 185,
+      "end": 191,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 246,
+      "end": 251,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 298,
+      "end": 305,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 363,
+      "end": 369,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start_char": 3,
+      "end_char": 15,
+      "label": "INDIVIDUAL",
+      "text": "Ancient Rome"
+    },
+    {
+      "start_char": 36,
+      "end_char": 44,
+      "label": "CLASS",
+      "text": "province",
+      "subClassOf": [
+        "LOCATION"
+      ]
+    },
+    {
+      "start_char": 58,
+      "end_char": 63,
+      "label": "INDIVIDUAL",
+      "text": "Latin"
+    },
+    {
+      "start_char": 82,
+      "end_char": 91,
+      "label": "INDIVIDUAL",
+      "text": "provincia"
+    },
+    {
+      "start_char": 110,
+      "end_char": 124,
+      "label": "INDIVIDUAL",
+      "text": "pl. provinciae"
+    },
+    {
+      "start_char": 149,
+      "end_char": 165,
+      "label": "CLASS",
+      "text": "territorial unit",
+      "subClassOf": [
+        "LOCATION"
+      ]
+    },
+    {
+      "start_char": 185,
+      "end_char": 191,
+      "label": "INDIVIDUAL",
+      "text": "empire"
+    },
+    {
+      "start_char": 246,
+      "end_char": 251,
+      "label": "INDIVIDUAL",
+      "text": "Italy"
+    },
+    {
+      "start_char": 298,
+      "end_char": 305,
+      "label": "INDIVIDUAL",
+      "text": "English"
+    },
+    {
+      "start_char": 363,
+      "end_char": 369,
+      "label": "INDIVIDUAL",
+      "text": "Romans"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 2
+    },
+    {
+      "id": 1,
+      "start": 3,
+      "end": 10
+    },
+    {
+      "id": 2,
+      "start": 11,
+      "end": 15
+    },
+    {
+      "id": 3,
+      "start": 15,
+      "end": 32
+    },
+    {
+      "id": 4,
+      "start": 32,
+      "end": 33
+    },
+    {
+      "id": 5,
+      "start": 34,
+      "end": 35
+    },
+    {
+      "id": 6,
+      "start": 36,
+      "end": 44
+    },
+    {
+      "id": 7,
+      "start": 44,
+      "end": 56
+    },
+    {
+      "id": 8,
+      "start": 57,
+      "end": 58
+    },
+    {
+      "id": 9,
+      "start": 58,
+      "end": 63
+    },
+    {
+      "id": 10,
+      "start": 63,
+      "end": 80
+    },
+    {
+      "id": 11,
+      "start": 80,
+      "end": 81
+    },
+    {
+      "id": 12,
+      "start": 82,
+      "end": 91
+    },
+    {
+      "id": 13,
+      "start": 91,
+      "end": 108
+    },
+    {
+      "id": 14,
+      "start": 108,
+      "end": 109
+    },
+    {
+      "id": 15,
+      "start": 110,
+      "end": 112
+    },
+    {
+      "id": 16,
+      "start": 112,
+      "end": 113
+    },
+    {
+      "id": 17,
+      "start": 114,
+      "end": 124
+    },
+    {
+      "id": 18,
+      "start": 124,
+      "end": 141
+    },
+    {
+      "id": 19,
+      "start": 141,
+      "end": 142
+    },
+    {
+      "id": 20,
+      "start": 143,
+      "end": 146
+    },
+    {
+      "id": 21,
+      "start": 147,
+      "end": 148
+    },
+    {
+      "id": 22,
+      "start": 149,
+      "end": 160
+    },
+    {
+      "id": 23,
+      "start": 161,
+      "end": 165
+    },
+    {
+      "id": 24,
+      "start": 165,
+      "end": 177
+    },
+    {
+      "id": 25,
+      "start": 178,
+      "end": 180
+    },
+    {
+      "id": 26,
+      "start": 181,
+      "end": 184
+    },
+    {
+      "id": 27,
+      "start": 185,
+      "end": 191
+    },
+    {
+      "id": 28,
+      "start": 191,
+      "end": 208
+    },
+    {
+      "id": 29,
+      "start": 208,
+      "end": 210
+    },
+    {
+      "id": 30,
+      "start": 211,
+      "end": 222
+    },
+    {
+      "id": 31,
+      "start": 223,
+      "end": 234
+    },
+    {
+      "id": 32,
+      "start": 235,
+      "end": 242
+    },
+    {
+      "id": 33,
+      "start": 243,
+      "end": 245
+    },
+    {
+      "id": 34,
+      "start": 246,
+      "end": 251
+    },
+    {
+      "id": 35,
+      "start": 251,
+      "end": 268
+    },
+    {
+      "id": 36,
+      "start": 268,
+      "end": 269
+    },
+    {
+      "id": 37,
+      "start": 270,
+      "end": 273
+    },
+    {
+      "id": 38,
+      "start": 274,
+      "end": 278
+    },
+    {
+      "id": 39,
+      "start": 279,
+      "end": 287
+    },
+    {
+      "id": 40,
+      "start": 288,
+      "end": 290
+    },
+    {
+      "id": 41,
+      "start": 291,
+      "end": 297
+    },
+    {
+      "id": 42,
+      "start": 298,
+      "end": 305
+    },
+    {
+      "id": 43,
+      "start": 305,
+      "end": 322
+    },
+    {
+      "id": 44,
+      "start": 323,
+      "end": 326
+    },
+    {
+      "id": 45,
+      "start": 327,
+      "end": 330
+    },
+    {
+      "id": 46,
+      "start": 331,
+      "end": 338
+    },
+    {
+      "id": 47,
+      "start": 339,
+      "end": 341
+    },
+    {
+      "id": 48,
+      "start": 342,
+      "end": 345
+    },
+    {
+      "id": 49,
+      "start": 346,
+      "end": 350
+    },
+    {
+      "id": 50,
+      "start": 351,
+      "end": 355
+    },
+    {
+      "id": 51,
+      "start": 356,
+      "end": 358
+    },
+    {
+      "id": 52,
+      "start": 359,
+      "end": 362
+    },
+    {
+      "id": 53,
+      "start": 363,
+      "end": 369
+    },
+    {
+      "id": 54,
+      "start": 369,
+      "end": 386
+    },
+    {
+      "id": 55,
+      "start": 386,
+      "end": 387
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "province",
+      "dep": 1,
+      "rel": "is_a",
+      "dest_text": "territorial unit",
+      "dest": 5
+    }
+  ],
+  "classes": {
+    "province_1": {
+      "labels": [
+        "LOCATION"
+      ],
+      "class": "province"
+    },
+    "territorial_unit_5": {
+      "labels": [
+        "LOCATION"
+      ],
+      "class": "territorial unit"
+    }
+  }
+}

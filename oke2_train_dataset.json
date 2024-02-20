@@ -1,0 +1,4296 @@
+[
+    {
+        "sentence": "Danderyds sjukhus is a metro station in suburban Danderyd Municipality, north of Stockholm, Sweden.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Station",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "station",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://ontologydesignpatterns.org/ont/wikipedia/d0.owl#Location"
+                ],
+                "beginIndex": "29",
+                "endIndex": "36"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/MetroStation",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "metro station",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://ontologydesignpatterns.org/ont/wikipedia/d0.owl#Location"
+                ],
+                "beginIndex": "23",
+                "endIndex": "36"
+            },
+            {
+                "id": "http://dbpedia.org/resource/Danderyds_sjukhus_metro_station",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Station",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/MetroStation"
+                ],
+                "label": "Danderyds sjukhus",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "17"
+            }
+        ]
+    },
+    {
+        "sentence": "The name Belinda is a common female first name of unknown etymology.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/FemaleFirstName",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "female first name",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#InformationEntity"
+                ],
+                "beginIndex": "29",
+                "endIndex": "46"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/CommonFemaleFirstName",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "common female first name",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#InformationEntity"
+                ],
+                "beginIndex": "22",
+                "endIndex": "46"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/FirstName",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "first name",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#InformationEntity"
+                ],
+                "beginIndex": "36",
+                "endIndex": "46"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Name",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "name",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#InformationEntity"
+                ],
+                "beginIndex": "42",
+                "endIndex": "46"
+            },
+            {
+                "id": "http://dbpedia.org/resource/Belinda",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/CommonFemaleFirstName",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Name",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/FirstName",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/FemaleFirstName"
+                ],
+                "label": "Belinda",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "9",
+                "endIndex": "16"
+            }
+        ]
+    },
+    {
+        "sentence": "FC Amberg is a German football club from the city of Amberg, Bavaria.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/FootballClub",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "football club",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization"
+                ],
+                "beginIndex": "22",
+                "endIndex": "35"
+            },
+            {
+                "id": "http://dbpedia.org/resource/1._FC_Amberg",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/FootballClub",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/GermanFootballClub",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Club"
+                ],
+                "label": "FC Amberg",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "9"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Club",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "club",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization"
+                ],
+                "beginIndex": "31",
+                "endIndex": "35"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/GermanFootballClub",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "German football club",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization"
+                ],
+                "beginIndex": "15",
+                "endIndex": "35"
+            }
+        ]
+    },
+    {
+        "sentence": "Year 82 BC was a year of the pre-Julian Roman calendar.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Year",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "year",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#TimeInterval"
+                ],
+                "beginIndex": "17",
+                "endIndex": "21"
+            },
+            {
+                "id": "http://dbpedia.org/resource/82_BC",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Year"
+                ],
+                "label": "82",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "5",
+                "endIndex": "7"
+            }
+        ]
+    },
+    {
+        "sentence": "Year 921 was a common year starting on Monday (link will display the full calendar) of the Julian calendar.",
+        "entities": [
+            {
+                "id": "http://dbpedia.org/resource/921",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/CommonYear",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Year"
+                ],
+                "label": "921",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "5",
+                "endIndex": "8"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/CommonYear",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "common year",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#TimeInterval"
+                ],
+                "beginIndex": "15",
+                "endIndex": "26"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Year",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "year",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#TimeInterval"
+                ],
+                "beginIndex": "22",
+                "endIndex": "26"
+            }
+        ]
+    },
+    {
+        "sentence": "Boskovice is a town in the Czech Republic.",
+        "entities": [
+            {
+                "id": "http://dbpedia.org/resource/Boskowitz",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Town"
+                ],
+                "label": "Boskovice",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "9"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Town",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "town",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://ontologydesignpatterns.org/ont/wikipedia/d0.owl#Location"
+                ],
+                "beginIndex": "15",
+                "endIndex": "19"
+            }
+        ]
+    },
+    {
+        "sentence": "The 2009 G-20 London Summit is the second meeting of the G-20 heads of state in discussion of financial markets and the world economy, which was held in London on 2 April 2009 at the ExCeL Exhibition Centre. ",
+        "entities": [
+            {
+                "id": "http://dbpedia.org/resource/2009_G-20_London_Summit",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Meeting"
+                ],
+                "label": "2009 G-20 London Summit",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "4",
+                "endIndex": "27"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Meeting",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "meeting",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://ontologydesignpatterns.org/ont/wikipedia/d0.owl#Activity"
+                ],
+                "beginIndex": "42",
+                "endIndex": "49"
+            }
+        ]
+    },
+    {
+        "sentence": "The Porter is a 2004 film directed by Jan Wentz.",
+        "entities": [
+            {
+                "id": "http://dbpedia.org/resource/The_Porter",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Film"
+                ],
+                "label": "The Porter",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "10"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Film",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "film",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#InformationEntity"
+                ],
+                "beginIndex": "21",
+                "endIndex": "25"
+            }
+        ]
+    },
+    {
+        "sentence": "Ahmose I was a pharaoh of ancient Egypt and the founder of the Eighteenth dynasty.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Pharaoh",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "pharaoh",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person"
+                ],
+                "beginIndex": "15",
+                "endIndex": "22"
+            },
+            {
+                "id": "http://dbpedia.org/resource/Ahmose_I",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Pharaoh"
+                ],
+                "label": "Ahmose I",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "8"
+            }
+        ]
+    },
+    {
+        "sentence": "Bromius in ancient Greece was used as an epithet of Dionysus/Bacchus.",
+        "entities": [
+            {
+                "id": "http://dbpedia.org/resource/Bromius",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Epithet"
+                ],
+                "label": "Bromius",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "7"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Epithet",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "epithet",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Personification"
+                ],
+                "beginIndex": "41",
+                "endIndex": "48"
+            }
+        ]
+    },
+    {
+        "sentence": "Year 23 BC was either a common year starting on Saturday or Sunday or a leap year starting on Friday, Saturday or Sunday of the Julian calendar (the sources differ, see leap year error for further information) and a common year starting on Friday of the Proleptic Julian calendar.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/LeapYear",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "leap year",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#TimeInterval"
+                ],
+                "beginIndex": "72",
+                "endIndex": "81"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/CommonYear",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "common year",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#TimeInterval"
+                ],
+                "beginIndex": "24",
+                "endIndex": "35"
+            },
+            {
+                "id": "http://dbpedia.org/resource/23_BC",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/LeapYear",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/CommonYear",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Year"
+                ],
+                "label": "23 BC",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "5",
+                "endIndex": "10"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Year",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "year",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#TimeInterval"
+                ],
+                "beginIndex": "77",
+                "endIndex": "81"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Year",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "year",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#TimeInterval"
+                ],
+                "beginIndex": "31",
+                "endIndex": "35"
+            }
+        ]
+    },
+    {
+        "sentence": "The DFB-Pokal 1980-81 was the 38th season of the competition, beginning on 27 August 1980 and ending on 2 May 1981.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Season-ofCompetition",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "season of the competition",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Situation"
+                ],
+                "beginIndex": "35",
+                "endIndex": "60"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Competition",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "the competition",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Situation"
+                ],
+                "beginIndex": "45",
+                "endIndex": "60"
+            },
+            {
+                "id": "http://dbpedia.org/resource/1980\u201381_DFB-Pokal",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Season-ofCompetition",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Competition"
+                ],
+                "label": "FB-Pokal 1980-81",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "5",
+                "endIndex": "21"
+            }
+        ]
+    },
+    {
+        "sentence": "Broad Sound is a large bay on the east coast of Australia, in the state of Queensland 675 km northwest of the state capital, Brisbane.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Bay",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "bay",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://ontologydesignpatterns.org/ont/wikipedia/d0.owl#Location"
+                ],
+                "beginIndex": "23",
+                "endIndex": "26"
+            },
+            {
+                "id": "http://dbpedia.org/resource/Broad_Sound_(Queensland)",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Bay"
+                ],
+                "label": "Broad Sound",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "11"
+            }
+        ]
+    },
+    {
+        "sentence": "The Castle of Compi\u00e8gne is a French ch\u00e2teau built for Louis XV and restored by Napoleon.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Chateau",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "ch\u00e2teau ",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#PhysicalObject"
+                ],
+                "beginIndex": "36",
+                "endIndex": "44"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/FrenchChateau",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "French ch\u00e2teau ",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#PhysicalObject"
+                ],
+                "beginIndex": "29",
+                "endIndex": "44"
+            },
+            {
+                "id": "http://dbpedia.org/resource/Ch\u00e2teau_de_Compi\u00e8gne",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/FrenchChateau",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Chateau"
+                ],
+                "label": "Castle of Compi\u00e8gne",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "4",
+                "endIndex": "23"
+            }
+        ]
+    },
+    {
+        "sentence": "The 2006 FIFA Club World Cup was a football tournament held in Japan between 10 December and 17 December 2006.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Tournament",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "tournament",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Situation"
+                ],
+                "beginIndex": "44",
+                "endIndex": "54"
+            },
+            {
+                "id": "http://dbpedia.org/resource/2006_FIFA_Club_World_Cup",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/FootballTournament",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Tournament"
+                ],
+                "label": "006 FIFA Club World Cup",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "5",
+                "endIndex": "28"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/FootballTournament",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "football tournament",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Situation"
+                ],
+                "beginIndex": "35",
+                "endIndex": "54"
+            }
+        ]
+    },
+    {
+        "sentence": "The Scholz-Arena is a multi-purpose stadium in Aalen, Germany.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Multi-purposeStadium",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "multi-purpose stadium",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#PhysicalObject"
+                ],
+                "beginIndex": "22",
+                "endIndex": "43"
+            },
+            {
+                "id": "http://dbpedia.org/resource/Waldstadion_(Aalen)",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Stadium",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Multi-purposeStadium"
+                ],
+                "label": "Scholz-Arena",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "4",
+                "endIndex": "16"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Stadium",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "stadium",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#PhysicalObject"
+                ],
+                "beginIndex": "36",
+                "endIndex": "43"
+            }
+        ]
+    },
+    {
+        "sentence": "An alter ego is a second self, which is believed to be distinct from a person's normal or original personality.",
+        "entities": [
+            {
+                "id": "http://dbpedia.org/resource/Alter_ego",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Self",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/SecondSelf"
+                ],
+                "label": "alter ego",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "3",
+                "endIndex": "12"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Self",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "self",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#CognitiveObject"
+                ],
+                "beginIndex": "25",
+                "endIndex": "29"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/SecondSelf",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "second self",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#CognitiveObject"
+                ],
+                "beginIndex": "18",
+                "endIndex": "29"
+            }
+        ]
+    },
+    {
+        "sentence": "What It Is to Burn is the debut album by U.S. band Finch.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/DebutAlbum",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "debut album",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#InformationEntity"
+                ],
+                "beginIndex": "26",
+                "endIndex": "37"
+            },
+            {
+                "id": "http://dbpedia.org/resource/What_It_Is_to_Burn",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/DebutAlbum",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Album"
+                ],
+                "label": "What It Is to Burn",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "18"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Album",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "album",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#InformationEntity"
+                ],
+                "beginIndex": "32",
+                "endIndex": "37"
+            }
+        ]
+    },
+    {
+        "sentence": "Armida is an opera seria by Antonio Sacchini set to a libretto by Jacopo Durandi.",
+        "entities": [
+            {
+                "id": "http://dbpedia.org/resource/Armida_(Sacchini)",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Seria",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/OperaSeria"
+                ],
+                "label": "Armida",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "6"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/OperaSeria",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "opera seria",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#InformationEntity"
+                ],
+                "beginIndex": "13",
+                "endIndex": "24"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Seria",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "seria",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#InformationEntity"
+                ],
+                "beginIndex": "19",
+                "endIndex": "24"
+            }
+        ]
+    },
+    {
+        "sentence": "8869 Olausgutho is a main-belt asteroid.",
+        "entities": [
+            {
+                "id": "http://dbpedia.org/resource/8869_Olausgutho",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Main-beltAsteroid",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Asteroid"
+                ],
+                "label": "8869 Olausgutho",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "15"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Main-beltAsteroid",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "main-belt asteroid",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#PhysicalObject"
+                ],
+                "beginIndex": "21",
+                "endIndex": "39"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Asteroid",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "asteroid",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#PhysicalObject"
+                ],
+                "beginIndex": "31",
+                "endIndex": "39"
+            }
+        ]
+    },
+    {
+        "sentence": "The Ch\u00e2teau d'Ancy-le-Franc, designed by Sebastiano Serlio and constructed 1544-1550, is one of the sites where the Italian Renaissance was introduced, full-blown, to France.",
+        "entities": [
+            {
+                "id": "http://dbpedia.org/resource/Ch\u00e2teau_d'Ancy-le-Franc",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Site"
+                ],
+                "label": "Ch\u00e2teau d'Ancy-le-Franc",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "4",
+                "endIndex": "27"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Site",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "sites",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#PhysicalObject"
+                ],
+                "beginIndex": "100",
+                "endIndex": "105"
+            }
+        ]
+    },
+    {
+        "sentence": "All's Well That Ends Well is a play by William Shakespeare.",
+        "entities": [
+            {
+                "id": "http://dbpedia.org/resource/All's_Well_That_Ends_Well",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Play"
+                ],
+                "label": "All's Well That Ends Well",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "25"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Play",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "play",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#InformationEntity"
+                ],
+                "beginIndex": "31",
+                "endIndex": "35"
+            }
+        ]
+    },
+    {
+        "sentence": "Pakito is the alias of French Electronic Dance Music artist Julien Ranouil.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/DanceMusicArtist",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "Dance Music artist",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person"
+                ],
+                "beginIndex": "41",
+                "endIndex": "59"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Artist",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "artist",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person"
+                ],
+                "beginIndex": "53",
+                "endIndex": "59"
+            },
+            {
+                "id": "http://dbpedia.org/resource/Pakito",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/FrenchElectronicDanceMusicArtist",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/ElectronicDanceMusicArtist",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/MusicArtist",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Artist",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/DanceMusicArtist"
+                ],
+                "label": "Pakito",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "6"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/FrenchElectronicDanceMusicArtist",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "French Electronic Dance Music artist",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person"
+                ],
+                "beginIndex": "23",
+                "endIndex": "59"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/MusicArtist",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "Music artist",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person"
+                ],
+                "beginIndex": "47",
+                "endIndex": "59"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/ElectronicDanceMusicArtist",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "Electronic Dance Music artist",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person"
+                ],
+                "beginIndex": "30",
+                "endIndex": "59"
+            }
+        ]
+    },
+    {
+        "sentence": "Ankylosaurus is a genus of ankylosaurid dinosaur, containing one species, A. magniventris.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Genus",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "genus",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organism"
+                ],
+                "beginIndex": "18",
+                "endIndex": "23"
+            },
+            {
+                "id": "http://dbpedia.org/resource/Ankylosaurus_magniventris",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Genus"
+                ],
+                "label": "Ankylosaurus",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "12"
+            }
+        ]
+    },
+    {
+        "sentence": "Brunei-Muara is the northern-most district in Brunei; it is the smallest of Brunei's four districts in term of area but by far the most populous, with over half the country's population.",
+        "entities": [
+            {
+                "id": "http://dbpedia.org/resource/Brunei-Muara_District",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/District"
+                ],
+                "label": "Brunei-Muara",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "12"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/District",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "district",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://ontologydesignpatterns.org/ont/wikipedia/d0.owl#Location"
+                ],
+                "beginIndex": "34",
+                "endIndex": "42"
+            }
+        ]
+    },
+    {
+        "sentence": "The Las Vegas Film Critics Society Award for Best Director is an annual awards given by the Las Vegas Film Critics Society.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Awards",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "awards",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#InformationEntity"
+                ],
+                "beginIndex": "72",
+                "endIndex": "78"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/AnnualAwards",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "annual awards",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#InformationEntity"
+                ],
+                "beginIndex": "65",
+                "endIndex": "78"
+            },
+            {
+                "id": "http://dbpedia.org/resource/Las_Vegas_Film_Critics_Society_Award_for_Best_Director",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/AnnualAwards",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Awards"
+                ],
+                "label": "Las Vegas Film Critics Society Award for Best Director",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "4",
+                "endIndex": "58"
+            }
+        ]
+    },
+    {
+        "sentence": "Anne-Sofie \u00d8stvedt, (later married Str\u00f8mn\u00e6s), (2 January 1920 - 16 November 2009)  was one of the leaders of the Norwegian intelligence organisation XU.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Leader",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "mber 20",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person"
+                ],
+                "beginIndex": "71",
+                "endIndex": "78"
+            },
+            {
+                "id": "http://dbpedia.org/resource/Anne-Sofie_\u00d8stvedt",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Leader"
+                ],
+                "label": "Anne-Sofie \u00d8stvedt",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "18"
+            }
+        ]
+    },
+    {
+        "sentence": "The 2110s decade will begin on January 1, 2110, and will end on December 31, 2119. It will be the first full decade of the 22nd century.",
+        "entities": [
+            {
+                "id": "http://dbpedia.org/resource/2117",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Decade"
+                ],
+                "label": "110s",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "5",
+                "endIndex": "9"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Decade",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "decade",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#TimeInterval"
+                ],
+                "beginIndex": "10",
+                "endIndex": "16"
+            }
+        ]
+    },
+    {
+        "sentence": "A cenote is a deep natural pit, or sinkhole, characteristic of Mexico, resulting from the collapse of limestone bedrock that exposes groundwater underneath.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/DeepNaturalPit",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "deep natural pit",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#PhysicalObject"
+                ],
+                "beginIndex": "14",
+                "endIndex": "30"
+            },
+            {
+                "id": "http://dbpedia.org/resource/Cenote",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Sinkhole",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/DeepNaturalPit",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Pit",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/NaturalPit"
+                ],
+                "label": "cenote",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "2",
+                "endIndex": "8"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/NaturalPit",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "natural pit",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#PhysicalObject"
+                ],
+                "beginIndex": "19",
+                "endIndex": "30"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Pit",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "pit",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#PhysicalObject"
+                ],
+                "beginIndex": "27",
+                "endIndex": "30"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Sinkhole",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "sinkhole",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#PhysicalObject"
+                ],
+                "beginIndex": "35",
+                "endIndex": "43"
+            }
+        ]
+    },
+    {
+        "sentence": "98 is the natural number following 97 and preceding 99.",
+        "entities": [
+            {
+                "id": "http://dbpedia.org/resource/98_(number)",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/NaturalNumber",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Number"
+                ],
+                "label": "98",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "2"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Number",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "number",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Abstract"
+                ],
+                "beginIndex": "18",
+                "endIndex": "24"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/NaturalNumber",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "natural number",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Abstract"
+                ],
+                "beginIndex": "10",
+                "endIndex": "24"
+            }
+        ]
+    },
+    {
+        "sentence": "In elementary number theory, a centered square number is a centered figurate number that gives the number of dots in a square with a dot in the center and all other dots surrounding the center dot in successive square layers.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Number",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "number",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Abstract"
+                ],
+                "beginIndex": "77",
+                "endIndex": "83"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/CenteredFigurateNumber",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "centered figurate number",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Abstract"
+                ],
+                "beginIndex": "59",
+                "endIndex": "83"
+            },
+            {
+                "id": "http://dbpedia.org/resource/Centered_square_number",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/CenteredFigurateNumber",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/FigurateNumber",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Number"
+                ],
+                "label": "centered square number",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "31",
+                "endIndex": "53"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/FigurateNumber",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "figurate number",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Abstract"
+                ],
+                "beginIndex": "68",
+                "endIndex": "83"
+            }
+        ]
+    },
+    {
+        "sentence": "Babylonia was an ancient Akkadian-speaking Semitic state and cultural region based in central-southern Mesopotamia (present-day Iraq).",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/State",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "state",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Location"
+                ],
+                "beginIndex": "51",
+                "endIndex": "56"
+            },
+            {
+                "id": "http://dbpedia.org/resource/Babylonia",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/CulturalRegion",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Region",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/SemiticState",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/State"
+                ],
+                "label": "Babylonia",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "9"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Region",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "region",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Location"
+                ],
+                "beginIndex": "70",
+                "endIndex": "76"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/SemiticState",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "Semitic state",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Location"
+                ],
+                "beginIndex": "43",
+                "endIndex": "56"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/CulturalRegion",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "cultural region",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Location"
+                ],
+                "beginIndex": "61",
+                "endIndex": "76"
+            }
+        ]
+    },
+    {
+        "sentence": "Brian Banner is a fictional villain from the Marvel Comics Universe created by Bill Mantlo and Mike Mignola and first appearing in print in late 1985.",
+        "entities": [
+            {
+                "id": "http://dbpedia.org/resource/Brian_Banner",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Villain",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/FictionalVillain"
+                ],
+                "label": "Brian Banner",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "12"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Villain",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "villain",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Personification"
+                ],
+                "beginIndex": "28",
+                "endIndex": "35"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/FictionalVillain",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "fictional villain",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Personification"
+                ],
+                "beginIndex": "18",
+                "endIndex": "35"
+            }
+        ]
+    },
+    {
+        "sentence": "Year 100 BC was a year of the pre-Julian Roman calendar.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Year",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "year",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#TimeInterval"
+                ],
+                "beginIndex": "18",
+                "endIndex": "22"
+            },
+            {
+                "id": "http://dbpedia.org/resource/100_BC",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Year"
+                ],
+                "label": "100",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "5",
+                "endIndex": "8"
+            }
+        ]
+    },
+    {
+        "sentence": "Cornice molding is generally any horizontal decorative molding that crowns any building or furniture element: the cornice over a door or window, for instance, or the cornice around the edge of a pedestal.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/DecorativeMolding",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "decorative molding",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#PhysicalObject"
+                ],
+                "beginIndex": "44",
+                "endIndex": "62"
+            },
+            {
+                "id": "http://dbpedia.org/resource/Cornice",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Molding",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/HorizontalDecorativeMolding",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/DecorativeMolding"
+                ],
+                "label": "Cornice molding",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "15"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Molding",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "molding",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#PhysicalObject"
+                ],
+                "beginIndex": "55",
+                "endIndex": "62"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/HorizontalDecorativeMolding",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "horizontal decorative molding",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#PhysicalObject"
+                ],
+                "beginIndex": "33",
+                "endIndex": "62"
+            }
+        ]
+    },
+    {
+        "sentence": "Amoeba is a distributed operating system developed by Andrew S. Tanenbaum and others at the Vrije Universiteit.",
+        "entities": [
+            {
+                "id": "http://dbpedia.org/resource/Amoeba_distributed_operating_system",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/OperatingSystem",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/System"
+                ],
+                "label": "Amoeba",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "6"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/OperatingSystem",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "operating system",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#System"
+                ],
+                "beginIndex": "24",
+                "endIndex": "40"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/System",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "system",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#System"
+                ],
+                "beginIndex": "34",
+                "endIndex": "40"
+            }
+        ]
+    },
+    {
+        "sentence": "In J. R. R. Tolkien's legendarium, Curufin is a fictional character, a prince of the Noldor of the race of Elves, the fifth of the seven sons of F\u00ebanor and Nerdanel.",
+        "entities": [
+            {
+                "id": "http://dbpedia.org/resource/Curufin",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Character",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/FictionalCharacter"
+                ],
+                "label": "Curufin",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "35",
+                "endIndex": "42"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/FictionalCharacter",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "fictional character",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Personification"
+                ],
+                "beginIndex": "48",
+                "endIndex": "67"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Character",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "character",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Personification"
+                ],
+                "beginIndex": "58",
+                "endIndex": "67"
+            }
+        ]
+    },
+    {
+        "sentence": "JSC Dalavia, also known as Dalavia - Far Eastern Airways was an airline based in Khabarovsk, Russia.",
+        "entities": [
+            {
+                "id": "http://dbpedia.org/resource/Dalavia_Far_East_Airways",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Airline"
+                ],
+                "label": "JSC Dalavia",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "11"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Airline",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "airline",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization"
+                ],
+                "beginIndex": "64",
+                "endIndex": "71"
+            }
+        ]
+    },
+    {
+        "sentence": "Andreas Stauff is a German professional road bicycle racer.",
+        "entities": [
+            {
+                "id": "http://dbpedia.org/resource/Andreas_Stauff",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/RoadBicycleRacer",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/BicycleRacer",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Racer"
+                ],
+                "label": "Andreas Stauff",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "14"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Racer",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "racer",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person"
+                ],
+                "beginIndex": "53",
+                "endIndex": "58"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/BicycleRacer",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "bicycle racer",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person"
+                ],
+                "beginIndex": "45",
+                "endIndex": "58"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/RoadBicycleRacer",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "road bicycle racer",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person"
+                ],
+                "beginIndex": "40",
+                "endIndex": "58"
+            }
+        ]
+    },
+    {
+        "sentence": "The AES11 standard published by the Audio Engineering Society provides a systematic approach to the synchronization of digital audio signals. Recommendations are made concerning the accuracy of sample clocks as embodied in the interface signal and the use of this format as a convenient synchronization reference where signals must be rendered co-timed for digital processing.",
+        "entities": [
+            {
+                "id": "http://dbpedia.org/resource/AES11",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Standard"
+                ],
+                "label": "AES11",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "4",
+                "endIndex": "9"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Standard",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "standard",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Description"
+                ],
+                "beginIndex": "10",
+                "endIndex": "18"
+            }
+        ]
+    },
+    {
+        "sentence": "The Southern Intercollegiate Athletic Conference is a College athletic conference consisting of historically black colleges and universities located in the southern United States.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/AthleticConference",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "athletic conference",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Collection"
+                ],
+                "beginIndex": "62",
+                "endIndex": "81"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/CollegeAthleticConference",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "College athletic conference",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Collection"
+                ],
+                "beginIndex": "54",
+                "endIndex": "81"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Conference",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "conference",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Collection"
+                ],
+                "beginIndex": "71",
+                "endIndex": "81"
+            },
+            {
+                "id": "http://dbpedia.org/resource/Southern_Intercollegiate_Athletic_Conference",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/AthleticConference",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Conference",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/CollegeAthleticConference"
+                ],
+                "label": "Southern Intercollegiate Athletic Conference",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "4",
+                "endIndex": "48"
+            }
+        ]
+    },
+    {
+        "sentence": "A Time to Mourn is the third album by Paramaecium.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Album",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "album",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#InformationEntity"
+                ],
+                "beginIndex": "29",
+                "endIndex": "34"
+            },
+            {
+                "id": "http://dbpedia.org/resource/A_Time_to_Mourn",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Album"
+                ],
+                "label": "A Time to Mourn",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "15"
+            }
+        ]
+    },
+    {
+        "sentence": "Amhr\u00e1n na bhFiann is the Irish national anthem.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Anthem",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "anthem",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#InformationEntity"
+                ],
+                "beginIndex": "40",
+                "endIndex": "46"
+            },
+            {
+                "id": "http://dbpedia.org/resource/Amhr\u00e1n_na_bhFiann",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/NationalAnthem",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Anthem"
+                ],
+                "label": "Amhr\u00e1n na bhFiann",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "17"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/NationalAnthem",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "national anthem",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#InformationEntity"
+                ],
+                "beginIndex": "31",
+                "endIndex": "46"
+            }
+        ]
+    },
+    {
+        "sentence": "The Coppa Titano is the national football cup of San Marino.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/FootballCup",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "football cup",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://ontologydesignpatterns.org/ont/wikipedia/d0.owl#Activity"
+                ],
+                "beginIndex": "33",
+                "endIndex": "45"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Cup",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "cup",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://ontologydesignpatterns.org/ont/wikipedia/d0.owl#Activity"
+                ],
+                "beginIndex": "42",
+                "endIndex": "45"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/NationalFootballCup",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "national football cup",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://ontologydesignpatterns.org/ont/wikipedia/d0.owl#Activity"
+                ],
+                "beginIndex": "24",
+                "endIndex": "45"
+            },
+            {
+                "id": "http://dbpedia.org/resource/Coppa_Titano",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/NationalFootballCup",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Cup",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/FootballCup"
+                ],
+                "label": "Coppa Titano",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "4",
+                "endIndex": "16"
+            }
+        ]
+    },
+    {
+        "sentence": "Brad Sihvon was a Canadian film and television actor.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Actor",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "actor",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person"
+                ],
+                "beginIndex": "47",
+                "endIndex": "52"
+            },
+            {
+                "id": "http://dbpedia.org/resource/Brad_Sihvon",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Actor"
+                ],
+                "label": "Brad Sihvon",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "11"
+            }
+        ]
+    },
+    {
+        "sentence": "Year 44 BC was either a common year starting on Sunday or Monday or a leap year starting on Friday or Saturday of the Julian calendar (the sources differ, see leap year error for further information) and a common year starting on Sunday of the Proleptic Julian calendar.",
+        "entities": [
+            {
+                "id": "http://dbpedia.org/resource/44_BC",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/LeapYear",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/CommonYear",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Year"
+                ],
+                "label": "44 BC",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "5",
+                "endIndex": "10"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Year",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "year",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#TimeInterval"
+                ],
+                "beginIndex": "31",
+                "endIndex": "35"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Year",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "year",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#TimeInterval"
+                ],
+                "beginIndex": "75",
+                "endIndex": "79"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/CommonYear",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "common year",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#TimeInterval"
+                ],
+                "beginIndex": "24",
+                "endIndex": "35"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/LeapYear",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "leap year",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#TimeInterval"
+                ],
+                "beginIndex": "70",
+                "endIndex": "79"
+            }
+        ]
+    },
+    {
+        "sentence": "Adalgis or Adelchis was a king of the Lombards from August 759, reigning with his father, Desiderius, until their deposition in June 774.",
+        "entities": [
+            {
+                "id": "http://dbpedia.org/resource/Adalgis",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/King"
+                ],
+                "label": "Adelchis",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "7"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/King",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "king",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person"
+                ],
+                "beginIndex": "26",
+                "endIndex": "30"
+            },
+            {
+                "id": "http://dbpedia.org/resource/Adalgis",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/King"
+                ],
+                "label": "Adelchis",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "11",
+                "endIndex": "19"
+            }
+        ]
+    },
+    {
+        "sentence": "An Abbe refractometer is a bench-top device for the high-precision measurement of an index of refraction.",
+        "entities": [
+            {
+                "id": "http://dbpedia.org/resource/Abbe_refractometer",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Bench-topDevice",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Device"
+                ],
+                "label": "Abbe refractometer",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "3",
+                "endIndex": "21"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Bench-topDevice",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "bench-top device",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#PhysicalObject"
+                ],
+                "beginIndex": "27",
+                "endIndex": "43"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Device",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "device",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#InformationEntity",
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#PhysicalObject"
+                ],
+                "beginIndex": "37",
+                "endIndex": "43"
+            }
+        ]
+    },
+    {
+        "sentence": "The Cold Vein is the debut album by American hip hop duo Cannibal Ox.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Album",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "album",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#InformationEntity"
+                ],
+                "beginIndex": "27",
+                "endIndex": "32"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/DebutAlbum",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "debut album",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#InformationEntity"
+                ],
+                "beginIndex": "21",
+                "endIndex": "32"
+            },
+            {
+                "id": "http://dbpedia.org/resource/The_Cold_Vein",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/DebutAlbum",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Album"
+                ],
+                "label": "The Cold Vein",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "13"
+            }
+        ]
+    },
+    {
+        "sentence": "Alain de Lille, theologian and poet, was born in Lille, some years before 1128.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Poet",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "som",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person"
+                ],
+                "beginIndex": "56",
+                "endIndex": "59"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Theologian",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "born in Li",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person"
+                ],
+                "beginIndex": "41",
+                "endIndex": "51"
+            },
+            {
+                "id": "http://dbpedia.org/resource/Alain_de_Lille",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Poet",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Theologian"
+                ],
+                "label": "Alain de Lille",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "14"
+            }
+        ]
+    },
+    {
+        "sentence": "Anna Podolec is a Polish volleyball who is currently free agent after she played in Romania for Dinamo Romprest Bucure\u0219ti.",
+        "entities": [
+            {
+                "id": "http://dbpedia.org/resource/Anna_Podolec",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Player",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/VolleyballPlayer"
+                ],
+                "label": "Anna Podolec",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "12"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/VolleyballPlayer",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "volleyball who is",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person"
+                ],
+                "beginIndex": "25",
+                "endIndex": "42"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Player",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "who is",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person"
+                ],
+                "beginIndex": "36",
+                "endIndex": "42"
+            }
+        ]
+    },
+    {
+        "sentence": "A bicycle, often called a bike or cycle, is a human-powered, pedal-driven, single-track vehicle, having two wheels attached to a frame, one behind the other. A bicycle rider is called a cyclist, or bicyclist.",
+        "entities": [
+            {
+                "id": "http://dbpedia.org/resource/Bicycle",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Vehicle"
+                ],
+                "label": "bicycle",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "2",
+                "endIndex": "9"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Vehicle",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "vehicle",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#PhysicalObject"
+                ],
+                "beginIndex": "88",
+                "endIndex": "95"
+            }
+        ]
+    },
+    {
+        "sentence": "Sant'Elmo is the name of both a hill and a fortress in Naples, located near the Certosa di San Martino.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Hill",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "hill",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://ontologydesignpatterns.org/ont/wikipedia/d0.owl#Location"
+                ],
+                "beginIndex": "32",
+                "endIndex": "36"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Fortress",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "fortress",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://ontologydesignpatterns.org/ont/wikipedia/d0.owl#Location"
+                ],
+                "beginIndex": "43",
+                "endIndex": "51"
+            },
+            {
+                "id": "http://dbpedia.org/resource/Castel_Sant'Elmo",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Fortress",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Hill"
+                ],
+                "label": "Sant'Elmo",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "9"
+            }
+        ]
+    },
+    {
+        "sentence": "Copyleft is a form of\u00a0licensing\u00a0and can be used to maintain copyright conditions for works such as\u00a0computer software,\u00a0documents, and\u00a0art.",
+        "entities": [
+            {
+                "id": "http://dbpedia.org/resource/Copyleft",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Licensing"
+                ],
+                "label": "Copyleft",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "8"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Licensing",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "licensing",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#InformationEntity"
+                ],
+                "beginIndex": "22",
+                "endIndex": "31"
+            }
+        ]
+    },
+    {
+        "sentence": "Catanduvas is a city in Santa Catarina, Brazil.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/City",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "city",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://ontologydesignpatterns.org/ont/wikipedia/d0.owl#Location"
+                ],
+                "beginIndex": "16",
+                "endIndex": "20"
+            },
+            {
+                "id": "http://dbpedia.org/resource/Catanduvas,_Santa_Catarina",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/City"
+                ],
+                "label": "Catanduvas",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "10"
+            }
+        ]
+    },
+    {
+        "sentence": "Bernadette Sands McKevitt is an Irish republican, and a former leading member of the 32 County Sovereignty Movement.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Republican",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "republican",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person"
+                ],
+                "beginIndex": "38",
+                "endIndex": "48"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/IrishRepublican",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "Irish republican",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person"
+                ],
+                "beginIndex": "32",
+                "endIndex": "48"
+            },
+            {
+                "id": "http://dbpedia.org/resource/Bernadette_Sands",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Republican",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/IrishRepublican"
+                ],
+                "label": "Bernadette Sands McKevitt",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "25"
+            }
+        ]
+    },
+    {
+        "sentence": "8Ball & MJG is an American rap duo from Memphis, Tennessee.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/AmericanRapDuo",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "American rap duo",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization"
+                ],
+                "beginIndex": "18",
+                "endIndex": "34"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Duo",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "duo",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization"
+                ],
+                "beginIndex": "31",
+                "endIndex": "34"
+            },
+            {
+                "id": "http://dbpedia.org/resource/8_Ball_&_MJG",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/AmericanRapDuo",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/RapDuo",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Duo"
+                ],
+                "label": "8Ball & MJG",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "11"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/RapDuo",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "rap duo",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization"
+                ],
+                "beginIndex": "27",
+                "endIndex": "34"
+            }
+        ]
+    },
+    {
+        "sentence": "Associa\u00e7\u00e3o Desportiva Sanjoanense is a football club based in S\u2039o Jo\u2039o da Madeira.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/FootballClub",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "football club",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization"
+                ],
+                "beginIndex": "39",
+                "endIndex": "52"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Club",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "club",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization"
+                ],
+                "beginIndex": "48",
+                "endIndex": "52"
+            },
+            {
+                "id": "http://dbpedia.org/resource/AD_Sanjoanense",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/FootballClub",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Club"
+                ],
+                "label": "Associa\u00e7\u00e3o Desportiva Sanjoanense",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "33"
+            }
+        ]
+    },
+    {
+        "sentence": "Calvarrasa de Abajo is a village and municipality in the province of Salamanca, western Spain, part of the autonomous community of Castile-Leon.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Municipality",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "municipality",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://ontologydesignpatterns.org/ont/wikipedia/d0.owl#Location"
+                ],
+                "beginIndex": "37",
+                "endIndex": "49"
+            },
+            {
+                "id": "http://dbpedia.org/resource/Calvarrasa_de_Abajo",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Municipality",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Village"
+                ],
+                "label": "Calvarrasa de Abajo",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "19"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Village",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "village",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://ontologydesignpatterns.org/ont/wikipedia/d0.owl#Location"
+                ],
+                "beginIndex": "25",
+                "endIndex": "32"
+            }
+        ]
+    },
+    {
+        "sentence": "Al \"Bummy\" Davis , born Albert Abraham Davidoff, was an American lightweight boxer who fought from 1937 to 1945.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/AmericanLightweightBoxer",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "American lightweight boxer",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person"
+                ],
+                "beginIndex": "56",
+                "endIndex": "82"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/LightweightBoxer",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "lightweight boxer",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person"
+                ],
+                "beginIndex": "65",
+                "endIndex": "82"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Boxer",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "boxer",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person"
+                ],
+                "beginIndex": "77",
+                "endIndex": "82"
+            },
+            {
+                "id": "http://dbpedia.org/resource/Bummy_Davis",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/AmericanLightweightBoxer",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/LightweightBoxer",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Boxer"
+                ],
+                "label": "Al \"Bummy\" Davis",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "16"
+            }
+        ]
+    },
+    {
+        "sentence": "Aaron Copland was an American composer, composition teacher, writer, and later in his career a conductor of his own and other American music.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Composer",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "composer",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person"
+                ],
+                "beginIndex": "30",
+                "endIndex": "38"
+            },
+            {
+                "id": "http://dbpedia.org/resource/Aaron_Copland",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/AmericanComposer",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Composer"
+                ],
+                "label": "Aaron Copland",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "13"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/AmericanComposer",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "American composer",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person"
+                ],
+                "beginIndex": "21",
+                "endIndex": "38"
+            }
+        ]
+    },
+    {
+        "sentence": "Year 1170 was a common year starting on Thursday (link will display the full calendar) of the Julian calendar.",
+        "entities": [
+            {
+                "id": "http://dbpedia.org/resource/1170",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/CommonYear",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Year"
+                ],
+                "label": "1170",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "5",
+                "endIndex": "9"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Year",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "year",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#TimeInterval"
+                ],
+                "beginIndex": "23",
+                "endIndex": "27"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/CommonYear",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "common year",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#TimeInterval"
+                ],
+                "beginIndex": "16",
+                "endIndex": "27"
+            }
+        ]
+    },
+    {
+        "sentence": "Club de F\u00fatbol Atl\u00e9tico Ciudad was a Spanish football club based in Murcia, in the autonomous community of Murcia.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/SpanishFootballClub",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "Spanish football club",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization"
+                ],
+                "beginIndex": "37",
+                "endIndex": "58"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/FootballClub",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "football club",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization"
+                ],
+                "beginIndex": "45",
+                "endIndex": "58"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Club",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "club",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization"
+                ],
+                "beginIndex": "54",
+                "endIndex": "58"
+            },
+            {
+                "id": "http://dbpedia.org/resource/Club_Atl\u00e9tico_Ciudad_de_Lorqu\u00ed",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/SpanishFootballClub",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Club",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/FootballClub"
+                ],
+                "label": "Club de F\u00fatbol Atl\u00e9tico Ciudad",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "30"
+            }
+        ]
+    },
+    {
+        "sentence": "B\u0101j\u00edqu\u00e1n is a Chinese martial art that features explosive, short-range power and is famous for its elbow strikes.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/MartialArt",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "martial art",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Description"
+                ],
+                "beginIndex": "22",
+                "endIndex": "33"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Art",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "art",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Description"
+                ],
+                "beginIndex": "30",
+                "endIndex": "33"
+            },
+            {
+                "id": "http://dbpedia.org/resource/B\u0101j\u00edqu\u00e1n",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/MartialArt",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Art"
+                ],
+                "label": "B\u0101j\u00edqu\u00e1n",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "8"
+            }
+        ]
+    },
+    {
+        "sentence": "Daimler-Motoren-Gesellschaft (Daimler Motors Corporation) was a German automobile manufacturer, in operation from 1890 until 1926.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Manufacturer",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "manufacturer",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization"
+                ],
+                "beginIndex": "82",
+                "endIndex": "94"
+            },
+            {
+                "id": "http://dbpedia.org/resource/Daimler-Motoren-Gesellschaft",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/GermanAutomobileManufacturer",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/AutomobileManufacturer",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Manufacturer"
+                ],
+                "label": "Daimler-Motoren-Gesellschaft",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "28"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/AutomobileManufacturer",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "automobile manufacturer",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization"
+                ],
+                "beginIndex": "71",
+                "endIndex": "94"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/GermanAutomobileManufacturer",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "German automobile manufacturer",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization"
+                ],
+                "beginIndex": "64",
+                "endIndex": "94"
+            }
+        ]
+    },
+    {
+        "sentence": "Maksym Pashayev was a professional Ukrainian football defender who played for Dnipro Dnipropetrovsk in the Ukrainian Premier League.",
+        "entities": [
+            {
+                "id": "http://dbpedia.org/resource/Maksym_Pashaev",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/FootballDefender",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/ProfessionalUkrainianFootballDefender",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/UkrainianFootballDefender",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Defender"
+                ],
+                "label": "Maksym Pashayev",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "15"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Defender",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "defender",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person"
+                ],
+                "beginIndex": "54",
+                "endIndex": "62"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/ProfessionalUkrainianFootballDefender",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "professional Ukrainian football defender",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person"
+                ],
+                "beginIndex": "22",
+                "endIndex": "62"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/UkrainianFootballDefender",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "Ukrainian football defender",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person"
+                ],
+                "beginIndex": "35",
+                "endIndex": "62"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/FootballDefender",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "football defender",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person"
+                ],
+                "beginIndex": "45",
+                "endIndex": "62"
+            }
+        ]
+    },
+    {
+        "sentence": "Alvorninha is one of the sixteen civil parishes that make up the municipality of Caldas da Rainha, Portugal.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Parish",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "parishes",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://ontologydesignpatterns.org/ont/wikipedia/d0.owl#Location"
+                ],
+                "beginIndex": "39",
+                "endIndex": "47"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/CivilParish",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "civil parishes",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://ontologydesignpatterns.org/ont/wikipedia/d0.owl#Location"
+                ],
+                "beginIndex": "33",
+                "endIndex": "47"
+            },
+            {
+                "id": "http://dbpedia.org/resource/Alvorninha",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/CivilParish",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Parish"
+                ],
+                "label": "Alvorninha",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "10"
+            }
+        ]
+    },
+    {
+        "sentence": "Year 341 BC was a year of the pre-Julian Roman calendar.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Year",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "year",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#TimeInterval"
+                ],
+                "beginIndex": "18",
+                "endIndex": "22"
+            },
+            {
+                "id": "http://dbpedia.org/resource/341_BC",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Year"
+                ],
+                "label": "341 BC",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "5",
+                "endIndex": "11"
+            }
+        ]
+    },
+    {
+        "sentence": "2008 was a leap year that started on Tuesday in the Gregorian calendar.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/LeapYear",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "leap year",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#TimeInterval"
+                ],
+                "beginIndex": "11",
+                "endIndex": "20"
+            },
+            {
+                "id": "http://dbpedia.org/resource/2008",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/LeapYear",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Year"
+                ],
+                "label": "2008",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "4"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Year",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "year",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#TimeInterval"
+                ],
+                "beginIndex": "16",
+                "endIndex": "20"
+            }
+        ]
+    },
+    {
+        "sentence": "Anas Sarwar MP is a British Labour Party politician and is deputy leader of the Scottish Labour Party.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Politician",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "politician",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person"
+                ],
+                "beginIndex": "41",
+                "endIndex": "51"
+            },
+            {
+                "id": "http://dbpedia.org/resource/Anas_Sarwar",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Politician"
+                ],
+                "label": "Anas Sarwar MP",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "14"
+            }
+        ]
+    },
+    {
+        "sentence": "Avex Group Holdings Inc., listed in the Tokyo Stock Exchange as 7860 and abbreviated as AGHD, is the holding company for a group of entertainment-related subsidiaries based in Japan.",
+        "entities": [
+            {
+                "id": "http://dbpedia.org/resource/AVEX_Records",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Company",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/HoldingCompany"
+                ],
+                "label": "Avex Group Holdings Inc.",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "24"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Company",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "company",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization"
+                ],
+                "beginIndex": "109",
+                "endIndex": "116"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/HoldingCompany",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "holding company",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization"
+                ],
+                "beginIndex": "101",
+                "endIndex": "116"
+            }
+        ]
+    },
+    {
+        "sentence": "Daniel \"Dani\" L\u00f6ble is a Swiss-German drummer, who since 2005 has been playing in the legendary power metal band Helloween.",
+        "entities": [
+            {
+                "id": "http://dbpedia.org/resource/Dani_Loeble",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Drummer",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Swiss-germanDrummer"
+                ],
+                "label": "Daniel \"Dani\" L\u00f6ble",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "19"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Swiss-germanDrummer",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "Swiss-German drummer",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person"
+                ],
+                "beginIndex": "25",
+                "endIndex": "45"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Drummer",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "drummer",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person"
+                ],
+                "beginIndex": "38",
+                "endIndex": "45"
+            }
+        ]
+    },
+    {
+        "sentence": "A CPU socket or CPU slot is a mechanical component that provides mechanical and electrical connections between a microprocessor and a printed circuit board .",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/MechanicalComponent",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "mechanical component",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#PhysicalObject"
+                ],
+                "beginIndex": "30",
+                "endIndex": "50"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Component",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "component",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#PhysicalObject"
+                ],
+                "beginIndex": "41",
+                "endIndex": "50"
+            },
+            {
+                "id": "http://dbpedia.org/resource/CPU_socket",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/MechanicalComponent",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Component"
+                ],
+                "label": "CPU socket",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "2",
+                "endIndex": "12"
+            }
+        ]
+    },
+    {
+        "sentence": "Avinyonet de Puigvent\u00f3s is a municipality in the comarca of Alt Empord\u00e0, Girona, Catalonia, Spain.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Municipality",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "municipality",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://ontologydesignpatterns.org/ont/wikipedia/d0.owl#Location"
+                ],
+                "beginIndex": "29",
+                "endIndex": "41"
+            },
+            {
+                "id": "http://dbpedia.org/resource/Avinyonet_de_Puigvent\u00f3s",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Municipality"
+                ],
+                "label": "Avinyonet de Puigvent\u00f3s",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "23"
+            }
+        ]
+    },
+    {
+        "sentence": "Tomorrowland is one of the many theme lands at the five Disney theme parks around the world owned or licensed by The Walt Disney Company.",
+        "entities": [
+            {
+                "id": "http://dbpedia.org/resource/Tomorrowland",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Land",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/ThemeLand"
+                ],
+                "label": "Tomorrowland",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "12"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/ThemeLand",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "theme lands",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://ontologydesignpatterns.org/ont/wikipedia/d0.owl#Location"
+                ],
+                "beginIndex": "32",
+                "endIndex": "43"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Land",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "lands",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://ontologydesignpatterns.org/ont/wikipedia/d0.owl#Location"
+                ],
+                "beginIndex": "38",
+                "endIndex": "43"
+            }
+        ]
+    },
+    {
+        "sentence": "Cattivik was an Italian humoristic comic book character created by Bonvi.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/HumoristicComicBookCharacter",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "humoristic comic book character ",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Personification"
+                ],
+                "beginIndex": "24",
+                "endIndex": "56"
+            },
+            {
+                "id": "http://dbpedia.org/resource/Cattivik",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/HumoristicComicBookCharacter",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/BookCharacter",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/ItalianHumoristicComicBookCharacter",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/ComicBookCharacter",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Character"
+                ],
+                "label": "Cattivik",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "8"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Character",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "character",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Personification"
+                ],
+                "beginIndex": "46",
+                "endIndex": "56"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/BookCharacter",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "book character ",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Personification"
+                ],
+                "beginIndex": "41",
+                "endIndex": "56"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/ItalianHumoristicComicBookCharacter",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "Italian humoristic comic book character ",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Personification"
+                ],
+                "beginIndex": "16",
+                "endIndex": "56"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/ComicBookCharacter",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "comic book character ",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Personification"
+                ],
+                "beginIndex": "35",
+                "endIndex": "56"
+            }
+        ]
+    },
+    {
+        "sentence": "Azure Ray is a pop duo, consisting of musicians Maria Taylor and Orenda Fink.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Duo",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "duo",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization"
+                ],
+                "beginIndex": "19",
+                "endIndex": "22"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/PopDuo",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "pop duo",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization"
+                ],
+                "beginIndex": "15",
+                "endIndex": "22"
+            },
+            {
+                "id": "http://dbpedia.org/resource/Azure_Ray",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Duo",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/PopDuo"
+                ],
+                "label": "Azure Ray",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "9"
+            }
+        ]
+    },
+    {
+        "sentence": "Cyema atrum is a species of deep-water bobtail snipe eel in the family Cyematidae.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/BobtailSnipeEel",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "bobtail snipe eel",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organism"
+                ],
+                "beginIndex": "39",
+                "endIndex": "56"
+            },
+            {
+                "id": "http://dbpedia.org/resource/Cyema_atrum",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/BobtailSnipeEel",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Deep-waterBobtailSnipeEel",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Eel",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/SnipeEel"
+                ],
+                "label": "Cyema atrum",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "11"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Deep-waterBobtailSnipeEel",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "deep-water bobtail snipe eel",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organism"
+                ],
+                "beginIndex": "28",
+                "endIndex": "56"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/SnipeEel",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "snipe eel",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organism"
+                ],
+                "beginIndex": "47",
+                "endIndex": "56"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Eel",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "eel",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organism"
+                ],
+                "beginIndex": "53",
+                "endIndex": "56"
+            }
+        ]
+    },
+    {
+        "sentence": "Year 491 BC was a year of the pre-Julian Roman calendar.",
+        "entities": [
+            {
+                "id": "http://dbpedia.org/resource/491_BC",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Year"
+                ],
+                "label": "491 BC",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "5",
+                "endIndex": "11"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Year",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "year",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#TimeInterval"
+                ],
+                "beginIndex": "18",
+                "endIndex": "22"
+            }
+        ]
+    },
+    {
+        "sentence": "James Edward \"Jim\" Rice, nicknamed \"Jim Ed\", is a former Major League Baseball left fielder.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/MajorLeagueBaseballLeftFielder",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "Major League Baseball left fielder",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person"
+                ],
+                "beginIndex": "57",
+                "endIndex": "91"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/LeagueBaseballLeftFielder",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "League Baseball left fielder",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person"
+                ],
+                "beginIndex": "63",
+                "endIndex": "91"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/LeftFielder",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "left fielder",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person"
+                ],
+                "beginIndex": "79",
+                "endIndex": "91"
+            },
+            {
+                "id": "http://dbpedia.org/resource/Jim_Rice",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/MajorLeagueBaseballLeftFielder",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/LeagueBaseballLeftFielder",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/BaseballLeftFielder",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/LeftFielder",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/FormerMajorLeagueBaseballLeftFielder",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Fielder"
+                ],
+                "label": "James Edward \"Jim\" Rice",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "23"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/BaseballLeftFielder",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "Baseball left fielder",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person"
+                ],
+                "beginIndex": "70",
+                "endIndex": "91"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Fielder",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "fielder",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person"
+                ],
+                "beginIndex": "84",
+                "endIndex": "91"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/FormerMajorLeagueBaseballLeftFielder",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "former Major League Baseball left fielder",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person"
+                ],
+                "beginIndex": "50",
+                "endIndex": "91"
+            }
+        ]
+    },
+    {
+        "sentence": "Henry V is a history play by William Shakespeare, believed to be written in approximately 1599.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/HistoryPlay",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "history play",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#InformationEntity"
+                ],
+                "beginIndex": "13",
+                "endIndex": "25"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Play",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "play",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#InformationEntity"
+                ],
+                "beginIndex": "21",
+                "endIndex": "25"
+            },
+            {
+                "id": "http://dbpedia.org/resource/Henry_V_(play)",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Play",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/HistoryPlay"
+                ],
+                "label": "Henry V",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "7"
+            }
+        ]
+    },
+    {
+        "sentence": "Apophasis is a rhetorical device wherein the speaker or writer brings up a subject by either denying it, or denying that it should be brought up.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/RhetoricalDevice",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "rhetorical device",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#InformationEntity"
+                ],
+                "beginIndex": "15",
+                "endIndex": "32"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Device",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "device",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#InformationEntity",
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#PhysicalObject"
+                ],
+                "beginIndex": "26",
+                "endIndex": "32"
+            },
+            {
+                "id": "http://dbpedia.org/resource/Apophasis",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/RhetoricalDevice",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Device"
+                ],
+                "label": "Apophasis",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "9"
+            }
+        ]
+    },
+    {
+        "sentence": "The Green Catbird, Ailuroedus crassirostris is a species of bowerbird found on subtropical forests along the east coast of Australia, from southeastern Queensland to southern New South Wales.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Bowerbird",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "bowerbird",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organism"
+                ],
+                "beginIndex": "60",
+                "endIndex": "69"
+            },
+            {
+                "id": "http://dbpedia.org/resource/Ailuroedus_crassirostris",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Bowerbird"
+                ],
+                "label": "Green Catbird, Ailuroedus crassirostris",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "4",
+                "endIndex": "43"
+            }
+        ]
+    },
+    {
+        "sentence": "The 1956 Formula One season featured the seventh FIA World Championship of Drivers as well as numerous non-championship races for Formula One cars. Until the 2006 season this was the last season during which no British constructor won any race.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Season",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "season",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Situation"
+                ],
+                "beginIndex": "21",
+                "endIndex": "27"
+            },
+            {
+                "id": "http://dbpedia.org/resource/1956_Formula_One_season",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Formula-oneSeason",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Season"
+                ],
+                "label": "956",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "5",
+                "endIndex": "8"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Formula-oneSeason",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "Formula One season",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Situation"
+                ],
+                "beginIndex": "9",
+                "endIndex": "27"
+            }
+        ]
+    },
+    {
+        "sentence": "Year 787 was a common year starting on Monday (link will display the full calendar) of the Julian calendar.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/CommonYear",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "common year",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#TimeInterval"
+                ],
+                "beginIndex": "15",
+                "endIndex": "26"
+            },
+            {
+                "id": "http://dbpedia.org/resource/787",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Year",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/CommonYear"
+                ],
+                "label": "787",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "5",
+                "endIndex": "8"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Year",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "year",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#TimeInterval"
+                ],
+                "beginIndex": "22",
+                "endIndex": "26"
+            }
+        ]
+    },
+    {
+        "sentence": "Altis was a location in what is today Peloponnese, Greece, on a little plain in the Elis Prefecture, on the right shore of the Alfeios River near the city of Pyrgos, around 18 kilometers away from the Ionian Sea and at the foot of Mount Cronion.",
+        "entities": [
+            {
+                "id": "http://dbpedia.org/resource/Altis",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Location"
+                ],
+                "label": "Altis",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "5"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Location",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "location",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://ontologydesignpatterns.org/ont/wikipedia/d0.owl#Location"
+                ],
+                "beginIndex": "12",
+                "endIndex": "20"
+            }
+        ]
+    },
+    {
+        "sentence": "Interferon-induced GTP-binding protein Mx1 is a protein that in humans is encoded by the MX1 gene.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Protein",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "protein",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#PhysicalObject"
+                ],
+                "beginIndex": "48",
+                "endIndex": "55"
+            },
+            {
+                "id": "http://dbpedia.org/resource/MX1",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Protein"
+                ],
+                "label": "Interferon-induced GTP-binding protein Mx1",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "42"
+            }
+        ]
+    },
+    {
+        "sentence": "\u0160tvrtok is a village in Tren\u010d\u00edn District in the Tren\u010d\u00edn Region of north-western Slovakia.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Village",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "village",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://ontologydesignpatterns.org/ont/wikipedia/d0.owl#Location"
+                ],
+                "beginIndex": "13",
+                "endIndex": "20"
+            },
+            {
+                "id": "http://dbpedia.org/resource/\u0160tvrtok",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Village"
+                ],
+                "label": "\u0160tvrtok",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "7"
+            }
+        ]
+    },
+    {
+        "sentence": "Ayana is a Japanese singer-songwriter.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Songwriter",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "songwriter",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person"
+                ],
+                "beginIndex": "27",
+                "endIndex": "37"
+            },
+            {
+                "id": "http://dbpedia.org/resource/Ayana",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/SingerSongwriter",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Songwriter"
+                ],
+                "label": "Ayana",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "5"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/SingerSongwriter",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "singer-songwriter",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person"
+                ],
+                "beginIndex": "20",
+                "endIndex": "37"
+            }
+        ]
+    },
+    {
+        "sentence": "The 5th Royal Irish Lancers was a cavalry regiment of the British army originally formed in 1689 as James Wynne's Regiment of Dragoons.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/CavalryRegiment",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "cavalry regiment",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization"
+                ],
+                "beginIndex": "34",
+                "endIndex": "50"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Regiment",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "regiment",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organization"
+                ],
+                "beginIndex": "42",
+                "endIndex": "50"
+            },
+            {
+                "id": "http://dbpedia.org/resource/5th_Royal_Irish_Lancers",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/CavalryRegiment",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Regiment"
+                ],
+                "label": "5th Royal Irish Lancers",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "4",
+                "endIndex": "27"
+            }
+        ]
+    },
+    {
+        "sentence": "The World Chess Championship 1984 was a match between challenger Garry Kasparov and defending champion Anatoly Karpov for the World Chess Championship title.",
+        "entities": [
+            {
+                "id": "http://dbpedia.org/resource/World_Chess_Championship_1984",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Match"
+                ],
+                "label": "World Chess Championship 1984",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "4",
+                "endIndex": "33"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Match",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "match",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://ontologydesignpatterns.org/ont/wikipedia/d0.owl#Activity"
+                ],
+                "beginIndex": "40",
+                "endIndex": "45"
+            }
+        ]
+    },
+    {
+        "sentence": "Year 263 BC was a year of the pre-Julian Roman calendar.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Year",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "year",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#TimeInterval"
+                ],
+                "beginIndex": "18",
+                "endIndex": "22"
+            },
+            {
+                "id": "http://dbpedia.org/resource/263_BC",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Year"
+                ],
+                "label": "263 BC",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "5",
+                "endIndex": "11"
+            }
+        ]
+    },
+    {
+        "sentence": "The Aiguille Blanche de Peuterey is a mountain of the Mont Blanc massif in Italy.",
+        "entities": [
+            {
+                "id": "http://dbpedia.org/resource/Aiguille_Blanche_de_Peuterey",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Mountain"
+                ],
+                "label": "Aiguille Blanche de Peuterey",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "4",
+                "endIndex": "32"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Mountain",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "mountain",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://ontologydesignpatterns.org/ont/wikipedia/d0.owl#Location"
+                ],
+                "beginIndex": "38",
+                "endIndex": "46"
+            }
+        ]
+    },
+    {
+        "sentence": "Bucu or Buku is a hill island surrounded by the Trave and Wakenitz Rivers in L\u00fcbeck, Germany.",
+        "entities": [
+            {
+                "id": "http://dbpedia.org/resource/Bucu",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Island",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/HillIsland"
+                ],
+                "label": "Buku",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "8",
+                "endIndex": "12"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/HillIsland",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "hill island",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://ontologydesignpatterns.org/ont/wikipedia/d0.owl#Location"
+                ],
+                "beginIndex": "18",
+                "endIndex": "29"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Island",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "island",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://ontologydesignpatterns.org/ont/wikipedia/d0.owl#Location"
+                ],
+                "beginIndex": "23",
+                "endIndex": "29"
+            },
+            {
+                "id": "http://dbpedia.org/resource/Bucu",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Island",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/HillIsland"
+                ],
+                "label": "Buku",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "4"
+            }
+        ]
+    },
+    {
+        "sentence": "Botell\u00f3n is a mass meeting of young people between 13 and 24 years, mainly in open areas of free access, to consume drinks previously purchased in shops, listen to music, and talk.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Meeting",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "meeting",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://ontologydesignpatterns.org/ont/wikipedia/d0.owl#Activity"
+                ],
+                "beginIndex": "19",
+                "endIndex": "26"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/MassMeeting",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "mass meeting",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://ontologydesignpatterns.org/ont/wikipedia/d0.owl#Activity"
+                ],
+                "beginIndex": "14",
+                "endIndex": "26"
+            },
+            {
+                "id": "http://dbpedia.org/resource/Botell\u00f3n",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Meeting",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/MassMeeting"
+                ],
+                "label": "Botell\u00f3n",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "8"
+            }
+        ]
+    },
+    {
+        "sentence": "The 1820s decade ran from January 1, 1820, to December 31, 1829.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Decade",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "decade",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#TimeInterval"
+                ],
+                "beginIndex": "10",
+                "endIndex": "16"
+            },
+            {
+                "id": "http://dbpedia.org/resource/1820s",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Decade"
+                ],
+                "label": "820s",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "5",
+                "endIndex": "9"
+            }
+        ]
+    },
+    {
+        "sentence": "The canton of Orange-Est is a French administrative division in the department of Vaucluse and region  Provence-Alpes-C\u00f4te d'Azur.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/FrenchAdministrativeDivision",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "French administrative division",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://ontologydesignpatterns.org/ont/wikipedia/d0.owl#Location"
+                ],
+                "beginIndex": "30",
+                "endIndex": "60"
+            },
+            {
+                "id": "http://dbpedia.org/resource/Canton_of_Orange-Est",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/AdministrativeDivision",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Division",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/FrenchAdministrativeDivision"
+                ],
+                "label": "canton of Orange-Est",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "4",
+                "endIndex": "24"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Division",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "division",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://ontologydesignpatterns.org/ont/wikipedia/d0.owl#Location"
+                ],
+                "beginIndex": "52",
+                "endIndex": "60"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/AdministrativeDivision",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "administrative division",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://ontologydesignpatterns.org/ont/wikipedia/d0.owl#Location"
+                ],
+                "beginIndex": "37",
+                "endIndex": "60"
+            }
+        ]
+    },
+    {
+        "sentence": "The Bahrain Grand Prix is a Formula One Championship race in Bahrain sponsored by Gulf Air.",
+        "entities": [
+            {
+                "id": "http://dbpedia.org/resource/Bahrain_Grand_Prix",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/ChampionshipRace",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Formula-oneChampionshipRace",
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Race"
+                ],
+                "label": "Bahrain Grand Prix",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "4",
+                "endIndex": "22"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/ChampionshipRace",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "Championship race",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://ontologydesignpatterns.org/ont/wikipedia/d0.owl#Activity"
+                ],
+                "beginIndex": "40",
+                "endIndex": "57"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Formula-oneChampionshipRace",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "Formula One Championship race",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://ontologydesignpatterns.org/ont/wikipedia/d0.owl#Activity"
+                ],
+                "beginIndex": "28",
+                "endIndex": "57"
+            },
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Race",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "race",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://ontologydesignpatterns.org/ont/wikipedia/d0.owl#Activity"
+                ],
+                "beginIndex": "53",
+                "endIndex": "57"
+            }
+        ]
+    },
+    {
+        "sentence": "Anita Auglend, is a Norwegian singer and is the lead vocalist of the gothic-doom metal band The Sins of Thy Beloved.",
+        "entities": [
+            {
+                "id": "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Singer",
+                "type": [
+                    "http://www.w3.org/2002/07/owl#Class"
+                ],
+                "label": "singer ",
+                "sameAs": null,
+                "subClassOf": [
+                    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person"
+                ],
+                "beginIndex": "31",
+                "endIndex": "37"
+            },
+            {
+                "id": "http://dbpedia.org/resource/Anita_Auglend",
+                "type": [
+                    "http://www.ontologydesignpatterns.org/data/oke-challenge/task-2/Singer"
+                ],
+                "label": "Anita Auglend",
+                "sameAs": null,
+                "subClassOf": [],
+                "beginIndex": "0",
+                "endIndex": "13"
+            }
+        ]
+    }
+]

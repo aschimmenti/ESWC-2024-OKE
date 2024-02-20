@@ -1,0 +1,285 @@
+{
+  "text": "The Bulls of Guisando are a set of celtiberian sculptures located on the hill of Guisando in the municipality of El Tiemblo, Ávila, Spain.",
+  "ents": [
+    {
+      "start": 4,
+      "end": 21,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 52,
+      "end": 74,
+      "label": "CLASS"
+    },
+    {
+      "start": 102,
+      "end": 106,
+      "label": "CLASS"
+    },
+    {
+      "start": 122,
+      "end": 130,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 171,
+      "end": 181,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 200,
+      "end": 205,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 224,
+      "end": 229,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start_char": 4,
+      "end_char": 21,
+      "label": "INDIVIDUAL",
+      "text": "Bulls of Guisando"
+    },
+    {
+      "start_char": 52,
+      "end_char": 74,
+      "label": "CLASS",
+      "text": "celtiberian sculptures",
+      "subClassOf": [
+        "INFORMATION_ENTITY",
+        "PHYSICAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 102,
+      "end_char": 106,
+      "label": "CLASS",
+      "text": "hill",
+      "subClassOf": [
+        "LOCATION"
+      ]
+    },
+    {
+      "start_char": 122,
+      "end_char": 130,
+      "label": "INDIVIDUAL",
+      "text": "Guisando"
+    },
+    {
+      "start_char": 171,
+      "end_char": 181,
+      "label": "INDIVIDUAL",
+      "text": "El Tiemblo"
+    },
+    {
+      "start_char": 200,
+      "end_char": 205,
+      "label": "INDIVIDUAL",
+      "text": "Ávila"
+    },
+    {
+      "start_char": 224,
+      "end_char": 229,
+      "label": "INDIVIDUAL",
+      "text": "Spain"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 3
+    },
+    {
+      "id": 1,
+      "start": 4,
+      "end": 9
+    },
+    {
+      "id": 2,
+      "start": 10,
+      "end": 12
+    },
+    {
+      "id": 3,
+      "start": 13,
+      "end": 21
+    },
+    {
+      "id": 4,
+      "start": 21,
+      "end": 38
+    },
+    {
+      "id": 5,
+      "start": 39,
+      "end": 42
+    },
+    {
+      "id": 6,
+      "start": 43,
+      "end": 44
+    },
+    {
+      "id": 7,
+      "start": 45,
+      "end": 48
+    },
+    {
+      "id": 8,
+      "start": 49,
+      "end": 51
+    },
+    {
+      "id": 9,
+      "start": 52,
+      "end": 63
+    },
+    {
+      "id": 10,
+      "start": 64,
+      "end": 74
+    },
+    {
+      "id": 11,
+      "start": 74,
+      "end": 86
+    },
+    {
+      "id": 12,
+      "start": 87,
+      "end": 94
+    },
+    {
+      "id": 13,
+      "start": 95,
+      "end": 97
+    },
+    {
+      "id": 14,
+      "start": 98,
+      "end": 101
+    },
+    {
+      "id": 15,
+      "start": 102,
+      "end": 106
+    },
+    {
+      "id": 16,
+      "start": 106,
+      "end": 118
+    },
+    {
+      "id": 17,
+      "start": 119,
+      "end": 121
+    },
+    {
+      "id": 18,
+      "start": 122,
+      "end": 130
+    },
+    {
+      "id": 19,
+      "start": 130,
+      "end": 147
+    },
+    {
+      "id": 20,
+      "start": 148,
+      "end": 150
+    },
+    {
+      "id": 21,
+      "start": 151,
+      "end": 154
+    },
+    {
+      "id": 22,
+      "start": 155,
+      "end": 167
+    },
+    {
+      "id": 23,
+      "start": 168,
+      "end": 170
+    },
+    {
+      "id": 24,
+      "start": 171,
+      "end": 173
+    },
+    {
+      "id": 25,
+      "start": 174,
+      "end": 181
+    },
+    {
+      "id": 26,
+      "start": 181,
+      "end": 198
+    },
+    {
+      "id": 27,
+      "start": 198,
+      "end": 199
+    },
+    {
+      "id": 28,
+      "start": 200,
+      "end": 205
+    },
+    {
+      "id": 29,
+      "start": 205,
+      "end": 222
+    },
+    {
+      "id": 30,
+      "start": 222,
+      "end": 223
+    },
+    {
+      "id": 31,
+      "start": 224,
+      "end": 229
+    },
+    {
+      "id": 32,
+      "start": 229,
+      "end": 246
+    },
+    {
+      "id": 33,
+      "start": 246,
+      "end": 247
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Bulls of Guisando",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "celtiberian sculptures",
+      "dest": 1
+    }
+  ],
+  "classes": {
+    "celtiberian_sculptures_1": {
+      "labels": [
+        "INFORMATION_ENTITY",
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "celtiberian sculptures"
+    },
+    "hill_2": {
+      "labels": [
+        "LOCATION"
+      ],
+      "class": "hill"
+    }
+  }
+}

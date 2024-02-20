@@ -1,0 +1,340 @@
+{
+  "text": "Munkebo is a town in central Denmark, located in Kerteminde municipality, Region of Southern Denmark on the island of Funen. It was also the site of the municipal council of the abolished Munkebo municipality.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 7,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 30,
+      "end": 34,
+      "label": "CLASS"
+    },
+    {
+      "start": 50,
+      "end": 65,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 95,
+      "end": 118,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 137,
+      "end": 163,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 188,
+      "end": 203,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 250,
+      "end": 267,
+      "label": "CLASS"
+    },
+    {
+      "start_char": 0,
+      "end_char": 7,
+      "label": "INDIVIDUAL",
+      "text": "Munkebo"
+    },
+    {
+      "start_char": 30,
+      "end_char": 34,
+      "label": "CLASS",
+      "text": "town",
+      "subClassOf": [
+        "LOCATION"
+      ]
+    },
+    {
+      "start_char": 50,
+      "end_char": 65,
+      "label": "INDIVIDUAL",
+      "text": "central Denmark"
+    },
+    {
+      "start_char": 95,
+      "end_char": 118,
+      "label": "INDIVIDUAL",
+      "text": "Kerteminde municipality"
+    },
+    {
+      "start_char": 137,
+      "end_char": 163,
+      "label": "INDIVIDUAL",
+      "text": "Region of Southern Denmark"
+    },
+    {
+      "start_char": 188,
+      "end_char": 203,
+      "label": "INDIVIDUAL",
+      "text": "island of Funen"
+    },
+    {
+      "start_char": 250,
+      "end_char": 267,
+      "label": "CLASS",
+      "text": "municipal council",
+      "subClassOf": [
+        "LOCATION",
+        "ORGANISATION"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 7
+    },
+    {
+      "id": 1,
+      "start": 7,
+      "end": 24
+    },
+    {
+      "id": 2,
+      "start": 25,
+      "end": 27
+    },
+    {
+      "id": 3,
+      "start": 28,
+      "end": 29
+    },
+    {
+      "id": 4,
+      "start": 30,
+      "end": 34
+    },
+    {
+      "id": 5,
+      "start": 34,
+      "end": 46
+    },
+    {
+      "id": 6,
+      "start": 47,
+      "end": 49
+    },
+    {
+      "id": 7,
+      "start": 50,
+      "end": 57
+    },
+    {
+      "id": 8,
+      "start": 58,
+      "end": 65
+    },
+    {
+      "id": 9,
+      "start": 65,
+      "end": 82
+    },
+    {
+      "id": 10,
+      "start": 82,
+      "end": 83
+    },
+    {
+      "id": 11,
+      "start": 84,
+      "end": 91
+    },
+    {
+      "id": 12,
+      "start": 92,
+      "end": 94
+    },
+    {
+      "id": 13,
+      "start": 95,
+      "end": 105
+    },
+    {
+      "id": 14,
+      "start": 106,
+      "end": 118
+    },
+    {
+      "id": 15,
+      "start": 118,
+      "end": 135
+    },
+    {
+      "id": 16,
+      "start": 135,
+      "end": 136
+    },
+    {
+      "id": 17,
+      "start": 137,
+      "end": 143
+    },
+    {
+      "id": 18,
+      "start": 144,
+      "end": 146
+    },
+    {
+      "id": 19,
+      "start": 147,
+      "end": 155
+    },
+    {
+      "id": 20,
+      "start": 156,
+      "end": 163
+    },
+    {
+      "id": 21,
+      "start": 163,
+      "end": 180
+    },
+    {
+      "id": 22,
+      "start": 181,
+      "end": 183
+    },
+    {
+      "id": 23,
+      "start": 184,
+      "end": 187
+    },
+    {
+      "id": 24,
+      "start": 188,
+      "end": 194
+    },
+    {
+      "id": 25,
+      "start": 195,
+      "end": 197
+    },
+    {
+      "id": 26,
+      "start": 198,
+      "end": 203
+    },
+    {
+      "id": 27,
+      "start": 203,
+      "end": 220
+    },
+    {
+      "id": 28,
+      "start": 220,
+      "end": 221
+    },
+    {
+      "id": 29,
+      "start": 222,
+      "end": 224
+    },
+    {
+      "id": 30,
+      "start": 225,
+      "end": 228
+    },
+    {
+      "id": 31,
+      "start": 229,
+      "end": 233
+    },
+    {
+      "id": 32,
+      "start": 234,
+      "end": 237
+    },
+    {
+      "id": 33,
+      "start": 238,
+      "end": 242
+    },
+    {
+      "id": 34,
+      "start": 243,
+      "end": 245
+    },
+    {
+      "id": 35,
+      "start": 246,
+      "end": 249
+    },
+    {
+      "id": 36,
+      "start": 250,
+      "end": 259
+    },
+    {
+      "id": 37,
+      "start": 260,
+      "end": 267
+    },
+    {
+      "id": 38,
+      "start": 267,
+      "end": 279
+    },
+    {
+      "id": 39,
+      "start": 280,
+      "end": 282
+    },
+    {
+      "id": 40,
+      "start": 283,
+      "end": 286
+    },
+    {
+      "id": 41,
+      "start": 287,
+      "end": 296
+    },
+    {
+      "id": 42,
+      "start": 297,
+      "end": 304
+    },
+    {
+      "id": 43,
+      "start": 305,
+      "end": 317
+    },
+    {
+      "id": 44,
+      "start": 317,
+      "end": 318
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Munkebo",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "town",
+      "dest": 1
+    }
+  ],
+  "classes": {
+    "town_1": {
+      "labels": [
+        "LOCATION"
+      ],
+      "class": "town"
+    },
+    "municipal_council_6": {
+      "labels": [
+        "LOCATION",
+        "ORGANISATION"
+      ],
+      "class": "municipal council"
+    }
+  }
+}

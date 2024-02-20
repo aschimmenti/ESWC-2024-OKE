@@ -1,0 +1,442 @@
+{
+  "text": "The Basilica of Santa Maria del Popolo is an Augustinian church in Rome, Italy. It stands on the north side of Piazza del Popolo, one of the most famous squares in the city. The church is hemmed in between Porta del Popolo (the ancient Porta Flaminia) and the Pincio hill.",
+  "ents": [
+    {
+      "start": 4,
+      "end": 38,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 62,
+      "end": 80,
+      "label": "CLASS"
+    },
+    {
+      "start": 96,
+      "end": 100,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 119,
+      "end": 124,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 174,
+      "end": 191,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 286,
+      "end": 302,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 333,
+      "end": 347,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 374,
+      "end": 385,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start_char": 4,
+      "end_char": 38,
+      "label": "INDIVIDUAL",
+      "text": "Basilica of Santa Maria del Popolo"
+    },
+    {
+      "start_char": 62,
+      "end_char": 80,
+      "label": "CLASS",
+      "text": "Augustinian church",
+      "subClassOf": [
+        "LOCATION",
+        "ORGANISATION"
+      ]
+    },
+    {
+      "start_char": 96,
+      "end_char": 100,
+      "label": "INDIVIDUAL",
+      "text": "Rome"
+    },
+    {
+      "start_char": 119,
+      "end_char": 124,
+      "label": "INDIVIDUAL",
+      "text": "Italy"
+    },
+    {
+      "start_char": 174,
+      "end_char": 191,
+      "label": "INDIVIDUAL",
+      "text": "Piazza del Popolo"
+    },
+    {
+      "start_char": 286,
+      "end_char": 302,
+      "label": "INDIVIDUAL",
+      "text": "Porta del Popolo"
+    },
+    {
+      "start_char": 333,
+      "end_char": 347,
+      "label": "INDIVIDUAL",
+      "text": "Porta Flaminia"
+    },
+    {
+      "start_char": 374,
+      "end_char": 385,
+      "label": "INDIVIDUAL",
+      "text": "Pincio hill"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 3
+    },
+    {
+      "id": 1,
+      "start": 4,
+      "end": 12
+    },
+    {
+      "id": 2,
+      "start": 13,
+      "end": 15
+    },
+    {
+      "id": 3,
+      "start": 16,
+      "end": 21
+    },
+    {
+      "id": 4,
+      "start": 22,
+      "end": 27
+    },
+    {
+      "id": 5,
+      "start": 28,
+      "end": 31
+    },
+    {
+      "id": 6,
+      "start": 32,
+      "end": 38
+    },
+    {
+      "id": 7,
+      "start": 38,
+      "end": 55
+    },
+    {
+      "id": 8,
+      "start": 56,
+      "end": 58
+    },
+    {
+      "id": 9,
+      "start": 59,
+      "end": 61
+    },
+    {
+      "id": 10,
+      "start": 62,
+      "end": 73
+    },
+    {
+      "id": 11,
+      "start": 74,
+      "end": 80
+    },
+    {
+      "id": 12,
+      "start": 80,
+      "end": 92
+    },
+    {
+      "id": 13,
+      "start": 93,
+      "end": 95
+    },
+    {
+      "id": 14,
+      "start": 96,
+      "end": 100
+    },
+    {
+      "id": 15,
+      "start": 100,
+      "end": 117
+    },
+    {
+      "id": 16,
+      "start": 117,
+      "end": 118
+    },
+    {
+      "id": 17,
+      "start": 119,
+      "end": 124
+    },
+    {
+      "id": 18,
+      "start": 124,
+      "end": 141
+    },
+    {
+      "id": 19,
+      "start": 141,
+      "end": 142
+    },
+    {
+      "id": 20,
+      "start": 143,
+      "end": 145
+    },
+    {
+      "id": 21,
+      "start": 146,
+      "end": 152
+    },
+    {
+      "id": 22,
+      "start": 153,
+      "end": 155
+    },
+    {
+      "id": 23,
+      "start": 156,
+      "end": 159
+    },
+    {
+      "id": 24,
+      "start": 160,
+      "end": 165
+    },
+    {
+      "id": 25,
+      "start": 166,
+      "end": 170
+    },
+    {
+      "id": 26,
+      "start": 171,
+      "end": 173
+    },
+    {
+      "id": 27,
+      "start": 174,
+      "end": 180
+    },
+    {
+      "id": 28,
+      "start": 181,
+      "end": 184
+    },
+    {
+      "id": 29,
+      "start": 185,
+      "end": 191
+    },
+    {
+      "id": 30,
+      "start": 191,
+      "end": 208
+    },
+    {
+      "id": 31,
+      "start": 208,
+      "end": 209
+    },
+    {
+      "id": 32,
+      "start": 210,
+      "end": 213
+    },
+    {
+      "id": 33,
+      "start": 214,
+      "end": 216
+    },
+    {
+      "id": 34,
+      "start": 217,
+      "end": 220
+    },
+    {
+      "id": 35,
+      "start": 221,
+      "end": 225
+    },
+    {
+      "id": 36,
+      "start": 226,
+      "end": 232
+    },
+    {
+      "id": 37,
+      "start": 233,
+      "end": 240
+    },
+    {
+      "id": 38,
+      "start": 241,
+      "end": 243
+    },
+    {
+      "id": 39,
+      "start": 244,
+      "end": 247
+    },
+    {
+      "id": 40,
+      "start": 248,
+      "end": 252
+    },
+    {
+      "id": 41,
+      "start": 252,
+      "end": 253
+    },
+    {
+      "id": 42,
+      "start": 254,
+      "end": 257
+    },
+    {
+      "id": 43,
+      "start": 258,
+      "end": 264
+    },
+    {
+      "id": 44,
+      "start": 265,
+      "end": 267
+    },
+    {
+      "id": 45,
+      "start": 268,
+      "end": 274
+    },
+    {
+      "id": 46,
+      "start": 275,
+      "end": 277
+    },
+    {
+      "id": 47,
+      "start": 278,
+      "end": 285
+    },
+    {
+      "id": 48,
+      "start": 286,
+      "end": 291
+    },
+    {
+      "id": 49,
+      "start": 292,
+      "end": 295
+    },
+    {
+      "id": 50,
+      "start": 296,
+      "end": 302
+    },
+    {
+      "id": 51,
+      "start": 302,
+      "end": 319
+    },
+    {
+      "id": 52,
+      "start": 320,
+      "end": 321
+    },
+    {
+      "id": 53,
+      "start": 321,
+      "end": 324
+    },
+    {
+      "id": 54,
+      "start": 325,
+      "end": 332
+    },
+    {
+      "id": 55,
+      "start": 333,
+      "end": 338
+    },
+    {
+      "id": 56,
+      "start": 339,
+      "end": 347
+    },
+    {
+      "id": 57,
+      "start": 347,
+      "end": 364
+    },
+    {
+      "id": 58,
+      "start": 364,
+      "end": 365
+    },
+    {
+      "id": 59,
+      "start": 366,
+      "end": 369
+    },
+    {
+      "id": 60,
+      "start": 370,
+      "end": 373
+    },
+    {
+      "id": 61,
+      "start": 374,
+      "end": 380
+    },
+    {
+      "id": 62,
+      "start": 381,
+      "end": 385
+    },
+    {
+      "id": 63,
+      "start": 385,
+      "end": 402
+    },
+    {
+      "id": 64,
+      "start": 402,
+      "end": 403
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Basilica of Santa Maria del Popolo",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "Augustinian church",
+      "dest": 1
+    }
+  ],
+  "classes": {
+    "Augustinian_church_1": {
+      "labels": [
+        "LOCATION",
+        "ORGANISATION"
+      ],
+      "class": "Augustinian church"
+    }
+  }
+}

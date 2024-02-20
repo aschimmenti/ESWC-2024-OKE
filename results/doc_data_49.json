@@ -1,0 +1,860 @@
+{
+  "text": "The Treaty of Lodi, also known as the Peace of Lodi was a peace agreement between Milan, Naples, and Florence signed on April 9, 1454 at Lodi in Lombardy, on the banks of the Adda. It put an end to the long struggles between expansive Milan, under Filippo Maria Visconti, and Venice in the terraferma, which had produced a single decisive Venetian victory, at the battle of Maclodio in 1427, in which the Venetian ally was Florence, but had resulted in no lasting peace: see Wars in Lombardy.",
+  "ents": [
+    {
+      "start": 4,
+      "end": 18,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 55,
+      "end": 68,
+      "label": "CLASS"
+    },
+    {
+      "start": 87,
+      "end": 102,
+      "label": "CLASS"
+    },
+    {
+      "start": 123,
+      "end": 128,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 147,
+      "end": 153,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 176,
+      "end": 184,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 212,
+      "end": 225,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 246,
+      "end": 250,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 271,
+      "end": 279,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 318,
+      "end": 322,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 395,
+      "end": 400,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 426,
+      "end": 448,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 472,
+      "end": 478,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 504,
+      "end": 514,
+      "label": "CLASS"
+    },
+    {
+      "start": 566,
+      "end": 574,
+      "label": "CLASS"
+    },
+    {
+      "start": 663,
+      "end": 671,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 733,
+      "end": 749,
+      "label": "CLASS"
+    },
+    {
+      "start_char": 4,
+      "end_char": 18,
+      "label": "INDIVIDUAL",
+      "text": "Treaty of Lodi"
+    },
+    {
+      "start_char": 55,
+      "end_char": 68,
+      "label": "CLASS",
+      "text": "Peace of Lodi",
+      "subClassOf": [
+        "EVENT",
+        "INFORMATION_ENTITY"
+      ]
+    },
+    {
+      "start_char": 87,
+      "end_char": 102,
+      "label": "CLASS",
+      "text": "peace agreement",
+      "subClassOf": [
+        "EVENT",
+        "SOCIAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 123,
+      "end_char": 128,
+      "label": "INDIVIDUAL",
+      "text": "Milan"
+    },
+    {
+      "start_char": 147,
+      "end_char": 153,
+      "label": "INDIVIDUAL",
+      "text": "Naples"
+    },
+    {
+      "start_char": 176,
+      "end_char": 184,
+      "label": "INDIVIDUAL",
+      "text": "Florence"
+    },
+    {
+      "start_char": 212,
+      "end_char": 225,
+      "label": "INDIVIDUAL",
+      "text": "April 9, 1454"
+    },
+    {
+      "start_char": 246,
+      "end_char": 250,
+      "label": "INDIVIDUAL",
+      "text": "Lodi"
+    },
+    {
+      "start_char": 271,
+      "end_char": 279,
+      "label": "INDIVIDUAL",
+      "text": "Lombardy"
+    },
+    {
+      "start_char": 318,
+      "end_char": 322,
+      "label": "INDIVIDUAL",
+      "text": "Adda"
+    },
+    {
+      "start_char": 395,
+      "end_char": 400,
+      "label": "INDIVIDUAL",
+      "text": "Milan"
+    },
+    {
+      "start_char": 426,
+      "end_char": 448,
+      "label": "INDIVIDUAL",
+      "text": "Filippo Maria Visconti"
+    },
+    {
+      "start_char": 472,
+      "end_char": 478,
+      "label": "INDIVIDUAL",
+      "text": "Venice"
+    },
+    {
+      "start_char": 504,
+      "end_char": 514,
+      "label": "CLASS",
+      "text": "terraferma",
+      "subClassOf": [
+        "LOCATION"
+      ]
+    },
+    {
+      "start_char": 566,
+      "end_char": 574,
+      "label": "CLASS",
+      "text": "Venetian",
+      "subClassOf": [
+        "PERSON",
+        "ROLE"
+      ]
+    },
+    {
+      "start_char": 663,
+      "end_char": 671,
+      "label": "INDIVIDUAL",
+      "text": "Florence"
+    },
+    {
+      "start_char": 733,
+      "end_char": 749,
+      "label": "CLASS",
+      "text": "Wars in Lombardy",
+      "subClassOf": [
+        "EVENT",
+        "TOPIC"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 3
+    },
+    {
+      "id": 1,
+      "start": 4,
+      "end": 10
+    },
+    {
+      "id": 2,
+      "start": 11,
+      "end": 13
+    },
+    {
+      "id": 3,
+      "start": 14,
+      "end": 18
+    },
+    {
+      "id": 4,
+      "start": 18,
+      "end": 35
+    },
+    {
+      "id": 5,
+      "start": 35,
+      "end": 36
+    },
+    {
+      "id": 6,
+      "start": 37,
+      "end": 41
+    },
+    {
+      "id": 7,
+      "start": 42,
+      "end": 47
+    },
+    {
+      "id": 8,
+      "start": 48,
+      "end": 50
+    },
+    {
+      "id": 9,
+      "start": 51,
+      "end": 54
+    },
+    {
+      "id": 10,
+      "start": 55,
+      "end": 60
+    },
+    {
+      "id": 11,
+      "start": 61,
+      "end": 63
+    },
+    {
+      "id": 12,
+      "start": 64,
+      "end": 68
+    },
+    {
+      "id": 13,
+      "start": 68,
+      "end": 80
+    },
+    {
+      "id": 14,
+      "start": 81,
+      "end": 84
+    },
+    {
+      "id": 15,
+      "start": 85,
+      "end": 86
+    },
+    {
+      "id": 16,
+      "start": 87,
+      "end": 92
+    },
+    {
+      "id": 17,
+      "start": 93,
+      "end": 102
+    },
+    {
+      "id": 18,
+      "start": 102,
+      "end": 114
+    },
+    {
+      "id": 19,
+      "start": 115,
+      "end": 122
+    },
+    {
+      "id": 20,
+      "start": 123,
+      "end": 128
+    },
+    {
+      "id": 21,
+      "start": 128,
+      "end": 145
+    },
+    {
+      "id": 22,
+      "start": 145,
+      "end": 146
+    },
+    {
+      "id": 23,
+      "start": 147,
+      "end": 153
+    },
+    {
+      "id": 24,
+      "start": 153,
+      "end": 170
+    },
+    {
+      "id": 25,
+      "start": 170,
+      "end": 171
+    },
+    {
+      "id": 26,
+      "start": 172,
+      "end": 175
+    },
+    {
+      "id": 27,
+      "start": 176,
+      "end": 184
+    },
+    {
+      "id": 28,
+      "start": 184,
+      "end": 201
+    },
+    {
+      "id": 29,
+      "start": 202,
+      "end": 208
+    },
+    {
+      "id": 30,
+      "start": 209,
+      "end": 211
+    },
+    {
+      "id": 31,
+      "start": 212,
+      "end": 217
+    },
+    {
+      "id": 32,
+      "start": 218,
+      "end": 219
+    },
+    {
+      "id": 33,
+      "start": 219,
+      "end": 220
+    },
+    {
+      "id": 34,
+      "start": 221,
+      "end": 225
+    },
+    {
+      "id": 35,
+      "start": 225,
+      "end": 242
+    },
+    {
+      "id": 36,
+      "start": 243,
+      "end": 245
+    },
+    {
+      "id": 37,
+      "start": 246,
+      "end": 250
+    },
+    {
+      "id": 38,
+      "start": 250,
+      "end": 267
+    },
+    {
+      "id": 39,
+      "start": 268,
+      "end": 270
+    },
+    {
+      "id": 40,
+      "start": 271,
+      "end": 279
+    },
+    {
+      "id": 41,
+      "start": 279,
+      "end": 296
+    },
+    {
+      "id": 42,
+      "start": 296,
+      "end": 297
+    },
+    {
+      "id": 43,
+      "start": 298,
+      "end": 300
+    },
+    {
+      "id": 44,
+      "start": 301,
+      "end": 304
+    },
+    {
+      "id": 45,
+      "start": 305,
+      "end": 310
+    },
+    {
+      "id": 46,
+      "start": 311,
+      "end": 313
+    },
+    {
+      "id": 47,
+      "start": 314,
+      "end": 317
+    },
+    {
+      "id": 48,
+      "start": 318,
+      "end": 322
+    },
+    {
+      "id": 49,
+      "start": 322,
+      "end": 339
+    },
+    {
+      "id": 50,
+      "start": 339,
+      "end": 340
+    },
+    {
+      "id": 51,
+      "start": 341,
+      "end": 343
+    },
+    {
+      "id": 52,
+      "start": 344,
+      "end": 347
+    },
+    {
+      "id": 53,
+      "start": 348,
+      "end": 350
+    },
+    {
+      "id": 54,
+      "start": 351,
+      "end": 354
+    },
+    {
+      "id": 55,
+      "start": 355,
+      "end": 357
+    },
+    {
+      "id": 56,
+      "start": 358,
+      "end": 361
+    },
+    {
+      "id": 57,
+      "start": 362,
+      "end": 366
+    },
+    {
+      "id": 58,
+      "start": 367,
+      "end": 376
+    },
+    {
+      "id": 59,
+      "start": 377,
+      "end": 384
+    },
+    {
+      "id": 60,
+      "start": 385,
+      "end": 394
+    },
+    {
+      "id": 61,
+      "start": 395,
+      "end": 400
+    },
+    {
+      "id": 62,
+      "start": 400,
+      "end": 418
+    },
+    {
+      "id": 63,
+      "start": 418,
+      "end": 419
+    },
+    {
+      "id": 64,
+      "start": 420,
+      "end": 425
+    },
+    {
+      "id": 65,
+      "start": 426,
+      "end": 433
+    },
+    {
+      "id": 66,
+      "start": 434,
+      "end": 439
+    },
+    {
+      "id": 67,
+      "start": 440,
+      "end": 448
+    },
+    {
+      "id": 68,
+      "start": 448,
+      "end": 466
+    },
+    {
+      "id": 69,
+      "start": 466,
+      "end": 467
+    },
+    {
+      "id": 70,
+      "start": 468,
+      "end": 471
+    },
+    {
+      "id": 71,
+      "start": 472,
+      "end": 478
+    },
+    {
+      "id": 72,
+      "start": 478,
+      "end": 496
+    },
+    {
+      "id": 73,
+      "start": 497,
+      "end": 499
+    },
+    {
+      "id": 74,
+      "start": 500,
+      "end": 503
+    },
+    {
+      "id": 75,
+      "start": 504,
+      "end": 514
+    },
+    {
+      "id": 76,
+      "start": 514,
+      "end": 527
+    },
+    {
+      "id": 77,
+      "start": 527,
+      "end": 528
+    },
+    {
+      "id": 78,
+      "start": 529,
+      "end": 534
+    },
+    {
+      "id": 79,
+      "start": 535,
+      "end": 538
+    },
+    {
+      "id": 80,
+      "start": 539,
+      "end": 547
+    },
+    {
+      "id": 81,
+      "start": 548,
+      "end": 549
+    },
+    {
+      "id": 82,
+      "start": 550,
+      "end": 556
+    },
+    {
+      "id": 83,
+      "start": 557,
+      "end": 565
+    },
+    {
+      "id": 84,
+      "start": 566,
+      "end": 574
+    },
+    {
+      "id": 85,
+      "start": 574,
+      "end": 587
+    },
+    {
+      "id": 86,
+      "start": 588,
+      "end": 595
+    },
+    {
+      "id": 87,
+      "start": 595,
+      "end": 596
+    },
+    {
+      "id": 88,
+      "start": 597,
+      "end": 599
+    },
+    {
+      "id": 89,
+      "start": 600,
+      "end": 603
+    },
+    {
+      "id": 90,
+      "start": 604,
+      "end": 610
+    },
+    {
+      "id": 91,
+      "start": 611,
+      "end": 613
+    },
+    {
+      "id": 92,
+      "start": 614,
+      "end": 622
+    },
+    {
+      "id": 93,
+      "start": 623,
+      "end": 625
+    },
+    {
+      "id": 94,
+      "start": 626,
+      "end": 630
+    },
+    {
+      "id": 95,
+      "start": 630,
+      "end": 631
+    },
+    {
+      "id": 96,
+      "start": 632,
+      "end": 634
+    },
+    {
+      "id": 97,
+      "start": 635,
+      "end": 640
+    },
+    {
+      "id": 98,
+      "start": 641,
+      "end": 644
+    },
+    {
+      "id": 99,
+      "start": 645,
+      "end": 653
+    },
+    {
+      "id": 100,
+      "start": 654,
+      "end": 658
+    },
+    {
+      "id": 101,
+      "start": 659,
+      "end": 662
+    },
+    {
+      "id": 102,
+      "start": 663,
+      "end": 671
+    },
+    {
+      "id": 103,
+      "start": 671,
+      "end": 689
+    },
+    {
+      "id": 104,
+      "start": 689,
+      "end": 690
+    },
+    {
+      "id": 105,
+      "start": 691,
+      "end": 694
+    },
+    {
+      "id": 106,
+      "start": 695,
+      "end": 698
+    },
+    {
+      "id": 107,
+      "start": 699,
+      "end": 707
+    },
+    {
+      "id": 108,
+      "start": 708,
+      "end": 710
+    },
+    {
+      "id": 109,
+      "start": 711,
+      "end": 713
+    },
+    {
+      "id": 110,
+      "start": 714,
+      "end": 721
+    },
+    {
+      "id": 111,
+      "start": 722,
+      "end": 727
+    },
+    {
+      "id": 112,
+      "start": 727,
+      "end": 728
+    },
+    {
+      "id": 113,
+      "start": 729,
+      "end": 732
+    },
+    {
+      "id": 114,
+      "start": 733,
+      "end": 737
+    },
+    {
+      "id": 115,
+      "start": 738,
+      "end": 740
+    },
+    {
+      "id": 116,
+      "start": 741,
+      "end": 749
+    },
+    {
+      "id": 117,
+      "start": 749,
+      "end": 762
+    },
+    {
+      "id": 118,
+      "start": 762,
+      "end": 763
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Treaty of Lodi",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "Peace of Lodi",
+      "dest": 1
+    },
+    {
+      "dep_text": "Treaty of Lodi",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "peace agreement",
+      "dest": 2
+    }
+  ],
+  "classes": {
+    "Peace_of_Lodi_1": {
+      "labels": [
+        "EVENT",
+        "INFORMATION_ENTITY"
+      ],
+      "class": "Peace of Lodi"
+    },
+    "peace_agreement_2": {
+      "labels": [
+        "EVENT",
+        "SOCIAL_OBJECT"
+      ],
+      "class": "peace agreement"
+    },
+    "terraferma_13": {
+      "labels": [
+        "LOCATION"
+      ],
+      "class": "terraferma"
+    },
+    "Venetian_14": {
+      "labels": [
+        "PERSON",
+        "ROLE"
+      ],
+      "class": "Venetian"
+    },
+    "Wars_in_Lombardy_16": {
+      "labels": [
+        "EVENT",
+        "TOPIC"
+      ],
+      "class": "Wars in Lombardy"
+    }
+  }
+}

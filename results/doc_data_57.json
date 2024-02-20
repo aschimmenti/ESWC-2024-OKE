@@ -1,0 +1,493 @@
+{
+  "text": "Laika was a Soviet space dog who became one of the first animals in space, and the first animal to orbit the Earth. Laika, a stray dog from the streets of Moscow, was selected to be the occupant of the Soviet spacecraft Sputnik 2 that was launched into outer space on November 3, 1957.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 5,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 29,
+      "end": 45,
+      "label": "CLASS"
+    },
+    {
+      "start": 97,
+      "end": 102,
+      "label": "CLASS"
+    },
+    {
+      "start": 150,
+      "end": 155,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 183,
+      "end": 192,
+      "label": "CLASS"
+    },
+    {
+      "start": 225,
+      "end": 231,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 289,
+      "end": 316,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 372,
+      "end": 388,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start_char": 0,
+      "end_char": 5,
+      "label": "INDIVIDUAL",
+      "text": "Laika"
+    },
+    {
+      "start_char": 29,
+      "end_char": 45,
+      "label": "CLASS",
+      "text": "Soviet space dog",
+      "subClassOf": [
+        "ORGANISM",
+        "ROLE"
+      ]
+    },
+    {
+      "start_char": 97,
+      "end_char": 102,
+      "label": "CLASS",
+      "text": "space",
+      "subClassOf": [
+        "ABSTRACT",
+        "LOCATION"
+      ]
+    },
+    {
+      "start_char": 150,
+      "end_char": 155,
+      "label": "INDIVIDUAL",
+      "text": "Earth"
+    },
+    {
+      "start_char": 183,
+      "end_char": 192,
+      "label": "CLASS",
+      "text": "stray dog",
+      "subClassOf": [
+        "ORGANISM",
+        "ROLE"
+      ]
+    },
+    {
+      "start_char": 225,
+      "end_char": 231,
+      "label": "INDIVIDUAL",
+      "text": "Moscow"
+    },
+    {
+      "start_char": 289,
+      "end_char": 316,
+      "label": "INDIVIDUAL",
+      "text": "Soviet spacecraft Sputnik 2"
+    },
+    {
+      "start_char": 372,
+      "end_char": 388,
+      "label": "INDIVIDUAL",
+      "text": "November 3, 1957"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 5
+    },
+    {
+      "id": 1,
+      "start": 5,
+      "end": 22
+    },
+    {
+      "id": 2,
+      "start": 23,
+      "end": 26
+    },
+    {
+      "id": 3,
+      "start": 27,
+      "end": 28
+    },
+    {
+      "id": 4,
+      "start": 29,
+      "end": 35
+    },
+    {
+      "id": 5,
+      "start": 36,
+      "end": 41
+    },
+    {
+      "id": 6,
+      "start": 42,
+      "end": 45
+    },
+    {
+      "id": 7,
+      "start": 45,
+      "end": 57
+    },
+    {
+      "id": 8,
+      "start": 58,
+      "end": 61
+    },
+    {
+      "id": 9,
+      "start": 62,
+      "end": 68
+    },
+    {
+      "id": 10,
+      "start": 69,
+      "end": 72
+    },
+    {
+      "id": 11,
+      "start": 73,
+      "end": 75
+    },
+    {
+      "id": 12,
+      "start": 76,
+      "end": 79
+    },
+    {
+      "id": 13,
+      "start": 80,
+      "end": 85
+    },
+    {
+      "id": 14,
+      "start": 86,
+      "end": 93
+    },
+    {
+      "id": 15,
+      "start": 94,
+      "end": 96
+    },
+    {
+      "id": 16,
+      "start": 97,
+      "end": 102
+    },
+    {
+      "id": 17,
+      "start": 102,
+      "end": 114
+    },
+    {
+      "id": 18,
+      "start": 114,
+      "end": 115
+    },
+    {
+      "id": 19,
+      "start": 116,
+      "end": 119
+    },
+    {
+      "id": 20,
+      "start": 120,
+      "end": 123
+    },
+    {
+      "id": 21,
+      "start": 124,
+      "end": 129
+    },
+    {
+      "id": 22,
+      "start": 130,
+      "end": 136
+    },
+    {
+      "id": 23,
+      "start": 137,
+      "end": 139
+    },
+    {
+      "id": 24,
+      "start": 140,
+      "end": 145
+    },
+    {
+      "id": 25,
+      "start": 146,
+      "end": 149
+    },
+    {
+      "id": 26,
+      "start": 150,
+      "end": 155
+    },
+    {
+      "id": 27,
+      "start": 155,
+      "end": 172
+    },
+    {
+      "id": 28,
+      "start": 172,
+      "end": 173
+    },
+    {
+      "id": 29,
+      "start": 174,
+      "end": 179
+    },
+    {
+      "id": 30,
+      "start": 179,
+      "end": 180
+    },
+    {
+      "id": 31,
+      "start": 181,
+      "end": 182
+    },
+    {
+      "id": 32,
+      "start": 183,
+      "end": 188
+    },
+    {
+      "id": 33,
+      "start": 189,
+      "end": 192
+    },
+    {
+      "id": 34,
+      "start": 192,
+      "end": 204
+    },
+    {
+      "id": 35,
+      "start": 205,
+      "end": 209
+    },
+    {
+      "id": 36,
+      "start": 210,
+      "end": 213
+    },
+    {
+      "id": 37,
+      "start": 214,
+      "end": 221
+    },
+    {
+      "id": 38,
+      "start": 222,
+      "end": 224
+    },
+    {
+      "id": 39,
+      "start": 225,
+      "end": 231
+    },
+    {
+      "id": 40,
+      "start": 231,
+      "end": 248
+    },
+    {
+      "id": 41,
+      "start": 248,
+      "end": 249
+    },
+    {
+      "id": 42,
+      "start": 250,
+      "end": 253
+    },
+    {
+      "id": 43,
+      "start": 254,
+      "end": 262
+    },
+    {
+      "id": 44,
+      "start": 263,
+      "end": 265
+    },
+    {
+      "id": 45,
+      "start": 266,
+      "end": 268
+    },
+    {
+      "id": 46,
+      "start": 269,
+      "end": 272
+    },
+    {
+      "id": 47,
+      "start": 273,
+      "end": 281
+    },
+    {
+      "id": 48,
+      "start": 282,
+      "end": 284
+    },
+    {
+      "id": 49,
+      "start": 285,
+      "end": 288
+    },
+    {
+      "id": 50,
+      "start": 289,
+      "end": 295
+    },
+    {
+      "id": 51,
+      "start": 296,
+      "end": 306
+    },
+    {
+      "id": 52,
+      "start": 307,
+      "end": 314
+    },
+    {
+      "id": 53,
+      "start": 315,
+      "end": 316
+    },
+    {
+      "id": 54,
+      "start": 316,
+      "end": 333
+    },
+    {
+      "id": 55,
+      "start": 334,
+      "end": 338
+    },
+    {
+      "id": 56,
+      "start": 339,
+      "end": 342
+    },
+    {
+      "id": 57,
+      "start": 343,
+      "end": 351
+    },
+    {
+      "id": 58,
+      "start": 352,
+      "end": 356
+    },
+    {
+      "id": 59,
+      "start": 357,
+      "end": 362
+    },
+    {
+      "id": 60,
+      "start": 363,
+      "end": 368
+    },
+    {
+      "id": 61,
+      "start": 369,
+      "end": 371
+    },
+    {
+      "id": 62,
+      "start": 372,
+      "end": 380
+    },
+    {
+      "id": 63,
+      "start": 381,
+      "end": 382
+    },
+    {
+      "id": 64,
+      "start": 382,
+      "end": 383
+    },
+    {
+      "id": 65,
+      "start": 384,
+      "end": 388
+    },
+    {
+      "id": 66,
+      "start": 388,
+      "end": 405
+    },
+    {
+      "id": 67,
+      "start": 405,
+      "end": 406
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Laika",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "Soviet space dog",
+      "dest": 1
+    },
+    {
+      "dep_text": "Laika",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "space",
+      "dest": 2
+    },
+    {
+      "dep_text": "Laika",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "stray dog",
+      "dest": 4
+    }
+  ],
+  "classes": {
+    "Soviet_space_dog_1": {
+      "labels": [
+        "ORGANISM",
+        "ROLE"
+      ],
+      "class": "Soviet space dog"
+    },
+    "space_2": {
+      "labels": [
+        "ABSTRACT",
+        "LOCATION"
+      ],
+      "class": "space"
+    },
+    "stray_dog_4": {
+      "labels": [
+        "ORGANISM",
+        "ROLE"
+      ],
+      "class": "stray dog"
+    }
+  }
+}

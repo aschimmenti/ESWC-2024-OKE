@@ -1,0 +1,683 @@
+{
+  "text": "Bradycardia, also known as bradyarrhythmia, is a slow heart rate, namely, a resting heart rate of under 60 beats per minute (BPM) in adults. It is a type of cardiac arrhythmia. It seldom results in symptoms until the rate drops below 50 BPM. It sometimes results in fatigue, weakness, dizziness, and at very low rates fainting.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 11,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 44,
+      "end": 59,
+      "label": "CLASS"
+    },
+    {
+      "start": 83,
+      "end": 93,
+      "label": "CLASS"
+    },
+    {
+      "start": 117,
+      "end": 135,
+      "label": "CLASS"
+    },
+    {
+      "start": 160,
+      "end": 182,
+      "label": "CLASS"
+    },
+    {
+      "start": 198,
+      "end": 204,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 239,
+      "end": 257,
+      "label": "CLASS"
+    },
+    {
+      "start": 292,
+      "end": 300,
+      "label": "CLASS"
+    },
+    {
+      "start": 372,
+      "end": 379,
+      "label": "CLASS"
+    },
+    {
+      "start": 393,
+      "end": 401,
+      "label": "CLASS"
+    },
+    {
+      "start": 415,
+      "end": 424,
+      "label": "CLASS"
+    },
+    {
+      "start": 461,
+      "end": 469,
+      "label": "CLASS"
+    },
+    {
+      "start_char": 0,
+      "end_char": 11,
+      "label": "INDIVIDUAL",
+      "text": "Bradycardia"
+    },
+    {
+      "start_char": 44,
+      "end_char": 59,
+      "label": "CLASS",
+      "text": "bradyarrhythmia",
+      "subClassOf": [
+        "SITUATION"
+      ]
+    },
+    {
+      "start_char": 83,
+      "end_char": 93,
+      "label": "CLASS",
+      "text": "heart rate",
+      "subClassOf": [
+        "INFORMATION_ENTITY",
+        "SITUATION"
+      ]
+    },
+    {
+      "start_char": 117,
+      "end_char": 135,
+      "label": "CLASS",
+      "text": "resting heart rate",
+      "subClassOf": [
+        "INFORMATION_ENTITY",
+        "SITUATION"
+      ]
+    },
+    {
+      "start_char": 160,
+      "end_char": 182,
+      "label": "CLASS",
+      "text": "beats per minute (BPM)",
+      "subClassOf": [
+        "ABSTRACT",
+        "INFORMATION_ENTITY"
+      ]
+    },
+    {
+      "start_char": 198,
+      "end_char": 204,
+      "label": "INDIVIDUAL",
+      "text": "adults"
+    },
+    {
+      "start_char": 239,
+      "end_char": 257,
+      "label": "CLASS",
+      "text": "cardiac arrhythmia",
+      "subClassOf": [
+        "INFORMATION_ENTITY",
+        "SITUATION"
+      ]
+    },
+    {
+      "start_char": 292,
+      "end_char": 300,
+      "label": "CLASS",
+      "text": "symptoms",
+      "subClassOf": [
+        "INFORMATION_ENTITY",
+        "SITUATION"
+      ]
+    },
+    {
+      "start_char": 372,
+      "end_char": 379,
+      "label": "CLASS",
+      "text": "fatigue",
+      "subClassOf": [
+        "SITUATION"
+      ]
+    },
+    {
+      "start_char": 393,
+      "end_char": 401,
+      "label": "CLASS",
+      "text": "weakness",
+      "subClassOf": [
+        "SITUATION"
+      ]
+    },
+    {
+      "start_char": 415,
+      "end_char": 424,
+      "label": "CLASS",
+      "text": "dizziness",
+      "subClassOf": [
+        "SITUATION"
+      ]
+    },
+    {
+      "start_char": 461,
+      "end_char": 469,
+      "label": "CLASS",
+      "text": "fainting",
+      "subClassOf": [
+        "SITUATION"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 11
+    },
+    {
+      "id": 1,
+      "start": 11,
+      "end": 28
+    },
+    {
+      "id": 2,
+      "start": 28,
+      "end": 29
+    },
+    {
+      "id": 3,
+      "start": 30,
+      "end": 34
+    },
+    {
+      "id": 4,
+      "start": 35,
+      "end": 40
+    },
+    {
+      "id": 5,
+      "start": 41,
+      "end": 43
+    },
+    {
+      "id": 6,
+      "start": 44,
+      "end": 59
+    },
+    {
+      "id": 7,
+      "start": 59,
+      "end": 71
+    },
+    {
+      "id": 8,
+      "start": 71,
+      "end": 72
+    },
+    {
+      "id": 9,
+      "start": 73,
+      "end": 75
+    },
+    {
+      "id": 10,
+      "start": 76,
+      "end": 77
+    },
+    {
+      "id": 11,
+      "start": 78,
+      "end": 82
+    },
+    {
+      "id": 12,
+      "start": 83,
+      "end": 88
+    },
+    {
+      "id": 13,
+      "start": 89,
+      "end": 93
+    },
+    {
+      "id": 14,
+      "start": 93,
+      "end": 105
+    },
+    {
+      "id": 15,
+      "start": 105,
+      "end": 106
+    },
+    {
+      "id": 16,
+      "start": 107,
+      "end": 113
+    },
+    {
+      "id": 17,
+      "start": 113,
+      "end": 114
+    },
+    {
+      "id": 18,
+      "start": 115,
+      "end": 116
+    },
+    {
+      "id": 19,
+      "start": 117,
+      "end": 124
+    },
+    {
+      "id": 20,
+      "start": 125,
+      "end": 130
+    },
+    {
+      "id": 21,
+      "start": 131,
+      "end": 135
+    },
+    {
+      "id": 22,
+      "start": 135,
+      "end": 147
+    },
+    {
+      "id": 23,
+      "start": 148,
+      "end": 150
+    },
+    {
+      "id": 24,
+      "start": 151,
+      "end": 156
+    },
+    {
+      "id": 25,
+      "start": 157,
+      "end": 159
+    },
+    {
+      "id": 26,
+      "start": 160,
+      "end": 165
+    },
+    {
+      "id": 27,
+      "start": 166,
+      "end": 169
+    },
+    {
+      "id": 28,
+      "start": 170,
+      "end": 176
+    },
+    {
+      "id": 29,
+      "start": 177,
+      "end": 178
+    },
+    {
+      "id": 30,
+      "start": 178,
+      "end": 181
+    },
+    {
+      "id": 31,
+      "start": 181,
+      "end": 182
+    },
+    {
+      "id": 32,
+      "start": 182,
+      "end": 194
+    },
+    {
+      "id": 33,
+      "start": 195,
+      "end": 197
+    },
+    {
+      "id": 34,
+      "start": 198,
+      "end": 204
+    },
+    {
+      "id": 35,
+      "start": 204,
+      "end": 221
+    },
+    {
+      "id": 36,
+      "start": 221,
+      "end": 222
+    },
+    {
+      "id": 37,
+      "start": 223,
+      "end": 225
+    },
+    {
+      "id": 38,
+      "start": 226,
+      "end": 228
+    },
+    {
+      "id": 39,
+      "start": 229,
+      "end": 230
+    },
+    {
+      "id": 40,
+      "start": 231,
+      "end": 235
+    },
+    {
+      "id": 41,
+      "start": 236,
+      "end": 238
+    },
+    {
+      "id": 42,
+      "start": 239,
+      "end": 246
+    },
+    {
+      "id": 43,
+      "start": 247,
+      "end": 257
+    },
+    {
+      "id": 44,
+      "start": 257,
+      "end": 269
+    },
+    {
+      "id": 45,
+      "start": 269,
+      "end": 270
+    },
+    {
+      "id": 46,
+      "start": 271,
+      "end": 273
+    },
+    {
+      "id": 47,
+      "start": 274,
+      "end": 280
+    },
+    {
+      "id": 48,
+      "start": 281,
+      "end": 288
+    },
+    {
+      "id": 49,
+      "start": 289,
+      "end": 291
+    },
+    {
+      "id": 50,
+      "start": 292,
+      "end": 300
+    },
+    {
+      "id": 51,
+      "start": 300,
+      "end": 312
+    },
+    {
+      "id": 52,
+      "start": 313,
+      "end": 318
+    },
+    {
+      "id": 53,
+      "start": 319,
+      "end": 322
+    },
+    {
+      "id": 54,
+      "start": 323,
+      "end": 327
+    },
+    {
+      "id": 55,
+      "start": 328,
+      "end": 333
+    },
+    {
+      "id": 56,
+      "start": 334,
+      "end": 339
+    },
+    {
+      "id": 57,
+      "start": 340,
+      "end": 342
+    },
+    {
+      "id": 58,
+      "start": 343,
+      "end": 346
+    },
+    {
+      "id": 59,
+      "start": 346,
+      "end": 347
+    },
+    {
+      "id": 60,
+      "start": 348,
+      "end": 350
+    },
+    {
+      "id": 61,
+      "start": 351,
+      "end": 360
+    },
+    {
+      "id": 62,
+      "start": 361,
+      "end": 368
+    },
+    {
+      "id": 63,
+      "start": 369,
+      "end": 371
+    },
+    {
+      "id": 64,
+      "start": 372,
+      "end": 379
+    },
+    {
+      "id": 65,
+      "start": 379,
+      "end": 391
+    },
+    {
+      "id": 66,
+      "start": 391,
+      "end": 392
+    },
+    {
+      "id": 67,
+      "start": 393,
+      "end": 401
+    },
+    {
+      "id": 68,
+      "start": 401,
+      "end": 413
+    },
+    {
+      "id": 69,
+      "start": 413,
+      "end": 414
+    },
+    {
+      "id": 70,
+      "start": 415,
+      "end": 424
+    },
+    {
+      "id": 71,
+      "start": 424,
+      "end": 437
+    },
+    {
+      "id": 72,
+      "start": 437,
+      "end": 438
+    },
+    {
+      "id": 73,
+      "start": 439,
+      "end": 442
+    },
+    {
+      "id": 74,
+      "start": 443,
+      "end": 445
+    },
+    {
+      "id": 75,
+      "start": 446,
+      "end": 450
+    },
+    {
+      "id": 76,
+      "start": 451,
+      "end": 454
+    },
+    {
+      "id": 77,
+      "start": 455,
+      "end": 460
+    },
+    {
+      "id": 78,
+      "start": 461,
+      "end": 469
+    },
+    {
+      "id": 79,
+      "start": 469,
+      "end": 482
+    },
+    {
+      "id": 80,
+      "start": 482,
+      "end": 483
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Bradycardia",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "bradyarrhythmia",
+      "dest": 1
+    },
+    {
+      "dep_text": "Bradycardia",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "heart rate",
+      "dest": 2
+    },
+    {
+      "dep_text": "Bradycardia",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "resting heart rate",
+      "dest": 3
+    },
+    {
+      "dep_text": "Bradycardia",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "beats per minute (BPM)",
+      "dest": 4
+    },
+    {
+      "dep_text": "Bradycardia",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "cardiac arrhythmia",
+      "dest": 6
+    }
+  ],
+  "classes": {
+    "bradyarrhythmia_1": {
+      "labels": [
+        "SITUATION"
+      ],
+      "class": "bradyarrhythmia"
+    },
+    "heart_rate_2": {
+      "labels": [
+        "INFORMATION_ENTITY",
+        "SITUATION"
+      ],
+      "class": "heart rate"
+    },
+    "resting_heart_rate_3": {
+      "labels": [
+        "INFORMATION_ENTITY",
+        "SITUATION"
+      ],
+      "class": "resting heart rate"
+    },
+    "beats_per_minute_(BPM)_4": {
+      "labels": [
+        "ABSTRACT",
+        "INFORMATION_ENTITY"
+      ],
+      "class": "beats per minute (BPM)"
+    },
+    "cardiac_arrhythmia_6": {
+      "labels": [
+        "INFORMATION_ENTITY",
+        "SITUATION"
+      ],
+      "class": "cardiac arrhythmia"
+    },
+    "symptoms_7": {
+      "labels": [
+        "INFORMATION_ENTITY",
+        "SITUATION"
+      ],
+      "class": "symptoms"
+    },
+    "fatigue_8": {
+      "labels": [
+        "SITUATION"
+      ],
+      "class": "fatigue"
+    },
+    "weakness_9": {
+      "labels": [
+        "SITUATION"
+      ],
+      "class": "weakness"
+    },
+    "dizziness_10": {
+      "labels": [
+        "SITUATION"
+      ],
+      "class": "dizziness"
+    },
+    "fainting_11": {
+      "labels": [
+        "SITUATION"
+      ],
+      "class": "fainting"
+    }
+  }
+}
