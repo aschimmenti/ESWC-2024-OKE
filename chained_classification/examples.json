@@ -1,0 +1,530 @@
+[
+  {
+    "text": "The British Museum is a public museum dedicated to human history, art and culture located in the Bloomsbury area of London.",
+    "spans": [
+      {
+        "text": "British Museum",
+        "is_entity": true,
+        "label": "INDIVIDUAL",
+        "reason": "A location, being a museum"
+      },
+      {
+        "text": "public museum",
+        "is_entity": true,
+        "label": "CLASS",
+        "reason": "the class of the named museum"
+      },
+      {
+        "text": "Bloomsbury",
+        "is_entity": true,
+        "label": "INDIVIDUAL",
+        "reason": "in this context, a location in which the museum is"
+      },
+      {
+        "text": "London",
+        "is_entity": true,
+        "label": "INDIVIDUAL",
+        "reason": "in this context, a location in which the other mentioned location exists"
+      }
+    ]
+  },
+  {
+    "text": "The Dialogue Concerning the Two Chief World Systems is a 1632 famous Italian-language book by Galileo Galilei comparing the Copernican system with the traditional Ptolemaic system.",
+    "spans": [
+      {
+        "text": "Dialogue Concerning the Two Chief World Systems",
+        "is_entity": true,
+        "label": "INDIVIDUAL",
+        "reason": "title of an information entity (as a book)"
+      },{
+        "text": "1632 famous Italian-language book",
+        "is_entity": false,
+        "label": "==NONE==",
+        "reason": "only the class itself is to be considered, not the adjectives reffering to it"
+      },
+      {
+        "text": "book",
+        "is_entity": true,
+        "label": "CLASS",
+        "reason": "the class that the Dialogue is given"
+      },
+      {
+        "text": "1632",
+        "is_entity": true,
+        "label": "INDIVIDUAL",
+        "reason": "the date mentioned in the text"
+      },
+      {
+        "text": "Galileo Galilei",
+        "is_entity": true,
+        "label": "INDIVIDUAL",
+        "reason": "A person mentioned"
+      }
+    ]
+  },
+  {
+    "text": "The 2006 FIFA Club World Cup was a football tournament held in Japan between 10 December and 17 December 2006.",
+    "spans": [
+      {
+        "text": "2006 FIFA Club World Cup",
+        "is_entity": true,
+        "label": "INDIVIDUAL",
+        "reason": "The entity name"
+      },
+      {
+        "text": "football tournament",
+        "is_entity": true,
+        "label": "CLASS",
+        "reason": "the class of the entity FIFA Club World Cup"
+      },{
+        "text": "Japan",
+        "is_entity": true,
+        "label": "INDIVIDUAL",
+        "reason": "The nation name"
+      },
+      {
+        "text": "10 December 2006",
+        "is_entity": true,
+        "label": "INDIVIDUAL",
+        "reason": "Even if the text mentions 10 December only, insert yourself the full date"
+      },
+      {
+        "text": "17 December 2006",
+        "is_entity": true,
+        "label": "INDIVIDUAL",
+        "reason": "Another date time, which must be considered an entity of type 'date'"
+      }
+    ]
+  },
+  {
+    "text": "In J. R. R. Tolkien's legendarium, Curufin is a fictional character, a prince of the Noldor of the race of Elves, the fifth of the seven sons of Fëanor and Nerdanel.",
+    "spans": [
+      {
+        "text": "J. R. R. Tolkien",
+        "is_entity": true,
+        "label": "INDIVIDUAL",
+        "reason": "A famous fantasy novel author."
+      },{
+        "text": "Curufin",
+        "is_entity": true,
+        "label": "INDIVIDUAL",
+        "reason": "a fictional character created by J.R.R. Tolkien"
+      },
+      {
+        "text": "fictional character",
+        "is_entity": true,
+        "label": "CLASS",
+        "reason": "Curufin's description and class, being a fictional character"
+      },
+      {
+        "text": "prince",
+        "is_entity": true,
+        "label": "CLASS",
+        "reason": "Curufin is additionally described as a prince"
+      },
+      {
+        "text": "Noldor",
+        "is_entity": true,
+        "label": "INDIVIDUAL",
+        "reason": "a kindred of the Elves according to JRR Tolkien's world"
+      },
+      {
+        "text": "race of Elves",
+        "is_entity": true,
+        "label": "CLASS",
+        "reason": "the Noldor are said to be of the race of Elves"
+      },
+      {
+        "text": "Fëanor",
+        "is_entity": true,
+        "label": "INDIVIDUAL",
+        "reason": "another fictional character in JRR Tolkien story"
+      },
+      {
+        "text": "Nerdanel",
+        "is_entity": true,
+        "label": "INDIVIDUAL",
+        "reason": "another fictional character in JRR Tolkien story"
+      }
+    ]
+  },
+  {
+    "text": "The World Chess Championship 1984 was a match between challenger Garry Kasparov and defending champion Anatoly Karpov for the World Chess Championship title.",
+    "spans": [
+      {
+        "text": "World Chess Championship 1984",
+        "is_entity": true,
+        "label": "INDIVIDUAL",
+        "reason": "A particular in which people participate competing"
+      }, {
+        "text": "Championship",
+        "is_entity": false,
+        "label": "==NONE==",
+        "reason": "the Championship title is part of the entity, not the class"
+      },
+      {
+        "text": "match",
+        "is_entity": true,
+        "label": "CLASS",
+        "reason": "The text says World Chess Championship 1984 is a match"
+      },
+      {
+        "text": "Garry Kasparov",
+        "is_entity": true,
+        "label": "INDIVIDUAL",
+        "reason": "A person mentioned"
+      },
+      {
+        "text": "challenger",
+        "is_entity": true,
+        "label": "CLASS",
+        "reason": "the class given to Garry Kasparov"
+      },
+      {
+        "text": "Anatoly Karpov",
+        "is_entity": true,
+        "label": "INDIVIDUAL",
+        "reason": "Another mentioned person"
+      },
+      {
+        "text": "defending champion",
+        "is_entity": true,
+        "label": "CLASS",
+        "reason": "Anatoly Karpov is said to be the defending champion"
+      }
+    ]
+  },
+  {
+    "text":  "A bicycle, often called a bike or cycle, is a human-powered, pedal-driven, single-track vehicle, having two wheels attached to a frame, one behind the other. A bicycle rider is called a cyclist, or bicyclist.",
+    "spans": [
+      {
+        "text": "bycicle",
+        "is_entity": true,
+        "label": "INDIVIDUAL",
+        "reason": "A particular in which people participate competing"
+      }, {
+        "text": "cycle",
+        "is_entity": false,
+        "label": "==NONE==",
+        "reason": "only in this context, it's a synonim in the text"
+      },
+      {
+        "text": "vehicle",
+        "is_entity": true,
+        "label": "CLASS",
+        "reason": "The text says the bike is a type of vehicle"
+      }
+    ]
+  },
+  {
+    "text":  "Avinyonet de Puigventós is a municipality in the comarca of Alt Empordà, Girona, Catalonia, Spain.",
+    "spans": [
+      {
+        "text": "Avinyonet de Puigventós",
+        "is_entity": true,
+        "label": "INDIVIDUAL",
+        "reason": "A named place"
+      }, {
+        "text": "municipality",
+        "is_entity": true,
+        "label": "CLASS",
+        "reason": "The Avinyonet de Puigventós is described to be a municipality"
+      },
+      {
+        "text": "comarca",
+        "is_entity": true,
+        "label": "CLASS",
+        "reason": "The text says that Alt Empordà is a comarca"
+      }, {
+        "text": "Alt Empordà",
+        "is_entity": true,
+        "label": "INDIVIDUAL",
+        "reason": "The mentioned comarca's name"
+      }, 
+      {
+        "text": "Girona",
+        "is_entity": true,
+        "label": "INDIVIDUAL",
+        "reason": "The Girona province"
+      },
+      {
+        "text": "Catalonia",
+        "is_entity": true,
+        "label": "INDIVIDUAL",
+        "reason": "The named entity - region - Catalonia"
+      },
+      {
+        "text": "Spain",
+        "is_entity": true,
+        "label": "INDIVIDUAL",
+        "reason": "The named entity - nation - Spain"
+      }
+    ]
+  },
+  {
+    "text":  "Cattivik was an Italian humoristic comic book character created by Bonvi",
+    "spans": [
+      {
+        "text": "Cattivik",
+        "is_entity": true,
+        "label": "INDIVIDUAL",
+        "reason": "A named character"
+      }, {
+        "text": "Italian humoristic comic book character",
+        "is_entity": false,
+        "label": "==NONE==",
+        "reason": "only choose the class, without the adjectives"
+      },
+      {
+        "text": "comic book character",
+        "is_entity": true,
+        "label": "CLASS",
+        "reason": "the actual class without definitions of the named character"
+      }, {
+        "text": "Bonvi",
+        "is_entity": true,
+        "label": "INDIVIDUAL",
+        "reason": "The author of the named character"
+      }
+    ]
+  },
+  {
+    "text":  "JSC Dalavia, also known as Dalavia - Far Eastern Airways was an airline based in Khabarovsk, Russia.",
+    "spans": [
+      {
+        "text": "JSC Dalavia",
+        "is_entity": true,
+        "label": "INDIVIDUAL",
+        "reason": "the name of an organisation"
+      }, {
+        "text": "Dalavia - Far Eastern Airways",
+        "is_entity": false,
+        "label": "INDIVIDUAL",
+        "reason": "another name for the organisation. choose only the one which fits the most in the given context."
+      },
+      {
+        "text": "airline",
+        "is_entity": true,
+        "label": "CLASS",
+        "reason": "a specific type of business organisation that deals with air travels"
+      }, {
+        "text": "Khabarovsk",
+        "is_entity": true,
+        "label": "INDIVIDUAL",
+        "reason": "a city in Russia"
+      }, {
+        "text": "Russia",
+        "is_entity": true,
+        "label": "INDIVIDUAL",
+        "reason": "a nation"
+      }
+    ]
+  },
+  {
+    "text":  "The AES11 standard published by the Audio Engineering Society provides a systematic approach to the synchronization of digital audio signals.",
+    "spans": [
+      {
+        "text": "AES11",
+        "is_entity": true,
+        "label": "INDIVIDUAL",
+        "reason": "the name of the standard for a specific approach"
+      }, {
+        "text": "standard",
+        "is_entity": true,
+        "label": "CLASS",
+        "reason": "the type of the mentioned approach, AES11"
+      },
+      {
+        "text": "Audio Engineering Society",
+        "is_entity": true,
+        "label": "INDIVIDUAL",
+        "reason": "the organisation that promoted the standard"
+      }
+    ]
+  },
+  {
+    "text":  "Going for a walk sure is nice when you don't have to work.",
+    "spans": [
+      {
+        "text": "walk",
+        "is_entity": false,
+        "label": "==NONE==",
+        "reason": "its not an entity nor a class"
+      }, {
+        "text": "work",
+        "is_entity": false,
+        "label": "==NONE==",
+        "reason": "in this context it's just a verb, it is not being related to anything"
+      }
+    ]
+  }
+  ,
+  {
+    "text":  "Anita Auglend, is a Norwegian singer and is the lead vocalist of the gothic-doom metal band The Sins of Thy Beloved.",
+    "spans": [
+      {
+        "text": "Anita Auglend",
+        "is_entity": true,
+        "label": "INDIVIDUAL",
+        "reason": "A person mentioned"
+      }, {
+        "text": "singer",
+        "is_entity": true,
+        "label": "CLASS",
+        "reason": "a job and a type of person"
+      }, {
+        "text": "lead vocalist",
+        "is_entity": true,
+        "label": "CLASS",
+        "reason": "the role a singer has in a band"
+      }
+      , {
+        "text": "band",
+        "is_entity": true,
+        "label": "CLASS",
+        "reason": "a group of people that perform"
+      }, {
+        "text": "The Sins of Thy Beloved",
+        "is_entity": true,
+        "label": "INDIVIDUAL",
+        "reason": "a gothic-doom metal band of people that perform"
+      }
+    ]
+  },{
+    "text":  "I used to sing in the cover band Side Queens. We played a lot of songs of the Queen",
+    "spans": [
+      {
+        "text": "cover band",
+        "is_entity": true,
+        "label": "CLASS",
+        "reason": "A type of band that does not play original songs"
+      }, {
+        "text": "Side Queens",
+        "is_entity": true,
+        "label": "INDIVIDUAL",
+        "reason": "the name of a cover band"
+      }, {
+        "text": "songs",
+        "is_entity": false,
+        "label": "==NONE==",
+        "reason": "just a mentioned activity, not an entity nor a class"
+      }
+      , {
+        "text": "Queen",
+        "is_entity": true,
+        "label": "INDIVIDUAL",
+        "reason": "a very famous entity, a band"
+      }
+    ]
+  },{
+    "text":  "Pinocchio is a famous children book that was written by Carlo Collodi. In the story, Pinocchio is a wooden puppet who becomes a child.",
+    "spans": [
+      {
+        "text": "Pinocchio",
+        "is_entity": true,
+        "label": "INDIVIDUAL",
+        "reason": "title of an information entity (as a book)"
+      }, {
+        "text": "book",
+        "is_entity": true,
+        "label": "CLASS",
+        "reason": "the class of Pinocchio, a book in this context and not a character"
+      }, {
+        "text": "Carlo Collodi",
+        "is_entity": false,
+        "label": "INDIVIDUAL",
+        "reason": "a person entity "
+      }
+      , {
+        "text": "Pinocchio",
+        "is_entity": true,
+        "label": "INDIVIDUAL",
+        "reason": "a character in the sentence next, which is also the name of the book"
+      },{
+        "text": "wooden puppet",
+        "is_entity": true,
+        "label": "CLASS",
+        "reason": "the character Pinocchio is a wooden puppet"
+      },{
+        "text": "child",
+        "is_entity": true,
+        "label": "CLASS",
+        "reason": "Pinocchio later becomes a child, a type of class"
+      }
+    ]
+  },{
+    "text":  "Pinocchio is a famous children book that was written by Carlo Collodi. In the story, Pinocchio is a wooden puppet who becomes a child.",
+    "spans": [
+      {
+        "text": "Pinocchio",
+        "is_entity": true,
+        "label": "INDIVIDUAL",
+        "reason": "title of an information entity (as a book)"
+      }, {
+        "text": "book",
+        "is_entity": true,
+        "label": "CLASS",
+        "reason": "the class of Pinocchio, a book in this context and not a character"
+      }, {
+        "text": "Carlo Collodi",
+        "is_entity": true,
+        "label": "INDIVIDUAL",
+        "reason": "a person entity "
+      }
+      , {
+        "text": "Pinocchio",
+        "is_entity": true,
+        "label": "INDIVIDUAL",
+        "reason": "a character in the sentence next, which is also the name of the book"
+      },{
+        "text": "wooden puppet",
+        "is_entity": true,
+        "label": "CLASS",
+        "reason": "the character Pinocchio is a wooden puppet"
+      },{
+        "text": "child",
+        "is_entity": true,
+        "label": "CLASS",
+        "reason": "Pinocchio later becomes a child, a type of class"
+      }
+    ]
+  },{
+    "text":  "Orientalism is a 1978 book by Edward W. Said, in which the author establishes the term 'Orientalism' as a critical concept to describe the West's commonly contemptuous depiction and portrayal of oriental places.",
+    "spans": [
+      {
+        "text": "Orientalism",
+        "is_entity": true,
+        "label": "INDIVIDUAL",
+        "reason": "title of an information entity (as a book)"
+      }, {
+        "text": "1978",
+        "is_entity": true,
+        "label": "INDIVIDUAL",
+        "reason": "year"
+      }, {
+        "text": "Edward W. Said",
+        "is_entity": true,
+        "label": "INDIVIDUAL",
+        "reason": "a person entity, author"
+      }
+      , {
+        "text": "author",
+        "is_entity": true,
+        "label": "CLASS",
+        "reason": "the author"
+      },{
+        "text": "Orientalism",
+        "is_entity": true,
+        "label": "INDIVIDUAL",
+        "reason": "the concept of orientalism in postcolonial studies"
+      },{
+        "text": "concept",
+        "is_entity": true,
+        "label": "CLASS",
+        "reason": "orientalism is said to be a concept"
+      }
+    ]
+  }
+]
+
+

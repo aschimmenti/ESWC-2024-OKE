@@ -1,0 +1,170 @@
+{
+  "text": "Maurice of Savoy was a Prince of Savoy and a 17th-century cardinal.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 16,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 40,
+      "end": 55,
+      "label": "CLASS"
+    },
+    {
+      "start": 74,
+      "end": 95,
+      "label": "CLASS"
+    },
+    {
+      "start_char": 0,
+      "end_char": 16,
+      "label": "INDIVIDUAL",
+      "text": "Maurice of Savoy"
+    },
+    {
+      "start_char": 40,
+      "end_char": 55,
+      "label": "CLASS",
+      "text": "Prince of Savoy",
+      "subClassOf": [
+        "PERSON",
+        "PERSONIFICATION"
+      ]
+    },
+    {
+      "start_char": 74,
+      "end_char": 95,
+      "label": "CLASS",
+      "text": "17th-century cardinal",
+      "subClassOf": [
+        "PERSON",
+        "ROLE"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 7
+    },
+    {
+      "id": 1,
+      "start": 8,
+      "end": 10
+    },
+    {
+      "id": 2,
+      "start": 11,
+      "end": 16
+    },
+    {
+      "id": 3,
+      "start": 16,
+      "end": 33
+    },
+    {
+      "id": 4,
+      "start": 34,
+      "end": 37
+    },
+    {
+      "id": 5,
+      "start": 38,
+      "end": 39
+    },
+    {
+      "id": 6,
+      "start": 40,
+      "end": 46
+    },
+    {
+      "id": 7,
+      "start": 47,
+      "end": 49
+    },
+    {
+      "id": 8,
+      "start": 50,
+      "end": 55
+    },
+    {
+      "id": 9,
+      "start": 55,
+      "end": 67
+    },
+    {
+      "id": 10,
+      "start": 68,
+      "end": 71
+    },
+    {
+      "id": 11,
+      "start": 72,
+      "end": 73
+    },
+    {
+      "id": 12,
+      "start": 74,
+      "end": 78
+    },
+    {
+      "id": 13,
+      "start": 78,
+      "end": 79
+    },
+    {
+      "id": 14,
+      "start": 79,
+      "end": 86
+    },
+    {
+      "id": 15,
+      "start": 87,
+      "end": 95
+    },
+    {
+      "id": 16,
+      "start": 95,
+      "end": 107
+    },
+    {
+      "id": 17,
+      "start": 107,
+      "end": 108
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Maurice of Savoy",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "Prince of Savoy",
+      "dest": 1
+    },
+    {
+      "dep_text": "Maurice of Savoy",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "17th-century cardinal",
+      "dest": 2
+    }
+  ],
+  "classes": {
+    "Prince_of_Savoy_1": {
+      "labels": [
+        "PERSON",
+        "PERSONIFICATION"
+      ],
+      "class": "Prince of Savoy"
+    },
+    "17th-century_cardinal_2": {
+      "labels": [
+        "PERSON",
+        "ROLE"
+      ],
+      "class": "17th-century cardinal"
+    }
+  }
+}

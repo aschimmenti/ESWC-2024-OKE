@@ -1,0 +1,725 @@
+{
+  "text": "In mathematics, a lattice is a partially ordered set in which every two elements have a unique supremum (also called a least upper bound or join) and a unique infimum (also called a greatest lower bound or meet). An example is given by the natural numbers, partially ordered by divisibility, for which the unique supremum is the least common multiple and the unique infimum is the greatest common divisor.",
+  "ents": [
+    {
+      "start": 3,
+      "end": 14,
+      "label": "ENTITY"
+    },
+    {
+      "start": 31,
+      "end": 38,
+      "label": "CLASS"
+    },
+    {
+      "start": 56,
+      "end": 77,
+      "label": "CLASS"
+    },
+    {
+      "start": 132,
+      "end": 140,
+      "label": "CLASS"
+    },
+    {
+      "start": 174,
+      "end": 185,
+      "label": "CLASS"
+    },
+    {
+      "start": 201,
+      "end": 205,
+      "label": "CLASS"
+    },
+    {
+      "start": 232,
+      "end": 239,
+      "label": "CLASS"
+    },
+    {
+      "start": 267,
+      "end": 287,
+      "label": "CLASS"
+    },
+    {
+      "start": 337,
+      "end": 352,
+      "label": "ENTITY"
+    },
+    {
+      "start": 388,
+      "end": 400,
+      "label": "CLASS"
+    },
+    {
+      "start": 451,
+      "end": 472,
+      "label": "CLASS"
+    },
+    {
+      "start": 516,
+      "end": 539,
+      "label": "CLASS"
+    },
+    {
+      "start_char": 3,
+      "end_char": 14,
+      "label": "ENTITY",
+      "text": "mathematics"
+    },
+    {
+      "start_char": 31,
+      "end_char": 38,
+      "label": "CLASS",
+      "text": "lattice",
+      "subClassOf": [
+        "ABSTRACT"
+      ]
+    },
+    {
+      "start_char": 56,
+      "end_char": 77,
+      "label": "CLASS",
+      "text": "partially ordered set",
+      "subClassOf": [
+        "ABSTRACT"
+      ]
+    },
+    {
+      "start_char": 132,
+      "end_char": 140,
+      "label": "CLASS",
+      "text": "supremum",
+      "subClassOf": [
+        "ABSTRACT"
+      ]
+    },
+    {
+      "start_char": 174,
+      "end_char": 185,
+      "label": "CLASS",
+      "text": "upper bound",
+      "subClassOf": [
+        "ABSTRACT"
+      ]
+    },
+    {
+      "start_char": 201,
+      "end_char": 205,
+      "label": "CLASS",
+      "text": "join",
+      "subClassOf": [
+        "ABSTRACT"
+      ]
+    },
+    {
+      "start_char": 232,
+      "end_char": 239,
+      "label": "CLASS",
+      "text": "infimum",
+      "subClassOf": [
+        "ABSTRACT"
+      ]
+    },
+    {
+      "start_char": 267,
+      "end_char": 287,
+      "label": "CLASS",
+      "text": "greatest lower bound",
+      "subClassOf": [
+        "ABSTRACT"
+      ]
+    },
+    {
+      "start_char": 337,
+      "end_char": 352,
+      "label": "ENTITY",
+      "text": "natural numbers"
+    },
+    {
+      "start_char": 388,
+      "end_char": 400,
+      "label": "CLASS",
+      "text": "divisibility",
+      "subClassOf": [
+        "ABSTRACT"
+      ]
+    },
+    {
+      "start_char": 451,
+      "end_char": 472,
+      "label": "CLASS",
+      "text": "least common multiple",
+      "subClassOf": [
+        "ABSTRACT"
+      ]
+    },
+    {
+      "start_char": 516,
+      "end_char": 539,
+      "label": "CLASS",
+      "text": "greatest common divisor",
+      "subClassOf": [
+        "ABSTRACT"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 2
+    },
+    {
+      "id": 1,
+      "start": 3,
+      "end": 14
+    },
+    {
+      "id": 2,
+      "start": 14,
+      "end": 27
+    },
+    {
+      "id": 3,
+      "start": 27,
+      "end": 28
+    },
+    {
+      "id": 4,
+      "start": 29,
+      "end": 30
+    },
+    {
+      "id": 5,
+      "start": 31,
+      "end": 38
+    },
+    {
+      "id": 6,
+      "start": 38,
+      "end": 50
+    },
+    {
+      "id": 7,
+      "start": 51,
+      "end": 53
+    },
+    {
+      "id": 8,
+      "start": 54,
+      "end": 55
+    },
+    {
+      "id": 9,
+      "start": 56,
+      "end": 65
+    },
+    {
+      "id": 10,
+      "start": 66,
+      "end": 73
+    },
+    {
+      "id": 11,
+      "start": 74,
+      "end": 77
+    },
+    {
+      "id": 12,
+      "start": 77,
+      "end": 89
+    },
+    {
+      "id": 13,
+      "start": 90,
+      "end": 92
+    },
+    {
+      "id": 14,
+      "start": 93,
+      "end": 98
+    },
+    {
+      "id": 15,
+      "start": 99,
+      "end": 104
+    },
+    {
+      "id": 16,
+      "start": 105,
+      "end": 108
+    },
+    {
+      "id": 17,
+      "start": 109,
+      "end": 117
+    },
+    {
+      "id": 18,
+      "start": 118,
+      "end": 122
+    },
+    {
+      "id": 19,
+      "start": 123,
+      "end": 124
+    },
+    {
+      "id": 20,
+      "start": 125,
+      "end": 131
+    },
+    {
+      "id": 21,
+      "start": 132,
+      "end": 140
+    },
+    {
+      "id": 22,
+      "start": 140,
+      "end": 152
+    },
+    {
+      "id": 23,
+      "start": 153,
+      "end": 154
+    },
+    {
+      "id": 24,
+      "start": 154,
+      "end": 158
+    },
+    {
+      "id": 25,
+      "start": 159,
+      "end": 165
+    },
+    {
+      "id": 26,
+      "start": 166,
+      "end": 167
+    },
+    {
+      "id": 27,
+      "start": 168,
+      "end": 173
+    },
+    {
+      "id": 28,
+      "start": 174,
+      "end": 179
+    },
+    {
+      "id": 29,
+      "start": 180,
+      "end": 185
+    },
+    {
+      "id": 30,
+      "start": 185,
+      "end": 197
+    },
+    {
+      "id": 31,
+      "start": 198,
+      "end": 200
+    },
+    {
+      "id": 32,
+      "start": 201,
+      "end": 205
+    },
+    {
+      "id": 33,
+      "start": 205,
+      "end": 217
+    },
+    {
+      "id": 34,
+      "start": 217,
+      "end": 218
+    },
+    {
+      "id": 35,
+      "start": 219,
+      "end": 222
+    },
+    {
+      "id": 36,
+      "start": 223,
+      "end": 224
+    },
+    {
+      "id": 37,
+      "start": 225,
+      "end": 231
+    },
+    {
+      "id": 38,
+      "start": 232,
+      "end": 239
+    },
+    {
+      "id": 39,
+      "start": 239,
+      "end": 251
+    },
+    {
+      "id": 40,
+      "start": 252,
+      "end": 253
+    },
+    {
+      "id": 41,
+      "start": 253,
+      "end": 257
+    },
+    {
+      "id": 42,
+      "start": 258,
+      "end": 264
+    },
+    {
+      "id": 43,
+      "start": 265,
+      "end": 266
+    },
+    {
+      "id": 44,
+      "start": 267,
+      "end": 275
+    },
+    {
+      "id": 45,
+      "start": 276,
+      "end": 281
+    },
+    {
+      "id": 46,
+      "start": 282,
+      "end": 287
+    },
+    {
+      "id": 47,
+      "start": 287,
+      "end": 299
+    },
+    {
+      "id": 48,
+      "start": 300,
+      "end": 302
+    },
+    {
+      "id": 49,
+      "start": 303,
+      "end": 307
+    },
+    {
+      "id": 50,
+      "start": 307,
+      "end": 308
+    },
+    {
+      "id": 51,
+      "start": 308,
+      "end": 309
+    },
+    {
+      "id": 52,
+      "start": 310,
+      "end": 312
+    },
+    {
+      "id": 53,
+      "start": 313,
+      "end": 320
+    },
+    {
+      "id": 54,
+      "start": 321,
+      "end": 323
+    },
+    {
+      "id": 55,
+      "start": 324,
+      "end": 329
+    },
+    {
+      "id": 56,
+      "start": 330,
+      "end": 332
+    },
+    {
+      "id": 57,
+      "start": 333,
+      "end": 336
+    },
+    {
+      "id": 58,
+      "start": 337,
+      "end": 344
+    },
+    {
+      "id": 59,
+      "start": 345,
+      "end": 352
+    },
+    {
+      "id": 60,
+      "start": 352,
+      "end": 365
+    },
+    {
+      "id": 61,
+      "start": 365,
+      "end": 366
+    },
+    {
+      "id": 62,
+      "start": 367,
+      "end": 376
+    },
+    {
+      "id": 63,
+      "start": 377,
+      "end": 384
+    },
+    {
+      "id": 64,
+      "start": 385,
+      "end": 387
+    },
+    {
+      "id": 65,
+      "start": 388,
+      "end": 400
+    },
+    {
+      "id": 66,
+      "start": 400,
+      "end": 412
+    },
+    {
+      "id": 67,
+      "start": 412,
+      "end": 413
+    },
+    {
+      "id": 68,
+      "start": 414,
+      "end": 417
+    },
+    {
+      "id": 69,
+      "start": 418,
+      "end": 423
+    },
+    {
+      "id": 70,
+      "start": 424,
+      "end": 427
+    },
+    {
+      "id": 71,
+      "start": 428,
+      "end": 434
+    },
+    {
+      "id": 72,
+      "start": 435,
+      "end": 443
+    },
+    {
+      "id": 73,
+      "start": 444,
+      "end": 446
+    },
+    {
+      "id": 74,
+      "start": 447,
+      "end": 450
+    },
+    {
+      "id": 75,
+      "start": 451,
+      "end": 456
+    },
+    {
+      "id": 76,
+      "start": 457,
+      "end": 463
+    },
+    {
+      "id": 77,
+      "start": 464,
+      "end": 472
+    },
+    {
+      "id": 78,
+      "start": 472,
+      "end": 485
+    },
+    {
+      "id": 79,
+      "start": 486,
+      "end": 489
+    },
+    {
+      "id": 80,
+      "start": 490,
+      "end": 493
+    },
+    {
+      "id": 81,
+      "start": 494,
+      "end": 500
+    },
+    {
+      "id": 82,
+      "start": 501,
+      "end": 508
+    },
+    {
+      "id": 83,
+      "start": 509,
+      "end": 511
+    },
+    {
+      "id": 84,
+      "start": 512,
+      "end": 515
+    },
+    {
+      "id": 85,
+      "start": 516,
+      "end": 524
+    },
+    {
+      "id": 86,
+      "start": 525,
+      "end": 531
+    },
+    {
+      "id": 87,
+      "start": 532,
+      "end": 539
+    },
+    {
+      "id": 88,
+      "start": 539,
+      "end": 552
+    },
+    {
+      "id": 89,
+      "start": 552,
+      "end": 553
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "lattice",
+      "dep": 1,
+      "rel": "rdf-isClassOf",
+      "dest_text": "partially ordered set",
+      "dest": 2
+    },
+    {
+      "dep_text": "supremum",
+      "dep": 3,
+      "rel": "rdf-type",
+      "dest_text": "upper bound",
+      "dest": 4
+    },
+    {
+      "dep_text": "supremum",
+      "dep": 3,
+      "rel": "rdf-type",
+      "dest_text": "join",
+      "dest": 5
+    },
+    {
+      "dep_text": "infimum",
+      "dep": 6,
+      "rel": "rdf-type",
+      "dest_text": "greatest lower bound",
+      "dest": 7
+    },
+    {
+      "dep_text": "natural numbers",
+      "dep": 8,
+      "rel": "rdf-isClassOf",
+      "dest_text": "divisibility",
+      "dest": 9
+    },
+    {
+      "dep_text": "least common multiple",
+      "dep": 10,
+      "rel": "rdf-type",
+      "dest_text": "greatest common divisor",
+      "dest": 11
+    }
+  ],
+  "classes": {
+    "lattice_1": {
+      "labels": [
+        "ABSTRACT"
+      ],
+      "class": "lattice"
+    },
+    "partially_ordered_set_2": {
+      "labels": [
+        "ABSTRACT"
+      ],
+      "class": "partially ordered set"
+    },
+    "supremum_3": {
+      "labels": [
+        "ABSTRACT"
+      ],
+      "class": "supremum"
+    },
+    "upper_bound_4": {
+      "labels": [
+        "ABSTRACT"
+      ],
+      "class": "upper bound"
+    },
+    "join_5": {
+      "labels": [
+        "ABSTRACT"
+      ],
+      "class": "join"
+    },
+    "infimum_6": {
+      "labels": [
+        "ABSTRACT"
+      ],
+      "class": "infimum"
+    },
+    "greatest_lower_bound_7": {
+      "labels": [
+        "ABSTRACT"
+      ],
+      "class": "greatest lower bound"
+    },
+    "divisibility_9": {
+      "labels": [
+        "ABSTRACT"
+      ],
+      "class": "divisibility"
+    },
+    "least_common_multiple_10": {
+      "labels": [
+        "ABSTRACT"
+      ],
+      "class": "least common multiple"
+    },
+    "greatest_common_divisor_11": {
+      "labels": [
+        "ABSTRACT"
+      ],
+      "class": "greatest common divisor"
+    }
+  }
+}

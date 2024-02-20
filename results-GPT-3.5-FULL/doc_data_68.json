@@ -1,0 +1,312 @@
+{
+  "text": "Strombolicchio is a sea stack of volcanic origin 2 km to the northeast of the island of Stromboli in the Aeolian Islands of Italy.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 14,
+      "label": "ENTITY"
+    },
+    {
+      "start": 33,
+      "end": 42,
+      "label": "CLASS"
+    },
+    {
+      "start": 58,
+      "end": 73,
+      "label": "CLASS"
+    },
+    {
+      "start": 115,
+      "end": 121,
+      "label": "CLASS"
+    },
+    {
+      "start": 137,
+      "end": 146,
+      "label": "ENTITY"
+    },
+    {
+      "start": 167,
+      "end": 182,
+      "label": "ENTITY"
+    },
+    {
+      "start": 199,
+      "end": 204,
+      "label": "ENTITY"
+    },
+    {
+      "start_char": 0,
+      "end_char": 14,
+      "label": "ENTITY",
+      "text": "Strombolicchio"
+    },
+    {
+      "start_char": 33,
+      "end_char": 42,
+      "label": "CLASS",
+      "text": "sea stack",
+      "subClassOf": [
+        "PHYSICAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 58,
+      "end_char": 73,
+      "label": "CLASS",
+      "text": "volcanic origin",
+      "subClassOf": [
+        "LOCATION",
+        "PHYSICAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 115,
+      "end_char": 121,
+      "label": "CLASS",
+      "text": "island",
+      "subClassOf": [
+        "LOCATION"
+      ]
+    },
+    {
+      "start_char": 137,
+      "end_char": 146,
+      "label": "ENTITY",
+      "text": "Stromboli"
+    },
+    {
+      "start_char": 167,
+      "end_char": 182,
+      "label": "ENTITY",
+      "text": "Aeolian Islands"
+    },
+    {
+      "start_char": 199,
+      "end_char": 204,
+      "label": "ENTITY",
+      "text": "Italy"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 14
+    },
+    {
+      "id": 1,
+      "start": 14,
+      "end": 27
+    },
+    {
+      "id": 2,
+      "start": 28,
+      "end": 30
+    },
+    {
+      "id": 3,
+      "start": 31,
+      "end": 32
+    },
+    {
+      "id": 4,
+      "start": 33,
+      "end": 36
+    },
+    {
+      "id": 5,
+      "start": 37,
+      "end": 42
+    },
+    {
+      "id": 6,
+      "start": 42,
+      "end": 54
+    },
+    {
+      "id": 7,
+      "start": 55,
+      "end": 57
+    },
+    {
+      "id": 8,
+      "start": 58,
+      "end": 66
+    },
+    {
+      "id": 9,
+      "start": 67,
+      "end": 73
+    },
+    {
+      "id": 10,
+      "start": 73,
+      "end": 85
+    },
+    {
+      "id": 11,
+      "start": 86,
+      "end": 87
+    },
+    {
+      "id": 12,
+      "start": 88,
+      "end": 90
+    },
+    {
+      "id": 13,
+      "start": 91,
+      "end": 93
+    },
+    {
+      "id": 14,
+      "start": 94,
+      "end": 97
+    },
+    {
+      "id": 15,
+      "start": 98,
+      "end": 107
+    },
+    {
+      "id": 16,
+      "start": 108,
+      "end": 110
+    },
+    {
+      "id": 17,
+      "start": 111,
+      "end": 114
+    },
+    {
+      "id": 18,
+      "start": 115,
+      "end": 121
+    },
+    {
+      "id": 19,
+      "start": 121,
+      "end": 133
+    },
+    {
+      "id": 20,
+      "start": 134,
+      "end": 136
+    },
+    {
+      "id": 21,
+      "start": 137,
+      "end": 146
+    },
+    {
+      "id": 22,
+      "start": 146,
+      "end": 159
+    },
+    {
+      "id": 23,
+      "start": 160,
+      "end": 162
+    },
+    {
+      "id": 24,
+      "start": 163,
+      "end": 166
+    },
+    {
+      "id": 25,
+      "start": 167,
+      "end": 174
+    },
+    {
+      "id": 26,
+      "start": 175,
+      "end": 182
+    },
+    {
+      "id": 27,
+      "start": 182,
+      "end": 195
+    },
+    {
+      "id": 28,
+      "start": 196,
+      "end": 198
+    },
+    {
+      "id": 29,
+      "start": 199,
+      "end": 204
+    },
+    {
+      "id": 30,
+      "start": 204,
+      "end": 217
+    },
+    {
+      "id": 31,
+      "start": 217,
+      "end": 218
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Strombolicchio",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "sea stack",
+      "dest": 1
+    },
+    {
+      "dep_text": "Strombolicchio",
+      "dep": 0,
+      "rel": "rdf-isClassOf",
+      "dest_text": "volcanic origin",
+      "dest": 2
+    },
+    {
+      "dep_text": "island",
+      "dep": 3,
+      "rel": "rdf-isClassOf",
+      "dest_text": "sea stack",
+      "dest": 1
+    },
+    {
+      "dep_text": "Stromboli",
+      "dep": 4,
+      "rel": "rdf-isClassOf",
+      "dest_text": "sea stack",
+      "dest": 1
+    },
+    {
+      "dep_text": "Aeolian Islands",
+      "dep": 5,
+      "rel": "rdf-isClassOf",
+      "dest_text": "sea stack",
+      "dest": 1
+    }
+  ],
+  "classes": {
+    "sea_stack_1": {
+      "labels": [
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "sea stack"
+    },
+    "volcanic_origin_2": {
+      "labels": [
+        "LOCATION",
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "volcanic origin"
+    },
+    "island_3": {
+      "labels": [
+        "LOCATION"
+      ],
+      "class": "island"
+    }
+  }
+}

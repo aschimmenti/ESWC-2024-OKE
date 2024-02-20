@@ -1,0 +1,195 @@
+{
+  "text": "Hesse was born in Königsberg, Prussia, and was a German mathematician.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 5,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 35,
+      "end": 45,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 64,
+      "end": 71,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 100,
+      "end": 106,
+      "label": "CLASS"
+    },
+    {
+      "start": 119,
+      "end": 132,
+      "label": "CLASS"
+    },
+    {
+      "start_char": 0,
+      "end_char": 5,
+      "label": "INDIVIDUAL",
+      "text": "Hesse"
+    },
+    {
+      "start_char": 35,
+      "end_char": 45,
+      "label": "INDIVIDUAL",
+      "text": "Königsberg"
+    },
+    {
+      "start_char": 64,
+      "end_char": 71,
+      "label": "INDIVIDUAL",
+      "text": "Prussia"
+    },
+    {
+      "start_char": 100,
+      "end_char": 106,
+      "label": "CLASS",
+      "text": "German",
+      "subClassOf": [
+        "ORGANISM",
+        "PERSON"
+      ]
+    },
+    {
+      "start_char": 119,
+      "end_char": 132,
+      "label": "CLASS",
+      "text": "mathematician",
+      "subClassOf": [
+        "PERSON"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 5
+    },
+    {
+      "id": 1,
+      "start": 5,
+      "end": 22
+    },
+    {
+      "id": 2,
+      "start": 23,
+      "end": 26
+    },
+    {
+      "id": 3,
+      "start": 27,
+      "end": 31
+    },
+    {
+      "id": 4,
+      "start": 32,
+      "end": 34
+    },
+    {
+      "id": 5,
+      "start": 35,
+      "end": 45
+    },
+    {
+      "id": 6,
+      "start": 45,
+      "end": 62
+    },
+    {
+      "id": 7,
+      "start": 62,
+      "end": 63
+    },
+    {
+      "id": 8,
+      "start": 64,
+      "end": 71
+    },
+    {
+      "id": 9,
+      "start": 71,
+      "end": 88
+    },
+    {
+      "id": 10,
+      "start": 88,
+      "end": 89
+    },
+    {
+      "id": 11,
+      "start": 90,
+      "end": 93
+    },
+    {
+      "id": 12,
+      "start": 94,
+      "end": 97
+    },
+    {
+      "id": 13,
+      "start": 98,
+      "end": 99
+    },
+    {
+      "id": 14,
+      "start": 100,
+      "end": 106
+    },
+    {
+      "id": 15,
+      "start": 106,
+      "end": 118
+    },
+    {
+      "id": 16,
+      "start": 119,
+      "end": 132
+    },
+    {
+      "id": 17,
+      "start": 132,
+      "end": 144
+    },
+    {
+      "id": 18,
+      "start": 144,
+      "end": 145
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Hesse",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "German",
+      "dest": 3
+    },
+    {
+      "dep_text": "Hesse",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "mathematician",
+      "dest": 4
+    }
+  ],
+  "classes": {
+    "German_3": {
+      "labels": [
+        "ORGANISM",
+        "PERSON"
+      ],
+      "class": "German"
+    },
+    "mathematician_4": {
+      "labels": [
+        "PERSON"
+      ],
+      "class": "mathematician"
+    }
+  }
+}

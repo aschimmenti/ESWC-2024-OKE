@@ -1,0 +1,329 @@
+{
+  "text": "occam is a concurrent programming language that builds on the communicating sequential processes (CSP) process algebra, and shares many of its features. It is named after William of Ockham of Occam's Razor fame.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 5,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 28,
+      "end": 59,
+      "label": "CLASS"
+    },
+    {
+      "start": 91,
+      "end": 147,
+      "label": "CLASS"
+    },
+    {
+      "start": 212,
+      "end": 229,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 250,
+      "end": 263,
+      "label": "CLASS"
+    },
+    {
+      "start_char": 0,
+      "end_char": 5,
+      "label": "INDIVIDUAL",
+      "text": "occam"
+    },
+    {
+      "start_char": 28,
+      "end_char": 59,
+      "label": "CLASS",
+      "text": "concurrent programming language",
+      "subClassOf": [
+        "INFORMATION_ENTITY"
+      ]
+    },
+    {
+      "start_char": 91,
+      "end_char": 147,
+      "label": "CLASS",
+      "text": "communicating sequential processes (CSP) process algebra",
+      "subClassOf": [
+        "ABSTRACT",
+        "INFORMATION_ENTITY"
+      ]
+    },
+    {
+      "start_char": 212,
+      "end_char": 229,
+      "label": "INDIVIDUAL",
+      "text": "William of Ockham"
+    },
+    {
+      "start_char": 250,
+      "end_char": 263,
+      "label": "CLASS",
+      "text": "Occam's Razor",
+      "subClassOf": [
+        "PERSONIFICATION"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 5
+    },
+    {
+      "id": 1,
+      "start": 5,
+      "end": 22
+    },
+    {
+      "id": 2,
+      "start": 23,
+      "end": 25
+    },
+    {
+      "id": 3,
+      "start": 26,
+      "end": 27
+    },
+    {
+      "id": 4,
+      "start": 28,
+      "end": 38
+    },
+    {
+      "id": 5,
+      "start": 39,
+      "end": 50
+    },
+    {
+      "id": 6,
+      "start": 51,
+      "end": 59
+    },
+    {
+      "id": 7,
+      "start": 59,
+      "end": 71
+    },
+    {
+      "id": 8,
+      "start": 72,
+      "end": 76
+    },
+    {
+      "id": 9,
+      "start": 77,
+      "end": 83
+    },
+    {
+      "id": 10,
+      "start": 84,
+      "end": 86
+    },
+    {
+      "id": 11,
+      "start": 87,
+      "end": 90
+    },
+    {
+      "id": 12,
+      "start": 91,
+      "end": 104
+    },
+    {
+      "id": 13,
+      "start": 105,
+      "end": 115
+    },
+    {
+      "id": 14,
+      "start": 116,
+      "end": 125
+    },
+    {
+      "id": 15,
+      "start": 126,
+      "end": 127
+    },
+    {
+      "id": 16,
+      "start": 127,
+      "end": 130
+    },
+    {
+      "id": 17,
+      "start": 130,
+      "end": 131
+    },
+    {
+      "id": 18,
+      "start": 132,
+      "end": 139
+    },
+    {
+      "id": 19,
+      "start": 140,
+      "end": 147
+    },
+    {
+      "id": 20,
+      "start": 147,
+      "end": 159
+    },
+    {
+      "id": 21,
+      "start": 159,
+      "end": 160
+    },
+    {
+      "id": 22,
+      "start": 161,
+      "end": 164
+    },
+    {
+      "id": 23,
+      "start": 165,
+      "end": 171
+    },
+    {
+      "id": 24,
+      "start": 172,
+      "end": 176
+    },
+    {
+      "id": 25,
+      "start": 177,
+      "end": 179
+    },
+    {
+      "id": 26,
+      "start": 180,
+      "end": 183
+    },
+    {
+      "id": 27,
+      "start": 184,
+      "end": 192
+    },
+    {
+      "id": 28,
+      "start": 192,
+      "end": 193
+    },
+    {
+      "id": 29,
+      "start": 194,
+      "end": 196
+    },
+    {
+      "id": 30,
+      "start": 197,
+      "end": 199
+    },
+    {
+      "id": 31,
+      "start": 200,
+      "end": 205
+    },
+    {
+      "id": 32,
+      "start": 206,
+      "end": 211
+    },
+    {
+      "id": 33,
+      "start": 212,
+      "end": 219
+    },
+    {
+      "id": 34,
+      "start": 220,
+      "end": 222
+    },
+    {
+      "id": 35,
+      "start": 223,
+      "end": 229
+    },
+    {
+      "id": 36,
+      "start": 229,
+      "end": 246
+    },
+    {
+      "id": 37,
+      "start": 247,
+      "end": 249
+    },
+    {
+      "id": 38,
+      "start": 250,
+      "end": 255
+    },
+    {
+      "id": 39,
+      "start": 255,
+      "end": 257
+    },
+    {
+      "id": 40,
+      "start": 258,
+      "end": 263
+    },
+    {
+      "id": 41,
+      "start": 263,
+      "end": 275
+    },
+    {
+      "id": 42,
+      "start": 276,
+      "end": 280
+    },
+    {
+      "id": 43,
+      "start": 280,
+      "end": 281
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "occam",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "concurrent programming language",
+      "dest": 1
+    },
+    {
+      "dep_text": "occam",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "communicating sequential processes (CSP) process algebra",
+      "dest": 2
+    }
+  ],
+  "classes": {
+    "concurrent_programming_language_1": {
+      "labels": [
+        "INFORMATION_ENTITY"
+      ],
+      "class": "concurrent programming language"
+    },
+    "communicating_sequential_processes_(CSP)_process_algebra_2": {
+      "labels": [
+        "ABSTRACT",
+        "INFORMATION_ENTITY"
+      ],
+      "class": "communicating sequential processes (CSP) process algebra"
+    },
+    "Occam's_Razor_4": {
+      "labels": [
+        "PERSONIFICATION"
+      ],
+      "class": "Occam's Razor"
+    }
+  }
+}

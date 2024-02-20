@@ -1,0 +1,478 @@
+{
+  "text": "Diorite is an intrusive igneous rock composed principally of plagioclase feldspar (typically andesine), biotite, hornblende, and/or pyroxene. It is distinguished from gabbro on the basis of the composition of the plagioclase species, where average An-content of plagioclase in a diorite is less than An50.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 7,
+      "label": "ENTITY"
+    },
+    {
+      "start": 27,
+      "end": 49,
+      "label": "CLASS"
+    },
+    {
+      "start": 86,
+      "end": 106,
+      "label": "ENTITY"
+    },
+    {
+      "start": 131,
+      "end": 139,
+      "label": "ENTITY"
+    },
+    {
+      "start": 155,
+      "end": 162,
+      "label": "ENTITY"
+    },
+    {
+      "start": 177,
+      "end": 187,
+      "label": "ENTITY"
+    },
+    {
+      "start": 209,
+      "end": 217,
+      "label": "ENTITY"
+    },
+    {
+      "start": 257,
+      "end": 263,
+      "label": "ENTITY"
+    },
+    {
+      "start": 351,
+      "end": 361,
+      "label": "ENTITY"
+    },
+    {
+      "start_char": 0,
+      "end_char": 7,
+      "label": "ENTITY",
+      "text": "Diorite"
+    },
+    {
+      "start_char": 27,
+      "end_char": 49,
+      "label": "CLASS",
+      "text": "intrusive igneous rock",
+      "subClassOf": [
+        "ORGANISM",
+        "PHYSICAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 86,
+      "end_char": 106,
+      "label": "ENTITY",
+      "text": "plagioclase feldspar"
+    },
+    {
+      "start_char": 131,
+      "end_char": 139,
+      "label": "ENTITY",
+      "text": "andesine"
+    },
+    {
+      "start_char": 155,
+      "end_char": 162,
+      "label": "ENTITY",
+      "text": "biotite"
+    },
+    {
+      "start_char": 177,
+      "end_char": 187,
+      "label": "ENTITY",
+      "text": "hornblende"
+    },
+    {
+      "start_char": 209,
+      "end_char": 217,
+      "label": "ENTITY",
+      "text": "pyroxene"
+    },
+    {
+      "start_char": 257,
+      "end_char": 263,
+      "label": "ENTITY",
+      "text": "gabbro"
+    },
+    {
+      "start_char": 351,
+      "end_char": 361,
+      "label": "ENTITY",
+      "text": "An-content"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 7
+    },
+    {
+      "id": 1,
+      "start": 7,
+      "end": 20
+    },
+    {
+      "id": 2,
+      "start": 21,
+      "end": 23
+    },
+    {
+      "id": 3,
+      "start": 24,
+      "end": 26
+    },
+    {
+      "id": 4,
+      "start": 27,
+      "end": 36
+    },
+    {
+      "id": 5,
+      "start": 37,
+      "end": 44
+    },
+    {
+      "id": 6,
+      "start": 45,
+      "end": 49
+    },
+    {
+      "id": 7,
+      "start": 49,
+      "end": 61
+    },
+    {
+      "id": 8,
+      "start": 62,
+      "end": 70
+    },
+    {
+      "id": 9,
+      "start": 71,
+      "end": 82
+    },
+    {
+      "id": 10,
+      "start": 83,
+      "end": 85
+    },
+    {
+      "id": 11,
+      "start": 86,
+      "end": 97
+    },
+    {
+      "id": 12,
+      "start": 98,
+      "end": 106
+    },
+    {
+      "id": 13,
+      "start": 106,
+      "end": 119
+    },
+    {
+      "id": 14,
+      "start": 120,
+      "end": 121
+    },
+    {
+      "id": 15,
+      "start": 121,
+      "end": 130
+    },
+    {
+      "id": 16,
+      "start": 131,
+      "end": 139
+    },
+    {
+      "id": 17,
+      "start": 139,
+      "end": 152
+    },
+    {
+      "id": 18,
+      "start": 152,
+      "end": 153
+    },
+    {
+      "id": 19,
+      "start": 153,
+      "end": 154
+    },
+    {
+      "id": 20,
+      "start": 155,
+      "end": 162
+    },
+    {
+      "id": 21,
+      "start": 162,
+      "end": 175
+    },
+    {
+      "id": 22,
+      "start": 175,
+      "end": 176
+    },
+    {
+      "id": 23,
+      "start": 177,
+      "end": 187
+    },
+    {
+      "id": 24,
+      "start": 187,
+      "end": 200
+    },
+    {
+      "id": 25,
+      "start": 200,
+      "end": 201
+    },
+    {
+      "id": 26,
+      "start": 202,
+      "end": 208
+    },
+    {
+      "id": 27,
+      "start": 209,
+      "end": 217
+    },
+    {
+      "id": 28,
+      "start": 217,
+      "end": 230
+    },
+    {
+      "id": 29,
+      "start": 230,
+      "end": 231
+    },
+    {
+      "id": 30,
+      "start": 232,
+      "end": 234
+    },
+    {
+      "id": 31,
+      "start": 235,
+      "end": 237
+    },
+    {
+      "id": 32,
+      "start": 238,
+      "end": 251
+    },
+    {
+      "id": 33,
+      "start": 252,
+      "end": 256
+    },
+    {
+      "id": 34,
+      "start": 257,
+      "end": 263
+    },
+    {
+      "id": 35,
+      "start": 263,
+      "end": 276
+    },
+    {
+      "id": 36,
+      "start": 277,
+      "end": 279
+    },
+    {
+      "id": 37,
+      "start": 280,
+      "end": 283
+    },
+    {
+      "id": 38,
+      "start": 284,
+      "end": 289
+    },
+    {
+      "id": 39,
+      "start": 290,
+      "end": 292
+    },
+    {
+      "id": 40,
+      "start": 293,
+      "end": 296
+    },
+    {
+      "id": 41,
+      "start": 297,
+      "end": 308
+    },
+    {
+      "id": 42,
+      "start": 309,
+      "end": 311
+    },
+    {
+      "id": 43,
+      "start": 312,
+      "end": 315
+    },
+    {
+      "id": 44,
+      "start": 316,
+      "end": 327
+    },
+    {
+      "id": 45,
+      "start": 328,
+      "end": 335
+    },
+    {
+      "id": 46,
+      "start": 335,
+      "end": 336
+    },
+    {
+      "id": 47,
+      "start": 337,
+      "end": 342
+    },
+    {
+      "id": 48,
+      "start": 343,
+      "end": 350
+    },
+    {
+      "id": 49,
+      "start": 351,
+      "end": 353
+    },
+    {
+      "id": 50,
+      "start": 353,
+      "end": 354
+    },
+    {
+      "id": 51,
+      "start": 354,
+      "end": 361
+    },
+    {
+      "id": 52,
+      "start": 361,
+      "end": 374
+    },
+    {
+      "id": 53,
+      "start": 375,
+      "end": 377
+    },
+    {
+      "id": 54,
+      "start": 378,
+      "end": 389
+    },
+    {
+      "id": 55,
+      "start": 390,
+      "end": 392
+    },
+    {
+      "id": 56,
+      "start": 393,
+      "end": 394
+    },
+    {
+      "id": 57,
+      "start": 395,
+      "end": 402
+    },
+    {
+      "id": 58,
+      "start": 403,
+      "end": 405
+    },
+    {
+      "id": 59,
+      "start": 406,
+      "end": 410
+    },
+    {
+      "id": 60,
+      "start": 411,
+      "end": 415
+    },
+    {
+      "id": 61,
+      "start": 416,
+      "end": 420
+    },
+    {
+      "id": 62,
+      "start": 420,
+      "end": 421
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Diorite",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "intrusive igneous rock",
+      "dest": 1
+    },
+    {
+      "dep_text": "plagioclase feldspar",
+      "dep": 2,
+      "rel": "rdf-isClassOf",
+      "dest_text": "intrusive igneous rock",
+      "dest": 1
+    },
+    {
+      "dep_text": "andesine",
+      "dep": 3,
+      "rel": "rdf-isClassOf",
+      "dest_text": "intrusive igneous rock",
+      "dest": 1
+    },
+    {
+      "dep_text": "biotite",
+      "dep": 4,
+      "rel": "rdf-isClassOf",
+      "dest_text": "intrusive igneous rock",
+      "dest": 1
+    },
+    {
+      "dep_text": "hornblende",
+      "dep": 5,
+      "rel": "rdf-isClassOf",
+      "dest_text": "intrusive igneous rock",
+      "dest": 1
+    },
+    {
+      "dep_text": "pyroxene",
+      "dep": 6,
+      "rel": "rdf-isClassOf",
+      "dest_text": "intrusive igneous rock",
+      "dest": 1
+    }
+  ],
+  "classes": {
+    "intrusive_igneous_rock_1": {
+      "labels": [
+        "ORGANISM",
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "intrusive igneous rock"
+    }
+  }
+}

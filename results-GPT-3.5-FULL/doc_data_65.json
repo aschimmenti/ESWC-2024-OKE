@@ -1,0 +1,183 @@
+{
+  "text": "Julien Ranouil, known by his stage name Pakito, is a French electronic dance music artist.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 14,
+      "label": "ENTITY"
+    },
+    {
+      "start": 42,
+      "end": 52,
+      "label": "CLASS"
+    },
+    {
+      "start": 65,
+      "end": 71,
+      "label": "ENTITY"
+    },
+    {
+      "start": 91,
+      "end": 97,
+      "label": "ENTITY"
+    },
+    {
+      "start_char": 0,
+      "end_char": 14,
+      "label": "ENTITY",
+      "text": "Julien Ranouil"
+    },
+    {
+      "start_char": 42,
+      "end_char": 52,
+      "label": "CLASS",
+      "text": "stage name",
+      "subClassOf": [
+        "PERSON",
+        "PERSONIFICATION"
+      ]
+    },
+    {
+      "start_char": 65,
+      "end_char": 71,
+      "label": "ENTITY",
+      "text": "Pakito"
+    },
+    {
+      "start_char": 91,
+      "end_char": 97,
+      "label": "ENTITY",
+      "text": "French"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 6
+    },
+    {
+      "id": 1,
+      "start": 7,
+      "end": 14
+    },
+    {
+      "id": 2,
+      "start": 14,
+      "end": 27
+    },
+    {
+      "id": 3,
+      "start": 27,
+      "end": 28
+    },
+    {
+      "id": 4,
+      "start": 29,
+      "end": 34
+    },
+    {
+      "id": 5,
+      "start": 35,
+      "end": 37
+    },
+    {
+      "id": 6,
+      "start": 38,
+      "end": 41
+    },
+    {
+      "id": 7,
+      "start": 42,
+      "end": 47
+    },
+    {
+      "id": 8,
+      "start": 48,
+      "end": 52
+    },
+    {
+      "id": 9,
+      "start": 52,
+      "end": 64
+    },
+    {
+      "id": 10,
+      "start": 65,
+      "end": 71
+    },
+    {
+      "id": 11,
+      "start": 71,
+      "end": 84
+    },
+    {
+      "id": 12,
+      "start": 84,
+      "end": 85
+    },
+    {
+      "id": 13,
+      "start": 86,
+      "end": 88
+    },
+    {
+      "id": 14,
+      "start": 89,
+      "end": 90
+    },
+    {
+      "id": 15,
+      "start": 91,
+      "end": 97
+    },
+    {
+      "id": 16,
+      "start": 97,
+      "end": 110
+    },
+    {
+      "id": 17,
+      "start": 111,
+      "end": 121
+    },
+    {
+      "id": 18,
+      "start": 122,
+      "end": 127
+    },
+    {
+      "id": 19,
+      "start": 128,
+      "end": 133
+    },
+    {
+      "id": 20,
+      "start": 134,
+      "end": 140
+    },
+    {
+      "id": 21,
+      "start": 140,
+      "end": 141
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Julien Ranouil",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "stage name",
+      "dest": 1
+    }
+  ],
+  "classes": {
+    "stage_name_1": {
+      "labels": [
+        "PERSON",
+        "PERSONIFICATION"
+      ],
+      "class": "stage name"
+    }
+  }
+}

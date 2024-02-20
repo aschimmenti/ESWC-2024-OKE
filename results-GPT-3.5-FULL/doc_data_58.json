@@ -1,0 +1,389 @@
+{
+  "text": "Popeye the Sailor Man is a cartoon fictional character, created by Elzie Crisler Segar, who has appeared in comic strips and theatrical and television animated cartoons. He first appeared in the daily King Features comic strip Thimble Theatre on January 17, 1929; Popeye became the strip's title in later years.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 21,
+      "label": "ENTITY"
+    },
+    {
+      "start": 80,
+      "end": 99,
+      "label": "ENTITY"
+    },
+    {
+      "start": 227,
+      "end": 268,
+      "label": "ENTITY"
+    },
+    {
+      "start": 285,
+      "end": 301,
+      "label": "ENTITY"
+    },
+    {
+      "start": 316,
+      "end": 322,
+      "label": "ENTITY"
+    },
+    {
+      "start_char": 0,
+      "end_char": 21,
+      "label": "ENTITY",
+      "text": "Popeye the Sailor Man"
+    },
+    {
+      "start_char": 80,
+      "end_char": 99,
+      "label": "ENTITY",
+      "text": "Elzie Crisler Segar"
+    },
+    {
+      "start_char": 227,
+      "end_char": 268,
+      "label": "ENTITY",
+      "text": "King Features comic strip Thimble Theatre"
+    },
+    {
+      "start_char": 285,
+      "end_char": 301,
+      "label": "ENTITY",
+      "text": "January 17, 1929"
+    },
+    {
+      "start_char": 316,
+      "end_char": 322,
+      "label": "ENTITY",
+      "text": "Popeye"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 6
+    },
+    {
+      "id": 1,
+      "start": 7,
+      "end": 10
+    },
+    {
+      "id": 2,
+      "start": 11,
+      "end": 17
+    },
+    {
+      "id": 3,
+      "start": 18,
+      "end": 21
+    },
+    {
+      "id": 4,
+      "start": 21,
+      "end": 34
+    },
+    {
+      "id": 5,
+      "start": 35,
+      "end": 37
+    },
+    {
+      "id": 6,
+      "start": 38,
+      "end": 39
+    },
+    {
+      "id": 7,
+      "start": 40,
+      "end": 47
+    },
+    {
+      "id": 8,
+      "start": 48,
+      "end": 57
+    },
+    {
+      "id": 9,
+      "start": 58,
+      "end": 67
+    },
+    {
+      "id": 10,
+      "start": 67,
+      "end": 68
+    },
+    {
+      "id": 11,
+      "start": 69,
+      "end": 76
+    },
+    {
+      "id": 12,
+      "start": 77,
+      "end": 79
+    },
+    {
+      "id": 13,
+      "start": 80,
+      "end": 85
+    },
+    {
+      "id": 14,
+      "start": 86,
+      "end": 93
+    },
+    {
+      "id": 15,
+      "start": 94,
+      "end": 99
+    },
+    {
+      "id": 16,
+      "start": 99,
+      "end": 112
+    },
+    {
+      "id": 17,
+      "start": 112,
+      "end": 113
+    },
+    {
+      "id": 18,
+      "start": 114,
+      "end": 117
+    },
+    {
+      "id": 19,
+      "start": 118,
+      "end": 121
+    },
+    {
+      "id": 20,
+      "start": 122,
+      "end": 130
+    },
+    {
+      "id": 21,
+      "start": 131,
+      "end": 133
+    },
+    {
+      "id": 22,
+      "start": 134,
+      "end": 139
+    },
+    {
+      "id": 23,
+      "start": 140,
+      "end": 146
+    },
+    {
+      "id": 24,
+      "start": 147,
+      "end": 150
+    },
+    {
+      "id": 25,
+      "start": 151,
+      "end": 161
+    },
+    {
+      "id": 26,
+      "start": 162,
+      "end": 165
+    },
+    {
+      "id": 27,
+      "start": 166,
+      "end": 176
+    },
+    {
+      "id": 28,
+      "start": 177,
+      "end": 185
+    },
+    {
+      "id": 29,
+      "start": 186,
+      "end": 194
+    },
+    {
+      "id": 30,
+      "start": 194,
+      "end": 195
+    },
+    {
+      "id": 31,
+      "start": 196,
+      "end": 198
+    },
+    {
+      "id": 32,
+      "start": 199,
+      "end": 204
+    },
+    {
+      "id": 33,
+      "start": 205,
+      "end": 213
+    },
+    {
+      "id": 34,
+      "start": 214,
+      "end": 216
+    },
+    {
+      "id": 35,
+      "start": 217,
+      "end": 220
+    },
+    {
+      "id": 36,
+      "start": 221,
+      "end": 226
+    },
+    {
+      "id": 37,
+      "start": 227,
+      "end": 231
+    },
+    {
+      "id": 38,
+      "start": 232,
+      "end": 240
+    },
+    {
+      "id": 39,
+      "start": 241,
+      "end": 246
+    },
+    {
+      "id": 40,
+      "start": 247,
+      "end": 252
+    },
+    {
+      "id": 41,
+      "start": 253,
+      "end": 260
+    },
+    {
+      "id": 42,
+      "start": 261,
+      "end": 268
+    },
+    {
+      "id": 43,
+      "start": 268,
+      "end": 281
+    },
+    {
+      "id": 44,
+      "start": 282,
+      "end": 284
+    },
+    {
+      "id": 45,
+      "start": 285,
+      "end": 292
+    },
+    {
+      "id": 46,
+      "start": 293,
+      "end": 295
+    },
+    {
+      "id": 47,
+      "start": 295,
+      "end": 296
+    },
+    {
+      "id": 48,
+      "start": 297,
+      "end": 301
+    },
+    {
+      "id": 49,
+      "start": 301,
+      "end": 314
+    },
+    {
+      "id": 50,
+      "start": 314,
+      "end": 315
+    },
+    {
+      "id": 51,
+      "start": 316,
+      "end": 322
+    },
+    {
+      "id": 52,
+      "start": 322,
+      "end": 335
+    },
+    {
+      "id": 53,
+      "start": 336,
+      "end": 342
+    },
+    {
+      "id": 54,
+      "start": 343,
+      "end": 346
+    },
+    {
+      "id": 55,
+      "start": 347,
+      "end": 352
+    },
+    {
+      "id": 56,
+      "start": 352,
+      "end": 354
+    },
+    {
+      "id": 57,
+      "start": 355,
+      "end": 360
+    },
+    {
+      "id": 58,
+      "start": 361,
+      "end": 363
+    },
+    {
+      "id": 59,
+      "start": 364,
+      "end": 369
+    },
+    {
+      "id": 60,
+      "start": 370,
+      "end": 375
+    },
+    {
+      "id": 61,
+      "start": 375,
+      "end": 376
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Popeye the Sailor Man",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "Elzie Crisler Segar",
+      "dest": 1
+    },
+    {
+      "dep_text": "Popeye the Sailor Man",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "King Features comic strip Thimble Theatre",
+      "dest": 2
+    }
+  ],
+  "classes": {}
+}

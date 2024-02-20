@@ -1,0 +1,427 @@
+{
+  "text": "Science fiction is a fiction genre dealing with imaginative content such as futuristic settings, futuristic science and technology, space travel, time travel, faster than light travel, parallel universes and extraterrestrial life.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 15,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 38,
+      "end": 51,
+      "label": "CLASS"
+    },
+    {
+      "start": 105,
+      "end": 124,
+      "label": "CLASS"
+    },
+    {
+      "start": 138,
+      "end": 171,
+      "label": "CLASS"
+    },
+    {
+      "start": 185,
+      "end": 197,
+      "label": "CLASS"
+    },
+    {
+      "start": 211,
+      "end": 222,
+      "label": "CLASS"
+    },
+    {
+      "start": 236,
+      "end": 260,
+      "label": "CLASS"
+    },
+    {
+      "start": 274,
+      "end": 292,
+      "label": "CLASS"
+    },
+    {
+      "start": 309,
+      "end": 330,
+      "label": "CLASS"
+    },
+    {
+      "start_char": 0,
+      "end_char": 15,
+      "label": "INDIVIDUAL",
+      "text": "Science fiction"
+    },
+    {
+      "start_char": 38,
+      "end_char": 51,
+      "label": "CLASS",
+      "text": "fiction genre",
+      "subClassOf": [
+        "TOPIC"
+      ]
+    },
+    {
+      "start_char": 105,
+      "end_char": 124,
+      "label": "CLASS",
+      "text": "futuristic settings",
+      "subClassOf": [
+        "TOPIC"
+      ]
+    },
+    {
+      "start_char": 138,
+      "end_char": 171,
+      "label": "CLASS",
+      "text": "futuristic science and technology",
+      "subClassOf": [
+        "ABSTRACT",
+        "TOPIC"
+      ]
+    },
+    {
+      "start_char": 185,
+      "end_char": 197,
+      "label": "CLASS",
+      "text": "space travel",
+      "subClassOf": [
+        "ACTIVITY"
+      ]
+    },
+    {
+      "start_char": 211,
+      "end_char": 222,
+      "label": "CLASS",
+      "text": "time travel",
+      "subClassOf": [
+        "ACTIVITY"
+      ]
+    },
+    {
+      "start_char": 236,
+      "end_char": 260,
+      "label": "CLASS",
+      "text": "faster than light travel",
+      "subClassOf": [
+        "ABSTRACT",
+        "ACTIVITY"
+      ]
+    },
+    {
+      "start_char": 274,
+      "end_char": 292,
+      "label": "CLASS",
+      "text": "parallel universes",
+      "subClassOf": [
+        "ABSTRACT",
+        "TOPIC"
+      ]
+    },
+    {
+      "start_char": 309,
+      "end_char": 330,
+      "label": "CLASS",
+      "text": "extraterrestrial life",
+      "subClassOf": [
+        "ABSTRACT",
+        "ORGANISM"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 7
+    },
+    {
+      "id": 1,
+      "start": 8,
+      "end": 15
+    },
+    {
+      "id": 2,
+      "start": 15,
+      "end": 32
+    },
+    {
+      "id": 3,
+      "start": 33,
+      "end": 35
+    },
+    {
+      "id": 4,
+      "start": 36,
+      "end": 37
+    },
+    {
+      "id": 5,
+      "start": 38,
+      "end": 45
+    },
+    {
+      "id": 6,
+      "start": 46,
+      "end": 51
+    },
+    {
+      "id": 7,
+      "start": 51,
+      "end": 63
+    },
+    {
+      "id": 8,
+      "start": 64,
+      "end": 71
+    },
+    {
+      "id": 9,
+      "start": 72,
+      "end": 76
+    },
+    {
+      "id": 10,
+      "start": 77,
+      "end": 88
+    },
+    {
+      "id": 11,
+      "start": 89,
+      "end": 96
+    },
+    {
+      "id": 12,
+      "start": 97,
+      "end": 101
+    },
+    {
+      "id": 13,
+      "start": 102,
+      "end": 104
+    },
+    {
+      "id": 14,
+      "start": 105,
+      "end": 115
+    },
+    {
+      "id": 15,
+      "start": 116,
+      "end": 124
+    },
+    {
+      "id": 16,
+      "start": 124,
+      "end": 136
+    },
+    {
+      "id": 17,
+      "start": 136,
+      "end": 137
+    },
+    {
+      "id": 18,
+      "start": 138,
+      "end": 148
+    },
+    {
+      "id": 19,
+      "start": 149,
+      "end": 156
+    },
+    {
+      "id": 20,
+      "start": 157,
+      "end": 160
+    },
+    {
+      "id": 21,
+      "start": 161,
+      "end": 171
+    },
+    {
+      "id": 22,
+      "start": 171,
+      "end": 183
+    },
+    {
+      "id": 23,
+      "start": 183,
+      "end": 184
+    },
+    {
+      "id": 24,
+      "start": 185,
+      "end": 190
+    },
+    {
+      "id": 25,
+      "start": 191,
+      "end": 197
+    },
+    {
+      "id": 26,
+      "start": 197,
+      "end": 209
+    },
+    {
+      "id": 27,
+      "start": 209,
+      "end": 210
+    },
+    {
+      "id": 28,
+      "start": 211,
+      "end": 215
+    },
+    {
+      "id": 29,
+      "start": 216,
+      "end": 222
+    },
+    {
+      "id": 30,
+      "start": 222,
+      "end": 234
+    },
+    {
+      "id": 31,
+      "start": 234,
+      "end": 235
+    },
+    {
+      "id": 32,
+      "start": 236,
+      "end": 242
+    },
+    {
+      "id": 33,
+      "start": 243,
+      "end": 247
+    },
+    {
+      "id": 34,
+      "start": 248,
+      "end": 253
+    },
+    {
+      "id": 35,
+      "start": 254,
+      "end": 260
+    },
+    {
+      "id": 36,
+      "start": 260,
+      "end": 272
+    },
+    {
+      "id": 37,
+      "start": 272,
+      "end": 273
+    },
+    {
+      "id": 38,
+      "start": 274,
+      "end": 282
+    },
+    {
+      "id": 39,
+      "start": 283,
+      "end": 292
+    },
+    {
+      "id": 40,
+      "start": 292,
+      "end": 304
+    },
+    {
+      "id": 41,
+      "start": 305,
+      "end": 308
+    },
+    {
+      "id": 42,
+      "start": 309,
+      "end": 325
+    },
+    {
+      "id": 43,
+      "start": 326,
+      "end": 330
+    },
+    {
+      "id": 44,
+      "start": 330,
+      "end": 342
+    },
+    {
+      "id": 45,
+      "start": 342,
+      "end": 343
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Science fiction",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "fiction genre",
+      "dest": 1
+    }
+  ],
+  "classes": {
+    "fiction_genre_1": {
+      "labels": [
+        "TOPIC"
+      ],
+      "class": "fiction genre"
+    },
+    "futuristic_settings_2": {
+      "labels": [
+        "TOPIC"
+      ],
+      "class": "futuristic settings"
+    },
+    "futuristic_science_and_technology_3": {
+      "labels": [
+        "ABSTRACT",
+        "TOPIC"
+      ],
+      "class": "futuristic science and technology"
+    },
+    "space_travel_4": {
+      "labels": [
+        "ACTIVITY"
+      ],
+      "class": "space travel"
+    },
+    "time_travel_5": {
+      "labels": [
+        "ACTIVITY"
+      ],
+      "class": "time travel"
+    },
+    "faster_than_light_travel_6": {
+      "labels": [
+        "ABSTRACT",
+        "ACTIVITY"
+      ],
+      "class": "faster than light travel"
+    },
+    "parallel_universes_7": {
+      "labels": [
+        "ABSTRACT",
+        "TOPIC"
+      ],
+      "class": "parallel universes"
+    },
+    "extraterrestrial_life_8": {
+      "labels": [
+        "ABSTRACT",
+        "ORGANISM"
+      ],
+      "class": "extraterrestrial life"
+    }
+  }
+}

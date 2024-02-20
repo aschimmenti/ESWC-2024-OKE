@@ -1,0 +1,339 @@
+{
+  "text": "The Adamawa Plateau is a plateau region in west-central Africa stretching from south-eastern Nigeria through north-central Cameroon (Adamawa and North Provinces) to the Central African Republic.",
+  "ents": [
+    {
+      "start": 4,
+      "end": 19,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 42,
+      "end": 56,
+      "label": "CLASS"
+    },
+    {
+      "start": 72,
+      "end": 91,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 139,
+      "end": 146,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 186,
+      "end": 194,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 213,
+      "end": 220,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 242,
+      "end": 257,
+      "label": "CLASS"
+    },
+    {
+      "start": 278,
+      "end": 302,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start_char": 4,
+      "end_char": 19,
+      "label": "INDIVIDUAL",
+      "text": "Adamawa Plateau"
+    },
+    {
+      "start_char": 42,
+      "end_char": 56,
+      "label": "CLASS",
+      "text": "plateau region",
+      "subClassOf": [
+        "LOCATION"
+      ]
+    },
+    {
+      "start_char": 72,
+      "end_char": 91,
+      "label": "INDIVIDUAL",
+      "text": "west-central Africa"
+    },
+    {
+      "start_char": 139,
+      "end_char": 146,
+      "label": "INDIVIDUAL",
+      "text": "Nigeria"
+    },
+    {
+      "start_char": 186,
+      "end_char": 194,
+      "label": "INDIVIDUAL",
+      "text": "Cameroon"
+    },
+    {
+      "start_char": 213,
+      "end_char": 220,
+      "label": "INDIVIDUAL",
+      "text": "Adamawa"
+    },
+    {
+      "start_char": 242,
+      "end_char": 257,
+      "label": "CLASS",
+      "text": "North Provinces",
+      "subClassOf": [
+        "LOCATION"
+      ]
+    },
+    {
+      "start_char": 278,
+      "end_char": 302,
+      "label": "INDIVIDUAL",
+      "text": "Central African Republic"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 3
+    },
+    {
+      "id": 1,
+      "start": 4,
+      "end": 11
+    },
+    {
+      "id": 2,
+      "start": 12,
+      "end": 19
+    },
+    {
+      "id": 3,
+      "start": 19,
+      "end": 36
+    },
+    {
+      "id": 4,
+      "start": 37,
+      "end": 39
+    },
+    {
+      "id": 5,
+      "start": 40,
+      "end": 41
+    },
+    {
+      "id": 6,
+      "start": 42,
+      "end": 49
+    },
+    {
+      "id": 7,
+      "start": 50,
+      "end": 56
+    },
+    {
+      "id": 8,
+      "start": 56,
+      "end": 68
+    },
+    {
+      "id": 9,
+      "start": 69,
+      "end": 71
+    },
+    {
+      "id": 10,
+      "start": 72,
+      "end": 76
+    },
+    {
+      "id": 11,
+      "start": 76,
+      "end": 77
+    },
+    {
+      "id": 12,
+      "start": 77,
+      "end": 84
+    },
+    {
+      "id": 13,
+      "start": 85,
+      "end": 91
+    },
+    {
+      "id": 14,
+      "start": 91,
+      "end": 108
+    },
+    {
+      "id": 15,
+      "start": 109,
+      "end": 119
+    },
+    {
+      "id": 16,
+      "start": 120,
+      "end": 124
+    },
+    {
+      "id": 17,
+      "start": 125,
+      "end": 130
+    },
+    {
+      "id": 18,
+      "start": 130,
+      "end": 131
+    },
+    {
+      "id": 19,
+      "start": 131,
+      "end": 138
+    },
+    {
+      "id": 20,
+      "start": 139,
+      "end": 146
+    },
+    {
+      "id": 21,
+      "start": 146,
+      "end": 163
+    },
+    {
+      "id": 22,
+      "start": 164,
+      "end": 171
+    },
+    {
+      "id": 23,
+      "start": 172,
+      "end": 177
+    },
+    {
+      "id": 24,
+      "start": 177,
+      "end": 178
+    },
+    {
+      "id": 25,
+      "start": 178,
+      "end": 185
+    },
+    {
+      "id": 26,
+      "start": 186,
+      "end": 194
+    },
+    {
+      "id": 27,
+      "start": 194,
+      "end": 211
+    },
+    {
+      "id": 28,
+      "start": 212,
+      "end": 213
+    },
+    {
+      "id": 29,
+      "start": 213,
+      "end": 220
+    },
+    {
+      "id": 30,
+      "start": 220,
+      "end": 237
+    },
+    {
+      "id": 31,
+      "start": 238,
+      "end": 241
+    },
+    {
+      "id": 32,
+      "start": 242,
+      "end": 247
+    },
+    {
+      "id": 33,
+      "start": 248,
+      "end": 257
+    },
+    {
+      "id": 34,
+      "start": 257,
+      "end": 269
+    },
+    {
+      "id": 35,
+      "start": 269,
+      "end": 270
+    },
+    {
+      "id": 36,
+      "start": 271,
+      "end": 273
+    },
+    {
+      "id": 37,
+      "start": 274,
+      "end": 277
+    },
+    {
+      "id": 38,
+      "start": 278,
+      "end": 285
+    },
+    {
+      "id": 39,
+      "start": 286,
+      "end": 293
+    },
+    {
+      "id": 40,
+      "start": 294,
+      "end": 302
+    },
+    {
+      "id": 41,
+      "start": 302,
+      "end": 319
+    },
+    {
+      "id": 42,
+      "start": 319,
+      "end": 320
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Adamawa Plateau",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "plateau region",
+      "dest": 1
+    }
+  ],
+  "classes": {
+    "plateau_region_1": {
+      "labels": [
+        "LOCATION"
+      ],
+      "class": "plateau region"
+    },
+    "North_Provinces_6": {
+      "labels": [
+        "LOCATION"
+      ],
+      "class": "North Provinces"
+    }
+  }
+}

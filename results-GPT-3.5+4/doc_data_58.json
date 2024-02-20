@@ -1,0 +1,476 @@
+{
+  "text": "Popeye the Sailor Man is a cartoon fictional character, created by Elzie Crisler Segar, who has appeared in comic strips and theatrical and television animated cartoons. He first appeared in the daily King Features comic strip Thimble Theatre on January 17, 1929; Popeye became the strip's title in later years.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 21,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 44,
+      "end": 71,
+      "label": "CLASS"
+    },
+    {
+      "start": 96,
+      "end": 115,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 154,
+      "end": 166,
+      "label": "CLASS"
+    },
+    {
+      "start": 183,
+      "end": 226,
+      "label": "CLASS"
+    },
+    {
+      "start": 271,
+      "end": 284,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 314,
+      "end": 329,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 350,
+      "end": 366,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start_char": 0,
+      "end_char": 21,
+      "label": "INDIVIDUAL",
+      "text": "Popeye the Sailor Man"
+    },
+    {
+      "start_char": 44,
+      "end_char": 71,
+      "label": "CLASS",
+      "text": "cartoon fictional character",
+      "subClassOf": [
+        "PERSONIFICATION"
+      ]
+    },
+    {
+      "start_char": 96,
+      "end_char": 115,
+      "label": "INDIVIDUAL",
+      "text": "Elzie Crisler Segar"
+    },
+    {
+      "start_char": 154,
+      "end_char": 166,
+      "label": "CLASS",
+      "text": "comic strips",
+      "subClassOf": [
+        "INFORMATION_ENTITY"
+      ]
+    },
+    {
+      "start_char": 183,
+      "end_char": 226,
+      "label": "CLASS",
+      "text": "theatrical and television animated cartoons",
+      "subClassOf": [
+        "INFORMATION_ENTITY",
+        "PERSON",
+        "PHYSICAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 271,
+      "end_char": 284,
+      "label": "INDIVIDUAL",
+      "text": "King Features"
+    },
+    {
+      "start_char": 314,
+      "end_char": 329,
+      "label": "INDIVIDUAL",
+      "text": "Thimble Theatre"
+    },
+    {
+      "start_char": 350,
+      "end_char": 366,
+      "label": "INDIVIDUAL",
+      "text": "January 17, 1929"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 6
+    },
+    {
+      "id": 1,
+      "start": 7,
+      "end": 10
+    },
+    {
+      "id": 2,
+      "start": 11,
+      "end": 17
+    },
+    {
+      "id": 3,
+      "start": 18,
+      "end": 21
+    },
+    {
+      "id": 4,
+      "start": 21,
+      "end": 38
+    },
+    {
+      "id": 5,
+      "start": 39,
+      "end": 41
+    },
+    {
+      "id": 6,
+      "start": 42,
+      "end": 43
+    },
+    {
+      "id": 7,
+      "start": 44,
+      "end": 51
+    },
+    {
+      "id": 8,
+      "start": 52,
+      "end": 61
+    },
+    {
+      "id": 9,
+      "start": 62,
+      "end": 71
+    },
+    {
+      "id": 10,
+      "start": 71,
+      "end": 83
+    },
+    {
+      "id": 11,
+      "start": 83,
+      "end": 84
+    },
+    {
+      "id": 12,
+      "start": 85,
+      "end": 92
+    },
+    {
+      "id": 13,
+      "start": 93,
+      "end": 95
+    },
+    {
+      "id": 14,
+      "start": 96,
+      "end": 101
+    },
+    {
+      "id": 15,
+      "start": 102,
+      "end": 109
+    },
+    {
+      "id": 16,
+      "start": 110,
+      "end": 115
+    },
+    {
+      "id": 17,
+      "start": 115,
+      "end": 132
+    },
+    {
+      "id": 18,
+      "start": 132,
+      "end": 133
+    },
+    {
+      "id": 19,
+      "start": 134,
+      "end": 137
+    },
+    {
+      "id": 20,
+      "start": 138,
+      "end": 141
+    },
+    {
+      "id": 21,
+      "start": 142,
+      "end": 150
+    },
+    {
+      "id": 22,
+      "start": 151,
+      "end": 153
+    },
+    {
+      "id": 23,
+      "start": 154,
+      "end": 159
+    },
+    {
+      "id": 24,
+      "start": 160,
+      "end": 166
+    },
+    {
+      "id": 25,
+      "start": 166,
+      "end": 178
+    },
+    {
+      "id": 26,
+      "start": 179,
+      "end": 182
+    },
+    {
+      "id": 27,
+      "start": 183,
+      "end": 193
+    },
+    {
+      "id": 28,
+      "start": 194,
+      "end": 197
+    },
+    {
+      "id": 29,
+      "start": 198,
+      "end": 208
+    },
+    {
+      "id": 30,
+      "start": 209,
+      "end": 217
+    },
+    {
+      "id": 31,
+      "start": 218,
+      "end": 226
+    },
+    {
+      "id": 32,
+      "start": 226,
+      "end": 238
+    },
+    {
+      "id": 33,
+      "start": 238,
+      "end": 239
+    },
+    {
+      "id": 34,
+      "start": 240,
+      "end": 242
+    },
+    {
+      "id": 35,
+      "start": 243,
+      "end": 248
+    },
+    {
+      "id": 36,
+      "start": 249,
+      "end": 257
+    },
+    {
+      "id": 37,
+      "start": 258,
+      "end": 260
+    },
+    {
+      "id": 38,
+      "start": 261,
+      "end": 264
+    },
+    {
+      "id": 39,
+      "start": 265,
+      "end": 270
+    },
+    {
+      "id": 40,
+      "start": 271,
+      "end": 275
+    },
+    {
+      "id": 41,
+      "start": 276,
+      "end": 284
+    },
+    {
+      "id": 42,
+      "start": 284,
+      "end": 301
+    },
+    {
+      "id": 43,
+      "start": 302,
+      "end": 307
+    },
+    {
+      "id": 44,
+      "start": 308,
+      "end": 313
+    },
+    {
+      "id": 45,
+      "start": 314,
+      "end": 321
+    },
+    {
+      "id": 46,
+      "start": 322,
+      "end": 329
+    },
+    {
+      "id": 47,
+      "start": 329,
+      "end": 346
+    },
+    {
+      "id": 48,
+      "start": 347,
+      "end": 349
+    },
+    {
+      "id": 49,
+      "start": 350,
+      "end": 357
+    },
+    {
+      "id": 50,
+      "start": 358,
+      "end": 360
+    },
+    {
+      "id": 51,
+      "start": 360,
+      "end": 361
+    },
+    {
+      "id": 52,
+      "start": 362,
+      "end": 366
+    },
+    {
+      "id": 53,
+      "start": 366,
+      "end": 383
+    },
+    {
+      "id": 54,
+      "start": 383,
+      "end": 384
+    },
+    {
+      "id": 55,
+      "start": 385,
+      "end": 391
+    },
+    {
+      "id": 56,
+      "start": 392,
+      "end": 398
+    },
+    {
+      "id": 57,
+      "start": 399,
+      "end": 402
+    },
+    {
+      "id": 58,
+      "start": 403,
+      "end": 408
+    },
+    {
+      "id": 59,
+      "start": 408,
+      "end": 410
+    },
+    {
+      "id": 60,
+      "start": 411,
+      "end": 416
+    },
+    {
+      "id": 61,
+      "start": 417,
+      "end": 419
+    },
+    {
+      "id": 62,
+      "start": 420,
+      "end": 425
+    },
+    {
+      "id": 63,
+      "start": 426,
+      "end": 431
+    },
+    {
+      "id": 64,
+      "start": 431,
+      "end": 432
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Popeye the Sailor Man",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "cartoon fictional character",
+      "dest": 1
+    },
+    {
+      "dep_text": "Popeye the Sailor Man",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "comic strips",
+      "dest": 3
+    },
+    {
+      "dep_text": "Popeye the Sailor Man",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "theatrical and television animated cartoons",
+      "dest": 4
+    }
+  ],
+  "classes": {
+    "cartoon_fictional_character_1": {
+      "labels": [
+        "PERSONIFICATION"
+      ],
+      "class": "cartoon fictional character"
+    },
+    "comic_strips_3": {
+      "labels": [
+        "INFORMATION_ENTITY"
+      ],
+      "class": "comic strips"
+    },
+    "theatrical_and_television_animated_cartoons_4": {
+      "labels": [
+        "INFORMATION_ENTITY",
+        "PERSON",
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "theatrical and television animated cartoons"
+    }
+  }
+}

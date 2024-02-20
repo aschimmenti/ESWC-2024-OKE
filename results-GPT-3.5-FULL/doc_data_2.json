@@ -1,0 +1,595 @@
+{
+  "text": "Year 412 BC was a year of the pre-Julian Roman calendar. At the time, it was known as the Year of the Consulship of Ambustus and Pacilus (or, less frequently, year 342 Ab urbe condita). The denomination 412 BC for this year has been used since the early medieval period, when the Anno Domini calendar era became the prevalent method in Europe for naming years.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 11,
+      "label": "ENTITY"
+    },
+    {
+      "start": 43,
+      "end": 68,
+      "label": "CLASS"
+    },
+    {
+      "start": 115,
+      "end": 137,
+      "label": "CLASS"
+    },
+    {
+      "start": 153,
+      "end": 161,
+      "label": "ENTITY"
+    },
+    {
+      "start": 179,
+      "end": 186,
+      "label": "ENTITY"
+    },
+    {
+      "start": 227,
+      "end": 246,
+      "label": "ENTITY"
+    },
+    {
+      "start": 356,
+      "end": 380,
+      "label": "CLASS"
+    },
+    {
+      "start": 424,
+      "end": 430,
+      "label": "ENTITY"
+    },
+    {
+      "start_char": 0,
+      "end_char": 11,
+      "label": "ENTITY",
+      "text": "Year 412 BC"
+    },
+    {
+      "start_char": 43,
+      "end_char": 68,
+      "label": "CLASS",
+      "text": "pre-Julian Roman calendar",
+      "subClassOf": [
+        "TIME_INTERVAL"
+      ]
+    },
+    {
+      "start_char": 115,
+      "end_char": 137,
+      "label": "CLASS",
+      "text": "Year of the Consulship",
+      "subClassOf": [
+        "TIME_INTERVAL"
+      ]
+    },
+    {
+      "start_char": 153,
+      "end_char": 161,
+      "label": "ENTITY",
+      "text": "Ambustus"
+    },
+    {
+      "start_char": 179,
+      "end_char": 186,
+      "label": "ENTITY",
+      "text": "Pacilus"
+    },
+    {
+      "start_char": 227,
+      "end_char": 246,
+      "label": "ENTITY",
+      "text": "342 Ab urbe condita"
+    },
+    {
+      "start_char": 356,
+      "end_char": 380,
+      "label": "CLASS",
+      "text": "Anno Domini calendar era",
+      "subClassOf": [
+        "TIME_INTERVAL"
+      ]
+    },
+    {
+      "start_char": 424,
+      "end_char": 430,
+      "label": "ENTITY",
+      "text": "Europe"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 4
+    },
+    {
+      "id": 1,
+      "start": 5,
+      "end": 8
+    },
+    {
+      "id": 2,
+      "start": 9,
+      "end": 11
+    },
+    {
+      "id": 3,
+      "start": 11,
+      "end": 24
+    },
+    {
+      "id": 4,
+      "start": 25,
+      "end": 28
+    },
+    {
+      "id": 5,
+      "start": 29,
+      "end": 30
+    },
+    {
+      "id": 6,
+      "start": 31,
+      "end": 35
+    },
+    {
+      "id": 7,
+      "start": 36,
+      "end": 38
+    },
+    {
+      "id": 8,
+      "start": 39,
+      "end": 42
+    },
+    {
+      "id": 9,
+      "start": 43,
+      "end": 46
+    },
+    {
+      "id": 10,
+      "start": 46,
+      "end": 47
+    },
+    {
+      "id": 11,
+      "start": 47,
+      "end": 53
+    },
+    {
+      "id": 12,
+      "start": 54,
+      "end": 59
+    },
+    {
+      "id": 13,
+      "start": 60,
+      "end": 68
+    },
+    {
+      "id": 14,
+      "start": 68,
+      "end": 80
+    },
+    {
+      "id": 15,
+      "start": 80,
+      "end": 81
+    },
+    {
+      "id": 16,
+      "start": 82,
+      "end": 84
+    },
+    {
+      "id": 17,
+      "start": 85,
+      "end": 88
+    },
+    {
+      "id": 18,
+      "start": 89,
+      "end": 93
+    },
+    {
+      "id": 19,
+      "start": 93,
+      "end": 94
+    },
+    {
+      "id": 20,
+      "start": 95,
+      "end": 97
+    },
+    {
+      "id": 21,
+      "start": 98,
+      "end": 101
+    },
+    {
+      "id": 22,
+      "start": 102,
+      "end": 107
+    },
+    {
+      "id": 23,
+      "start": 108,
+      "end": 110
+    },
+    {
+      "id": 24,
+      "start": 111,
+      "end": 114
+    },
+    {
+      "id": 25,
+      "start": 115,
+      "end": 119
+    },
+    {
+      "id": 26,
+      "start": 120,
+      "end": 122
+    },
+    {
+      "id": 27,
+      "start": 123,
+      "end": 126
+    },
+    {
+      "id": 28,
+      "start": 127,
+      "end": 137
+    },
+    {
+      "id": 29,
+      "start": 137,
+      "end": 149
+    },
+    {
+      "id": 30,
+      "start": 150,
+      "end": 152
+    },
+    {
+      "id": 31,
+      "start": 153,
+      "end": 161
+    },
+    {
+      "id": 32,
+      "start": 161,
+      "end": 174
+    },
+    {
+      "id": 33,
+      "start": 175,
+      "end": 178
+    },
+    {
+      "id": 34,
+      "start": 179,
+      "end": 186
+    },
+    {
+      "id": 35,
+      "start": 186,
+      "end": 199
+    },
+    {
+      "id": 36,
+      "start": 200,
+      "end": 201
+    },
+    {
+      "id": 37,
+      "start": 201,
+      "end": 203
+    },
+    {
+      "id": 38,
+      "start": 203,
+      "end": 204
+    },
+    {
+      "id": 39,
+      "start": 205,
+      "end": 209
+    },
+    {
+      "id": 40,
+      "start": 210,
+      "end": 220
+    },
+    {
+      "id": 41,
+      "start": 220,
+      "end": 221
+    },
+    {
+      "id": 42,
+      "start": 222,
+      "end": 226
+    },
+    {
+      "id": 43,
+      "start": 227,
+      "end": 230
+    },
+    {
+      "id": 44,
+      "start": 231,
+      "end": 233
+    },
+    {
+      "id": 45,
+      "start": 234,
+      "end": 238
+    },
+    {
+      "id": 46,
+      "start": 239,
+      "end": 246
+    },
+    {
+      "id": 47,
+      "start": 246,
+      "end": 259
+    },
+    {
+      "id": 48,
+      "start": 259,
+      "end": 260
+    },
+    {
+      "id": 49,
+      "start": 260,
+      "end": 261
+    },
+    {
+      "id": 50,
+      "start": 262,
+      "end": 265
+    },
+    {
+      "id": 51,
+      "start": 266,
+      "end": 278
+    },
+    {
+      "id": 52,
+      "start": 279,
+      "end": 282
+    },
+    {
+      "id": 53,
+      "start": 283,
+      "end": 285
+    },
+    {
+      "id": 54,
+      "start": 286,
+      "end": 289
+    },
+    {
+      "id": 55,
+      "start": 290,
+      "end": 294
+    },
+    {
+      "id": 56,
+      "start": 295,
+      "end": 299
+    },
+    {
+      "id": 57,
+      "start": 300,
+      "end": 303
+    },
+    {
+      "id": 58,
+      "start": 304,
+      "end": 308
+    },
+    {
+      "id": 59,
+      "start": 309,
+      "end": 313
+    },
+    {
+      "id": 60,
+      "start": 314,
+      "end": 319
+    },
+    {
+      "id": 61,
+      "start": 320,
+      "end": 323
+    },
+    {
+      "id": 62,
+      "start": 324,
+      "end": 329
+    },
+    {
+      "id": 63,
+      "start": 330,
+      "end": 338
+    },
+    {
+      "id": 64,
+      "start": 339,
+      "end": 345
+    },
+    {
+      "id": 65,
+      "start": 345,
+      "end": 346
+    },
+    {
+      "id": 66,
+      "start": 347,
+      "end": 351
+    },
+    {
+      "id": 67,
+      "start": 352,
+      "end": 355
+    },
+    {
+      "id": 68,
+      "start": 356,
+      "end": 360
+    },
+    {
+      "id": 69,
+      "start": 361,
+      "end": 367
+    },
+    {
+      "id": 70,
+      "start": 368,
+      "end": 376
+    },
+    {
+      "id": 71,
+      "start": 377,
+      "end": 380
+    },
+    {
+      "id": 72,
+      "start": 380,
+      "end": 392
+    },
+    {
+      "id": 73,
+      "start": 393,
+      "end": 399
+    },
+    {
+      "id": 74,
+      "start": 400,
+      "end": 403
+    },
+    {
+      "id": 75,
+      "start": 404,
+      "end": 413
+    },
+    {
+      "id": 76,
+      "start": 414,
+      "end": 420
+    },
+    {
+      "id": 77,
+      "start": 421,
+      "end": 423
+    },
+    {
+      "id": 78,
+      "start": 424,
+      "end": 430
+    },
+    {
+      "id": 79,
+      "start": 430,
+      "end": 443
+    },
+    {
+      "id": 80,
+      "start": 444,
+      "end": 447
+    },
+    {
+      "id": 81,
+      "start": 448,
+      "end": 454
+    },
+    {
+      "id": 82,
+      "start": 455,
+      "end": 460
+    },
+    {
+      "id": 83,
+      "start": 460,
+      "end": 461
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Year 412 BC",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "pre-Julian Roman calendar",
+      "dest": 1
+    },
+    {
+      "dep_text": "Year 412 BC",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "Year of the Consulship",
+      "dest": 2
+    },
+    {
+      "dep_text": "Ambustus",
+      "dep": 3,
+      "rel": "rdf-isClassOf",
+      "dest_text": "Year of the Consulship",
+      "dest": 2
+    },
+    {
+      "dep_text": "Pacilus",
+      "dep": 4,
+      "rel": "rdf-isClassOf",
+      "dest_text": "Year of the Consulship",
+      "dest": 2
+    },
+    {
+      "dep_text": "342 Ab urbe condita",
+      "dep": 5,
+      "rel": "rdf-isClassOf",
+      "dest_text": "Year of the Consulship",
+      "dest": 2
+    },
+    {
+      "dep_text": "Anno Domini calendar era",
+      "dep": 6,
+      "rel": "rdf-isClassOf",
+      "dest_text": "Year of the Consulship",
+      "dest": 2
+    },
+    {
+      "dep_text": "Europe",
+      "dep": 7,
+      "rel": "rdf-type",
+      "dest_text": "Anno Domini calendar era",
+      "dest": 6
+    }
+  ],
+  "classes": {
+    "pre-Julian_Roman_calendar_1": {
+      "labels": [
+        "TIME_INTERVAL"
+      ],
+      "class": "pre-Julian Roman calendar"
+    },
+    "Year_of_the_Consulship_2": {
+      "labels": [
+        "TIME_INTERVAL"
+      ],
+      "class": "Year of the Consulship"
+    },
+    "Anno_Domini_calendar_era_6": {
+      "labels": [
+        "TIME_INTERVAL"
+      ],
+      "class": "Anno Domini calendar era"
+    }
+  }
+}

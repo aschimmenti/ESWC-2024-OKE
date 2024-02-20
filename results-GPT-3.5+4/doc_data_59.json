@@ -1,0 +1,509 @@
+{
+  "text": "Pearse Stadium is the GAA stadium, in County Galway, Ireland. The stadium opened on June 16, 1957, as 16,000 people came to watch Galway beat Tipperary in hurling, and Kerry in football, and to watch Bishop Michael Browne bless the facility.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 14,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 39,
+      "end": 50,
+      "label": "CLASS"
+    },
+    {
+      "start": 67,
+      "end": 80,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 99,
+      "end": 106,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 147,
+      "end": 160,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 182,
+      "end": 195,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 227,
+      "end": 233,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 256,
+      "end": 265,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 286,
+      "end": 293,
+      "label": "CLASS"
+    },
+    {
+      "start": 311,
+      "end": 316,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 337,
+      "end": 345,
+      "label": "CLASS"
+    },
+    {
+      "start": 373,
+      "end": 394,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 423,
+      "end": 431,
+      "label": "CLASS"
+    },
+    {
+      "start_char": 0,
+      "end_char": 14,
+      "label": "INDIVIDUAL",
+      "text": "Pearse Stadium"
+    },
+    {
+      "start_char": 39,
+      "end_char": 50,
+      "label": "CLASS",
+      "text": "GAA stadium",
+      "subClassOf": [
+        "LOCATION",
+        "PHYSICAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 67,
+      "end_char": 80,
+      "label": "INDIVIDUAL",
+      "text": "County Galway"
+    },
+    {
+      "start_char": 99,
+      "end_char": 106,
+      "label": "INDIVIDUAL",
+      "text": "Ireland"
+    },
+    {
+      "start_char": 147,
+      "end_char": 160,
+      "label": "INDIVIDUAL",
+      "text": "June 16, 1957"
+    },
+    {
+      "start_char": 182,
+      "end_char": 195,
+      "label": "INDIVIDUAL",
+      "text": "16,000 people"
+    },
+    {
+      "start_char": 227,
+      "end_char": 233,
+      "label": "INDIVIDUAL",
+      "text": "Galway"
+    },
+    {
+      "start_char": 256,
+      "end_char": 265,
+      "label": "INDIVIDUAL",
+      "text": "Tipperary"
+    },
+    {
+      "start_char": 286,
+      "end_char": 293,
+      "label": "CLASS",
+      "text": "hurling",
+      "subClassOf": [
+        "ACTIVITY"
+      ]
+    },
+    {
+      "start_char": 311,
+      "end_char": 316,
+      "label": "INDIVIDUAL",
+      "text": "Kerry"
+    },
+    {
+      "start_char": 337,
+      "end_char": 345,
+      "label": "CLASS",
+      "text": "football",
+      "subClassOf": [
+        "ACTIVITY"
+      ]
+    },
+    {
+      "start_char": 373,
+      "end_char": 394,
+      "label": "INDIVIDUAL",
+      "text": "Bishop Michael Browne"
+    },
+    {
+      "start_char": 423,
+      "end_char": 431,
+      "label": "CLASS",
+      "text": "facility",
+      "subClassOf": [
+        "LOCATION"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 6
+    },
+    {
+      "id": 1,
+      "start": 7,
+      "end": 14
+    },
+    {
+      "id": 2,
+      "start": 14,
+      "end": 31
+    },
+    {
+      "id": 3,
+      "start": 32,
+      "end": 34
+    },
+    {
+      "id": 4,
+      "start": 35,
+      "end": 38
+    },
+    {
+      "id": 5,
+      "start": 39,
+      "end": 42
+    },
+    {
+      "id": 6,
+      "start": 43,
+      "end": 50
+    },
+    {
+      "id": 7,
+      "start": 50,
+      "end": 62
+    },
+    {
+      "id": 8,
+      "start": 62,
+      "end": 63
+    },
+    {
+      "id": 9,
+      "start": 64,
+      "end": 66
+    },
+    {
+      "id": 10,
+      "start": 67,
+      "end": 73
+    },
+    {
+      "id": 11,
+      "start": 74,
+      "end": 80
+    },
+    {
+      "id": 12,
+      "start": 80,
+      "end": 97
+    },
+    {
+      "id": 13,
+      "start": 97,
+      "end": 98
+    },
+    {
+      "id": 14,
+      "start": 99,
+      "end": 106
+    },
+    {
+      "id": 15,
+      "start": 106,
+      "end": 123
+    },
+    {
+      "id": 16,
+      "start": 123,
+      "end": 124
+    },
+    {
+      "id": 17,
+      "start": 125,
+      "end": 128
+    },
+    {
+      "id": 18,
+      "start": 129,
+      "end": 136
+    },
+    {
+      "id": 19,
+      "start": 137,
+      "end": 143
+    },
+    {
+      "id": 20,
+      "start": 144,
+      "end": 146
+    },
+    {
+      "id": 21,
+      "start": 147,
+      "end": 151
+    },
+    {
+      "id": 22,
+      "start": 152,
+      "end": 154
+    },
+    {
+      "id": 23,
+      "start": 154,
+      "end": 155
+    },
+    {
+      "id": 24,
+      "start": 156,
+      "end": 160
+    },
+    {
+      "id": 25,
+      "start": 160,
+      "end": 177
+    },
+    {
+      "id": 26,
+      "start": 177,
+      "end": 178
+    },
+    {
+      "id": 27,
+      "start": 179,
+      "end": 181
+    },
+    {
+      "id": 28,
+      "start": 182,
+      "end": 188
+    },
+    {
+      "id": 29,
+      "start": 189,
+      "end": 195
+    },
+    {
+      "id": 30,
+      "start": 195,
+      "end": 212
+    },
+    {
+      "id": 31,
+      "start": 213,
+      "end": 217
+    },
+    {
+      "id": 32,
+      "start": 218,
+      "end": 220
+    },
+    {
+      "id": 33,
+      "start": 221,
+      "end": 226
+    },
+    {
+      "id": 34,
+      "start": 227,
+      "end": 233
+    },
+    {
+      "id": 35,
+      "start": 233,
+      "end": 250
+    },
+    {
+      "id": 36,
+      "start": 251,
+      "end": 255
+    },
+    {
+      "id": 37,
+      "start": 256,
+      "end": 265
+    },
+    {
+      "id": 38,
+      "start": 265,
+      "end": 282
+    },
+    {
+      "id": 39,
+      "start": 283,
+      "end": 285
+    },
+    {
+      "id": 40,
+      "start": 286,
+      "end": 293
+    },
+    {
+      "id": 41,
+      "start": 293,
+      "end": 305
+    },
+    {
+      "id": 42,
+      "start": 305,
+      "end": 306
+    },
+    {
+      "id": 43,
+      "start": 307,
+      "end": 310
+    },
+    {
+      "id": 44,
+      "start": 311,
+      "end": 316
+    },
+    {
+      "id": 45,
+      "start": 316,
+      "end": 333
+    },
+    {
+      "id": 46,
+      "start": 334,
+      "end": 336
+    },
+    {
+      "id": 47,
+      "start": 337,
+      "end": 345
+    },
+    {
+      "id": 48,
+      "start": 345,
+      "end": 358
+    },
+    {
+      "id": 49,
+      "start": 358,
+      "end": 359
+    },
+    {
+      "id": 50,
+      "start": 360,
+      "end": 363
+    },
+    {
+      "id": 51,
+      "start": 364,
+      "end": 366
+    },
+    {
+      "id": 52,
+      "start": 367,
+      "end": 372
+    },
+    {
+      "id": 53,
+      "start": 373,
+      "end": 379
+    },
+    {
+      "id": 54,
+      "start": 380,
+      "end": 387
+    },
+    {
+      "id": 55,
+      "start": 388,
+      "end": 394
+    },
+    {
+      "id": 56,
+      "start": 394,
+      "end": 412
+    },
+    {
+      "id": 57,
+      "start": 413,
+      "end": 418
+    },
+    {
+      "id": 58,
+      "start": 419,
+      "end": 422
+    },
+    {
+      "id": 59,
+      "start": 423,
+      "end": 431
+    },
+    {
+      "id": 60,
+      "start": 431,
+      "end": 444
+    },
+    {
+      "id": 61,
+      "start": 444,
+      "end": 445
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Pearse Stadium",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "GAA stadium",
+      "dest": 1
+    }
+  ],
+  "classes": {
+    "GAA_stadium_1": {
+      "labels": [
+        "LOCATION",
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "GAA stadium"
+    },
+    "hurling_8": {
+      "labels": [
+        "ACTIVITY"
+      ],
+      "class": "hurling"
+    },
+    "football_10": {
+      "labels": [
+        "ACTIVITY"
+      ],
+      "class": "football"
+    },
+    "facility_12": {
+      "labels": [
+        "LOCATION"
+      ],
+      "class": "facility"
+    }
+  }
+}

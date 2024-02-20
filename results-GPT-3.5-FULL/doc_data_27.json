@@ -1,0 +1,383 @@
+{
+  "text": "Hard water is water that has high mineral content (in contrast with \"soft water\"). Hard water is formed when water percolates through deposits of limestone and chalk-containing minerals such as calcium and magnesium.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 10,
+      "label": "ENTITY"
+    },
+    {
+      "start": 27,
+      "end": 32,
+      "label": "CLASS"
+    },
+    {
+      "start": 59,
+      "end": 74,
+      "label": "CLASS"
+    },
+    {
+      "start": 183,
+      "end": 192,
+      "label": "ENTITY"
+    },
+    {
+      "start": 210,
+      "end": 235,
+      "label": "ENTITY"
+    },
+    {
+      "start": 257,
+      "end": 264,
+      "label": "ENTITY"
+    },
+    {
+      "start": 282,
+      "end": 291,
+      "label": "ENTITY"
+    },
+    {
+      "start_char": 0,
+      "end_char": 10,
+      "label": "ENTITY",
+      "text": "Hard water"
+    },
+    {
+      "start_char": 27,
+      "end_char": 32,
+      "label": "CLASS",
+      "text": "water",
+      "subClassOf": [
+        "ABSTRACT",
+        "PHYSICAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 59,
+      "end_char": 74,
+      "label": "CLASS",
+      "text": "mineral content",
+      "subClassOf": [
+        "PHYSICAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 183,
+      "end_char": 192,
+      "label": "ENTITY",
+      "text": "limestone"
+    },
+    {
+      "start_char": 210,
+      "end_char": 235,
+      "label": "ENTITY",
+      "text": "chalk-containing minerals"
+    },
+    {
+      "start_char": 257,
+      "end_char": 264,
+      "label": "ENTITY",
+      "text": "calcium"
+    },
+    {
+      "start_char": 282,
+      "end_char": 291,
+      "label": "ENTITY",
+      "text": "magnesium"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 4
+    },
+    {
+      "id": 1,
+      "start": 5,
+      "end": 10
+    },
+    {
+      "id": 2,
+      "start": 10,
+      "end": 23
+    },
+    {
+      "id": 3,
+      "start": 24,
+      "end": 26
+    },
+    {
+      "id": 4,
+      "start": 27,
+      "end": 32
+    },
+    {
+      "id": 5,
+      "start": 32,
+      "end": 44
+    },
+    {
+      "id": 6,
+      "start": 45,
+      "end": 49
+    },
+    {
+      "id": 7,
+      "start": 50,
+      "end": 53
+    },
+    {
+      "id": 8,
+      "start": 54,
+      "end": 58
+    },
+    {
+      "id": 9,
+      "start": 59,
+      "end": 66
+    },
+    {
+      "id": 10,
+      "start": 67,
+      "end": 74
+    },
+    {
+      "id": 11,
+      "start": 74,
+      "end": 86
+    },
+    {
+      "id": 12,
+      "start": 87,
+      "end": 88
+    },
+    {
+      "id": 13,
+      "start": 88,
+      "end": 90
+    },
+    {
+      "id": 14,
+      "start": 91,
+      "end": 99
+    },
+    {
+      "id": 15,
+      "start": 100,
+      "end": 104
+    },
+    {
+      "id": 16,
+      "start": 105,
+      "end": 106
+    },
+    {
+      "id": 17,
+      "start": 106,
+      "end": 110
+    },
+    {
+      "id": 18,
+      "start": 111,
+      "end": 116
+    },
+    {
+      "id": 19,
+      "start": 116,
+      "end": 117
+    },
+    {
+      "id": 20,
+      "start": 117,
+      "end": 118
+    },
+    {
+      "id": 21,
+      "start": 118,
+      "end": 119
+    },
+    {
+      "id": 22,
+      "start": 120,
+      "end": 124
+    },
+    {
+      "id": 23,
+      "start": 125,
+      "end": 130
+    },
+    {
+      "id": 24,
+      "start": 131,
+      "end": 133
+    },
+    {
+      "id": 25,
+      "start": 134,
+      "end": 140
+    },
+    {
+      "id": 26,
+      "start": 141,
+      "end": 145
+    },
+    {
+      "id": 27,
+      "start": 146,
+      "end": 151
+    },
+    {
+      "id": 28,
+      "start": 152,
+      "end": 162
+    },
+    {
+      "id": 29,
+      "start": 163,
+      "end": 170
+    },
+    {
+      "id": 30,
+      "start": 171,
+      "end": 179
+    },
+    {
+      "id": 31,
+      "start": 180,
+      "end": 182
+    },
+    {
+      "id": 32,
+      "start": 183,
+      "end": 192
+    },
+    {
+      "id": 33,
+      "start": 192,
+      "end": 205
+    },
+    {
+      "id": 34,
+      "start": 206,
+      "end": 209
+    },
+    {
+      "id": 35,
+      "start": 210,
+      "end": 215
+    },
+    {
+      "id": 36,
+      "start": 215,
+      "end": 216
+    },
+    {
+      "id": 37,
+      "start": 216,
+      "end": 226
+    },
+    {
+      "id": 38,
+      "start": 227,
+      "end": 235
+    },
+    {
+      "id": 39,
+      "start": 235,
+      "end": 248
+    },
+    {
+      "id": 40,
+      "start": 249,
+      "end": 253
+    },
+    {
+      "id": 41,
+      "start": 254,
+      "end": 256
+    },
+    {
+      "id": 42,
+      "start": 257,
+      "end": 264
+    },
+    {
+      "id": 43,
+      "start": 264,
+      "end": 277
+    },
+    {
+      "id": 44,
+      "start": 278,
+      "end": 281
+    },
+    {
+      "id": 45,
+      "start": 282,
+      "end": 291
+    },
+    {
+      "id": 46,
+      "start": 291,
+      "end": 304
+    },
+    {
+      "id": 47,
+      "start": 304,
+      "end": 305
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Hard water",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "water",
+      "dest": 1
+    },
+    {
+      "dep_text": "Hard water",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "mineral content",
+      "dest": 2
+    },
+    {
+      "dep_text": "limestone",
+      "dep": 3,
+      "rel": "rdf-type",
+      "dest_text": "chalk-containing minerals",
+      "dest": 4
+    },
+    {
+      "dep_text": "calcium",
+      "dep": 5,
+      "rel": "rdf-isClassOf",
+      "dest_text": "water",
+      "dest": 1
+    },
+    {
+      "dep_text": "magnesium",
+      "dep": 6,
+      "rel": "rdf-isClassOf",
+      "dest_text": "water",
+      "dest": 1
+    }
+  ],
+  "classes": {
+    "water_1": {
+      "labels": [
+        "ABSTRACT",
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "water"
+    },
+    "mineral_content_2": {
+      "labels": [
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "mineral content"
+    }
+  }
+}

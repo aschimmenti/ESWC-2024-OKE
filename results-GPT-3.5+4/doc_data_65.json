@@ -1,0 +1,190 @@
+{
+  "text": "Julien Ranouil, known by his stage name Pakito, is a French electronic dance music artist.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 14,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 57,
+      "end": 63,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 87,
+      "end": 93,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 134,
+      "end": 140,
+      "label": "CLASS"
+    },
+    {
+      "start_char": 0,
+      "end_char": 14,
+      "label": "INDIVIDUAL",
+      "text": "Julien Ranouil"
+    },
+    {
+      "start_char": 57,
+      "end_char": 63,
+      "label": "INDIVIDUAL",
+      "text": "Pakito"
+    },
+    {
+      "start_char": 87,
+      "end_char": 93,
+      "label": "INDIVIDUAL",
+      "text": "French"
+    },
+    {
+      "start_char": 134,
+      "end_char": 140,
+      "label": "CLASS",
+      "text": "artist",
+      "subClassOf": [
+        "PERSON",
+        "ROLE"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 6
+    },
+    {
+      "id": 1,
+      "start": 7,
+      "end": 14
+    },
+    {
+      "id": 2,
+      "start": 14,
+      "end": 31
+    },
+    {
+      "id": 3,
+      "start": 31,
+      "end": 32
+    },
+    {
+      "id": 4,
+      "start": 33,
+      "end": 38
+    },
+    {
+      "id": 5,
+      "start": 39,
+      "end": 41
+    },
+    {
+      "id": 6,
+      "start": 42,
+      "end": 45
+    },
+    {
+      "id": 7,
+      "start": 46,
+      "end": 51
+    },
+    {
+      "id": 8,
+      "start": 52,
+      "end": 56
+    },
+    {
+      "id": 9,
+      "start": 57,
+      "end": 63
+    },
+    {
+      "id": 10,
+      "start": 63,
+      "end": 80
+    },
+    {
+      "id": 11,
+      "start": 80,
+      "end": 81
+    },
+    {
+      "id": 12,
+      "start": 82,
+      "end": 84
+    },
+    {
+      "id": 13,
+      "start": 85,
+      "end": 86
+    },
+    {
+      "id": 14,
+      "start": 87,
+      "end": 93
+    },
+    {
+      "id": 15,
+      "start": 93,
+      "end": 110
+    },
+    {
+      "id": 16,
+      "start": 111,
+      "end": 121
+    },
+    {
+      "id": 17,
+      "start": 122,
+      "end": 127
+    },
+    {
+      "id": 18,
+      "start": 128,
+      "end": 133
+    },
+    {
+      "id": 19,
+      "start": 134,
+      "end": 140
+    },
+    {
+      "id": 20,
+      "start": 140,
+      "end": 152
+    },
+    {
+      "id": 21,
+      "start": 152,
+      "end": 153
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Julien Ranouil",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "artist",
+      "dest": 3
+    },
+    {
+      "dep_text": "Pakito",
+      "dep": 1,
+      "rel": "is_a",
+      "dest_text": "artist",
+      "dest": 3
+    }
+  ],
+  "classes": {
+    "artist_3": {
+      "labels": [
+        "PERSON",
+        "ROLE"
+      ],
+      "class": "artist"
+    }
+  }
+}

@@ -1,0 +1,475 @@
+{
+  "text": "The 'Pokémon Mini' is a handheld game console designed and manufactured by Nintendo and themed around the Pokémon media franchise. It is the smallest game system with interchangeable cartridges ever produced by Nintendo, weighing just under two and a half ounces (70 grams).",
+  "ents": [
+    {
+      "start": 5,
+      "end": 17,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 41,
+      "end": 62,
+      "label": "CLASS"
+    },
+    {
+      "start": 104,
+      "end": 112,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 152,
+      "end": 175,
+      "label": "CLASS"
+    },
+    {
+      "start": 208,
+      "end": 219,
+      "label": "CLASS"
+    },
+    {
+      "start": 237,
+      "end": 263,
+      "label": "CLASS"
+    },
+    {
+      "start": 293,
+      "end": 301,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 340,
+      "end": 361,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 380,
+      "end": 388,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start_char": 5,
+      "end_char": 17,
+      "label": "INDIVIDUAL",
+      "text": "Pokémon Mini"
+    },
+    {
+      "start_char": 41,
+      "end_char": 62,
+      "label": "CLASS",
+      "text": "handheld game console",
+      "subClassOf": [
+        "INFORMATION_ENTITY",
+        "PHYSICAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 104,
+      "end_char": 112,
+      "label": "INDIVIDUAL",
+      "text": "Nintendo"
+    },
+    {
+      "start_char": 152,
+      "end_char": 175,
+      "label": "CLASS",
+      "text": "Pokémon media franchise",
+      "subClassOf": [
+        "INFORMATION_ENTITY",
+        "ORGANISATION"
+      ]
+    },
+    {
+      "start_char": 208,
+      "end_char": 219,
+      "label": "CLASS",
+      "text": "game system",
+      "subClassOf": [
+        "INFORMATION_ENTITY",
+        "PHYSICAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 237,
+      "end_char": 263,
+      "label": "CLASS",
+      "text": "interchangeable cartridges",
+      "subClassOf": [
+        "PHYSICAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 293,
+      "end_char": 301,
+      "label": "INDIVIDUAL",
+      "text": "Nintendo"
+    },
+    {
+      "start_char": 340,
+      "end_char": 361,
+      "label": "INDIVIDUAL",
+      "text": "two and a half ounces"
+    },
+    {
+      "start_char": 380,
+      "end_char": 388,
+      "label": "INDIVIDUAL",
+      "text": "70 grams"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 3
+    },
+    {
+      "id": 1,
+      "start": 4,
+      "end": 5
+    },
+    {
+      "id": 2,
+      "start": 5,
+      "end": 12
+    },
+    {
+      "id": 3,
+      "start": 13,
+      "end": 17
+    },
+    {
+      "id": 4,
+      "start": 17,
+      "end": 34
+    },
+    {
+      "id": 5,
+      "start": 34,
+      "end": 35
+    },
+    {
+      "id": 6,
+      "start": 36,
+      "end": 38
+    },
+    {
+      "id": 7,
+      "start": 39,
+      "end": 40
+    },
+    {
+      "id": 8,
+      "start": 41,
+      "end": 49
+    },
+    {
+      "id": 9,
+      "start": 50,
+      "end": 54
+    },
+    {
+      "id": 10,
+      "start": 55,
+      "end": 62
+    },
+    {
+      "id": 11,
+      "start": 62,
+      "end": 74
+    },
+    {
+      "id": 12,
+      "start": 75,
+      "end": 83
+    },
+    {
+      "id": 13,
+      "start": 84,
+      "end": 87
+    },
+    {
+      "id": 14,
+      "start": 88,
+      "end": 100
+    },
+    {
+      "id": 15,
+      "start": 101,
+      "end": 103
+    },
+    {
+      "id": 16,
+      "start": 104,
+      "end": 112
+    },
+    {
+      "id": 17,
+      "start": 112,
+      "end": 129
+    },
+    {
+      "id": 18,
+      "start": 130,
+      "end": 133
+    },
+    {
+      "id": 19,
+      "start": 134,
+      "end": 140
+    },
+    {
+      "id": 20,
+      "start": 141,
+      "end": 147
+    },
+    {
+      "id": 21,
+      "start": 148,
+      "end": 151
+    },
+    {
+      "id": 22,
+      "start": 152,
+      "end": 159
+    },
+    {
+      "id": 23,
+      "start": 160,
+      "end": 165
+    },
+    {
+      "id": 24,
+      "start": 166,
+      "end": 175
+    },
+    {
+      "id": 25,
+      "start": 175,
+      "end": 187
+    },
+    {
+      "id": 26,
+      "start": 187,
+      "end": 188
+    },
+    {
+      "id": 27,
+      "start": 189,
+      "end": 191
+    },
+    {
+      "id": 28,
+      "start": 192,
+      "end": 194
+    },
+    {
+      "id": 29,
+      "start": 195,
+      "end": 198
+    },
+    {
+      "id": 30,
+      "start": 199,
+      "end": 207
+    },
+    {
+      "id": 31,
+      "start": 208,
+      "end": 212
+    },
+    {
+      "id": 32,
+      "start": 213,
+      "end": 219
+    },
+    {
+      "id": 33,
+      "start": 219,
+      "end": 231
+    },
+    {
+      "id": 34,
+      "start": 232,
+      "end": 236
+    },
+    {
+      "id": 35,
+      "start": 237,
+      "end": 252
+    },
+    {
+      "id": 36,
+      "start": 253,
+      "end": 263
+    },
+    {
+      "id": 37,
+      "start": 263,
+      "end": 275
+    },
+    {
+      "id": 38,
+      "start": 276,
+      "end": 280
+    },
+    {
+      "id": 39,
+      "start": 281,
+      "end": 289
+    },
+    {
+      "id": 40,
+      "start": 290,
+      "end": 292
+    },
+    {
+      "id": 41,
+      "start": 293,
+      "end": 301
+    },
+    {
+      "id": 42,
+      "start": 301,
+      "end": 318
+    },
+    {
+      "id": 43,
+      "start": 318,
+      "end": 319
+    },
+    {
+      "id": 44,
+      "start": 320,
+      "end": 328
+    },
+    {
+      "id": 45,
+      "start": 329,
+      "end": 333
+    },
+    {
+      "id": 46,
+      "start": 334,
+      "end": 339
+    },
+    {
+      "id": 47,
+      "start": 340,
+      "end": 343
+    },
+    {
+      "id": 48,
+      "start": 344,
+      "end": 347
+    },
+    {
+      "id": 49,
+      "start": 348,
+      "end": 349
+    },
+    {
+      "id": 50,
+      "start": 350,
+      "end": 354
+    },
+    {
+      "id": 51,
+      "start": 355,
+      "end": 361
+    },
+    {
+      "id": 52,
+      "start": 361,
+      "end": 378
+    },
+    {
+      "id": 53,
+      "start": 379,
+      "end": 380
+    },
+    {
+      "id": 54,
+      "start": 380,
+      "end": 382
+    },
+    {
+      "id": 55,
+      "start": 383,
+      "end": 388
+    },
+    {
+      "id": 56,
+      "start": 388,
+      "end": 405
+    },
+    {
+      "id": 57,
+      "start": 405,
+      "end": 406
+    },
+    {
+      "id": 58,
+      "start": 406,
+      "end": 407
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Pokémon Mini",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "handheld game console",
+      "dest": 1
+    },
+    {
+      "dep_text": "Pokémon Mini",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "Pokémon media franchise",
+      "dest": 3
+    },
+    {
+      "dep_text": "Pokémon Mini",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "game system",
+      "dest": 4
+    },
+    {
+      "dep_text": "Pokémon Mini",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "interchangeable cartridges",
+      "dest": 5
+    }
+  ],
+  "classes": {
+    "handheld_game_console_1": {
+      "labels": [
+        "INFORMATION_ENTITY",
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "handheld game console"
+    },
+    "Pokémon_media_franchise_3": {
+      "labels": [
+        "INFORMATION_ENTITY",
+        "ORGANISATION"
+      ],
+      "class": "Pokémon media franchise"
+    },
+    "game_system_4": {
+      "labels": [
+        "INFORMATION_ENTITY",
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "game system"
+    },
+    "interchangeable_cartridges_5": {
+      "labels": [
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "interchangeable cartridges"
+    }
+  }
+}

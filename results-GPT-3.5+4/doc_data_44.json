@@ -1,0 +1,761 @@
+{
+  "text": "Messier 92 (also known as M92 or NGC 6341) is a globular cluster of stars in the northern constellation of Hercules. It was discovered by Johann Elert Bode in 1777, then published in the Jahrbuch during 1779. The cluster was independently rediscovered by Charles Messier on March 18, 1781 and added as the 92nd entry in his catalogue. M92 is at a distance of about 26,700 light-years away from Earth.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 10,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 43,
+      "end": 46,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 67,
+      "end": 75,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 99,
+      "end": 115,
+      "label": "CLASS"
+    },
+    {
+      "start": 131,
+      "end": 136,
+      "label": "CLASS"
+    },
+    {
+      "start": 165,
+      "end": 178,
+      "label": "CLASS"
+    },
+    {
+      "start": 194,
+      "end": 202,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 242,
+      "end": 259,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 280,
+      "end": 284,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 325,
+      "end": 333,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 410,
+      "end": 425,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 447,
+      "end": 461,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 497,
+      "end": 507,
+      "label": "CLASS"
+    },
+    {
+      "start": 528,
+      "end": 537,
+      "label": "CLASS"
+    },
+    {
+      "start": 582,
+      "end": 600,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start_char": 0,
+      "end_char": 10,
+      "label": "INDIVIDUAL",
+      "text": "Messier 92"
+    },
+    {
+      "start_char": 43,
+      "end_char": 46,
+      "label": "INDIVIDUAL",
+      "text": "M92"
+    },
+    {
+      "start_char": 67,
+      "end_char": 75,
+      "label": "INDIVIDUAL",
+      "text": "NGC 6341"
+    },
+    {
+      "start_char": 99,
+      "end_char": 115,
+      "label": "CLASS",
+      "text": "globular cluster",
+      "subClassOf": [
+        "ORGANISM"
+      ]
+    },
+    {
+      "start_char": 131,
+      "end_char": 136,
+      "label": "CLASS",
+      "text": "stars",
+      "subClassOf": [
+        "ORGANISM"
+      ]
+    },
+    {
+      "start_char": 165,
+      "end_char": 178,
+      "label": "CLASS",
+      "text": "constellation",
+      "subClassOf": [
+        "ORGANISM"
+      ]
+    },
+    {
+      "start_char": 194,
+      "end_char": 202,
+      "label": "INDIVIDUAL",
+      "text": "Hercules"
+    },
+    {
+      "start_char": 242,
+      "end_char": 259,
+      "label": "INDIVIDUAL",
+      "text": "Johann Elert Bode"
+    },
+    {
+      "start_char": 280,
+      "end_char": 284,
+      "label": "INDIVIDUAL",
+      "text": "1777"
+    },
+    {
+      "start_char": 325,
+      "end_char": 333,
+      "label": "INDIVIDUAL",
+      "text": "Jahrbuch"
+    },
+    {
+      "start_char": 410,
+      "end_char": 425,
+      "label": "INDIVIDUAL",
+      "text": "Charles Messier"
+    },
+    {
+      "start_char": 447,
+      "end_char": 461,
+      "label": "INDIVIDUAL",
+      "text": "March 18, 1781"
+    },
+    {
+      "start_char": 497,
+      "end_char": 507,
+      "label": "CLASS",
+      "text": "92nd entry",
+      "subClassOf": [
+        "TIME_INTERVAL"
+      ]
+    },
+    {
+      "start_char": 528,
+      "end_char": 537,
+      "label": "CLASS",
+      "text": "catalogue",
+      "subClassOf": [
+        "INFORMATION_ENTITY",
+        "PHYSICAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 582,
+      "end_char": 600,
+      "label": "INDIVIDUAL",
+      "text": "26,700 light-years"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 7
+    },
+    {
+      "id": 1,
+      "start": 8,
+      "end": 10
+    },
+    {
+      "id": 2,
+      "start": 10,
+      "end": 27
+    },
+    {
+      "id": 3,
+      "start": 28,
+      "end": 29
+    },
+    {
+      "id": 4,
+      "start": 29,
+      "end": 33
+    },
+    {
+      "id": 5,
+      "start": 34,
+      "end": 39
+    },
+    {
+      "id": 6,
+      "start": 40,
+      "end": 42
+    },
+    {
+      "id": 7,
+      "start": 43,
+      "end": 46
+    },
+    {
+      "id": 8,
+      "start": 46,
+      "end": 63
+    },
+    {
+      "id": 9,
+      "start": 64,
+      "end": 66
+    },
+    {
+      "id": 10,
+      "start": 67,
+      "end": 70
+    },
+    {
+      "id": 11,
+      "start": 71,
+      "end": 75
+    },
+    {
+      "id": 12,
+      "start": 75,
+      "end": 92
+    },
+    {
+      "id": 13,
+      "start": 92,
+      "end": 93
+    },
+    {
+      "id": 14,
+      "start": 94,
+      "end": 96
+    },
+    {
+      "id": 15,
+      "start": 97,
+      "end": 98
+    },
+    {
+      "id": 16,
+      "start": 99,
+      "end": 107
+    },
+    {
+      "id": 17,
+      "start": 108,
+      "end": 115
+    },
+    {
+      "id": 18,
+      "start": 115,
+      "end": 127
+    },
+    {
+      "id": 19,
+      "start": 128,
+      "end": 130
+    },
+    {
+      "id": 20,
+      "start": 131,
+      "end": 136
+    },
+    {
+      "id": 21,
+      "start": 136,
+      "end": 148
+    },
+    {
+      "id": 22,
+      "start": 149,
+      "end": 151
+    },
+    {
+      "id": 23,
+      "start": 152,
+      "end": 155
+    },
+    {
+      "id": 24,
+      "start": 156,
+      "end": 164
+    },
+    {
+      "id": 25,
+      "start": 165,
+      "end": 178
+    },
+    {
+      "id": 26,
+      "start": 178,
+      "end": 190
+    },
+    {
+      "id": 27,
+      "start": 191,
+      "end": 193
+    },
+    {
+      "id": 28,
+      "start": 194,
+      "end": 202
+    },
+    {
+      "id": 29,
+      "start": 202,
+      "end": 219
+    },
+    {
+      "id": 30,
+      "start": 219,
+      "end": 220
+    },
+    {
+      "id": 31,
+      "start": 221,
+      "end": 223
+    },
+    {
+      "id": 32,
+      "start": 224,
+      "end": 227
+    },
+    {
+      "id": 33,
+      "start": 228,
+      "end": 238
+    },
+    {
+      "id": 34,
+      "start": 239,
+      "end": 241
+    },
+    {
+      "id": 35,
+      "start": 242,
+      "end": 248
+    },
+    {
+      "id": 36,
+      "start": 249,
+      "end": 254
+    },
+    {
+      "id": 37,
+      "start": 255,
+      "end": 259
+    },
+    {
+      "id": 38,
+      "start": 259,
+      "end": 276
+    },
+    {
+      "id": 39,
+      "start": 277,
+      "end": 279
+    },
+    {
+      "id": 40,
+      "start": 280,
+      "end": 284
+    },
+    {
+      "id": 41,
+      "start": 284,
+      "end": 301
+    },
+    {
+      "id": 42,
+      "start": 301,
+      "end": 302
+    },
+    {
+      "id": 43,
+      "start": 303,
+      "end": 307
+    },
+    {
+      "id": 44,
+      "start": 308,
+      "end": 317
+    },
+    {
+      "id": 45,
+      "start": 318,
+      "end": 320
+    },
+    {
+      "id": 46,
+      "start": 321,
+      "end": 324
+    },
+    {
+      "id": 47,
+      "start": 325,
+      "end": 333
+    },
+    {
+      "id": 48,
+      "start": 333,
+      "end": 350
+    },
+    {
+      "id": 49,
+      "start": 351,
+      "end": 357
+    },
+    {
+      "id": 50,
+      "start": 358,
+      "end": 362
+    },
+    {
+      "id": 51,
+      "start": 362,
+      "end": 363
+    },
+    {
+      "id": 52,
+      "start": 364,
+      "end": 367
+    },
+    {
+      "id": 53,
+      "start": 368,
+      "end": 375
+    },
+    {
+      "id": 54,
+      "start": 376,
+      "end": 379
+    },
+    {
+      "id": 55,
+      "start": 380,
+      "end": 393
+    },
+    {
+      "id": 56,
+      "start": 394,
+      "end": 406
+    },
+    {
+      "id": 57,
+      "start": 407,
+      "end": 409
+    },
+    {
+      "id": 58,
+      "start": 410,
+      "end": 417
+    },
+    {
+      "id": 59,
+      "start": 418,
+      "end": 425
+    },
+    {
+      "id": 60,
+      "start": 425,
+      "end": 443
+    },
+    {
+      "id": 61,
+      "start": 444,
+      "end": 446
+    },
+    {
+      "id": 62,
+      "start": 447,
+      "end": 452
+    },
+    {
+      "id": 63,
+      "start": 453,
+      "end": 455
+    },
+    {
+      "id": 64,
+      "start": 455,
+      "end": 456
+    },
+    {
+      "id": 65,
+      "start": 457,
+      "end": 461
+    },
+    {
+      "id": 66,
+      "start": 461,
+      "end": 479
+    },
+    {
+      "id": 67,
+      "start": 480,
+      "end": 483
+    },
+    {
+      "id": 68,
+      "start": 484,
+      "end": 489
+    },
+    {
+      "id": 69,
+      "start": 490,
+      "end": 492
+    },
+    {
+      "id": 70,
+      "start": 493,
+      "end": 496
+    },
+    {
+      "id": 71,
+      "start": 497,
+      "end": 501
+    },
+    {
+      "id": 72,
+      "start": 502,
+      "end": 507
+    },
+    {
+      "id": 73,
+      "start": 507,
+      "end": 520
+    },
+    {
+      "id": 74,
+      "start": 521,
+      "end": 523
+    },
+    {
+      "id": 75,
+      "start": 524,
+      "end": 527
+    },
+    {
+      "id": 76,
+      "start": 528,
+      "end": 537
+    },
+    {
+      "id": 77,
+      "start": 537,
+      "end": 550
+    },
+    {
+      "id": 78,
+      "start": 550,
+      "end": 551
+    },
+    {
+      "id": 79,
+      "start": 552,
+      "end": 555
+    },
+    {
+      "id": 80,
+      "start": 556,
+      "end": 558
+    },
+    {
+      "id": 81,
+      "start": 559,
+      "end": 561
+    },
+    {
+      "id": 82,
+      "start": 562,
+      "end": 563
+    },
+    {
+      "id": 83,
+      "start": 564,
+      "end": 572
+    },
+    {
+      "id": 84,
+      "start": 573,
+      "end": 575
+    },
+    {
+      "id": 85,
+      "start": 576,
+      "end": 581
+    },
+    {
+      "id": 86,
+      "start": 582,
+      "end": 588
+    },
+    {
+      "id": 87,
+      "start": 589,
+      "end": 594
+    },
+    {
+      "id": 88,
+      "start": 594,
+      "end": 595
+    },
+    {
+      "id": 89,
+      "start": 595,
+      "end": 600
+    },
+    {
+      "id": 90,
+      "start": 600,
+      "end": 618
+    },
+    {
+      "id": 91,
+      "start": 619,
+      "end": 623
+    },
+    {
+      "id": 92,
+      "start": 624,
+      "end": 628
+    },
+    {
+      "id": 93,
+      "start": 629,
+      "end": 634
+    },
+    {
+      "id": 94,
+      "start": 634,
+      "end": 635
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Messier 92",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "globular cluster",
+      "dest": 3
+    },
+    {
+      "dep_text": "Messier 92",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "stars",
+      "dest": 4
+    },
+    {
+      "dep_text": "Messier 92",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "constellation",
+      "dest": 5
+    },
+    {
+      "dep_text": "M92",
+      "dep": 1,
+      "rel": "is_a",
+      "dest_text": "globular cluster",
+      "dest": 3
+    },
+    {
+      "dep_text": "M92",
+      "dep": 1,
+      "rel": "is_a",
+      "dest_text": "stars",
+      "dest": 4
+    },
+    {
+      "dep_text": "M92",
+      "dep": 1,
+      "rel": "is_a",
+      "dest_text": "constellation",
+      "dest": 5
+    },
+    {
+      "dep_text": "NGC 6341",
+      "dep": 2,
+      "rel": "is_a",
+      "dest_text": "globular cluster",
+      "dest": 3
+    },
+    {
+      "dep_text": "NGC 6341",
+      "dep": 2,
+      "rel": "is_a",
+      "dest_text": "stars",
+      "dest": 4
+    },
+    {
+      "dep_text": "NGC 6341",
+      "dep": 2,
+      "rel": "is_a",
+      "dest_text": "constellation",
+      "dest": 5
+    }
+  ],
+  "classes": {
+    "globular_cluster_3": {
+      "labels": [
+        "ORGANISM"
+      ],
+      "class": "globular cluster"
+    },
+    "stars_4": {
+      "labels": [
+        "ORGANISM"
+      ],
+      "class": "stars"
+    },
+    "constellation_5": {
+      "labels": [
+        "ORGANISM"
+      ],
+      "class": "constellation"
+    },
+    "92nd_entry_12": {
+      "labels": [
+        "TIME_INTERVAL"
+      ],
+      "class": "92nd entry"
+    },
+    "catalogue_13": {
+      "labels": [
+        "INFORMATION_ENTITY",
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "catalogue"
+    }
+  }
+}

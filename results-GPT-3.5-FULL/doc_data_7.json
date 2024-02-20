@@ -1,0 +1,435 @@
+{
+  "text": "Radicchio is a leaf chicory (Cichorium intybus, Asteraceae), sometimes known as Italian chicory, and is a perennial. It is grown as a leaf vegetable which usually has white-veined red leaves. It has a bitter and spicy taste, which mellows when it is grilled or roasted.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 9,
+      "label": "ENTITY"
+    },
+    {
+      "start": 147,
+      "end": 161,
+      "label": "CLASS"
+    },
+    {
+      "start": 205,
+      "end": 215,
+      "label": "CLASS"
+    },
+    {
+      "start": 238,
+      "end": 254,
+      "label": "CLASS"
+    },
+    {
+      "start": 299,
+      "end": 317,
+      "label": "CLASS"
+    },
+    {
+      "start_char": 0,
+      "end_char": 9,
+      "label": "ENTITY",
+      "text": "Radicchio"
+    },
+    {
+      "start_char": 147,
+      "end_char": 161,
+      "label": "CLASS",
+      "text": "leaf vegetable",
+      "subClassOf": [
+        "ORGANISM"
+      ]
+    },
+    {
+      "start_char": 205,
+      "end_char": 215,
+      "label": "CLASS",
+      "text": "red leaves",
+      "subClassOf": [
+        "ORGANISM"
+      ]
+    },
+    {
+      "start_char": 238,
+      "end_char": 254,
+      "label": "CLASS",
+      "text": "bitter and spicy",
+      "subClassOf": [
+        "ORGANISM"
+      ]
+    },
+    {
+      "start_char": 299,
+      "end_char": 317,
+      "label": "CLASS",
+      "text": "grilled or roasted",
+      "subClassOf": [
+        "ACTIVITY"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 9
+    },
+    {
+      "id": 1,
+      "start": 9,
+      "end": 22
+    },
+    {
+      "id": 2,
+      "start": 23,
+      "end": 25
+    },
+    {
+      "id": 3,
+      "start": 26,
+      "end": 27
+    },
+    {
+      "id": 4,
+      "start": 28,
+      "end": 32
+    },
+    {
+      "id": 5,
+      "start": 33,
+      "end": 40
+    },
+    {
+      "id": 6,
+      "start": 41,
+      "end": 42
+    },
+    {
+      "id": 7,
+      "start": 42,
+      "end": 51
+    },
+    {
+      "id": 8,
+      "start": 52,
+      "end": 59
+    },
+    {
+      "id": 9,
+      "start": 59,
+      "end": 60
+    },
+    {
+      "id": 10,
+      "start": 61,
+      "end": 71
+    },
+    {
+      "id": 11,
+      "start": 71,
+      "end": 72
+    },
+    {
+      "id": 12,
+      "start": 72,
+      "end": 73
+    },
+    {
+      "id": 13,
+      "start": 74,
+      "end": 83
+    },
+    {
+      "id": 14,
+      "start": 84,
+      "end": 89
+    },
+    {
+      "id": 15,
+      "start": 90,
+      "end": 92
+    },
+    {
+      "id": 16,
+      "start": 93,
+      "end": 100
+    },
+    {
+      "id": 17,
+      "start": 101,
+      "end": 108
+    },
+    {
+      "id": 18,
+      "start": 108,
+      "end": 109
+    },
+    {
+      "id": 19,
+      "start": 110,
+      "end": 113
+    },
+    {
+      "id": 20,
+      "start": 114,
+      "end": 116
+    },
+    {
+      "id": 21,
+      "start": 117,
+      "end": 118
+    },
+    {
+      "id": 22,
+      "start": 119,
+      "end": 128
+    },
+    {
+      "id": 23,
+      "start": 128,
+      "end": 129
+    },
+    {
+      "id": 24,
+      "start": 130,
+      "end": 132
+    },
+    {
+      "id": 25,
+      "start": 133,
+      "end": 135
+    },
+    {
+      "id": 26,
+      "start": 136,
+      "end": 141
+    },
+    {
+      "id": 27,
+      "start": 142,
+      "end": 144
+    },
+    {
+      "id": 28,
+      "start": 145,
+      "end": 146
+    },
+    {
+      "id": 29,
+      "start": 147,
+      "end": 151
+    },
+    {
+      "id": 30,
+      "start": 152,
+      "end": 161
+    },
+    {
+      "id": 31,
+      "start": 161,
+      "end": 173
+    },
+    {
+      "id": 32,
+      "start": 174,
+      "end": 179
+    },
+    {
+      "id": 33,
+      "start": 180,
+      "end": 187
+    },
+    {
+      "id": 34,
+      "start": 188,
+      "end": 191
+    },
+    {
+      "id": 35,
+      "start": 192,
+      "end": 197
+    },
+    {
+      "id": 36,
+      "start": 197,
+      "end": 198
+    },
+    {
+      "id": 37,
+      "start": 198,
+      "end": 204
+    },
+    {
+      "id": 38,
+      "start": 205,
+      "end": 208
+    },
+    {
+      "id": 39,
+      "start": 209,
+      "end": 215
+    },
+    {
+      "id": 40,
+      "start": 215,
+      "end": 227
+    },
+    {
+      "id": 41,
+      "start": 227,
+      "end": 228
+    },
+    {
+      "id": 42,
+      "start": 229,
+      "end": 231
+    },
+    {
+      "id": 43,
+      "start": 232,
+      "end": 235
+    },
+    {
+      "id": 44,
+      "start": 236,
+      "end": 237
+    },
+    {
+      "id": 45,
+      "start": 238,
+      "end": 244
+    },
+    {
+      "id": 46,
+      "start": 245,
+      "end": 248
+    },
+    {
+      "id": 47,
+      "start": 249,
+      "end": 254
+    },
+    {
+      "id": 48,
+      "start": 254,
+      "end": 266
+    },
+    {
+      "id": 49,
+      "start": 267,
+      "end": 272
+    },
+    {
+      "id": 50,
+      "start": 272,
+      "end": 273
+    },
+    {
+      "id": 51,
+      "start": 274,
+      "end": 279
+    },
+    {
+      "id": 52,
+      "start": 280,
+      "end": 287
+    },
+    {
+      "id": 53,
+      "start": 288,
+      "end": 292
+    },
+    {
+      "id": 54,
+      "start": 293,
+      "end": 295
+    },
+    {
+      "id": 55,
+      "start": 296,
+      "end": 298
+    },
+    {
+      "id": 56,
+      "start": 299,
+      "end": 306
+    },
+    {
+      "id": 57,
+      "start": 307,
+      "end": 309
+    },
+    {
+      "id": 58,
+      "start": 310,
+      "end": 317
+    },
+    {
+      "id": 59,
+      "start": 317,
+      "end": 329
+    },
+    {
+      "id": 60,
+      "start": 329,
+      "end": 330
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Radicchio",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "leaf vegetable",
+      "dest": 1
+    },
+    {
+      "dep_text": "Radicchio",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "red leaves",
+      "dest": 2
+    },
+    {
+      "dep_text": "Radicchio",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "bitter and spicy",
+      "dest": 3
+    },
+    {
+      "dep_text": "Radicchio",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "grilled or roasted",
+      "dest": 4
+    }
+  ],
+  "classes": {
+    "leaf_vegetable_1": {
+      "labels": [
+        "ORGANISM"
+      ],
+      "class": "leaf vegetable"
+    },
+    "red_leaves_2": {
+      "labels": [
+        "ORGANISM"
+      ],
+      "class": "red leaves"
+    },
+    "bitter_and_spicy_3": {
+      "labels": [
+        "ORGANISM"
+      ],
+      "class": "bitter and spicy"
+    },
+    "grilled_or_roasted_4": {
+      "labels": [
+        "ACTIVITY"
+      ],
+      "class": "grilled or roasted"
+    }
+  }
+}

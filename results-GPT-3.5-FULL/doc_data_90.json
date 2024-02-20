@@ -1,0 +1,699 @@
+{
+  "text": "Hannover Hauptbahnhof is the main railway station for the city of Hanover in Lower Saxony, Germany. The station has six platforms with twelve platform tracks and two through tracks without platforms. Each Day it is used by 250,000 passengers and 622 trains (as of November 2008) and about 2,000 people work here.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 21,
+      "label": "ENTITY"
+    },
+    {
+      "start": 47,
+      "end": 62,
+      "label": "CLASS"
+    },
+    {
+      "start": 83,
+      "end": 87,
+      "label": "CLASS"
+    },
+    {
+      "start": 103,
+      "end": 110,
+      "label": "ENTITY"
+    },
+    {
+      "start": 127,
+      "end": 139,
+      "label": "ENTITY"
+    },
+    {
+      "start": 154,
+      "end": 161,
+      "label": "ENTITY"
+    },
+    {
+      "start": 196,
+      "end": 205,
+      "label": "CLASS"
+    },
+    {
+      "start": 230,
+      "end": 245,
+      "label": "CLASS"
+    },
+    {
+      "start": 266,
+      "end": 280,
+      "label": "CLASS"
+    },
+    {
+      "start": 301,
+      "end": 310,
+      "label": "CLASS"
+    },
+    {
+      "start": 329,
+      "end": 332,
+      "label": "ENTITY"
+    },
+    {
+      "start": 369,
+      "end": 379,
+      "label": "CLASS"
+    },
+    {
+      "start": 401,
+      "end": 407,
+      "label": "CLASS"
+    },
+    {
+      "start": 459,
+      "end": 465,
+      "label": "CLASS"
+    },
+    {
+      "start": 479,
+      "end": 483,
+      "label": "CLASS"
+    },
+    {
+      "start_char": 0,
+      "end_char": 21,
+      "label": "ENTITY",
+      "text": "Hannover Hauptbahnhof"
+    },
+    {
+      "start_char": 47,
+      "end_char": 62,
+      "label": "CLASS",
+      "text": "railway station",
+      "subClassOf": [
+        "LOCATION"
+      ]
+    },
+    {
+      "start_char": 83,
+      "end_char": 87,
+      "label": "CLASS",
+      "text": "city",
+      "subClassOf": [
+        "LOCATION"
+      ]
+    },
+    {
+      "start_char": 103,
+      "end_char": 110,
+      "label": "ENTITY",
+      "text": "Hanover"
+    },
+    {
+      "start_char": 127,
+      "end_char": 139,
+      "label": "ENTITY",
+      "text": "Lower Saxony"
+    },
+    {
+      "start_char": 154,
+      "end_char": 161,
+      "label": "ENTITY",
+      "text": "Germany"
+    },
+    {
+      "start_char": 196,
+      "end_char": 205,
+      "label": "CLASS",
+      "text": "platforms",
+      "subClassOf": [
+        "LOCATION",
+        "PHYSICAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 230,
+      "end_char": 245,
+      "label": "CLASS",
+      "text": "platform tracks",
+      "subClassOf": [
+        "LOCATION",
+        "PHYSICAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 266,
+      "end_char": 280,
+      "label": "CLASS",
+      "text": "through tracks",
+      "subClassOf": [
+        "LOCATION",
+        "PHYSICAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 301,
+      "end_char": 310,
+      "label": "CLASS",
+      "text": "platforms",
+      "subClassOf": [
+        "LOCATION",
+        "PHYSICAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 329,
+      "end_char": 332,
+      "label": "ENTITY",
+      "text": "Day"
+    },
+    {
+      "start_char": 369,
+      "end_char": 379,
+      "label": "CLASS",
+      "text": "passengers",
+      "subClassOf": [
+        "ACTIVITY",
+        "PERSON"
+      ]
+    },
+    {
+      "start_char": 401,
+      "end_char": 407,
+      "label": "CLASS",
+      "text": "trains",
+      "subClassOf": [
+        "ACTIVITY",
+        "PHYSICAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 459,
+      "end_char": 465,
+      "label": "CLASS",
+      "text": "people",
+      "subClassOf": [
+        "PERSON"
+      ]
+    },
+    {
+      "start_char": 479,
+      "end_char": 483,
+      "label": "CLASS",
+      "text": "work",
+      "subClassOf": [
+        "ACTIVITY"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 8
+    },
+    {
+      "id": 1,
+      "start": 9,
+      "end": 21
+    },
+    {
+      "id": 2,
+      "start": 21,
+      "end": 34
+    },
+    {
+      "id": 3,
+      "start": 35,
+      "end": 37
+    },
+    {
+      "id": 4,
+      "start": 38,
+      "end": 41
+    },
+    {
+      "id": 5,
+      "start": 42,
+      "end": 46
+    },
+    {
+      "id": 6,
+      "start": 47,
+      "end": 54
+    },
+    {
+      "id": 7,
+      "start": 55,
+      "end": 62
+    },
+    {
+      "id": 8,
+      "start": 62,
+      "end": 74
+    },
+    {
+      "id": 9,
+      "start": 75,
+      "end": 78
+    },
+    {
+      "id": 10,
+      "start": 79,
+      "end": 82
+    },
+    {
+      "id": 11,
+      "start": 83,
+      "end": 87
+    },
+    {
+      "id": 12,
+      "start": 87,
+      "end": 99
+    },
+    {
+      "id": 13,
+      "start": 100,
+      "end": 102
+    },
+    {
+      "id": 14,
+      "start": 103,
+      "end": 110
+    },
+    {
+      "id": 15,
+      "start": 110,
+      "end": 123
+    },
+    {
+      "id": 16,
+      "start": 124,
+      "end": 126
+    },
+    {
+      "id": 17,
+      "start": 127,
+      "end": 132
+    },
+    {
+      "id": 18,
+      "start": 133,
+      "end": 139
+    },
+    {
+      "id": 19,
+      "start": 139,
+      "end": 152
+    },
+    {
+      "id": 20,
+      "start": 152,
+      "end": 153
+    },
+    {
+      "id": 21,
+      "start": 154,
+      "end": 161
+    },
+    {
+      "id": 22,
+      "start": 161,
+      "end": 174
+    },
+    {
+      "id": 23,
+      "start": 174,
+      "end": 175
+    },
+    {
+      "id": 24,
+      "start": 176,
+      "end": 179
+    },
+    {
+      "id": 25,
+      "start": 180,
+      "end": 187
+    },
+    {
+      "id": 26,
+      "start": 188,
+      "end": 191
+    },
+    {
+      "id": 27,
+      "start": 192,
+      "end": 195
+    },
+    {
+      "id": 28,
+      "start": 196,
+      "end": 205
+    },
+    {
+      "id": 29,
+      "start": 205,
+      "end": 217
+    },
+    {
+      "id": 30,
+      "start": 218,
+      "end": 222
+    },
+    {
+      "id": 31,
+      "start": 223,
+      "end": 229
+    },
+    {
+      "id": 32,
+      "start": 230,
+      "end": 238
+    },
+    {
+      "id": 33,
+      "start": 239,
+      "end": 245
+    },
+    {
+      "id": 34,
+      "start": 245,
+      "end": 257
+    },
+    {
+      "id": 35,
+      "start": 258,
+      "end": 261
+    },
+    {
+      "id": 36,
+      "start": 262,
+      "end": 265
+    },
+    {
+      "id": 37,
+      "start": 266,
+      "end": 273
+    },
+    {
+      "id": 38,
+      "start": 274,
+      "end": 280
+    },
+    {
+      "id": 39,
+      "start": 280,
+      "end": 292
+    },
+    {
+      "id": 40,
+      "start": 293,
+      "end": 300
+    },
+    {
+      "id": 41,
+      "start": 301,
+      "end": 310
+    },
+    {
+      "id": 42,
+      "start": 310,
+      "end": 322
+    },
+    {
+      "id": 43,
+      "start": 322,
+      "end": 323
+    },
+    {
+      "id": 44,
+      "start": 324,
+      "end": 328
+    },
+    {
+      "id": 45,
+      "start": 329,
+      "end": 332
+    },
+    {
+      "id": 46,
+      "start": 332,
+      "end": 346
+    },
+    {
+      "id": 47,
+      "start": 347,
+      "end": 349
+    },
+    {
+      "id": 48,
+      "start": 350,
+      "end": 352
+    },
+    {
+      "id": 49,
+      "start": 353,
+      "end": 357
+    },
+    {
+      "id": 50,
+      "start": 358,
+      "end": 360
+    },
+    {
+      "id": 51,
+      "start": 361,
+      "end": 368
+    },
+    {
+      "id": 52,
+      "start": 369,
+      "end": 379
+    },
+    {
+      "id": 53,
+      "start": 379,
+      "end": 392
+    },
+    {
+      "id": 54,
+      "start": 393,
+      "end": 396
+    },
+    {
+      "id": 55,
+      "start": 397,
+      "end": 400
+    },
+    {
+      "id": 56,
+      "start": 401,
+      "end": 407
+    },
+    {
+      "id": 57,
+      "start": 407,
+      "end": 420
+    },
+    {
+      "id": 58,
+      "start": 421,
+      "end": 422
+    },
+    {
+      "id": 59,
+      "start": 422,
+      "end": 424
+    },
+    {
+      "id": 60,
+      "start": 425,
+      "end": 427
+    },
+    {
+      "id": 61,
+      "start": 428,
+      "end": 436
+    },
+    {
+      "id": 62,
+      "start": 437,
+      "end": 441
+    },
+    {
+      "id": 63,
+      "start": 441,
+      "end": 442
+    },
+    {
+      "id": 64,
+      "start": 443,
+      "end": 446
+    },
+    {
+      "id": 65,
+      "start": 447,
+      "end": 452
+    },
+    {
+      "id": 66,
+      "start": 453,
+      "end": 458
+    },
+    {
+      "id": 67,
+      "start": 459,
+      "end": 465
+    },
+    {
+      "id": 68,
+      "start": 465,
+      "end": 478
+    },
+    {
+      "id": 69,
+      "start": 479,
+      "end": 483
+    },
+    {
+      "id": 70,
+      "start": 483,
+      "end": 496
+    },
+    {
+      "id": 71,
+      "start": 497,
+      "end": 501
+    },
+    {
+      "id": 72,
+      "start": 501,
+      "end": 502
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Hannover Hauptbahnhof",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "railway station",
+      "dest": 1
+    },
+    {
+      "dep_text": "city",
+      "dep": 2,
+      "rel": "rdf-isClassOf",
+      "dest_text": "Hanover",
+      "dest": 3
+    },
+    {
+      "dep_text": "Hanover",
+      "dep": 3,
+      "rel": "rdf-type",
+      "dest_text": "Lower Saxony",
+      "dest": 4
+    },
+    {
+      "dep_text": "Germany",
+      "dep": 5,
+      "rel": "rdf-type",
+      "dest_text": "Lower Saxony",
+      "dest": 4
+    },
+    {
+      "dep_text": "platforms",
+      "dep": 6,
+      "rel": "rdf-type",
+      "dest_text": "platform tracks",
+      "dest": 7
+    },
+    {
+      "dep_text": "platform tracks",
+      "dep": 7,
+      "rel": "rdf-type",
+      "dest_text": "through tracks",
+      "dest": 8
+    },
+    {
+      "dep_text": "passengers",
+      "dep": 11,
+      "rel": "rdf-type",
+      "dest_text": "trains",
+      "dest": 12
+    },
+    {
+      "dep_text": "people",
+      "dep": 13,
+      "rel": "rdf-type",
+      "dest_text": "work",
+      "dest": 14
+    }
+  ],
+  "classes": {
+    "railway_station_1": {
+      "labels": [
+        "LOCATION"
+      ],
+      "class": "railway station"
+    },
+    "city_2": {
+      "labels": [
+        "LOCATION"
+      ],
+      "class": "city"
+    },
+    "platforms_6": {
+      "labels": [
+        "LOCATION",
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "platforms"
+    },
+    "platform_tracks_7": {
+      "labels": [
+        "LOCATION",
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "platform tracks"
+    },
+    "through_tracks_8": {
+      "labels": [
+        "LOCATION",
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "through tracks"
+    },
+    "platforms_9": {
+      "labels": [
+        "LOCATION",
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "platforms"
+    },
+    "passengers_11": {
+      "labels": [
+        "ACTIVITY",
+        "PERSON"
+      ],
+      "class": "passengers"
+    },
+    "trains_12": {
+      "labels": [
+        "ACTIVITY",
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "trains"
+    },
+    "people_13": {
+      "labels": [
+        "PERSON"
+      ],
+      "class": "people"
+    },
+    "work_14": {
+      "labels": [
+        "ACTIVITY"
+      ],
+      "class": "work"
+    }
+  }
+}

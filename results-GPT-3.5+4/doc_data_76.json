@@ -1,0 +1,207 @@
+{
+  "text": "Caatinga is a type of desert vegetation, and an ecoregion characterized by this vegetation in interior northeastern Brazil.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 8,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 39,
+      "end": 56,
+      "label": "CLASS"
+    },
+    {
+      "start": 77,
+      "end": 86,
+      "label": "CLASS"
+    },
+    {
+      "start": 144,
+      "end": 163,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start_char": 0,
+      "end_char": 8,
+      "label": "INDIVIDUAL",
+      "text": "Caatinga"
+    },
+    {
+      "start_char": 39,
+      "end_char": 56,
+      "label": "CLASS",
+      "text": "desert vegetation",
+      "subClassOf": [
+        "ORGANISM"
+      ]
+    },
+    {
+      "start_char": 77,
+      "end_char": 86,
+      "label": "CLASS",
+      "text": "ecoregion",
+      "subClassOf": [
+        "ORGANISM"
+      ]
+    },
+    {
+      "start_char": 144,
+      "end_char": 163,
+      "label": "INDIVIDUAL",
+      "text": "northeastern Brazil"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 8
+    },
+    {
+      "id": 1,
+      "start": 8,
+      "end": 25
+    },
+    {
+      "id": 2,
+      "start": 26,
+      "end": 28
+    },
+    {
+      "id": 3,
+      "start": 29,
+      "end": 30
+    },
+    {
+      "id": 4,
+      "start": 31,
+      "end": 35
+    },
+    {
+      "id": 5,
+      "start": 36,
+      "end": 38
+    },
+    {
+      "id": 6,
+      "start": 39,
+      "end": 45
+    },
+    {
+      "id": 7,
+      "start": 46,
+      "end": 56
+    },
+    {
+      "id": 8,
+      "start": 56,
+      "end": 68
+    },
+    {
+      "id": 9,
+      "start": 68,
+      "end": 69
+    },
+    {
+      "id": 10,
+      "start": 70,
+      "end": 73
+    },
+    {
+      "id": 11,
+      "start": 74,
+      "end": 76
+    },
+    {
+      "id": 12,
+      "start": 77,
+      "end": 86
+    },
+    {
+      "id": 13,
+      "start": 86,
+      "end": 98
+    },
+    {
+      "id": 14,
+      "start": 99,
+      "end": 112
+    },
+    {
+      "id": 15,
+      "start": 113,
+      "end": 115
+    },
+    {
+      "id": 16,
+      "start": 116,
+      "end": 120
+    },
+    {
+      "id": 17,
+      "start": 121,
+      "end": 131
+    },
+    {
+      "id": 18,
+      "start": 132,
+      "end": 134
+    },
+    {
+      "id": 19,
+      "start": 135,
+      "end": 143
+    },
+    {
+      "id": 20,
+      "start": 144,
+      "end": 156
+    },
+    {
+      "id": 21,
+      "start": 157,
+      "end": 163
+    },
+    {
+      "id": 22,
+      "start": 163,
+      "end": 180
+    },
+    {
+      "id": 23,
+      "start": 180,
+      "end": 181
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Caatinga",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "desert vegetation",
+      "dest": 1
+    },
+    {
+      "dep_text": "Caatinga",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "ecoregion",
+      "dest": 2
+    }
+  ],
+  "classes": {
+    "desert_vegetation_1": {
+      "labels": [
+        "ORGANISM"
+      ],
+      "class": "desert vegetation"
+    },
+    "ecoregion_2": {
+      "labels": [
+        "ORGANISM"
+      ],
+      "class": "ecoregion"
+    }
+  }
+}

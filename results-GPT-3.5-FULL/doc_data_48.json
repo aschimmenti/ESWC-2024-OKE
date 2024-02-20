@@ -1,0 +1,456 @@
+{
+  "text": "In Ancient Rome, a province (Latin, provincia, pl. provinciae) was a territorial unit of the empire's territorial possessions outside of Italy. The word province in modern English has its origins in the term used by the Romans.",
+  "ents": [
+    {
+      "start": 3,
+      "end": 15,
+      "label": "ENTITY"
+    },
+    {
+      "start": 32,
+      "end": 40,
+      "label": "CLASS"
+    },
+    {
+      "start": 54,
+      "end": 59,
+      "label": "ENTITY"
+    },
+    {
+      "start": 74,
+      "end": 83,
+      "label": "ENTITY"
+    },
+    {
+      "start": 144,
+      "end": 150,
+      "label": "ENTITY"
+    },
+    {
+      "start": 201,
+      "end": 206,
+      "label": "ENTITY"
+    },
+    {
+      "start": 230,
+      "end": 238,
+      "label": "CLASS"
+    },
+    {
+      "start": 261,
+      "end": 268,
+      "label": "ENTITY"
+    },
+    {
+      "start": 305,
+      "end": 309,
+      "label": "CLASS"
+    },
+    {
+      "start": 334,
+      "end": 340,
+      "label": "ENTITY"
+    },
+    {
+      "start_char": 3,
+      "end_char": 15,
+      "label": "ENTITY",
+      "text": "Ancient Rome"
+    },
+    {
+      "start_char": 32,
+      "end_char": 40,
+      "label": "CLASS",
+      "text": "province",
+      "subClassOf": [
+        "LOCATION"
+      ]
+    },
+    {
+      "start_char": 54,
+      "end_char": 59,
+      "label": "ENTITY",
+      "text": "Latin"
+    },
+    {
+      "start_char": 74,
+      "end_char": 83,
+      "label": "ENTITY",
+      "text": "provincia"
+    },
+    {
+      "start_char": 144,
+      "end_char": 150,
+      "label": "ENTITY",
+      "text": "empire"
+    },
+    {
+      "start_char": 201,
+      "end_char": 206,
+      "label": "ENTITY",
+      "text": "Italy"
+    },
+    {
+      "start_char": 230,
+      "end_char": 238,
+      "label": "CLASS",
+      "text": "province",
+      "subClassOf": [
+        "LOCATION"
+      ]
+    },
+    {
+      "start_char": 261,
+      "end_char": 268,
+      "label": "ENTITY",
+      "text": "English"
+    },
+    {
+      "start_char": 305,
+      "end_char": 309,
+      "label": "CLASS",
+      "text": "term",
+      "subClassOf": [
+        "INFORMATION_ENTITY"
+      ]
+    },
+    {
+      "start_char": 334,
+      "end_char": 340,
+      "label": "ENTITY",
+      "text": "Romans"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 2
+    },
+    {
+      "id": 1,
+      "start": 3,
+      "end": 10
+    },
+    {
+      "id": 2,
+      "start": 11,
+      "end": 15
+    },
+    {
+      "id": 3,
+      "start": 15,
+      "end": 28
+    },
+    {
+      "id": 4,
+      "start": 28,
+      "end": 29
+    },
+    {
+      "id": 5,
+      "start": 30,
+      "end": 31
+    },
+    {
+      "id": 6,
+      "start": 32,
+      "end": 40
+    },
+    {
+      "id": 7,
+      "start": 40,
+      "end": 52
+    },
+    {
+      "id": 8,
+      "start": 53,
+      "end": 54
+    },
+    {
+      "id": 9,
+      "start": 54,
+      "end": 59
+    },
+    {
+      "id": 10,
+      "start": 59,
+      "end": 72
+    },
+    {
+      "id": 11,
+      "start": 72,
+      "end": 73
+    },
+    {
+      "id": 12,
+      "start": 74,
+      "end": 83
+    },
+    {
+      "id": 13,
+      "start": 83,
+      "end": 96
+    },
+    {
+      "id": 14,
+      "start": 96,
+      "end": 97
+    },
+    {
+      "id": 15,
+      "start": 98,
+      "end": 100
+    },
+    {
+      "id": 16,
+      "start": 100,
+      "end": 101
+    },
+    {
+      "id": 17,
+      "start": 102,
+      "end": 112
+    },
+    {
+      "id": 18,
+      "start": 112,
+      "end": 113
+    },
+    {
+      "id": 19,
+      "start": 114,
+      "end": 117
+    },
+    {
+      "id": 20,
+      "start": 118,
+      "end": 119
+    },
+    {
+      "id": 21,
+      "start": 120,
+      "end": 131
+    },
+    {
+      "id": 22,
+      "start": 132,
+      "end": 136
+    },
+    {
+      "id": 23,
+      "start": 137,
+      "end": 139
+    },
+    {
+      "id": 24,
+      "start": 140,
+      "end": 143
+    },
+    {
+      "id": 25,
+      "start": 144,
+      "end": 150
+    },
+    {
+      "id": 26,
+      "start": 150,
+      "end": 163
+    },
+    {
+      "id": 27,
+      "start": 163,
+      "end": 165
+    },
+    {
+      "id": 28,
+      "start": 166,
+      "end": 177
+    },
+    {
+      "id": 29,
+      "start": 178,
+      "end": 189
+    },
+    {
+      "id": 30,
+      "start": 190,
+      "end": 197
+    },
+    {
+      "id": 31,
+      "start": 198,
+      "end": 200
+    },
+    {
+      "id": 32,
+      "start": 201,
+      "end": 206
+    },
+    {
+      "id": 33,
+      "start": 206,
+      "end": 219
+    },
+    {
+      "id": 34,
+      "start": 219,
+      "end": 220
+    },
+    {
+      "id": 35,
+      "start": 221,
+      "end": 224
+    },
+    {
+      "id": 36,
+      "start": 225,
+      "end": 229
+    },
+    {
+      "id": 37,
+      "start": 230,
+      "end": 238
+    },
+    {
+      "id": 38,
+      "start": 238,
+      "end": 250
+    },
+    {
+      "id": 39,
+      "start": 251,
+      "end": 253
+    },
+    {
+      "id": 40,
+      "start": 254,
+      "end": 260
+    },
+    {
+      "id": 41,
+      "start": 261,
+      "end": 268
+    },
+    {
+      "id": 42,
+      "start": 268,
+      "end": 281
+    },
+    {
+      "id": 43,
+      "start": 282,
+      "end": 285
+    },
+    {
+      "id": 44,
+      "start": 286,
+      "end": 289
+    },
+    {
+      "id": 45,
+      "start": 290,
+      "end": 297
+    },
+    {
+      "id": 46,
+      "start": 298,
+      "end": 300
+    },
+    {
+      "id": 47,
+      "start": 301,
+      "end": 304
+    },
+    {
+      "id": 48,
+      "start": 305,
+      "end": 309
+    },
+    {
+      "id": 49,
+      "start": 309,
+      "end": 321
+    },
+    {
+      "id": 50,
+      "start": 322,
+      "end": 326
+    },
+    {
+      "id": 51,
+      "start": 327,
+      "end": 329
+    },
+    {
+      "id": 52,
+      "start": 330,
+      "end": 333
+    },
+    {
+      "id": 53,
+      "start": 334,
+      "end": 340
+    },
+    {
+      "id": 54,
+      "start": 340,
+      "end": 353
+    },
+    {
+      "id": 55,
+      "start": 353,
+      "end": 354
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "province",
+      "dep": 1,
+      "rel": "rdf-type",
+      "dest_text": "Latin",
+      "dest": 2
+    },
+    {
+      "dep_text": "province",
+      "dep": 1,
+      "rel": "rdf-type",
+      "dest_text": "provincia",
+      "dest": 3
+    },
+    {
+      "dep_text": "province",
+      "dep": 1,
+      "rel": "rdf-type",
+      "dest_text": "province",
+      "dest": 6
+    },
+    {
+      "dep_text": "province",
+      "dep": 6,
+      "rel": "rdf-type",
+      "dest_text": "English",
+      "dest": 7
+    }
+  ],
+  "classes": {
+    "province_1": {
+      "labels": [
+        "LOCATION"
+      ],
+      "class": "province"
+    },
+    "province_6": {
+      "labels": [
+        "LOCATION"
+      ],
+      "class": "province"
+    },
+    "term_8": {
+      "labels": [
+        "INFORMATION_ENTITY"
+      ],
+      "class": "term"
+    }
+  }
+}

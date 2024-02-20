@@ -1,0 +1,146 @@
+{
+  "text": "Hatshepsut was a pharaoh of the Eighteenth dynasty of Egypt.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 10,
+      "label": "ENTITY"
+    },
+    {
+      "start": 30,
+      "end": 37,
+      "label": "CLASS"
+    },
+    {
+      "start": 57,
+      "end": 75,
+      "label": "ENTITY"
+    },
+    {
+      "start": 92,
+      "end": 97,
+      "label": "ENTITY"
+    },
+    {
+      "start_char": 0,
+      "end_char": 10,
+      "label": "ENTITY",
+      "text": "Hatshepsut"
+    },
+    {
+      "start_char": 30,
+      "end_char": 37,
+      "label": "CLASS",
+      "text": "pharaoh",
+      "subClassOf": [
+        "PERSON"
+      ]
+    },
+    {
+      "start_char": 57,
+      "end_char": 75,
+      "label": "ENTITY",
+      "text": "Eighteenth dynasty"
+    },
+    {
+      "start_char": 92,
+      "end_char": 97,
+      "label": "ENTITY",
+      "text": "Egypt"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 10
+    },
+    {
+      "id": 1,
+      "start": 10,
+      "end": 23
+    },
+    {
+      "id": 2,
+      "start": 24,
+      "end": 27
+    },
+    {
+      "id": 3,
+      "start": 28,
+      "end": 29
+    },
+    {
+      "id": 4,
+      "start": 30,
+      "end": 37
+    },
+    {
+      "id": 5,
+      "start": 37,
+      "end": 49
+    },
+    {
+      "id": 6,
+      "start": 50,
+      "end": 52
+    },
+    {
+      "id": 7,
+      "start": 53,
+      "end": 56
+    },
+    {
+      "id": 8,
+      "start": 57,
+      "end": 67
+    },
+    {
+      "id": 9,
+      "start": 68,
+      "end": 75
+    },
+    {
+      "id": 10,
+      "start": 75,
+      "end": 88
+    },
+    {
+      "id": 11,
+      "start": 89,
+      "end": 91
+    },
+    {
+      "id": 12,
+      "start": 92,
+      "end": 97
+    },
+    {
+      "id": 13,
+      "start": 97,
+      "end": 110
+    },
+    {
+      "id": 14,
+      "start": 110,
+      "end": 111
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Hatshepsut",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "pharaoh",
+      "dest": 1
+    }
+  ],
+  "classes": {
+    "pharaoh_1": {
+      "labels": [
+        "PERSON"
+      ],
+      "class": "pharaoh"
+    }
+  }
+}

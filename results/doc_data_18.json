@@ -1,0 +1,897 @@
+{
+  "text": "In the philosophy of mathematics, intuitionism, or neointuitionism (opposed to preintuitionism), is an approach where mathematics is considered to be purely the result of the constructive mental activity of humans rather than the discovery of fundamental principles claimed to exist in an objective reality. That is, logic and mathematics are not considered analytic activities wherein deep properties of objective reality are revealed and applied but are instead considered the application of internally consistent methods used to realize more complex mental constructs, regardless of their possible independent existence in an objective reality.",
+  "ents": [
+    {
+      "start": 7,
+      "end": 32,
+      "label": "CLASS"
+    },
+    {
+      "start": 46,
+      "end": 58,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 80,
+      "end": 95,
+      "label": "CLASS"
+    },
+    {
+      "start": 120,
+      "end": 135,
+      "label": "CLASS"
+    },
+    {
+      "start": 156,
+      "end": 164,
+      "label": "CLASS"
+    },
+    {
+      "start": 183,
+      "end": 194,
+      "label": "CLASS"
+    },
+    {
+      "start": 284,
+      "end": 290,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 337,
+      "end": 359,
+      "label": "CLASS"
+    },
+    {
+      "start": 395,
+      "end": 412,
+      "label": "CLASS"
+    },
+    {
+      "start": 435,
+      "end": 440,
+      "label": "CLASS"
+    },
+    {
+      "start": 488,
+      "end": 507,
+      "label": "CLASS"
+    },
+    {
+      "start": 529,
+      "end": 544,
+      "label": "CLASS"
+    },
+    {
+      "start": 757,
+      "end": 778,
+      "label": "CLASS"
+    },
+    {
+      "start": 808,
+      "end": 815,
+      "label": "CLASS"
+    },
+    {
+      "start_char": 7,
+      "end_char": 32,
+      "label": "CLASS",
+      "text": "philosophy of mathematics",
+      "subClassOf": [
+        "TOPIC"
+      ]
+    },
+    {
+      "start_char": 46,
+      "end_char": 58,
+      "label": "INDIVIDUAL",
+      "text": "intuitionism"
+    },
+    {
+      "start_char": 80,
+      "end_char": 95,
+      "label": "CLASS",
+      "text": "neointuitionism",
+      "subClassOf": [
+        "ABSTRACT",
+        "TOPIC"
+      ]
+    },
+    {
+      "start_char": 120,
+      "end_char": 135,
+      "label": "CLASS",
+      "text": "preintuitionism",
+      "subClassOf": [
+        "ABSTRACT",
+        "TOPIC"
+      ]
+    },
+    {
+      "start_char": 156,
+      "end_char": 164,
+      "label": "CLASS",
+      "text": "approach",
+      "subClassOf": [
+        "ABSTRACT",
+        "TOPIC"
+      ]
+    },
+    {
+      "start_char": 183,
+      "end_char": 194,
+      "label": "CLASS",
+      "text": "mathematics",
+      "subClassOf": [
+        "TOPIC"
+      ]
+    },
+    {
+      "start_char": 284,
+      "end_char": 290,
+      "label": "INDIVIDUAL",
+      "text": "humans"
+    },
+    {
+      "start_char": 337,
+      "end_char": 359,
+      "label": "CLASS",
+      "text": "fundamental principles",
+      "subClassOf": [
+        "ABSTRACT",
+        "TOPIC"
+      ]
+    },
+    {
+      "start_char": 395,
+      "end_char": 412,
+      "label": "CLASS",
+      "text": "objective reality",
+      "subClassOf": [
+        "ABSTRACT"
+      ]
+    },
+    {
+      "start_char": 435,
+      "end_char": 440,
+      "label": "CLASS",
+      "text": "logic",
+      "subClassOf": [
+        "ABSTRACT",
+        "TOPIC"
+      ]
+    },
+    {
+      "start_char": 488,
+      "end_char": 507,
+      "label": "CLASS",
+      "text": "analytic activities",
+      "subClassOf": [
+        "ABSTRACT",
+        "ACTIVITY"
+      ]
+    },
+    {
+      "start_char": 529,
+      "end_char": 544,
+      "label": "CLASS",
+      "text": "deep properties",
+      "subClassOf": [
+        "ABSTRACT"
+      ]
+    },
+    {
+      "start_char": 757,
+      "end_char": 778,
+      "label": "CLASS",
+      "text": "independent existence",
+      "subClassOf": [
+        "ABSTRACT"
+      ]
+    },
+    {
+      "start_char": 808,
+      "end_char": 815,
+      "label": "CLASS",
+      "text": "reality",
+      "subClassOf": [
+        "ABSTRACT"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 2
+    },
+    {
+      "id": 1,
+      "start": 3,
+      "end": 6
+    },
+    {
+      "id": 2,
+      "start": 7,
+      "end": 17
+    },
+    {
+      "id": 3,
+      "start": 18,
+      "end": 20
+    },
+    {
+      "id": 4,
+      "start": 21,
+      "end": 32
+    },
+    {
+      "id": 5,
+      "start": 32,
+      "end": 44
+    },
+    {
+      "id": 6,
+      "start": 44,
+      "end": 45
+    },
+    {
+      "id": 7,
+      "start": 46,
+      "end": 58
+    },
+    {
+      "id": 8,
+      "start": 58,
+      "end": 75
+    },
+    {
+      "id": 9,
+      "start": 75,
+      "end": 76
+    },
+    {
+      "id": 10,
+      "start": 77,
+      "end": 79
+    },
+    {
+      "id": 11,
+      "start": 80,
+      "end": 95
+    },
+    {
+      "id": 12,
+      "start": 95,
+      "end": 107
+    },
+    {
+      "id": 13,
+      "start": 108,
+      "end": 109
+    },
+    {
+      "id": 14,
+      "start": 109,
+      "end": 116
+    },
+    {
+      "id": 15,
+      "start": 117,
+      "end": 119
+    },
+    {
+      "id": 16,
+      "start": 120,
+      "end": 135
+    },
+    {
+      "id": 17,
+      "start": 135,
+      "end": 147
+    },
+    {
+      "id": 18,
+      "start": 147,
+      "end": 148
+    },
+    {
+      "id": 19,
+      "start": 148,
+      "end": 149
+    },
+    {
+      "id": 20,
+      "start": 150,
+      "end": 152
+    },
+    {
+      "id": 21,
+      "start": 153,
+      "end": 155
+    },
+    {
+      "id": 22,
+      "start": 156,
+      "end": 164
+    },
+    {
+      "id": 23,
+      "start": 164,
+      "end": 176
+    },
+    {
+      "id": 24,
+      "start": 177,
+      "end": 182
+    },
+    {
+      "id": 25,
+      "start": 183,
+      "end": 194
+    },
+    {
+      "id": 26,
+      "start": 194,
+      "end": 206
+    },
+    {
+      "id": 27,
+      "start": 207,
+      "end": 209
+    },
+    {
+      "id": 28,
+      "start": 210,
+      "end": 220
+    },
+    {
+      "id": 29,
+      "start": 221,
+      "end": 223
+    },
+    {
+      "id": 30,
+      "start": 224,
+      "end": 226
+    },
+    {
+      "id": 31,
+      "start": 227,
+      "end": 233
+    },
+    {
+      "id": 32,
+      "start": 234,
+      "end": 237
+    },
+    {
+      "id": 33,
+      "start": 238,
+      "end": 244
+    },
+    {
+      "id": 34,
+      "start": 245,
+      "end": 247
+    },
+    {
+      "id": 35,
+      "start": 248,
+      "end": 251
+    },
+    {
+      "id": 36,
+      "start": 252,
+      "end": 264
+    },
+    {
+      "id": 37,
+      "start": 265,
+      "end": 271
+    },
+    {
+      "id": 38,
+      "start": 272,
+      "end": 280
+    },
+    {
+      "id": 39,
+      "start": 281,
+      "end": 283
+    },
+    {
+      "id": 40,
+      "start": 284,
+      "end": 290
+    },
+    {
+      "id": 41,
+      "start": 290,
+      "end": 307
+    },
+    {
+      "id": 42,
+      "start": 308,
+      "end": 314
+    },
+    {
+      "id": 43,
+      "start": 315,
+      "end": 319
+    },
+    {
+      "id": 44,
+      "start": 320,
+      "end": 323
+    },
+    {
+      "id": 45,
+      "start": 324,
+      "end": 333
+    },
+    {
+      "id": 46,
+      "start": 334,
+      "end": 336
+    },
+    {
+      "id": 47,
+      "start": 337,
+      "end": 348
+    },
+    {
+      "id": 48,
+      "start": 349,
+      "end": 359
+    },
+    {
+      "id": 49,
+      "start": 359,
+      "end": 371
+    },
+    {
+      "id": 50,
+      "start": 372,
+      "end": 379
+    },
+    {
+      "id": 51,
+      "start": 380,
+      "end": 382
+    },
+    {
+      "id": 52,
+      "start": 383,
+      "end": 388
+    },
+    {
+      "id": 53,
+      "start": 389,
+      "end": 391
+    },
+    {
+      "id": 54,
+      "start": 392,
+      "end": 394
+    },
+    {
+      "id": 55,
+      "start": 395,
+      "end": 404
+    },
+    {
+      "id": 56,
+      "start": 405,
+      "end": 412
+    },
+    {
+      "id": 57,
+      "start": 412,
+      "end": 424
+    },
+    {
+      "id": 58,
+      "start": 424,
+      "end": 425
+    },
+    {
+      "id": 59,
+      "start": 426,
+      "end": 430
+    },
+    {
+      "id": 60,
+      "start": 431,
+      "end": 433
+    },
+    {
+      "id": 61,
+      "start": 433,
+      "end": 434
+    },
+    {
+      "id": 62,
+      "start": 435,
+      "end": 440
+    },
+    {
+      "id": 63,
+      "start": 440,
+      "end": 452
+    },
+    {
+      "id": 64,
+      "start": 453,
+      "end": 456
+    },
+    {
+      "id": 65,
+      "start": 457,
+      "end": 468
+    },
+    {
+      "id": 66,
+      "start": 469,
+      "end": 472
+    },
+    {
+      "id": 67,
+      "start": 473,
+      "end": 476
+    },
+    {
+      "id": 68,
+      "start": 477,
+      "end": 487
+    },
+    {
+      "id": 69,
+      "start": 488,
+      "end": 496
+    },
+    {
+      "id": 70,
+      "start": 497,
+      "end": 507
+    },
+    {
+      "id": 71,
+      "start": 507,
+      "end": 520
+    },
+    {
+      "id": 72,
+      "start": 521,
+      "end": 528
+    },
+    {
+      "id": 73,
+      "start": 529,
+      "end": 533
+    },
+    {
+      "id": 74,
+      "start": 534,
+      "end": 544
+    },
+    {
+      "id": 75,
+      "start": 544,
+      "end": 557
+    },
+    {
+      "id": 76,
+      "start": 558,
+      "end": 560
+    },
+    {
+      "id": 77,
+      "start": 561,
+      "end": 570
+    },
+    {
+      "id": 78,
+      "start": 571,
+      "end": 578
+    },
+    {
+      "id": 79,
+      "start": 579,
+      "end": 582
+    },
+    {
+      "id": 80,
+      "start": 583,
+      "end": 591
+    },
+    {
+      "id": 81,
+      "start": 592,
+      "end": 595
+    },
+    {
+      "id": 82,
+      "start": 596,
+      "end": 603
+    },
+    {
+      "id": 83,
+      "start": 604,
+      "end": 607
+    },
+    {
+      "id": 84,
+      "start": 608,
+      "end": 611
+    },
+    {
+      "id": 85,
+      "start": 612,
+      "end": 619
+    },
+    {
+      "id": 86,
+      "start": 620,
+      "end": 630
+    },
+    {
+      "id": 87,
+      "start": 631,
+      "end": 634
+    },
+    {
+      "id": 88,
+      "start": 635,
+      "end": 646
+    },
+    {
+      "id": 89,
+      "start": 647,
+      "end": 649
+    },
+    {
+      "id": 90,
+      "start": 650,
+      "end": 660
+    },
+    {
+      "id": 91,
+      "start": 661,
+      "end": 671
+    },
+    {
+      "id": 92,
+      "start": 672,
+      "end": 679
+    },
+    {
+      "id": 93,
+      "start": 680,
+      "end": 684
+    },
+    {
+      "id": 94,
+      "start": 685,
+      "end": 687
+    },
+    {
+      "id": 95,
+      "start": 688,
+      "end": 695
+    },
+    {
+      "id": 96,
+      "start": 696,
+      "end": 700
+    },
+    {
+      "id": 97,
+      "start": 701,
+      "end": 708
+    },
+    {
+      "id": 98,
+      "start": 709,
+      "end": 715
+    },
+    {
+      "id": 99,
+      "start": 716,
+      "end": 726
+    },
+    {
+      "id": 100,
+      "start": 726,
+      "end": 727
+    },
+    {
+      "id": 101,
+      "start": 728,
+      "end": 738
+    },
+    {
+      "id": 102,
+      "start": 739,
+      "end": 741
+    },
+    {
+      "id": 103,
+      "start": 742,
+      "end": 747
+    },
+    {
+      "id": 104,
+      "start": 748,
+      "end": 756
+    },
+    {
+      "id": 105,
+      "start": 757,
+      "end": 768
+    },
+    {
+      "id": 106,
+      "start": 769,
+      "end": 778
+    },
+    {
+      "id": 107,
+      "start": 778,
+      "end": 791
+    },
+    {
+      "id": 108,
+      "start": 792,
+      "end": 794
+    },
+    {
+      "id": 109,
+      "start": 795,
+      "end": 797
+    },
+    {
+      "id": 110,
+      "start": 798,
+      "end": 807
+    },
+    {
+      "id": 111,
+      "start": 808,
+      "end": 815
+    },
+    {
+      "id": 112,
+      "start": 815,
+      "end": 828
+    },
+    {
+      "id": 113,
+      "start": 828,
+      "end": 829
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "intuitionism",
+      "dep": 1,
+      "rel": "is_a",
+      "dest_text": "approach",
+      "dest": 4
+    },
+    {
+      "dep_text": "intuitionism",
+      "dep": 1,
+      "rel": "is_a",
+      "dest_text": "neointuitionism",
+      "dest": 2
+    },
+    {
+      "dep_text": "intuitionism",
+      "dep": 1,
+      "rel": "is_a",
+      "dest_text": "preintuitionism",
+      "dest": 3
+    },
+    {
+      "dep_text": "intuitionism",
+      "dep": 1,
+      "rel": "is_a",
+      "dest_text": "mathematics",
+      "dest": 5
+    },
+    {
+      "dep_text": "intuitionism",
+      "dep": 1,
+      "rel": "is_a",
+      "dest_text": "logic",
+      "dest": 9
+    },
+    {
+      "dep_text": "intuitionism",
+      "dep": 1,
+      "rel": "is_a",
+      "dest_text": "analytic activities",
+      "dest": 10
+    }
+  ],
+  "classes": {
+    "philosophy_of_mathematics_0": {
+      "labels": [
+        "TOPIC"
+      ],
+      "class": "philosophy of mathematics"
+    },
+    "neointuitionism_2": {
+      "labels": [
+        "ABSTRACT",
+        "TOPIC"
+      ],
+      "class": "neointuitionism"
+    },
+    "preintuitionism_3": {
+      "labels": [
+        "ABSTRACT",
+        "TOPIC"
+      ],
+      "class": "preintuitionism"
+    },
+    "approach_4": {
+      "labels": [
+        "ABSTRACT",
+        "TOPIC"
+      ],
+      "class": "approach"
+    },
+    "mathematics_5": {
+      "labels": [
+        "TOPIC"
+      ],
+      "class": "mathematics"
+    },
+    "fundamental_principles_7": {
+      "labels": [
+        "ABSTRACT",
+        "TOPIC"
+      ],
+      "class": "fundamental principles"
+    },
+    "objective_reality_8": {
+      "labels": [
+        "ABSTRACT"
+      ],
+      "class": "objective reality"
+    },
+    "logic_9": {
+      "labels": [
+        "ABSTRACT",
+        "TOPIC"
+      ],
+      "class": "logic"
+    },
+    "analytic_activities_10": {
+      "labels": [
+        "ABSTRACT",
+        "ACTIVITY"
+      ],
+      "class": "analytic activities"
+    },
+    "deep_properties_11": {
+      "labels": [
+        "ABSTRACT"
+      ],
+      "class": "deep properties"
+    },
+    "independent_existence_12": {
+      "labels": [
+        "ABSTRACT"
+      ],
+      "class": "independent existence"
+    },
+    "reality_13": {
+      "labels": [
+        "ABSTRACT"
+      ],
+      "class": "reality"
+    }
+  }
+}

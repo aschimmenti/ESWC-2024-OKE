@@ -1,0 +1,405 @@
+{
+  "text": "Nothing in Common is a 1986 comedy-drama film, directed by Garry Marshall. It stars Tom Hanks and Jackie Gleason in what would prove to be Gleason's final film role - he was suffering from colon cancer, liver cancer, and thrombosed hemorrhoids during production.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 17,
+      "label": "ENTITY"
+    },
+    {
+      "start": 36,
+      "end": 40,
+      "label": "ENTITY"
+    },
+    {
+      "start": 67,
+      "end": 71,
+      "label": "CLASS"
+    },
+    {
+      "start": 97,
+      "end": 111,
+      "label": "ENTITY"
+    },
+    {
+      "start": 135,
+      "end": 144,
+      "label": "ENTITY"
+    },
+    {
+      "start": 162,
+      "end": 176,
+      "label": "ENTITY"
+    },
+    {
+      "start": 216,
+      "end": 241,
+      "label": "CLASS"
+    },
+    {
+      "start_char": 0,
+      "end_char": 17,
+      "label": "ENTITY",
+      "text": "Nothing in Common"
+    },
+    {
+      "start_char": 36,
+      "end_char": 40,
+      "label": "ENTITY",
+      "text": "1986"
+    },
+    {
+      "start_char": 67,
+      "end_char": 71,
+      "label": "CLASS",
+      "text": "film",
+      "subClassOf": [
+        "INFORMATION_ENTITY"
+      ]
+    },
+    {
+      "start_char": 97,
+      "end_char": 111,
+      "label": "ENTITY",
+      "text": "Garry Marshall"
+    },
+    {
+      "start_char": 135,
+      "end_char": 144,
+      "label": "ENTITY",
+      "text": "Tom Hanks"
+    },
+    {
+      "start_char": 162,
+      "end_char": 176,
+      "label": "ENTITY",
+      "text": "Jackie Gleason"
+    },
+    {
+      "start_char": 216,
+      "end_char": 241,
+      "label": "CLASS",
+      "text": "Gleason's final film role",
+      "subClassOf": [
+        "PERSON",
+        "ROLE"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 7
+    },
+    {
+      "id": 1,
+      "start": 8,
+      "end": 10
+    },
+    {
+      "id": 2,
+      "start": 11,
+      "end": 17
+    },
+    {
+      "id": 3,
+      "start": 17,
+      "end": 30
+    },
+    {
+      "id": 4,
+      "start": 31,
+      "end": 33
+    },
+    {
+      "id": 5,
+      "start": 34,
+      "end": 35
+    },
+    {
+      "id": 6,
+      "start": 36,
+      "end": 40
+    },
+    {
+      "id": 7,
+      "start": 40,
+      "end": 53
+    },
+    {
+      "id": 8,
+      "start": 54,
+      "end": 60
+    },
+    {
+      "id": 9,
+      "start": 60,
+      "end": 61
+    },
+    {
+      "id": 10,
+      "start": 61,
+      "end": 66
+    },
+    {
+      "id": 11,
+      "start": 67,
+      "end": 71
+    },
+    {
+      "id": 12,
+      "start": 71,
+      "end": 83
+    },
+    {
+      "id": 13,
+      "start": 83,
+      "end": 84
+    },
+    {
+      "id": 14,
+      "start": 85,
+      "end": 93
+    },
+    {
+      "id": 15,
+      "start": 94,
+      "end": 96
+    },
+    {
+      "id": 16,
+      "start": 97,
+      "end": 102
+    },
+    {
+      "id": 17,
+      "start": 103,
+      "end": 111
+    },
+    {
+      "id": 18,
+      "start": 111,
+      "end": 124
+    },
+    {
+      "id": 19,
+      "start": 124,
+      "end": 125
+    },
+    {
+      "id": 20,
+      "start": 126,
+      "end": 128
+    },
+    {
+      "id": 21,
+      "start": 129,
+      "end": 134
+    },
+    {
+      "id": 22,
+      "start": 135,
+      "end": 138
+    },
+    {
+      "id": 23,
+      "start": 139,
+      "end": 144
+    },
+    {
+      "id": 24,
+      "start": 144,
+      "end": 157
+    },
+    {
+      "id": 25,
+      "start": 158,
+      "end": 161
+    },
+    {
+      "id": 26,
+      "start": 162,
+      "end": 168
+    },
+    {
+      "id": 27,
+      "start": 169,
+      "end": 176
+    },
+    {
+      "id": 28,
+      "start": 176,
+      "end": 189
+    },
+    {
+      "id": 29,
+      "start": 190,
+      "end": 192
+    },
+    {
+      "id": 30,
+      "start": 193,
+      "end": 197
+    },
+    {
+      "id": 31,
+      "start": 198,
+      "end": 203
+    },
+    {
+      "id": 32,
+      "start": 204,
+      "end": 209
+    },
+    {
+      "id": 33,
+      "start": 210,
+      "end": 212
+    },
+    {
+      "id": 34,
+      "start": 213,
+      "end": 215
+    },
+    {
+      "id": 35,
+      "start": 216,
+      "end": 223
+    },
+    {
+      "id": 36,
+      "start": 223,
+      "end": 225
+    },
+    {
+      "id": 37,
+      "start": 226,
+      "end": 231
+    },
+    {
+      "id": 38,
+      "start": 232,
+      "end": 236
+    },
+    {
+      "id": 39,
+      "start": 237,
+      "end": 241
+    },
+    {
+      "id": 40,
+      "start": 241,
+      "end": 253
+    },
+    {
+      "id": 41,
+      "start": 254,
+      "end": 255
+    },
+    {
+      "id": 42,
+      "start": 256,
+      "end": 258
+    },
+    {
+      "id": 43,
+      "start": 259,
+      "end": 262
+    },
+    {
+      "id": 44,
+      "start": 263,
+      "end": 272
+    },
+    {
+      "id": 45,
+      "start": 273,
+      "end": 277
+    },
+    {
+      "id": 46,
+      "start": 278,
+      "end": 283
+    },
+    {
+      "id": 47,
+      "start": 284,
+      "end": 290
+    },
+    {
+      "id": 48,
+      "start": 290,
+      "end": 291
+    },
+    {
+      "id": 49,
+      "start": 292,
+      "end": 297
+    },
+    {
+      "id": 50,
+      "start": 298,
+      "end": 304
+    },
+    {
+      "id": 51,
+      "start": 304,
+      "end": 305
+    },
+    {
+      "id": 52,
+      "start": 306,
+      "end": 309
+    },
+    {
+      "id": 53,
+      "start": 310,
+      "end": 320
+    },
+    {
+      "id": 54,
+      "start": 321,
+      "end": 332
+    },
+    {
+      "id": 55,
+      "start": 333,
+      "end": 339
+    },
+    {
+      "id": 56,
+      "start": 340,
+      "end": 350
+    },
+    {
+      "id": 57,
+      "start": 350,
+      "end": 351
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "film",
+      "dep": 2,
+      "rel": "rdf-type",
+      "dest_text": "Gleason's final film role",
+      "dest": 6
+    }
+  ],
+  "classes": {
+    "film_2": {
+      "labels": [
+        "INFORMATION_ENTITY"
+      ],
+      "class": "film"
+    },
+    "Gleason's_final_film_role_6": {
+      "labels": [
+        "PERSON",
+        "ROLE"
+      ],
+      "class": "Gleason's final film role"
+    }
+  }
+}

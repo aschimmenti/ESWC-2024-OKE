@@ -1,0 +1,640 @@
+{
+  "text": "The western brush (Macropus irma), also known as the black-gloved wallaby, is a wallaby found in the southwest coastal region of Western Australia. The wallaby's main threat is predation by the introduced red fox (Vulpes vulpes). The IUCN lists the western brush wallaby as Least Concern, as it remains fairly widespread and the population is believed to be stable or increasing, as a result of fox control programs.",
+  "ents": [
+    {
+      "start": 4,
+      "end": 17,
+      "label": "ENTITY"
+    },
+    {
+      "start": 32,
+      "end": 45,
+      "label": "ENTITY"
+    },
+    {
+      "start": 79,
+      "end": 99,
+      "label": "CLASS"
+    },
+    {
+      "start": 118,
+      "end": 125,
+      "label": "CLASS"
+    },
+    {
+      "start": 151,
+      "end": 196,
+      "label": "ENTITY"
+    },
+    {
+      "start": 268,
+      "end": 275,
+      "label": "ENTITY"
+    },
+    {
+      "start": 290,
+      "end": 303,
+      "label": "ENTITY"
+    },
+    {
+      "start": 323,
+      "end": 327,
+      "label": "ENTITY"
+    },
+    {
+      "start": 376,
+      "end": 389,
+      "label": "CLASS"
+    },
+    {
+      "start": 509,
+      "end": 529,
+      "label": "CLASS"
+    },
+    {
+      "start_char": 4,
+      "end_char": 17,
+      "label": "ENTITY",
+      "text": "western brush"
+    },
+    {
+      "start_char": 32,
+      "end_char": 45,
+      "label": "ENTITY",
+      "text": "Macropus irma"
+    },
+    {
+      "start_char": 79,
+      "end_char": 99,
+      "label": "CLASS",
+      "text": "black-gloved wallaby",
+      "subClassOf": [
+        "ORGANISM"
+      ]
+    },
+    {
+      "start_char": 118,
+      "end_char": 125,
+      "label": "CLASS",
+      "text": "wallaby",
+      "subClassOf": [
+        "ORGANISM"
+      ]
+    },
+    {
+      "start_char": 151,
+      "end_char": 196,
+      "label": "ENTITY",
+      "text": "southwest coastal region of Western Australia"
+    },
+    {
+      "start_char": 268,
+      "end_char": 275,
+      "label": "ENTITY",
+      "text": "red fox"
+    },
+    {
+      "start_char": 290,
+      "end_char": 303,
+      "label": "ENTITY",
+      "text": "Vulpes vulpes"
+    },
+    {
+      "start_char": 323,
+      "end_char": 327,
+      "label": "ENTITY",
+      "text": "IUCN"
+    },
+    {
+      "start_char": 376,
+      "end_char": 389,
+      "label": "CLASS",
+      "text": "Least Concern",
+      "subClassOf": [
+        "ORGANISM"
+      ]
+    },
+    {
+      "start_char": 509,
+      "end_char": 529,
+      "label": "CLASS",
+      "text": "fox control programs",
+      "subClassOf": [
+        "ACTIVITY",
+        "ORGANISM"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 3
+    },
+    {
+      "id": 1,
+      "start": 4,
+      "end": 11
+    },
+    {
+      "id": 2,
+      "start": 12,
+      "end": 17
+    },
+    {
+      "id": 3,
+      "start": 17,
+      "end": 30
+    },
+    {
+      "id": 4,
+      "start": 31,
+      "end": 32
+    },
+    {
+      "id": 5,
+      "start": 32,
+      "end": 40
+    },
+    {
+      "id": 6,
+      "start": 41,
+      "end": 45
+    },
+    {
+      "id": 7,
+      "start": 45,
+      "end": 58
+    },
+    {
+      "id": 8,
+      "start": 58,
+      "end": 59
+    },
+    {
+      "id": 9,
+      "start": 59,
+      "end": 60
+    },
+    {
+      "id": 10,
+      "start": 61,
+      "end": 65
+    },
+    {
+      "id": 11,
+      "start": 66,
+      "end": 71
+    },
+    {
+      "id": 12,
+      "start": 72,
+      "end": 74
+    },
+    {
+      "id": 13,
+      "start": 75,
+      "end": 78
+    },
+    {
+      "id": 14,
+      "start": 79,
+      "end": 84
+    },
+    {
+      "id": 15,
+      "start": 84,
+      "end": 85
+    },
+    {
+      "id": 16,
+      "start": 85,
+      "end": 91
+    },
+    {
+      "id": 17,
+      "start": 92,
+      "end": 99
+    },
+    {
+      "id": 18,
+      "start": 99,
+      "end": 111
+    },
+    {
+      "id": 19,
+      "start": 111,
+      "end": 112
+    },
+    {
+      "id": 20,
+      "start": 113,
+      "end": 115
+    },
+    {
+      "id": 21,
+      "start": 116,
+      "end": 117
+    },
+    {
+      "id": 22,
+      "start": 118,
+      "end": 125
+    },
+    {
+      "id": 23,
+      "start": 125,
+      "end": 137
+    },
+    {
+      "id": 24,
+      "start": 138,
+      "end": 143
+    },
+    {
+      "id": 25,
+      "start": 144,
+      "end": 146
+    },
+    {
+      "id": 26,
+      "start": 147,
+      "end": 150
+    },
+    {
+      "id": 27,
+      "start": 151,
+      "end": 160
+    },
+    {
+      "id": 28,
+      "start": 161,
+      "end": 168
+    },
+    {
+      "id": 29,
+      "start": 169,
+      "end": 175
+    },
+    {
+      "id": 30,
+      "start": 176,
+      "end": 178
+    },
+    {
+      "id": 31,
+      "start": 179,
+      "end": 186
+    },
+    {
+      "id": 32,
+      "start": 187,
+      "end": 196
+    },
+    {
+      "id": 33,
+      "start": 196,
+      "end": 209
+    },
+    {
+      "id": 34,
+      "start": 209,
+      "end": 210
+    },
+    {
+      "id": 35,
+      "start": 211,
+      "end": 214
+    },
+    {
+      "id": 36,
+      "start": 215,
+      "end": 222
+    },
+    {
+      "id": 37,
+      "start": 222,
+      "end": 224
+    },
+    {
+      "id": 38,
+      "start": 225,
+      "end": 229
+    },
+    {
+      "id": 39,
+      "start": 230,
+      "end": 236
+    },
+    {
+      "id": 40,
+      "start": 237,
+      "end": 239
+    },
+    {
+      "id": 41,
+      "start": 240,
+      "end": 249
+    },
+    {
+      "id": 42,
+      "start": 250,
+      "end": 252
+    },
+    {
+      "id": 43,
+      "start": 253,
+      "end": 256
+    },
+    {
+      "id": 44,
+      "start": 257,
+      "end": 267
+    },
+    {
+      "id": 45,
+      "start": 268,
+      "end": 271
+    },
+    {
+      "id": 46,
+      "start": 272,
+      "end": 275
+    },
+    {
+      "id": 47,
+      "start": 275,
+      "end": 288
+    },
+    {
+      "id": 48,
+      "start": 289,
+      "end": 290
+    },
+    {
+      "id": 49,
+      "start": 290,
+      "end": 296
+    },
+    {
+      "id": 50,
+      "start": 297,
+      "end": 303
+    },
+    {
+      "id": 51,
+      "start": 303,
+      "end": 316
+    },
+    {
+      "id": 52,
+      "start": 316,
+      "end": 317
+    },
+    {
+      "id": 53,
+      "start": 317,
+      "end": 318
+    },
+    {
+      "id": 54,
+      "start": 319,
+      "end": 322
+    },
+    {
+      "id": 55,
+      "start": 323,
+      "end": 327
+    },
+    {
+      "id": 56,
+      "start": 327,
+      "end": 340
+    },
+    {
+      "id": 57,
+      "start": 341,
+      "end": 346
+    },
+    {
+      "id": 58,
+      "start": 347,
+      "end": 350
+    },
+    {
+      "id": 59,
+      "start": 351,
+      "end": 358
+    },
+    {
+      "id": 60,
+      "start": 359,
+      "end": 364
+    },
+    {
+      "id": 61,
+      "start": 365,
+      "end": 372
+    },
+    {
+      "id": 62,
+      "start": 373,
+      "end": 375
+    },
+    {
+      "id": 63,
+      "start": 376,
+      "end": 381
+    },
+    {
+      "id": 64,
+      "start": 382,
+      "end": 389
+    },
+    {
+      "id": 65,
+      "start": 389,
+      "end": 401
+    },
+    {
+      "id": 66,
+      "start": 401,
+      "end": 402
+    },
+    {
+      "id": 67,
+      "start": 403,
+      "end": 405
+    },
+    {
+      "id": 68,
+      "start": 406,
+      "end": 408
+    },
+    {
+      "id": 69,
+      "start": 409,
+      "end": 416
+    },
+    {
+      "id": 70,
+      "start": 417,
+      "end": 423
+    },
+    {
+      "id": 71,
+      "start": 424,
+      "end": 434
+    },
+    {
+      "id": 72,
+      "start": 435,
+      "end": 438
+    },
+    {
+      "id": 73,
+      "start": 439,
+      "end": 442
+    },
+    {
+      "id": 74,
+      "start": 443,
+      "end": 453
+    },
+    {
+      "id": 75,
+      "start": 454,
+      "end": 456
+    },
+    {
+      "id": 76,
+      "start": 457,
+      "end": 465
+    },
+    {
+      "id": 77,
+      "start": 466,
+      "end": 468
+    },
+    {
+      "id": 78,
+      "start": 469,
+      "end": 471
+    },
+    {
+      "id": 79,
+      "start": 472,
+      "end": 478
+    },
+    {
+      "id": 80,
+      "start": 479,
+      "end": 481
+    },
+    {
+      "id": 81,
+      "start": 482,
+      "end": 492
+    },
+    {
+      "id": 82,
+      "start": 492,
+      "end": 493
+    },
+    {
+      "id": 83,
+      "start": 494,
+      "end": 496
+    },
+    {
+      "id": 84,
+      "start": 497,
+      "end": 498
+    },
+    {
+      "id": 85,
+      "start": 499,
+      "end": 505
+    },
+    {
+      "id": 86,
+      "start": 506,
+      "end": 508
+    },
+    {
+      "id": 87,
+      "start": 509,
+      "end": 512
+    },
+    {
+      "id": 88,
+      "start": 513,
+      "end": 520
+    },
+    {
+      "id": 89,
+      "start": 521,
+      "end": 529
+    },
+    {
+      "id": 90,
+      "start": 529,
+      "end": 541
+    },
+    {
+      "id": 91,
+      "start": 541,
+      "end": 542
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "western brush",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "black-gloved wallaby",
+      "dest": 2
+    },
+    {
+      "dep_text": "western brush",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "wallaby",
+      "dest": 3
+    },
+    {
+      "dep_text": "western brush",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "Least Concern",
+      "dest": 8
+    }
+  ],
+  "classes": {
+    "black-gloved_wallaby_2": {
+      "labels": [
+        "ORGANISM"
+      ],
+      "class": "black-gloved wallaby"
+    },
+    "wallaby_3": {
+      "labels": [
+        "ORGANISM"
+      ],
+      "class": "wallaby"
+    },
+    "Least_Concern_8": {
+      "labels": [
+        "ORGANISM"
+      ],
+      "class": "Least Concern"
+    },
+    "fox_control_programs_9": {
+      "labels": [
+        "ACTIVITY",
+        "ORGANISM"
+      ],
+      "class": "fox control programs"
+    }
+  }
+}

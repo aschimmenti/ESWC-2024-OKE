@@ -1,0 +1,236 @@
+{
+  "text": "Algebra (from Arabic al-jebr meaning \"reunion of broken parts\") is the study of mathematical symbols and the rules for manipulating these symbols.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 7,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 31,
+      "end": 45,
+      "label": "CLASS"
+    },
+    {
+      "start": 109,
+      "end": 129,
+      "label": "CLASS"
+    },
+    {
+      "start_char": 0,
+      "end_char": 7,
+      "label": "INDIVIDUAL",
+      "text": "Algebra"
+    },
+    {
+      "start_char": 31,
+      "end_char": 45,
+      "label": "CLASS",
+      "text": "Arabic al-jebr",
+      "subClassOf": [
+        "ABSTRACT"
+      ]
+    },
+    {
+      "start_char": 109,
+      "end_char": 129,
+      "label": "CLASS",
+      "text": "mathematical symbols",
+      "subClassOf": [
+        "INFORMATION_ENTITY"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 7
+    },
+    {
+      "id": 1,
+      "start": 7,
+      "end": 24
+    },
+    {
+      "id": 2,
+      "start": 25,
+      "end": 26
+    },
+    {
+      "id": 3,
+      "start": 26,
+      "end": 30
+    },
+    {
+      "id": 4,
+      "start": 31,
+      "end": 37
+    },
+    {
+      "id": 5,
+      "start": 38,
+      "end": 40
+    },
+    {
+      "id": 6,
+      "start": 40,
+      "end": 41
+    },
+    {
+      "id": 7,
+      "start": 41,
+      "end": 45
+    },
+    {
+      "id": 8,
+      "start": 45,
+      "end": 57
+    },
+    {
+      "id": 9,
+      "start": 58,
+      "end": 65
+    },
+    {
+      "id": 10,
+      "start": 66,
+      "end": 67
+    },
+    {
+      "id": 11,
+      "start": 67,
+      "end": 74
+    },
+    {
+      "id": 12,
+      "start": 75,
+      "end": 77
+    },
+    {
+      "id": 13,
+      "start": 78,
+      "end": 84
+    },
+    {
+      "id": 14,
+      "start": 85,
+      "end": 90
+    },
+    {
+      "id": 15,
+      "start": 90,
+      "end": 91
+    },
+    {
+      "id": 16,
+      "start": 91,
+      "end": 92
+    },
+    {
+      "id": 17,
+      "start": 93,
+      "end": 95
+    },
+    {
+      "id": 18,
+      "start": 96,
+      "end": 99
+    },
+    {
+      "id": 19,
+      "start": 100,
+      "end": 105
+    },
+    {
+      "id": 20,
+      "start": 106,
+      "end": 108
+    },
+    {
+      "id": 21,
+      "start": 109,
+      "end": 121
+    },
+    {
+      "id": 22,
+      "start": 122,
+      "end": 129
+    },
+    {
+      "id": 23,
+      "start": 129,
+      "end": 141
+    },
+    {
+      "id": 24,
+      "start": 142,
+      "end": 145
+    },
+    {
+      "id": 25,
+      "start": 146,
+      "end": 149
+    },
+    {
+      "id": 26,
+      "start": 150,
+      "end": 155
+    },
+    {
+      "id": 27,
+      "start": 156,
+      "end": 159
+    },
+    {
+      "id": 28,
+      "start": 160,
+      "end": 172
+    },
+    {
+      "id": 29,
+      "start": 173,
+      "end": 178
+    },
+    {
+      "id": 30,
+      "start": 179,
+      "end": 186
+    },
+    {
+      "id": 31,
+      "start": 186,
+      "end": 187
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Algebra",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "Arabic al-jebr",
+      "dest": 1
+    },
+    {
+      "dep_text": "Algebra",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "mathematical symbols",
+      "dest": 2
+    }
+  ],
+  "classes": {
+    "Arabic_al-jebr_1": {
+      "labels": [
+        "ABSTRACT"
+      ],
+      "class": "Arabic al-jebr"
+    },
+    "mathematical_symbols_2": {
+      "labels": [
+        "INFORMATION_ENTITY"
+      ],
+      "class": "mathematical symbols"
+    }
+  }
+}

@@ -1,0 +1,526 @@
+{
+  "text": "Pearse Stadium is the GAA stadium, in County Galway, Ireland. The stadium opened on June 16, 1957, as 16,000 people came to watch Galway beat Tipperary in hurling, and Kerry in football, and to watch Bishop Michael Browne bless the facility.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 14,
+      "label": "ENTITY"
+    },
+    {
+      "start": 35,
+      "end": 46,
+      "label": "CLASS"
+    },
+    {
+      "start": 63,
+      "end": 76,
+      "label": "ENTITY"
+    },
+    {
+      "start": 91,
+      "end": 98,
+      "label": "ENTITY"
+    },
+    {
+      "start": 135,
+      "end": 148,
+      "label": "ENTITY"
+    },
+    {
+      "start": 166,
+      "end": 179,
+      "label": "ENTITY"
+    },
+    {
+      "start": 207,
+      "end": 213,
+      "label": "ENTITY"
+    },
+    {
+      "start": 232,
+      "end": 241,
+      "label": "ENTITY"
+    },
+    {
+      "start": 258,
+      "end": 265,
+      "label": "CLASS"
+    },
+    {
+      "start": 283,
+      "end": 288,
+      "label": "ENTITY"
+    },
+    {
+      "start": 305,
+      "end": 313,
+      "label": "CLASS"
+    },
+    {
+      "start": 341,
+      "end": 362,
+      "label": "ENTITY"
+    },
+    {
+      "start_char": 0,
+      "end_char": 14,
+      "label": "ENTITY",
+      "text": "Pearse Stadium"
+    },
+    {
+      "start_char": 35,
+      "end_char": 46,
+      "label": "CLASS",
+      "text": "GAA stadium",
+      "subClassOf": [
+        "LOCATION",
+        "PHYSICAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 63,
+      "end_char": 76,
+      "label": "ENTITY",
+      "text": "County Galway"
+    },
+    {
+      "start_char": 91,
+      "end_char": 98,
+      "label": "ENTITY",
+      "text": "Ireland"
+    },
+    {
+      "start_char": 135,
+      "end_char": 148,
+      "label": "ENTITY",
+      "text": "June 16, 1957"
+    },
+    {
+      "start_char": 166,
+      "end_char": 179,
+      "label": "ENTITY",
+      "text": "16,000 people"
+    },
+    {
+      "start_char": 207,
+      "end_char": 213,
+      "label": "ENTITY",
+      "text": "Galway"
+    },
+    {
+      "start_char": 232,
+      "end_char": 241,
+      "label": "ENTITY",
+      "text": "Tipperary"
+    },
+    {
+      "start_char": 258,
+      "end_char": 265,
+      "label": "CLASS",
+      "text": "hurling",
+      "subClassOf": [
+        "ACTIVITY"
+      ]
+    },
+    {
+      "start_char": 283,
+      "end_char": 288,
+      "label": "ENTITY",
+      "text": "Kerry"
+    },
+    {
+      "start_char": 305,
+      "end_char": 313,
+      "label": "CLASS",
+      "text": "football",
+      "subClassOf": [
+        "ACTIVITY"
+      ]
+    },
+    {
+      "start_char": 341,
+      "end_char": 362,
+      "label": "ENTITY",
+      "text": "Bishop Michael Browne"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 6
+    },
+    {
+      "id": 1,
+      "start": 7,
+      "end": 14
+    },
+    {
+      "id": 2,
+      "start": 14,
+      "end": 27
+    },
+    {
+      "id": 3,
+      "start": 28,
+      "end": 30
+    },
+    {
+      "id": 4,
+      "start": 31,
+      "end": 34
+    },
+    {
+      "id": 5,
+      "start": 35,
+      "end": 38
+    },
+    {
+      "id": 6,
+      "start": 39,
+      "end": 46
+    },
+    {
+      "id": 7,
+      "start": 46,
+      "end": 58
+    },
+    {
+      "id": 8,
+      "start": 58,
+      "end": 59
+    },
+    {
+      "id": 9,
+      "start": 60,
+      "end": 62
+    },
+    {
+      "id": 10,
+      "start": 63,
+      "end": 69
+    },
+    {
+      "id": 11,
+      "start": 70,
+      "end": 76
+    },
+    {
+      "id": 12,
+      "start": 76,
+      "end": 89
+    },
+    {
+      "id": 13,
+      "start": 89,
+      "end": 90
+    },
+    {
+      "id": 14,
+      "start": 91,
+      "end": 98
+    },
+    {
+      "id": 15,
+      "start": 98,
+      "end": 111
+    },
+    {
+      "id": 16,
+      "start": 111,
+      "end": 112
+    },
+    {
+      "id": 17,
+      "start": 113,
+      "end": 116
+    },
+    {
+      "id": 18,
+      "start": 117,
+      "end": 124
+    },
+    {
+      "id": 19,
+      "start": 125,
+      "end": 131
+    },
+    {
+      "id": 20,
+      "start": 132,
+      "end": 134
+    },
+    {
+      "id": 21,
+      "start": 135,
+      "end": 139
+    },
+    {
+      "id": 22,
+      "start": 140,
+      "end": 142
+    },
+    {
+      "id": 23,
+      "start": 142,
+      "end": 143
+    },
+    {
+      "id": 24,
+      "start": 144,
+      "end": 148
+    },
+    {
+      "id": 25,
+      "start": 148,
+      "end": 161
+    },
+    {
+      "id": 26,
+      "start": 161,
+      "end": 162
+    },
+    {
+      "id": 27,
+      "start": 163,
+      "end": 165
+    },
+    {
+      "id": 28,
+      "start": 166,
+      "end": 172
+    },
+    {
+      "id": 29,
+      "start": 173,
+      "end": 179
+    },
+    {
+      "id": 30,
+      "start": 179,
+      "end": 192
+    },
+    {
+      "id": 31,
+      "start": 193,
+      "end": 197
+    },
+    {
+      "id": 32,
+      "start": 198,
+      "end": 200
+    },
+    {
+      "id": 33,
+      "start": 201,
+      "end": 206
+    },
+    {
+      "id": 34,
+      "start": 207,
+      "end": 213
+    },
+    {
+      "id": 35,
+      "start": 213,
+      "end": 226
+    },
+    {
+      "id": 36,
+      "start": 227,
+      "end": 231
+    },
+    {
+      "id": 37,
+      "start": 232,
+      "end": 241
+    },
+    {
+      "id": 38,
+      "start": 241,
+      "end": 254
+    },
+    {
+      "id": 39,
+      "start": 255,
+      "end": 257
+    },
+    {
+      "id": 40,
+      "start": 258,
+      "end": 265
+    },
+    {
+      "id": 41,
+      "start": 265,
+      "end": 277
+    },
+    {
+      "id": 42,
+      "start": 277,
+      "end": 278
+    },
+    {
+      "id": 43,
+      "start": 279,
+      "end": 282
+    },
+    {
+      "id": 44,
+      "start": 283,
+      "end": 288
+    },
+    {
+      "id": 45,
+      "start": 288,
+      "end": 301
+    },
+    {
+      "id": 46,
+      "start": 302,
+      "end": 304
+    },
+    {
+      "id": 47,
+      "start": 305,
+      "end": 313
+    },
+    {
+      "id": 48,
+      "start": 313,
+      "end": 326
+    },
+    {
+      "id": 49,
+      "start": 326,
+      "end": 327
+    },
+    {
+      "id": 50,
+      "start": 328,
+      "end": 331
+    },
+    {
+      "id": 51,
+      "start": 332,
+      "end": 334
+    },
+    {
+      "id": 52,
+      "start": 335,
+      "end": 340
+    },
+    {
+      "id": 53,
+      "start": 341,
+      "end": 347
+    },
+    {
+      "id": 54,
+      "start": 348,
+      "end": 355
+    },
+    {
+      "id": 55,
+      "start": 356,
+      "end": 362
+    },
+    {
+      "id": 56,
+      "start": 362,
+      "end": 376
+    },
+    {
+      "id": 57,
+      "start": 377,
+      "end": 382
+    },
+    {
+      "id": 58,
+      "start": 383,
+      "end": 386
+    },
+    {
+      "id": 59,
+      "start": 387,
+      "end": 395
+    },
+    {
+      "id": 60,
+      "start": 395,
+      "end": 396
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Pearse Stadium",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "GAA stadium",
+      "dest": 1
+    },
+    {
+      "dep_text": "County Galway",
+      "dep": 2,
+      "rel": "rdf-type",
+      "dest_text": "Ireland",
+      "dest": 3
+    },
+    {
+      "dep_text": "June 16, 1957",
+      "dep": 4,
+      "rel": "rdf-type",
+      "dest_text": "16,000 people",
+      "dest": 5
+    },
+    {
+      "dep_text": "Galway",
+      "dep": 6,
+      "rel": "rdf-isClassOf",
+      "dest_text": "hurling",
+      "dest": 8
+    },
+    {
+      "dep_text": "Tipperary",
+      "dep": 7,
+      "rel": "rdf-isClassOf",
+      "dest_text": "hurling",
+      "dest": 8
+    },
+    {
+      "dep_text": "Kerry",
+      "dep": 9,
+      "rel": "rdf-isClassOf",
+      "dest_text": "football",
+      "dest": 10
+    },
+    {
+      "dep_text": "Bishop Michael Browne",
+      "dep": 11,
+      "rel": "rdf-type",
+      "dest_text": "GAA stadium",
+      "dest": 1
+    }
+  ],
+  "classes": {
+    "GAA_stadium_1": {
+      "labels": [
+        "LOCATION",
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "GAA stadium"
+    },
+    "hurling_8": {
+      "labels": [
+        "ACTIVITY"
+      ],
+      "class": "hurling"
+    },
+    "football_10": {
+      "labels": [
+        "ACTIVITY"
+      ],
+      "class": "football"
+    }
+  }
+}

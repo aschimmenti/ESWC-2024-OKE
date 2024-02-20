@@ -1,0 +1,552 @@
+{
+  "text": "Natura naturans is a Latin tag coined during the Middle Ages, meaning \"Nature naturing\", or more loosely, \"nature doing what nature does\". The Latin, naturans, is the present active participle of naturo, indicated by the suffix \"-ans\" which is akin to the English suffix \"-ing.\" naturata, is the perfect passive participle.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 15,
+      "label": "ENTITY"
+    },
+    {
+      "start": 34,
+      "end": 43,
+      "label": "CLASS"
+    },
+    {
+      "start": 74,
+      "end": 85,
+      "label": "ENTITY"
+    },
+    {
+      "start": 109,
+      "end": 124,
+      "label": "ENTITY"
+    },
+    {
+      "start": 218,
+      "end": 243,
+      "label": "CLASS"
+    },
+    {
+      "start": 284,
+      "end": 290,
+      "label": "CLASS"
+    },
+    {
+      "start": 331,
+      "end": 345,
+      "label": "CLASS"
+    },
+    {
+      "start": 383,
+      "end": 409,
+      "label": "CLASS"
+    },
+    {
+      "start_char": 0,
+      "end_char": 15,
+      "label": "ENTITY",
+      "text": "Natura naturans"
+    },
+    {
+      "start_char": 34,
+      "end_char": 43,
+      "label": "CLASS",
+      "text": "Latin tag",
+      "subClassOf": [
+        "ABSTRACT",
+        "INFORMATION_ENTITY"
+      ]
+    },
+    {
+      "start_char": 74,
+      "end_char": 85,
+      "label": "ENTITY",
+      "text": "Middle Ages"
+    },
+    {
+      "start_char": 109,
+      "end_char": 124,
+      "label": "ENTITY",
+      "text": "Nature naturing"
+    },
+    {
+      "start_char": 218,
+      "end_char": 243,
+      "label": "CLASS",
+      "text": "present active participle",
+      "subClassOf": [
+        "ABSTRACT"
+      ]
+    },
+    {
+      "start_char": 284,
+      "end_char": 290,
+      "label": "CLASS",
+      "text": "suffix",
+      "subClassOf": [
+        "ABSTRACT"
+      ]
+    },
+    {
+      "start_char": 331,
+      "end_char": 345,
+      "label": "CLASS",
+      "text": "English suffix",
+      "subClassOf": [
+        "INFORMATION_ENTITY"
+      ]
+    },
+    {
+      "start_char": 383,
+      "end_char": 409,
+      "label": "CLASS",
+      "text": "perfect passive participle",
+      "subClassOf": [
+        "ABSTRACT"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 6
+    },
+    {
+      "id": 1,
+      "start": 7,
+      "end": 15
+    },
+    {
+      "id": 2,
+      "start": 15,
+      "end": 28
+    },
+    {
+      "id": 3,
+      "start": 29,
+      "end": 31
+    },
+    {
+      "id": 4,
+      "start": 32,
+      "end": 33
+    },
+    {
+      "id": 5,
+      "start": 34,
+      "end": 39
+    },
+    {
+      "id": 6,
+      "start": 40,
+      "end": 43
+    },
+    {
+      "id": 7,
+      "start": 43,
+      "end": 55
+    },
+    {
+      "id": 8,
+      "start": 56,
+      "end": 62
+    },
+    {
+      "id": 9,
+      "start": 63,
+      "end": 69
+    },
+    {
+      "id": 10,
+      "start": 70,
+      "end": 73
+    },
+    {
+      "id": 11,
+      "start": 74,
+      "end": 80
+    },
+    {
+      "id": 12,
+      "start": 81,
+      "end": 85
+    },
+    {
+      "id": 13,
+      "start": 85,
+      "end": 98
+    },
+    {
+      "id": 14,
+      "start": 98,
+      "end": 99
+    },
+    {
+      "id": 15,
+      "start": 100,
+      "end": 107
+    },
+    {
+      "id": 16,
+      "start": 108,
+      "end": 109
+    },
+    {
+      "id": 17,
+      "start": 109,
+      "end": 115
+    },
+    {
+      "id": 18,
+      "start": 116,
+      "end": 124
+    },
+    {
+      "id": 19,
+      "start": 124,
+      "end": 137
+    },
+    {
+      "id": 20,
+      "start": 137,
+      "end": 138
+    },
+    {
+      "id": 21,
+      "start": 138,
+      "end": 139
+    },
+    {
+      "id": 22,
+      "start": 140,
+      "end": 142
+    },
+    {
+      "id": 23,
+      "start": 143,
+      "end": 147
+    },
+    {
+      "id": 24,
+      "start": 148,
+      "end": 155
+    },
+    {
+      "id": 25,
+      "start": 155,
+      "end": 156
+    },
+    {
+      "id": 26,
+      "start": 157,
+      "end": 158
+    },
+    {
+      "id": 27,
+      "start": 158,
+      "end": 164
+    },
+    {
+      "id": 28,
+      "start": 165,
+      "end": 170
+    },
+    {
+      "id": 29,
+      "start": 171,
+      "end": 175
+    },
+    {
+      "id": 30,
+      "start": 176,
+      "end": 182
+    },
+    {
+      "id": 31,
+      "start": 183,
+      "end": 187
+    },
+    {
+      "id": 32,
+      "start": 187,
+      "end": 188
+    },
+    {
+      "id": 33,
+      "start": 188,
+      "end": 189
+    },
+    {
+      "id": 34,
+      "start": 190,
+      "end": 193
+    },
+    {
+      "id": 35,
+      "start": 194,
+      "end": 199
+    },
+    {
+      "id": 36,
+      "start": 199,
+      "end": 200
+    },
+    {
+      "id": 37,
+      "start": 201,
+      "end": 209
+    },
+    {
+      "id": 38,
+      "start": 209,
+      "end": 210
+    },
+    {
+      "id": 39,
+      "start": 211,
+      "end": 213
+    },
+    {
+      "id": 40,
+      "start": 214,
+      "end": 217
+    },
+    {
+      "id": 41,
+      "start": 218,
+      "end": 225
+    },
+    {
+      "id": 42,
+      "start": 226,
+      "end": 232
+    },
+    {
+      "id": 43,
+      "start": 233,
+      "end": 243
+    },
+    {
+      "id": 44,
+      "start": 243,
+      "end": 255
+    },
+    {
+      "id": 45,
+      "start": 256,
+      "end": 258
+    },
+    {
+      "id": 46,
+      "start": 259,
+      "end": 265
+    },
+    {
+      "id": 47,
+      "start": 265,
+      "end": 266
+    },
+    {
+      "id": 48,
+      "start": 267,
+      "end": 276
+    },
+    {
+      "id": 49,
+      "start": 277,
+      "end": 279
+    },
+    {
+      "id": 50,
+      "start": 280,
+      "end": 283
+    },
+    {
+      "id": 51,
+      "start": 284,
+      "end": 290
+    },
+    {
+      "id": 52,
+      "start": 290,
+      "end": 302
+    },
+    {
+      "id": 53,
+      "start": 303,
+      "end": 304
+    },
+    {
+      "id": 54,
+      "start": 304,
+      "end": 308
+    },
+    {
+      "id": 55,
+      "start": 308,
+      "end": 309
+    },
+    {
+      "id": 56,
+      "start": 310,
+      "end": 315
+    },
+    {
+      "id": 57,
+      "start": 316,
+      "end": 318
+    },
+    {
+      "id": 58,
+      "start": 319,
+      "end": 323
+    },
+    {
+      "id": 59,
+      "start": 324,
+      "end": 326
+    },
+    {
+      "id": 60,
+      "start": 327,
+      "end": 330
+    },
+    {
+      "id": 61,
+      "start": 331,
+      "end": 338
+    },
+    {
+      "id": 62,
+      "start": 339,
+      "end": 345
+    },
+    {
+      "id": 63,
+      "start": 345,
+      "end": 357
+    },
+    {
+      "id": 64,
+      "start": 358,
+      "end": 359
+    },
+    {
+      "id": 65,
+      "start": 359,
+      "end": 363
+    },
+    {
+      "id": 66,
+      "start": 363,
+      "end": 364
+    },
+    {
+      "id": 67,
+      "start": 364,
+      "end": 365
+    },
+    {
+      "id": 68,
+      "start": 366,
+      "end": 374
+    },
+    {
+      "id": 69,
+      "start": 374,
+      "end": 375
+    },
+    {
+      "id": 70,
+      "start": 376,
+      "end": 378
+    },
+    {
+      "id": 71,
+      "start": 379,
+      "end": 382
+    },
+    {
+      "id": 72,
+      "start": 383,
+      "end": 390
+    },
+    {
+      "id": 73,
+      "start": 391,
+      "end": 398
+    },
+    {
+      "id": 74,
+      "start": 399,
+      "end": 409
+    },
+    {
+      "id": 75,
+      "start": 409,
+      "end": 421
+    },
+    {
+      "id": 76,
+      "start": 421,
+      "end": 422
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Natura naturans",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "Latin tag",
+      "dest": 1
+    },
+    {
+      "dep_text": "present active participle",
+      "dep": 4,
+      "rel": "rdf-isClassOf",
+      "dest_text": "Nature naturing",
+      "dest": 3
+    },
+    {
+      "dep_text": "perfect passive participle",
+      "dep": 7,
+      "rel": "rdf-isClassOf",
+      "dest_text": "English suffix",
+      "dest": 6
+    }
+  ],
+  "classes": {
+    "Latin_tag_1": {
+      "labels": [
+        "ABSTRACT",
+        "INFORMATION_ENTITY"
+      ],
+      "class": "Latin tag"
+    },
+    "present_active_participle_4": {
+      "labels": [
+        "ABSTRACT"
+      ],
+      "class": "present active participle"
+    },
+    "suffix_5": {
+      "labels": [
+        "ABSTRACT"
+      ],
+      "class": "suffix"
+    },
+    "English_suffix_6": {
+      "labels": [
+        "INFORMATION_ENTITY"
+      ],
+      "class": "English suffix"
+    },
+    "perfect_passive_participle_7": {
+      "labels": [
+        "ABSTRACT"
+      ],
+      "class": "perfect passive participle"
+    }
+  }
+}

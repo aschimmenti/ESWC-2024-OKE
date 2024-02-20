@@ -1,0 +1,350 @@
+{
+  "text": "Music from Macbeth is a 1972 album by progressive-rock band Third Ear Band. It consists of the soundtrack from Roman Polanski's 1971 film Macbeth, an adaptation of Shakespeare's The Tragedy of Macbeth.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 18,
+      "label": "ENTITY"
+    },
+    {
+      "start": 37,
+      "end": 41,
+      "label": "ENTITY"
+    },
+    {
+      "start": 86,
+      "end": 100,
+      "label": "ENTITY"
+    },
+    {
+      "start": 134,
+      "end": 144,
+      "label": "CLASS"
+    },
+    {
+      "start": 162,
+      "end": 176,
+      "label": "ENTITY"
+    },
+    {
+      "start": 197,
+      "end": 209,
+      "label": "ENTITY"
+    },
+    {
+      "start": 241,
+      "end": 277,
+      "label": "ENTITY"
+    },
+    {
+      "start_char": 0,
+      "end_char": 18,
+      "label": "ENTITY",
+      "text": "Music from Macbeth"
+    },
+    {
+      "start_char": 37,
+      "end_char": 41,
+      "label": "ENTITY",
+      "text": "1972"
+    },
+    {
+      "start_char": 86,
+      "end_char": 100,
+      "label": "ENTITY",
+      "text": "Third Ear Band"
+    },
+    {
+      "start_char": 134,
+      "end_char": 144,
+      "label": "CLASS",
+      "text": "soundtrack",
+      "subClassOf": [
+        "INFORMATION_ENTITY",
+        "PHYSICAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 162,
+      "end_char": 176,
+      "label": "ENTITY",
+      "text": "Roman Polanski"
+    },
+    {
+      "start_char": 197,
+      "end_char": 209,
+      "label": "ENTITY",
+      "text": "film Macbeth"
+    },
+    {
+      "start_char": 241,
+      "end_char": 277,
+      "label": "ENTITY",
+      "text": "Shakespeare's The Tragedy of Macbeth"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 5
+    },
+    {
+      "id": 1,
+      "start": 6,
+      "end": 10
+    },
+    {
+      "id": 2,
+      "start": 11,
+      "end": 18
+    },
+    {
+      "id": 3,
+      "start": 18,
+      "end": 31
+    },
+    {
+      "id": 4,
+      "start": 32,
+      "end": 34
+    },
+    {
+      "id": 5,
+      "start": 35,
+      "end": 36
+    },
+    {
+      "id": 6,
+      "start": 37,
+      "end": 41
+    },
+    {
+      "id": 7,
+      "start": 41,
+      "end": 54
+    },
+    {
+      "id": 8,
+      "start": 55,
+      "end": 60
+    },
+    {
+      "id": 9,
+      "start": 61,
+      "end": 63
+    },
+    {
+      "id": 10,
+      "start": 64,
+      "end": 75
+    },
+    {
+      "id": 11,
+      "start": 75,
+      "end": 76
+    },
+    {
+      "id": 12,
+      "start": 76,
+      "end": 80
+    },
+    {
+      "id": 13,
+      "start": 81,
+      "end": 85
+    },
+    {
+      "id": 14,
+      "start": 86,
+      "end": 91
+    },
+    {
+      "id": 15,
+      "start": 92,
+      "end": 95
+    },
+    {
+      "id": 16,
+      "start": 96,
+      "end": 100
+    },
+    {
+      "id": 17,
+      "start": 100,
+      "end": 113
+    },
+    {
+      "id": 18,
+      "start": 113,
+      "end": 114
+    },
+    {
+      "id": 19,
+      "start": 115,
+      "end": 117
+    },
+    {
+      "id": 20,
+      "start": 118,
+      "end": 126
+    },
+    {
+      "id": 21,
+      "start": 127,
+      "end": 129
+    },
+    {
+      "id": 22,
+      "start": 130,
+      "end": 133
+    },
+    {
+      "id": 23,
+      "start": 134,
+      "end": 144
+    },
+    {
+      "id": 24,
+      "start": 144,
+      "end": 156
+    },
+    {
+      "id": 25,
+      "start": 157,
+      "end": 161
+    },
+    {
+      "id": 26,
+      "start": 162,
+      "end": 167
+    },
+    {
+      "id": 27,
+      "start": 168,
+      "end": 176
+    },
+    {
+      "id": 28,
+      "start": 176,
+      "end": 189
+    },
+    {
+      "id": 29,
+      "start": 189,
+      "end": 191
+    },
+    {
+      "id": 30,
+      "start": 192,
+      "end": 196
+    },
+    {
+      "id": 31,
+      "start": 197,
+      "end": 201
+    },
+    {
+      "id": 32,
+      "start": 202,
+      "end": 209
+    },
+    {
+      "id": 33,
+      "start": 209,
+      "end": 222
+    },
+    {
+      "id": 34,
+      "start": 222,
+      "end": 223
+    },
+    {
+      "id": 35,
+      "start": 224,
+      "end": 226
+    },
+    {
+      "id": 36,
+      "start": 227,
+      "end": 237
+    },
+    {
+      "id": 37,
+      "start": 238,
+      "end": 240
+    },
+    {
+      "id": 38,
+      "start": 241,
+      "end": 252
+    },
+    {
+      "id": 39,
+      "start": 252,
+      "end": 254
+    },
+    {
+      "id": 40,
+      "start": 255,
+      "end": 258
+    },
+    {
+      "id": 41,
+      "start": 259,
+      "end": 266
+    },
+    {
+      "id": 42,
+      "start": 267,
+      "end": 269
+    },
+    {
+      "id": 43,
+      "start": 270,
+      "end": 277
+    },
+    {
+      "id": 44,
+      "start": 277,
+      "end": 290
+    },
+    {
+      "id": 45,
+      "start": 290,
+      "end": 291
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Music from Macbeth",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "1972",
+      "dest": 1
+    },
+    {
+      "dep_text": "Third Ear Band",
+      "dep": 2,
+      "rel": "rdf-isClassOf",
+      "dest_text": "soundtrack",
+      "dest": 3
+    },
+    {
+      "dep_text": "film Macbeth",
+      "dep": 5,
+      "rel": "rdf-type",
+      "dest_text": "Shakespeare's The Tragedy of Macbeth",
+      "dest": 6
+    }
+  ],
+  "classes": {
+    "soundtrack_3": {
+      "labels": [
+        "INFORMATION_ENTITY",
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "soundtrack"
+    }
+  }
+}

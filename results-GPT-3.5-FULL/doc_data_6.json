@@ -1,0 +1,163 @@
+{
+  "text": "Hesse was born in Königsberg, Prussia, and was a German mathematician.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 5,
+      "label": "ENTITY"
+    },
+    {
+      "start": 31,
+      "end": 41,
+      "label": "ENTITY"
+    },
+    {
+      "start": 56,
+      "end": 63,
+      "label": "ENTITY"
+    },
+    {
+      "start": 88,
+      "end": 108,
+      "label": "CLASS"
+    },
+    {
+      "start_char": 0,
+      "end_char": 5,
+      "label": "ENTITY",
+      "text": "Hesse"
+    },
+    {
+      "start_char": 31,
+      "end_char": 41,
+      "label": "ENTITY",
+      "text": "Königsberg"
+    },
+    {
+      "start_char": 56,
+      "end_char": 63,
+      "label": "ENTITY",
+      "text": "Prussia"
+    },
+    {
+      "start_char": 88,
+      "end_char": 108,
+      "label": "CLASS",
+      "text": "German mathematician",
+      "subClassOf": [
+        "ORGANISATION",
+        "PERSON"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 5
+    },
+    {
+      "id": 1,
+      "start": 5,
+      "end": 18
+    },
+    {
+      "id": 2,
+      "start": 19,
+      "end": 22
+    },
+    {
+      "id": 3,
+      "start": 23,
+      "end": 27
+    },
+    {
+      "id": 4,
+      "start": 28,
+      "end": 30
+    },
+    {
+      "id": 5,
+      "start": 31,
+      "end": 41
+    },
+    {
+      "id": 6,
+      "start": 41,
+      "end": 54
+    },
+    {
+      "id": 7,
+      "start": 54,
+      "end": 55
+    },
+    {
+      "id": 8,
+      "start": 56,
+      "end": 63
+    },
+    {
+      "id": 9,
+      "start": 63,
+      "end": 76
+    },
+    {
+      "id": 10,
+      "start": 76,
+      "end": 77
+    },
+    {
+      "id": 11,
+      "start": 78,
+      "end": 81
+    },
+    {
+      "id": 12,
+      "start": 82,
+      "end": 85
+    },
+    {
+      "id": 13,
+      "start": 86,
+      "end": 87
+    },
+    {
+      "id": 14,
+      "start": 88,
+      "end": 94
+    },
+    {
+      "id": 15,
+      "start": 95,
+      "end": 108
+    },
+    {
+      "id": 16,
+      "start": 108,
+      "end": 120
+    },
+    {
+      "id": 17,
+      "start": 120,
+      "end": 121
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Hesse",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "German mathematician",
+      "dest": 3
+    }
+  ],
+  "classes": {
+    "German_mathematician_3": {
+      "labels": [
+        "ORGANISATION",
+        "PERSON"
+      ],
+      "class": "German mathematician"
+    }
+  }
+}

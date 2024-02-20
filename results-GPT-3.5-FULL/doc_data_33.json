@@ -1,0 +1,165 @@
+{
+  "text": "Gelderland is a province of the Netherlands, located in the central eastern part of the country.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 10,
+      "label": "ENTITY"
+    },
+    {
+      "start": 45,
+      "end": 56,
+      "label": "ENTITY"
+    },
+    {
+      "start": 86,
+      "end": 106,
+      "label": "CLASS"
+    },
+    {
+      "start_char": 0,
+      "end_char": 10,
+      "label": "ENTITY",
+      "text": "Gelderland"
+    },
+    {
+      "start_char": 45,
+      "end_char": 56,
+      "label": "ENTITY",
+      "text": "Netherlands"
+    },
+    {
+      "start_char": 86,
+      "end_char": 106,
+      "label": "CLASS",
+      "text": "central eastern part",
+      "subClassOf": [
+        "LOCATION"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 10
+    },
+    {
+      "id": 1,
+      "start": 10,
+      "end": 23
+    },
+    {
+      "id": 2,
+      "start": 24,
+      "end": 26
+    },
+    {
+      "id": 3,
+      "start": 27,
+      "end": 28
+    },
+    {
+      "id": 4,
+      "start": 29,
+      "end": 37
+    },
+    {
+      "id": 5,
+      "start": 38,
+      "end": 40
+    },
+    {
+      "id": 6,
+      "start": 41,
+      "end": 44
+    },
+    {
+      "id": 7,
+      "start": 45,
+      "end": 56
+    },
+    {
+      "id": 8,
+      "start": 56,
+      "end": 69
+    },
+    {
+      "id": 9,
+      "start": 69,
+      "end": 70
+    },
+    {
+      "id": 10,
+      "start": 71,
+      "end": 78
+    },
+    {
+      "id": 11,
+      "start": 79,
+      "end": 81
+    },
+    {
+      "id": 12,
+      "start": 82,
+      "end": 85
+    },
+    {
+      "id": 13,
+      "start": 86,
+      "end": 93
+    },
+    {
+      "id": 14,
+      "start": 94,
+      "end": 101
+    },
+    {
+      "id": 15,
+      "start": 102,
+      "end": 106
+    },
+    {
+      "id": 16,
+      "start": 106,
+      "end": 118
+    },
+    {
+      "id": 17,
+      "start": 119,
+      "end": 121
+    },
+    {
+      "id": 18,
+      "start": 122,
+      "end": 125
+    },
+    {
+      "id": 19,
+      "start": 126,
+      "end": 133
+    },
+    {
+      "id": 20,
+      "start": 133,
+      "end": 134
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Gelderland",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "central eastern part",
+      "dest": 2
+    }
+  ],
+  "classes": {
+    "central_eastern_part_2": {
+      "labels": [
+        "LOCATION"
+      ],
+      "class": "central eastern part"
+    }
+  }
+}

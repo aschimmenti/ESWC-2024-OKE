@@ -1,0 +1,446 @@
+{
+  "text": "Cooperative learning is an educational approach which aims to organize classroom activities into academic and social learning experiences. There is much more to Cooperative Learning than merely arranging students into groups, and it has been described as \"structuring positive interdependence.\"",
+  "ents": [
+    {
+      "start": 0,
+      "end": 20,
+      "label": "ENTITY"
+    },
+    {
+      "start": 40,
+      "end": 60,
+      "label": "CLASS"
+    },
+    {
+      "start": 96,
+      "end": 116,
+      "label": "CLASS"
+    },
+    {
+      "start": 134,
+      "end": 142,
+      "label": "CLASS"
+    },
+    {
+      "start": 159,
+      "end": 174,
+      "label": "CLASS"
+    },
+    {
+      "start": 265,
+      "end": 273,
+      "label": "ENTITY"
+    },
+    {
+      "start": 292,
+      "end": 298,
+      "label": "CLASS"
+    },
+    {
+      "start": 354,
+      "end": 378,
+      "label": "ENTITY"
+    },
+    {
+      "start_char": 0,
+      "end_char": 20,
+      "label": "ENTITY",
+      "text": "Cooperative learning"
+    },
+    {
+      "start_char": 40,
+      "end_char": 60,
+      "label": "CLASS",
+      "text": "educational approach",
+      "subClassOf": [
+        "ACTIVITY"
+      ]
+    },
+    {
+      "start_char": 96,
+      "end_char": 116,
+      "label": "CLASS",
+      "text": "classroom activities",
+      "subClassOf": [
+        "ACTIVITY"
+      ]
+    },
+    {
+      "start_char": 134,
+      "end_char": 142,
+      "label": "CLASS",
+      "text": "academic",
+      "subClassOf": [
+        "ACTIVITY",
+        "ROLE"
+      ]
+    },
+    {
+      "start_char": 159,
+      "end_char": 174,
+      "label": "CLASS",
+      "text": "social learning",
+      "subClassOf": [
+        "ACTIVITY"
+      ]
+    },
+    {
+      "start_char": 265,
+      "end_char": 273,
+      "label": "ENTITY",
+      "text": "students"
+    },
+    {
+      "start_char": 292,
+      "end_char": 298,
+      "label": "CLASS",
+      "text": "groups",
+      "subClassOf": [
+        "ACTIVITY"
+      ]
+    },
+    {
+      "start_char": 354,
+      "end_char": 378,
+      "label": "ENTITY",
+      "text": "positive interdependence"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 11
+    },
+    {
+      "id": 1,
+      "start": 12,
+      "end": 20
+    },
+    {
+      "id": 2,
+      "start": 20,
+      "end": 33
+    },
+    {
+      "id": 3,
+      "start": 34,
+      "end": 36
+    },
+    {
+      "id": 4,
+      "start": 37,
+      "end": 39
+    },
+    {
+      "id": 5,
+      "start": 40,
+      "end": 51
+    },
+    {
+      "id": 6,
+      "start": 52,
+      "end": 60
+    },
+    {
+      "id": 7,
+      "start": 60,
+      "end": 72
+    },
+    {
+      "id": 8,
+      "start": 73,
+      "end": 78
+    },
+    {
+      "id": 9,
+      "start": 79,
+      "end": 83
+    },
+    {
+      "id": 10,
+      "start": 84,
+      "end": 86
+    },
+    {
+      "id": 11,
+      "start": 87,
+      "end": 95
+    },
+    {
+      "id": 12,
+      "start": 96,
+      "end": 105
+    },
+    {
+      "id": 13,
+      "start": 106,
+      "end": 116
+    },
+    {
+      "id": 14,
+      "start": 116,
+      "end": 128
+    },
+    {
+      "id": 15,
+      "start": 129,
+      "end": 133
+    },
+    {
+      "id": 16,
+      "start": 134,
+      "end": 142
+    },
+    {
+      "id": 17,
+      "start": 142,
+      "end": 154
+    },
+    {
+      "id": 18,
+      "start": 155,
+      "end": 158
+    },
+    {
+      "id": 19,
+      "start": 159,
+      "end": 165
+    },
+    {
+      "id": 20,
+      "start": 166,
+      "end": 174
+    },
+    {
+      "id": 21,
+      "start": 174,
+      "end": 186
+    },
+    {
+      "id": 22,
+      "start": 187,
+      "end": 198
+    },
+    {
+      "id": 23,
+      "start": 198,
+      "end": 199
+    },
+    {
+      "id": 24,
+      "start": 200,
+      "end": 205
+    },
+    {
+      "id": 25,
+      "start": 206,
+      "end": 208
+    },
+    {
+      "id": 26,
+      "start": 209,
+      "end": 213
+    },
+    {
+      "id": 27,
+      "start": 214,
+      "end": 218
+    },
+    {
+      "id": 28,
+      "start": 219,
+      "end": 221
+    },
+    {
+      "id": 29,
+      "start": 222,
+      "end": 233
+    },
+    {
+      "id": 30,
+      "start": 234,
+      "end": 242
+    },
+    {
+      "id": 31,
+      "start": 243,
+      "end": 247
+    },
+    {
+      "id": 32,
+      "start": 248,
+      "end": 254
+    },
+    {
+      "id": 33,
+      "start": 255,
+      "end": 264
+    },
+    {
+      "id": 34,
+      "start": 265,
+      "end": 273
+    },
+    {
+      "id": 35,
+      "start": 273,
+      "end": 286
+    },
+    {
+      "id": 36,
+      "start": 287,
+      "end": 291
+    },
+    {
+      "id": 37,
+      "start": 292,
+      "end": 298
+    },
+    {
+      "id": 38,
+      "start": 298,
+      "end": 310
+    },
+    {
+      "id": 39,
+      "start": 310,
+      "end": 311
+    },
+    {
+      "id": 40,
+      "start": 312,
+      "end": 315
+    },
+    {
+      "id": 41,
+      "start": 316,
+      "end": 318
+    },
+    {
+      "id": 42,
+      "start": 319,
+      "end": 322
+    },
+    {
+      "id": 43,
+      "start": 323,
+      "end": 327
+    },
+    {
+      "id": 44,
+      "start": 328,
+      "end": 337
+    },
+    {
+      "id": 45,
+      "start": 338,
+      "end": 340
+    },
+    {
+      "id": 46,
+      "start": 341,
+      "end": 342
+    },
+    {
+      "id": 47,
+      "start": 342,
+      "end": 353
+    },
+    {
+      "id": 48,
+      "start": 354,
+      "end": 362
+    },
+    {
+      "id": 49,
+      "start": 363,
+      "end": 378
+    },
+    {
+      "id": 50,
+      "start": 378,
+      "end": 391
+    },
+    {
+      "id": 51,
+      "start": 391,
+      "end": 392
+    },
+    {
+      "id": 52,
+      "start": 392,
+      "end": 393
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Cooperative learning",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "educational approach",
+      "dest": 1
+    },
+    {
+      "dep_text": "classroom activities",
+      "dep": 2,
+      "rel": "rdf-type",
+      "dest_text": "academic",
+      "dest": 3
+    },
+    {
+      "dep_text": "classroom activities",
+      "dep": 2,
+      "rel": "rdf-type",
+      "dest_text": "social learning",
+      "dest": 4
+    },
+    {
+      "dep_text": "students",
+      "dep": 5,
+      "rel": "rdf-isClassOf",
+      "dest_text": "groups",
+      "dest": 6
+    },
+    {
+      "dep_text": "positive interdependence",
+      "dep": 7,
+      "rel": "rdf-relation",
+      "dest_text": "classroom activities",
+      "dest": 2
+    }
+  ],
+  "classes": {
+    "educational_approach_1": {
+      "labels": [
+        "ACTIVITY"
+      ],
+      "class": "educational approach"
+    },
+    "classroom_activities_2": {
+      "labels": [
+        "ACTIVITY"
+      ],
+      "class": "classroom activities"
+    },
+    "academic_3": {
+      "labels": [
+        "ACTIVITY",
+        "ROLE"
+      ],
+      "class": "academic"
+    },
+    "social_learning_4": {
+      "labels": [
+        "ACTIVITY"
+      ],
+      "class": "social learning"
+    },
+    "groups_6": {
+      "labels": [
+        "ACTIVITY"
+      ],
+      "class": "groups"
+    }
+  }
+}

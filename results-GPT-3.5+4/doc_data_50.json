@@ -1,0 +1,124 @@
+{
+  "text": "A utopia is a community possessing highly desirable or near perfect qualities.",
+  "ents": [
+    {
+      "start": 2,
+      "end": 8,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 31,
+      "end": 40,
+      "label": "CLASS"
+    },
+    {
+      "start_char": 2,
+      "end_char": 8,
+      "label": "INDIVIDUAL",
+      "text": "utopia"
+    },
+    {
+      "start_char": 31,
+      "end_char": 40,
+      "label": "CLASS",
+      "text": "community",
+      "subClassOf": [
+        "SOCIAL_OBJECT"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 1
+    },
+    {
+      "id": 1,
+      "start": 2,
+      "end": 8
+    },
+    {
+      "id": 2,
+      "start": 8,
+      "end": 25
+    },
+    {
+      "id": 3,
+      "start": 26,
+      "end": 28
+    },
+    {
+      "id": 4,
+      "start": 29,
+      "end": 30
+    },
+    {
+      "id": 5,
+      "start": 31,
+      "end": 40
+    },
+    {
+      "id": 6,
+      "start": 40,
+      "end": 52
+    },
+    {
+      "id": 7,
+      "start": 53,
+      "end": 63
+    },
+    {
+      "id": 8,
+      "start": 64,
+      "end": 70
+    },
+    {
+      "id": 9,
+      "start": 71,
+      "end": 80
+    },
+    {
+      "id": 10,
+      "start": 81,
+      "end": 83
+    },
+    {
+      "id": 11,
+      "start": 84,
+      "end": 88
+    },
+    {
+      "id": 12,
+      "start": 89,
+      "end": 96
+    },
+    {
+      "id": 13,
+      "start": 97,
+      "end": 106
+    },
+    {
+      "id": 14,
+      "start": 106,
+      "end": 107
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "utopia",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "community",
+      "dest": 1
+    }
+  ],
+  "classes": {
+    "community_1": {
+      "labels": [
+        "SOCIAL_OBJECT"
+      ],
+      "class": "community"
+    }
+  }
+}

@@ -1,0 +1,375 @@
+{
+  "text": "The Autochrome Lumière is an early color photography process. Patented in 1903 by the Lumière brothers in France and first marketed in 1907, it was the principal color photography process in use before the advent of subtractive color film in the mid-1930s.",
+  "ents": [
+    {
+      "start": 4,
+      "end": 22,
+      "label": "ENTITY"
+    },
+    {
+      "start": 42,
+      "end": 73,
+      "label": "CLASS"
+    },
+    {
+      "start": 99,
+      "end": 103,
+      "label": "ENTITY"
+    },
+    {
+      "start": 124,
+      "end": 140,
+      "label": "ENTITY"
+    },
+    {
+      "start": 157,
+      "end": 163,
+      "label": "ENTITY"
+    },
+    {
+      "start": 199,
+      "end": 203,
+      "label": "ENTITY"
+    },
+    {
+      "start": 293,
+      "end": 315,
+      "label": "CLASS"
+    },
+    {
+      "start_char": 4,
+      "end_char": 22,
+      "label": "ENTITY",
+      "text": "Autochrome Lumière"
+    },
+    {
+      "start_char": 42,
+      "end_char": 73,
+      "label": "CLASS",
+      "text": "early color photography process",
+      "subClassOf": [
+        "PHYSICAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 99,
+      "end_char": 103,
+      "label": "ENTITY",
+      "text": "1903"
+    },
+    {
+      "start_char": 124,
+      "end_char": 140,
+      "label": "ENTITY",
+      "text": "Lumière brothers"
+    },
+    {
+      "start_char": 157,
+      "end_char": 163,
+      "label": "ENTITY",
+      "text": "France"
+    },
+    {
+      "start_char": 199,
+      "end_char": 203,
+      "label": "ENTITY",
+      "text": "1907"
+    },
+    {
+      "start_char": 293,
+      "end_char": 315,
+      "label": "CLASS",
+      "text": "subtractive color film",
+      "subClassOf": [
+        "INFORMATION_ENTITY",
+        "PHYSICAL_OBJECT"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 3
+    },
+    {
+      "id": 1,
+      "start": 4,
+      "end": 14
+    },
+    {
+      "id": 2,
+      "start": 15,
+      "end": 22
+    },
+    {
+      "id": 3,
+      "start": 22,
+      "end": 35
+    },
+    {
+      "id": 4,
+      "start": 36,
+      "end": 38
+    },
+    {
+      "id": 5,
+      "start": 39,
+      "end": 41
+    },
+    {
+      "id": 6,
+      "start": 42,
+      "end": 47
+    },
+    {
+      "id": 7,
+      "start": 48,
+      "end": 53
+    },
+    {
+      "id": 8,
+      "start": 54,
+      "end": 65
+    },
+    {
+      "id": 9,
+      "start": 66,
+      "end": 73
+    },
+    {
+      "id": 10,
+      "start": 73,
+      "end": 85
+    },
+    {
+      "id": 11,
+      "start": 85,
+      "end": 86
+    },
+    {
+      "id": 12,
+      "start": 87,
+      "end": 95
+    },
+    {
+      "id": 13,
+      "start": 96,
+      "end": 98
+    },
+    {
+      "id": 14,
+      "start": 99,
+      "end": 103
+    },
+    {
+      "id": 15,
+      "start": 103,
+      "end": 116
+    },
+    {
+      "id": 16,
+      "start": 117,
+      "end": 119
+    },
+    {
+      "id": 17,
+      "start": 120,
+      "end": 123
+    },
+    {
+      "id": 18,
+      "start": 124,
+      "end": 131
+    },
+    {
+      "id": 19,
+      "start": 132,
+      "end": 140
+    },
+    {
+      "id": 20,
+      "start": 140,
+      "end": 153
+    },
+    {
+      "id": 21,
+      "start": 154,
+      "end": 156
+    },
+    {
+      "id": 22,
+      "start": 157,
+      "end": 163
+    },
+    {
+      "id": 23,
+      "start": 163,
+      "end": 176
+    },
+    {
+      "id": 24,
+      "start": 177,
+      "end": 180
+    },
+    {
+      "id": 25,
+      "start": 181,
+      "end": 186
+    },
+    {
+      "id": 26,
+      "start": 187,
+      "end": 195
+    },
+    {
+      "id": 27,
+      "start": 196,
+      "end": 198
+    },
+    {
+      "id": 28,
+      "start": 199,
+      "end": 203
+    },
+    {
+      "id": 29,
+      "start": 203,
+      "end": 216
+    },
+    {
+      "id": 30,
+      "start": 216,
+      "end": 217
+    },
+    {
+      "id": 31,
+      "start": 218,
+      "end": 220
+    },
+    {
+      "id": 32,
+      "start": 221,
+      "end": 224
+    },
+    {
+      "id": 33,
+      "start": 225,
+      "end": 228
+    },
+    {
+      "id": 34,
+      "start": 229,
+      "end": 238
+    },
+    {
+      "id": 35,
+      "start": 239,
+      "end": 244
+    },
+    {
+      "id": 36,
+      "start": 245,
+      "end": 256
+    },
+    {
+      "id": 37,
+      "start": 257,
+      "end": 264
+    },
+    {
+      "id": 38,
+      "start": 265,
+      "end": 267
+    },
+    {
+      "id": 39,
+      "start": 268,
+      "end": 271
+    },
+    {
+      "id": 40,
+      "start": 272,
+      "end": 278
+    },
+    {
+      "id": 41,
+      "start": 279,
+      "end": 282
+    },
+    {
+      "id": 42,
+      "start": 283,
+      "end": 289
+    },
+    {
+      "id": 43,
+      "start": 290,
+      "end": 292
+    },
+    {
+      "id": 44,
+      "start": 293,
+      "end": 304
+    },
+    {
+      "id": 45,
+      "start": 305,
+      "end": 310
+    },
+    {
+      "id": 46,
+      "start": 311,
+      "end": 315
+    },
+    {
+      "id": 47,
+      "start": 315,
+      "end": 327
+    },
+    {
+      "id": 48,
+      "start": 328,
+      "end": 330
+    },
+    {
+      "id": 49,
+      "start": 331,
+      "end": 334
+    },
+    {
+      "id": 50,
+      "start": 335,
+      "end": 344
+    },
+    {
+      "id": 51,
+      "start": 344,
+      "end": 345
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Autochrome Lumière",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "early color photography process",
+      "dest": 1
+    }
+  ],
+  "classes": {
+    "early_color_photography_process_1": {
+      "labels": [
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "early color photography process"
+    },
+    "subtractive_color_film_6": {
+      "labels": [
+        "INFORMATION_ENTITY",
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "subtractive color film"
+    }
+  }
+}

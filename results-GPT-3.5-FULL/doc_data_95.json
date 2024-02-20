@@ -1,0 +1,202 @@
+{
+  "text": "Otomedius is a side scrolling shooter by Konami which featured personification of space fighters from various Konami games.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 9,
+      "label": "ENTITY"
+    },
+    {
+      "start": 28,
+      "end": 50,
+      "label": "CLASS"
+    },
+    {
+      "start": 66,
+      "end": 72,
+      "label": "ENTITY"
+    },
+    {
+      "start": 101,
+      "end": 116,
+      "label": "CLASS"
+    },
+    {
+      "start_char": 0,
+      "end_char": 9,
+      "label": "ENTITY",
+      "text": "Otomedius"
+    },
+    {
+      "start_char": 28,
+      "end_char": 50,
+      "label": "CLASS",
+      "text": "side scrolling shooter",
+      "subClassOf": [
+        "ACTIVITY"
+      ]
+    },
+    {
+      "start_char": 66,
+      "end_char": 72,
+      "label": "ENTITY",
+      "text": "Konami"
+    },
+    {
+      "start_char": 101,
+      "end_char": 116,
+      "label": "CLASS",
+      "text": "personification",
+      "subClassOf": [
+        "PERSONIFICATION"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 9
+    },
+    {
+      "id": 1,
+      "start": 9,
+      "end": 22
+    },
+    {
+      "id": 2,
+      "start": 23,
+      "end": 25
+    },
+    {
+      "id": 3,
+      "start": 26,
+      "end": 27
+    },
+    {
+      "id": 4,
+      "start": 28,
+      "end": 32
+    },
+    {
+      "id": 5,
+      "start": 33,
+      "end": 42
+    },
+    {
+      "id": 6,
+      "start": 43,
+      "end": 50
+    },
+    {
+      "id": 7,
+      "start": 50,
+      "end": 62
+    },
+    {
+      "id": 8,
+      "start": 63,
+      "end": 65
+    },
+    {
+      "id": 9,
+      "start": 66,
+      "end": 72
+    },
+    {
+      "id": 10,
+      "start": 72,
+      "end": 85
+    },
+    {
+      "id": 11,
+      "start": 86,
+      "end": 91
+    },
+    {
+      "id": 12,
+      "start": 92,
+      "end": 100
+    },
+    {
+      "id": 13,
+      "start": 101,
+      "end": 116
+    },
+    {
+      "id": 14,
+      "start": 116,
+      "end": 128
+    },
+    {
+      "id": 15,
+      "start": 129,
+      "end": 131
+    },
+    {
+      "id": 16,
+      "start": 132,
+      "end": 137
+    },
+    {
+      "id": 17,
+      "start": 138,
+      "end": 146
+    },
+    {
+      "id": 18,
+      "start": 147,
+      "end": 151
+    },
+    {
+      "id": 19,
+      "start": 152,
+      "end": 159
+    },
+    {
+      "id": 20,
+      "start": 160,
+      "end": 166
+    },
+    {
+      "id": 21,
+      "start": 167,
+      "end": 172
+    },
+    {
+      "id": 22,
+      "start": 172,
+      "end": 173
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Otomedius",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "side scrolling shooter",
+      "dest": 1
+    },
+    {
+      "dep_text": "personification",
+      "dep": 3,
+      "rel": "rdf-isClassOf",
+      "dest_text": "Konami",
+      "dest": 2
+    }
+  ],
+  "classes": {
+    "side_scrolling_shooter_1": {
+      "labels": [
+        "ACTIVITY"
+      ],
+      "class": "side scrolling shooter"
+    },
+    "personification_3": {
+      "labels": [
+        "PERSONIFICATION"
+      ],
+      "class": "personification"
+    }
+  }
+}

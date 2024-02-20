@@ -1,0 +1,249 @@
+{
+  "text": "Tomaso Barisini, better known as Tommaso da Modena and sometimes called Tomaso Baffini (1326 – 1379) was an Italian painter of the mid-14th century.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 15,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 50,
+      "end": 67,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 106,
+      "end": 120,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 159,
+      "end": 174,
+      "label": "CLASS"
+    },
+    {
+      "start": 194,
+      "end": 210,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start_char": 0,
+      "end_char": 15,
+      "label": "INDIVIDUAL",
+      "text": "Tomaso Barisini"
+    },
+    {
+      "start_char": 50,
+      "end_char": 67,
+      "label": "INDIVIDUAL",
+      "text": "Tommaso da Modena"
+    },
+    {
+      "start_char": 106,
+      "end_char": 120,
+      "label": "INDIVIDUAL",
+      "text": "Tomaso Baffini"
+    },
+    {
+      "start_char": 159,
+      "end_char": 174,
+      "label": "CLASS",
+      "text": "Italian painter",
+      "subClassOf": [
+        "PERSON",
+        "ROLE"
+      ]
+    },
+    {
+      "start_char": 194,
+      "end_char": 210,
+      "label": "INDIVIDUAL",
+      "text": "mid-14th century"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 6
+    },
+    {
+      "id": 1,
+      "start": 7,
+      "end": 15
+    },
+    {
+      "id": 2,
+      "start": 15,
+      "end": 32
+    },
+    {
+      "id": 3,
+      "start": 32,
+      "end": 33
+    },
+    {
+      "id": 4,
+      "start": 34,
+      "end": 40
+    },
+    {
+      "id": 5,
+      "start": 41,
+      "end": 46
+    },
+    {
+      "id": 6,
+      "start": 47,
+      "end": 49
+    },
+    {
+      "id": 7,
+      "start": 50,
+      "end": 57
+    },
+    {
+      "id": 8,
+      "start": 58,
+      "end": 60
+    },
+    {
+      "id": 9,
+      "start": 61,
+      "end": 67
+    },
+    {
+      "id": 10,
+      "start": 67,
+      "end": 84
+    },
+    {
+      "id": 11,
+      "start": 85,
+      "end": 88
+    },
+    {
+      "id": 12,
+      "start": 89,
+      "end": 98
+    },
+    {
+      "id": 13,
+      "start": 99,
+      "end": 105
+    },
+    {
+      "id": 14,
+      "start": 106,
+      "end": 112
+    },
+    {
+      "id": 15,
+      "start": 113,
+      "end": 120
+    },
+    {
+      "id": 16,
+      "start": 120,
+      "end": 137
+    },
+    {
+      "id": 17,
+      "start": 138,
+      "end": 139
+    },
+    {
+      "id": 18,
+      "start": 139,
+      "end": 143
+    },
+    {
+      "id": 19,
+      "start": 144,
+      "end": 145
+    },
+    {
+      "id": 20,
+      "start": 146,
+      "end": 150
+    },
+    {
+      "id": 21,
+      "start": 150,
+      "end": 151
+    },
+    {
+      "id": 22,
+      "start": 152,
+      "end": 155
+    },
+    {
+      "id": 23,
+      "start": 156,
+      "end": 158
+    },
+    {
+      "id": 24,
+      "start": 159,
+      "end": 166
+    },
+    {
+      "id": 25,
+      "start": 167,
+      "end": 174
+    },
+    {
+      "id": 26,
+      "start": 174,
+      "end": 186
+    },
+    {
+      "id": 27,
+      "start": 187,
+      "end": 189
+    },
+    {
+      "id": 28,
+      "start": 190,
+      "end": 193
+    },
+    {
+      "id": 29,
+      "start": 194,
+      "end": 202
+    },
+    {
+      "id": 30,
+      "start": 203,
+      "end": 210
+    },
+    {
+      "id": 31,
+      "start": 210,
+      "end": 227
+    },
+    {
+      "id": 32,
+      "start": 227,
+      "end": 228
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Tomaso Barisini",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "Italian painter",
+      "dest": 3
+    }
+  ],
+  "classes": {
+    "Italian_painter_3": {
+      "labels": [
+        "PERSON",
+        "ROLE"
+      ],
+      "class": "Italian painter"
+    }
+  }
+}

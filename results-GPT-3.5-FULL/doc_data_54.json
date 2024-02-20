@@ -1,0 +1,220 @@
+{
+  "text": "Zino Francescatti was born in Marseilles, to a musical family. He was a French virtuoso violinist.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 17,
+      "label": "ENTITY"
+    },
+    {
+      "start": 43,
+      "end": 53,
+      "label": "ENTITY"
+    },
+    {
+      "start": 73,
+      "end": 87,
+      "label": "CLASS"
+    },
+    {
+      "start": 110,
+      "end": 116,
+      "label": "ENTITY"
+    },
+    {
+      "start": 130,
+      "end": 148,
+      "label": "CLASS"
+    },
+    {
+      "start_char": 0,
+      "end_char": 17,
+      "label": "ENTITY",
+      "text": "Zino Francescatti"
+    },
+    {
+      "start_char": 43,
+      "end_char": 53,
+      "label": "ENTITY",
+      "text": "Marseilles"
+    },
+    {
+      "start_char": 73,
+      "end_char": 87,
+      "label": "CLASS",
+      "text": "musical family",
+      "subClassOf": [
+        "PERSON"
+      ]
+    },
+    {
+      "start_char": 110,
+      "end_char": 116,
+      "label": "ENTITY",
+      "text": "French"
+    },
+    {
+      "start_char": 130,
+      "end_char": 148,
+      "label": "CLASS",
+      "text": "virtuoso violinist",
+      "subClassOf": [
+        "PERSON",
+        "ROLE"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 4
+    },
+    {
+      "id": 1,
+      "start": 5,
+      "end": 17
+    },
+    {
+      "id": 2,
+      "start": 17,
+      "end": 30
+    },
+    {
+      "id": 3,
+      "start": 31,
+      "end": 34
+    },
+    {
+      "id": 4,
+      "start": 35,
+      "end": 39
+    },
+    {
+      "id": 5,
+      "start": 40,
+      "end": 42
+    },
+    {
+      "id": 6,
+      "start": 43,
+      "end": 53
+    },
+    {
+      "id": 7,
+      "start": 53,
+      "end": 66
+    },
+    {
+      "id": 8,
+      "start": 66,
+      "end": 67
+    },
+    {
+      "id": 9,
+      "start": 68,
+      "end": 70
+    },
+    {
+      "id": 10,
+      "start": 71,
+      "end": 72
+    },
+    {
+      "id": 11,
+      "start": 73,
+      "end": 80
+    },
+    {
+      "id": 12,
+      "start": 81,
+      "end": 87
+    },
+    {
+      "id": 13,
+      "start": 87,
+      "end": 99
+    },
+    {
+      "id": 14,
+      "start": 99,
+      "end": 100
+    },
+    {
+      "id": 15,
+      "start": 101,
+      "end": 103
+    },
+    {
+      "id": 16,
+      "start": 104,
+      "end": 107
+    },
+    {
+      "id": 17,
+      "start": 108,
+      "end": 109
+    },
+    {
+      "id": 18,
+      "start": 110,
+      "end": 116
+    },
+    {
+      "id": 19,
+      "start": 116,
+      "end": 129
+    },
+    {
+      "id": 20,
+      "start": 130,
+      "end": 138
+    },
+    {
+      "id": 21,
+      "start": 139,
+      "end": 148
+    },
+    {
+      "id": 22,
+      "start": 148,
+      "end": 160
+    },
+    {
+      "id": 23,
+      "start": 160,
+      "end": 161
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Zino Francescatti",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "French",
+      "dest": 3
+    },
+    {
+      "dep_text": "musical family",
+      "dep": 2,
+      "rel": "rdf-isClassOf",
+      "dest_text": "virtuoso violinist",
+      "dest": 4
+    }
+  ],
+  "classes": {
+    "musical_family_2": {
+      "labels": [
+        "PERSON"
+      ],
+      "class": "musical family"
+    },
+    "virtuoso_violinist_4": {
+      "labels": [
+        "PERSON",
+        "ROLE"
+      ],
+      "class": "virtuoso violinist"
+    }
+  }
+}

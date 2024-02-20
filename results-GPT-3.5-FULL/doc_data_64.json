@@ -1,0 +1,228 @@
+{
+  "text": "A gyroscope is a spinning wheel or disc in which the axis of rotation is free to assume any orientation.",
+  "ents": [
+    {
+      "start": 2,
+      "end": 11,
+      "label": "ENTITY"
+    },
+    {
+      "start": 30,
+      "end": 44,
+      "label": "CLASS"
+    },
+    {
+      "start": 60,
+      "end": 64,
+      "label": "CLASS"
+    },
+    {
+      "start": 90,
+      "end": 106,
+      "label": "CLASS"
+    },
+    {
+      "start_char": 2,
+      "end_char": 11,
+      "label": "ENTITY",
+      "text": "gyroscope"
+    },
+    {
+      "start_char": 30,
+      "end_char": 44,
+      "label": "CLASS",
+      "text": "spinning wheel",
+      "subClassOf": [
+        "PHYSICAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 60,
+      "end_char": 64,
+      "label": "CLASS",
+      "text": "disc",
+      "subClassOf": [
+        "PHYSICAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 90,
+      "end_char": 106,
+      "label": "CLASS",
+      "text": "axis of rotation",
+      "subClassOf": [
+        "PHYSICAL_OBJECT"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 1
+    },
+    {
+      "id": 1,
+      "start": 2,
+      "end": 11
+    },
+    {
+      "id": 2,
+      "start": 11,
+      "end": 24
+    },
+    {
+      "id": 3,
+      "start": 25,
+      "end": 27
+    },
+    {
+      "id": 4,
+      "start": 28,
+      "end": 29
+    },
+    {
+      "id": 5,
+      "start": 30,
+      "end": 38
+    },
+    {
+      "id": 6,
+      "start": 39,
+      "end": 44
+    },
+    {
+      "id": 7,
+      "start": 44,
+      "end": 56
+    },
+    {
+      "id": 8,
+      "start": 57,
+      "end": 59
+    },
+    {
+      "id": 9,
+      "start": 60,
+      "end": 64
+    },
+    {
+      "id": 10,
+      "start": 64,
+      "end": 76
+    },
+    {
+      "id": 11,
+      "start": 77,
+      "end": 79
+    },
+    {
+      "id": 12,
+      "start": 80,
+      "end": 85
+    },
+    {
+      "id": 13,
+      "start": 86,
+      "end": 89
+    },
+    {
+      "id": 14,
+      "start": 90,
+      "end": 94
+    },
+    {
+      "id": 15,
+      "start": 95,
+      "end": 97
+    },
+    {
+      "id": 16,
+      "start": 98,
+      "end": 106
+    },
+    {
+      "id": 17,
+      "start": 106,
+      "end": 118
+    },
+    {
+      "id": 18,
+      "start": 119,
+      "end": 121
+    },
+    {
+      "id": 19,
+      "start": 122,
+      "end": 126
+    },
+    {
+      "id": 20,
+      "start": 127,
+      "end": 129
+    },
+    {
+      "id": 21,
+      "start": 130,
+      "end": 136
+    },
+    {
+      "id": 22,
+      "start": 137,
+      "end": 140
+    },
+    {
+      "id": 23,
+      "start": 141,
+      "end": 152
+    },
+    {
+      "id": 24,
+      "start": 152,
+      "end": 153
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "gyroscope",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "spinning wheel",
+      "dest": 1
+    },
+    {
+      "dep_text": "gyroscope",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "disc",
+      "dest": 2
+    },
+    {
+      "dep_text": "gyroscope",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "axis of rotation",
+      "dest": 3
+    }
+  ],
+  "classes": {
+    "spinning_wheel_1": {
+      "labels": [
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "spinning wheel"
+    },
+    "disc_2": {
+      "labels": [
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "disc"
+    },
+    "axis_of_rotation_3": {
+      "labels": [
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "axis of rotation"
+    }
+  }
+}

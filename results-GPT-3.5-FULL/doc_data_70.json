@@ -1,0 +1,542 @@
+{
+  "text": "Rolling is a type of motion that combines rotation (commonly, of an axially symmetric object) and translation of that object with respect to a surface (either one or the other moves), such that, if ideal conditions exist, the two are in contact with each other without sliding.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 7,
+      "label": "CLASS"
+    },
+    {
+      "start": 54,
+      "end": 62,
+      "label": "CLASS"
+    },
+    {
+      "start": 122,
+      "end": 133,
+      "label": "CLASS"
+    },
+    {
+      "start": 154,
+      "end": 160,
+      "label": "CLASS"
+    },
+    {
+      "start": 191,
+      "end": 198,
+      "label": "CLASS"
+    },
+    {
+      "start": 258,
+      "end": 274,
+      "label": "CLASS"
+    },
+    {
+      "start": 309,
+      "end": 316,
+      "label": "CLASS"
+    },
+    {
+      "start": 353,
+      "end": 360,
+      "label": "CLASS"
+    },
+    {
+      "start_char": 0,
+      "end_char": 7,
+      "label": "CLASS",
+      "text": "Rolling",
+      "subClassOf": [
+        "ACTIVITY"
+      ]
+    },
+    {
+      "start_char": 54,
+      "end_char": 62,
+      "label": "CLASS",
+      "text": "rotation",
+      "subClassOf": [
+        "ACTIVITY"
+      ]
+    },
+    {
+      "start_char": 122,
+      "end_char": 133,
+      "label": "CLASS",
+      "text": "translation",
+      "subClassOf": [
+        "ACTIVITY"
+      ]
+    },
+    {
+      "start_char": 154,
+      "end_char": 160,
+      "label": "CLASS",
+      "text": "object",
+      "subClassOf": [
+        "PHYSICAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 191,
+      "end_char": 198,
+      "label": "CLASS",
+      "text": "surface",
+      "subClassOf": [
+        "PHYSICAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 258,
+      "end_char": 274,
+      "label": "CLASS",
+      "text": "ideal conditions",
+      "subClassOf": [
+        "PHYSICAL_OBJECT",
+        "SITUATION"
+      ]
+    },
+    {
+      "start_char": 309,
+      "end_char": 316,
+      "label": "CLASS",
+      "text": "contact",
+      "subClassOf": [
+        "PHYSICAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 353,
+      "end_char": 360,
+      "label": "CLASS",
+      "text": "sliding",
+      "subClassOf": [
+        "PHYSICAL_OBJECT"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 7
+    },
+    {
+      "id": 1,
+      "start": 7,
+      "end": 19
+    },
+    {
+      "id": 2,
+      "start": 20,
+      "end": 22
+    },
+    {
+      "id": 3,
+      "start": 23,
+      "end": 24
+    },
+    {
+      "id": 4,
+      "start": 25,
+      "end": 29
+    },
+    {
+      "id": 5,
+      "start": 30,
+      "end": 32
+    },
+    {
+      "id": 6,
+      "start": 33,
+      "end": 39
+    },
+    {
+      "id": 7,
+      "start": 40,
+      "end": 44
+    },
+    {
+      "id": 8,
+      "start": 45,
+      "end": 53
+    },
+    {
+      "id": 9,
+      "start": 54,
+      "end": 62
+    },
+    {
+      "id": 10,
+      "start": 62,
+      "end": 74
+    },
+    {
+      "id": 11,
+      "start": 75,
+      "end": 76
+    },
+    {
+      "id": 12,
+      "start": 76,
+      "end": 84
+    },
+    {
+      "id": 13,
+      "start": 84,
+      "end": 85
+    },
+    {
+      "id": 14,
+      "start": 86,
+      "end": 88
+    },
+    {
+      "id": 15,
+      "start": 89,
+      "end": 91
+    },
+    {
+      "id": 16,
+      "start": 92,
+      "end": 99
+    },
+    {
+      "id": 17,
+      "start": 100,
+      "end": 109
+    },
+    {
+      "id": 18,
+      "start": 110,
+      "end": 116
+    },
+    {
+      "id": 19,
+      "start": 116,
+      "end": 117
+    },
+    {
+      "id": 20,
+      "start": 118,
+      "end": 121
+    },
+    {
+      "id": 21,
+      "start": 122,
+      "end": 133
+    },
+    {
+      "id": 22,
+      "start": 133,
+      "end": 145
+    },
+    {
+      "id": 23,
+      "start": 146,
+      "end": 148
+    },
+    {
+      "id": 24,
+      "start": 149,
+      "end": 153
+    },
+    {
+      "id": 25,
+      "start": 154,
+      "end": 160
+    },
+    {
+      "id": 26,
+      "start": 160,
+      "end": 172
+    },
+    {
+      "id": 27,
+      "start": 173,
+      "end": 177
+    },
+    {
+      "id": 28,
+      "start": 178,
+      "end": 185
+    },
+    {
+      "id": 29,
+      "start": 186,
+      "end": 188
+    },
+    {
+      "id": 30,
+      "start": 189,
+      "end": 190
+    },
+    {
+      "id": 31,
+      "start": 191,
+      "end": 198
+    },
+    {
+      "id": 32,
+      "start": 198,
+      "end": 210
+    },
+    {
+      "id": 33,
+      "start": 211,
+      "end": 212
+    },
+    {
+      "id": 34,
+      "start": 212,
+      "end": 218
+    },
+    {
+      "id": 35,
+      "start": 219,
+      "end": 222
+    },
+    {
+      "id": 36,
+      "start": 223,
+      "end": 225
+    },
+    {
+      "id": 37,
+      "start": 226,
+      "end": 229
+    },
+    {
+      "id": 38,
+      "start": 230,
+      "end": 235
+    },
+    {
+      "id": 39,
+      "start": 236,
+      "end": 241
+    },
+    {
+      "id": 40,
+      "start": 241,
+      "end": 242
+    },
+    {
+      "id": 41,
+      "start": 242,
+      "end": 243
+    },
+    {
+      "id": 42,
+      "start": 244,
+      "end": 248
+    },
+    {
+      "id": 43,
+      "start": 249,
+      "end": 253
+    },
+    {
+      "id": 44,
+      "start": 253,
+      "end": 254
+    },
+    {
+      "id": 45,
+      "start": 255,
+      "end": 257
+    },
+    {
+      "id": 46,
+      "start": 258,
+      "end": 263
+    },
+    {
+      "id": 47,
+      "start": 264,
+      "end": 274
+    },
+    {
+      "id": 48,
+      "start": 274,
+      "end": 286
+    },
+    {
+      "id": 49,
+      "start": 287,
+      "end": 292
+    },
+    {
+      "id": 50,
+      "start": 292,
+      "end": 293
+    },
+    {
+      "id": 51,
+      "start": 294,
+      "end": 297
+    },
+    {
+      "id": 52,
+      "start": 298,
+      "end": 301
+    },
+    {
+      "id": 53,
+      "start": 302,
+      "end": 305
+    },
+    {
+      "id": 54,
+      "start": 306,
+      "end": 308
+    },
+    {
+      "id": 55,
+      "start": 309,
+      "end": 316
+    },
+    {
+      "id": 56,
+      "start": 316,
+      "end": 328
+    },
+    {
+      "id": 57,
+      "start": 329,
+      "end": 333
+    },
+    {
+      "id": 58,
+      "start": 334,
+      "end": 338
+    },
+    {
+      "id": 59,
+      "start": 339,
+      "end": 344
+    },
+    {
+      "id": 60,
+      "start": 345,
+      "end": 352
+    },
+    {
+      "id": 61,
+      "start": 353,
+      "end": 360
+    },
+    {
+      "id": 62,
+      "start": 360,
+      "end": 372
+    },
+    {
+      "id": 63,
+      "start": 372,
+      "end": 373
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Rolling",
+      "dep": 0,
+      "rel": "rdf-isClassOf",
+      "dest_text": "rotation",
+      "dest": 1
+    },
+    {
+      "dep_text": "Rolling",
+      "dep": 0,
+      "rel": "rdf-isClassOf",
+      "dest_text": "translation",
+      "dest": 2
+    },
+    {
+      "dep_text": "object",
+      "dep": 3,
+      "rel": "rdf-type",
+      "dest_text": "Rolling",
+      "dest": 0
+    },
+    {
+      "dep_text": "surface",
+      "dep": 4,
+      "rel": "rdf-isClassOf",
+      "dest_text": "object",
+      "dest": 3
+    },
+    {
+      "dep_text": "ideal conditions",
+      "dep": 5,
+      "rel": "rdf-isClassOf",
+      "dest_text": "surface",
+      "dest": 4
+    },
+    {
+      "dep_text": "contact",
+      "dep": 6,
+      "rel": "rdf-isClassOf",
+      "dest_text": "ideal conditions",
+      "dest": 5
+    },
+    {
+      "dep_text": "sliding",
+      "dep": 7,
+      "rel": "rdf-isClassOf",
+      "dest_text": "contact",
+      "dest": 6
+    }
+  ],
+  "classes": {
+    "Rolling_0": {
+      "labels": [
+        "ACTIVITY"
+      ],
+      "class": "Rolling"
+    },
+    "rotation_1": {
+      "labels": [
+        "ACTIVITY"
+      ],
+      "class": "rotation"
+    },
+    "translation_2": {
+      "labels": [
+        "ACTIVITY"
+      ],
+      "class": "translation"
+    },
+    "object_3": {
+      "labels": [
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "object"
+    },
+    "surface_4": {
+      "labels": [
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "surface"
+    },
+    "ideal_conditions_5": {
+      "labels": [
+        "PHYSICAL_OBJECT",
+        "SITUATION"
+      ],
+      "class": "ideal conditions"
+    },
+    "contact_6": {
+      "labels": [
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "contact"
+    },
+    "sliding_7": {
+      "labels": [
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "sliding"
+    }
+  }
+}

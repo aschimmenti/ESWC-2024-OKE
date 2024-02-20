@@ -1,0 +1,204 @@
+{
+  "text": "The Rapallo Carige Prize is an Italian literary prize, established in 1985 by the Municipality of Rapallo and the Carige Bank.",
+  "ents": [
+    {
+      "start": 4,
+      "end": 24,
+      "label": "ENTITY"
+    },
+    {
+      "start": 44,
+      "end": 66,
+      "label": "CLASS"
+    },
+    {
+      "start": 107,
+      "end": 130,
+      "label": "ENTITY"
+    },
+    {
+      "start": 152,
+      "end": 163,
+      "label": "ENTITY"
+    },
+    {
+      "start_char": 4,
+      "end_char": 24,
+      "label": "ENTITY",
+      "text": "Rapallo Carige Prize"
+    },
+    {
+      "start_char": 44,
+      "end_char": 66,
+      "label": "CLASS",
+      "text": "Italian literary prize",
+      "subClassOf": [
+        "Unknown"
+      ]
+    },
+    {
+      "start_char": 107,
+      "end_char": 130,
+      "label": "ENTITY",
+      "text": "Municipality of Rapallo"
+    },
+    {
+      "start_char": 152,
+      "end_char": 163,
+      "label": "ENTITY",
+      "text": "Carige Bank"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 3
+    },
+    {
+      "id": 1,
+      "start": 4,
+      "end": 11
+    },
+    {
+      "id": 2,
+      "start": 12,
+      "end": 18
+    },
+    {
+      "id": 3,
+      "start": 19,
+      "end": 24
+    },
+    {
+      "id": 4,
+      "start": 24,
+      "end": 37
+    },
+    {
+      "id": 5,
+      "start": 38,
+      "end": 40
+    },
+    {
+      "id": 6,
+      "start": 41,
+      "end": 43
+    },
+    {
+      "id": 7,
+      "start": 44,
+      "end": 51
+    },
+    {
+      "id": 8,
+      "start": 52,
+      "end": 60
+    },
+    {
+      "id": 9,
+      "start": 61,
+      "end": 66
+    },
+    {
+      "id": 10,
+      "start": 66,
+      "end": 78
+    },
+    {
+      "id": 11,
+      "start": 78,
+      "end": 79
+    },
+    {
+      "id": 12,
+      "start": 80,
+      "end": 91
+    },
+    {
+      "id": 13,
+      "start": 92,
+      "end": 94
+    },
+    {
+      "id": 14,
+      "start": 95,
+      "end": 99
+    },
+    {
+      "id": 15,
+      "start": 100,
+      "end": 102
+    },
+    {
+      "id": 16,
+      "start": 103,
+      "end": 106
+    },
+    {
+      "id": 17,
+      "start": 107,
+      "end": 119
+    },
+    {
+      "id": 18,
+      "start": 120,
+      "end": 122
+    },
+    {
+      "id": 19,
+      "start": 123,
+      "end": 130
+    },
+    {
+      "id": 20,
+      "start": 130,
+      "end": 143
+    },
+    {
+      "id": 21,
+      "start": 144,
+      "end": 147
+    },
+    {
+      "id": 22,
+      "start": 148,
+      "end": 151
+    },
+    {
+      "id": 23,
+      "start": 152,
+      "end": 158
+    },
+    {
+      "id": 24,
+      "start": 159,
+      "end": 163
+    },
+    {
+      "id": 25,
+      "start": 163,
+      "end": 176
+    },
+    {
+      "id": 26,
+      "start": 176,
+      "end": 177
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Rapallo Carige Prize",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "Italian literary prize",
+      "dest": 1
+    }
+  ],
+  "classes": {
+    "Italian_literary_prize_1": {
+      "labels": [],
+      "class": "Italian literary prize"
+    }
+  }
+}

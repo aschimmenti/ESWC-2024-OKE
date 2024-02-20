@@ -1,0 +1,470 @@
+{
+  "text": "Glen Velez (born 1949) is a percussionist, vocalist, and composer, specializing in frame drums from around the world. He is largely responsible for the increasing popularity of frame drums in the United States and around the world. Velez is married to Loire (Lori Cotler).",
+  "ents": [
+    {
+      "start": 0,
+      "end": 10,
+      "label": "ENTITY"
+    },
+    {
+      "start": 41,
+      "end": 54,
+      "label": "CLASS"
+    },
+    {
+      "start": 68,
+      "end": 76,
+      "label": "CLASS"
+    },
+    {
+      "start": 94,
+      "end": 102,
+      "label": "CLASS"
+    },
+    {
+      "start": 132,
+      "end": 143,
+      "label": "ENTITY"
+    },
+    {
+      "start": 258,
+      "end": 271,
+      "label": "ENTITY"
+    },
+    {
+      "start": 327,
+      "end": 332,
+      "label": "ENTITY"
+    },
+    {
+      "start": 347,
+      "end": 358,
+      "label": "ENTITY"
+    },
+    {
+      "start_char": 0,
+      "end_char": 10,
+      "label": "ENTITY",
+      "text": "Glen Velez"
+    },
+    {
+      "start_char": 41,
+      "end_char": 54,
+      "label": "CLASS",
+      "text": "percussionist",
+      "subClassOf": [
+        "PERSON",
+        "ROLE"
+      ]
+    },
+    {
+      "start_char": 68,
+      "end_char": 76,
+      "label": "CLASS",
+      "text": "vocalist",
+      "subClassOf": [
+        "PERSON",
+        "ROLE"
+      ]
+    },
+    {
+      "start_char": 94,
+      "end_char": 102,
+      "label": "CLASS",
+      "text": "composer",
+      "subClassOf": [
+        "PERSON",
+        "ROLE"
+      ]
+    },
+    {
+      "start_char": 132,
+      "end_char": 143,
+      "label": "ENTITY",
+      "text": "frame drums"
+    },
+    {
+      "start_char": 258,
+      "end_char": 271,
+      "label": "ENTITY",
+      "text": "United States"
+    },
+    {
+      "start_char": 327,
+      "end_char": 332,
+      "label": "ENTITY",
+      "text": "Loire"
+    },
+    {
+      "start_char": 347,
+      "end_char": 358,
+      "label": "ENTITY",
+      "text": "Lori Cotler"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 4
+    },
+    {
+      "id": 1,
+      "start": 5,
+      "end": 10
+    },
+    {
+      "id": 2,
+      "start": 10,
+      "end": 23
+    },
+    {
+      "id": 3,
+      "start": 24,
+      "end": 25
+    },
+    {
+      "id": 4,
+      "start": 25,
+      "end": 29
+    },
+    {
+      "id": 5,
+      "start": 30,
+      "end": 34
+    },
+    {
+      "id": 6,
+      "start": 34,
+      "end": 35
+    },
+    {
+      "id": 7,
+      "start": 36,
+      "end": 38
+    },
+    {
+      "id": 8,
+      "start": 39,
+      "end": 40
+    },
+    {
+      "id": 9,
+      "start": 41,
+      "end": 54
+    },
+    {
+      "id": 10,
+      "start": 54,
+      "end": 66
+    },
+    {
+      "id": 11,
+      "start": 66,
+      "end": 67
+    },
+    {
+      "id": 12,
+      "start": 68,
+      "end": 76
+    },
+    {
+      "id": 13,
+      "start": 76,
+      "end": 88
+    },
+    {
+      "id": 14,
+      "start": 88,
+      "end": 89
+    },
+    {
+      "id": 15,
+      "start": 90,
+      "end": 93
+    },
+    {
+      "id": 16,
+      "start": 94,
+      "end": 102
+    },
+    {
+      "id": 17,
+      "start": 102,
+      "end": 114
+    },
+    {
+      "id": 18,
+      "start": 114,
+      "end": 115
+    },
+    {
+      "id": 19,
+      "start": 116,
+      "end": 128
+    },
+    {
+      "id": 20,
+      "start": 129,
+      "end": 131
+    },
+    {
+      "id": 21,
+      "start": 132,
+      "end": 137
+    },
+    {
+      "id": 22,
+      "start": 138,
+      "end": 143
+    },
+    {
+      "id": 23,
+      "start": 143,
+      "end": 156
+    },
+    {
+      "id": 24,
+      "start": 157,
+      "end": 161
+    },
+    {
+      "id": 25,
+      "start": 162,
+      "end": 168
+    },
+    {
+      "id": 26,
+      "start": 169,
+      "end": 172
+    },
+    {
+      "id": 27,
+      "start": 173,
+      "end": 178
+    },
+    {
+      "id": 28,
+      "start": 178,
+      "end": 179
+    },
+    {
+      "id": 29,
+      "start": 180,
+      "end": 182
+    },
+    {
+      "id": 30,
+      "start": 183,
+      "end": 185
+    },
+    {
+      "id": 31,
+      "start": 186,
+      "end": 193
+    },
+    {
+      "id": 32,
+      "start": 194,
+      "end": 205
+    },
+    {
+      "id": 33,
+      "start": 206,
+      "end": 209
+    },
+    {
+      "id": 34,
+      "start": 210,
+      "end": 213
+    },
+    {
+      "id": 35,
+      "start": 214,
+      "end": 224
+    },
+    {
+      "id": 36,
+      "start": 225,
+      "end": 235
+    },
+    {
+      "id": 37,
+      "start": 236,
+      "end": 238
+    },
+    {
+      "id": 38,
+      "start": 239,
+      "end": 244
+    },
+    {
+      "id": 39,
+      "start": 245,
+      "end": 250
+    },
+    {
+      "id": 40,
+      "start": 251,
+      "end": 253
+    },
+    {
+      "id": 41,
+      "start": 254,
+      "end": 257
+    },
+    {
+      "id": 42,
+      "start": 258,
+      "end": 264
+    },
+    {
+      "id": 43,
+      "start": 265,
+      "end": 271
+    },
+    {
+      "id": 44,
+      "start": 271,
+      "end": 284
+    },
+    {
+      "id": 45,
+      "start": 285,
+      "end": 288
+    },
+    {
+      "id": 46,
+      "start": 289,
+      "end": 295
+    },
+    {
+      "id": 47,
+      "start": 296,
+      "end": 299
+    },
+    {
+      "id": 48,
+      "start": 300,
+      "end": 305
+    },
+    {
+      "id": 49,
+      "start": 305,
+      "end": 306
+    },
+    {
+      "id": 50,
+      "start": 307,
+      "end": 312
+    },
+    {
+      "id": 51,
+      "start": 313,
+      "end": 315
+    },
+    {
+      "id": 52,
+      "start": 316,
+      "end": 323
+    },
+    {
+      "id": 53,
+      "start": 324,
+      "end": 326
+    },
+    {
+      "id": 54,
+      "start": 327,
+      "end": 332
+    },
+    {
+      "id": 55,
+      "start": 332,
+      "end": 345
+    },
+    {
+      "id": 56,
+      "start": 346,
+      "end": 347
+    },
+    {
+      "id": 57,
+      "start": 347,
+      "end": 351
+    },
+    {
+      "id": 58,
+      "start": 352,
+      "end": 358
+    },
+    {
+      "id": 59,
+      "start": 358,
+      "end": 371
+    },
+    {
+      "id": 60,
+      "start": 371,
+      "end": 372
+    },
+    {
+      "id": 61,
+      "start": 372,
+      "end": 373
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Glen Velez",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "percussionist",
+      "dest": 1
+    },
+    {
+      "dep_text": "Glen Velez",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "vocalist",
+      "dest": 2
+    },
+    {
+      "dep_text": "Glen Velez",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "composer",
+      "dest": 3
+    },
+    {
+      "dep_text": "composer",
+      "dep": 3,
+      "rel": "rdf-isClassOf",
+      "dest_text": "frame drums",
+      "dest": 4
+    }
+  ],
+  "classes": {
+    "percussionist_1": {
+      "labels": [
+        "PERSON",
+        "ROLE"
+      ],
+      "class": "percussionist"
+    },
+    "vocalist_2": {
+      "labels": [
+        "PERSON",
+        "ROLE"
+      ],
+      "class": "vocalist"
+    },
+    "composer_3": {
+      "labels": [
+        "PERSON",
+        "ROLE"
+      ],
+      "class": "composer"
+    }
+  }
+}

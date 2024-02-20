@@ -1,0 +1,573 @@
+{
+  "text": "Yasutora Sado is a fictional character in the anime and manga series Bleach created by Tite Kubo. He is an extremely tall teenager who studies in the same class as Ichigo Kurosaki. Because Ichigo first read Yasutora's name off a nametag, he pronounced his family name as Chad due to the variable pronunciations of kanji, and Ichigo continues to call him this throughout the story.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 13,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 36,
+      "end": 55,
+      "label": "CLASS"
+    },
+    {
+      "start": 75,
+      "end": 97,
+      "label": "CLASS"
+    },
+    {
+      "start": 110,
+      "end": 116,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 145,
+      "end": 154,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 197,
+      "end": 205,
+      "label": "CLASS"
+    },
+    {
+      "start": 251,
+      "end": 266,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 333,
+      "end": 340,
+      "label": "CLASS"
+    },
+    {
+      "start": 387,
+      "end": 391,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start_char": 0,
+      "end_char": 13,
+      "label": "INDIVIDUAL",
+      "text": "Yasutora Sado"
+    },
+    {
+      "start_char": 36,
+      "end_char": 55,
+      "label": "CLASS",
+      "text": "fictional character",
+      "subClassOf": [
+        "PERSONIFICATION",
+        "ROLE"
+      ]
+    },
+    {
+      "start_char": 75,
+      "end_char": 97,
+      "label": "CLASS",
+      "text": "anime and manga series",
+      "subClassOf": [
+        "INFORMATION_ENTITY",
+        "SOCIAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 110,
+      "end_char": 116,
+      "label": "INDIVIDUAL",
+      "text": "Bleach"
+    },
+    {
+      "start_char": 145,
+      "end_char": 154,
+      "label": "INDIVIDUAL",
+      "text": "Tite Kubo"
+    },
+    {
+      "start_char": 197,
+      "end_char": 205,
+      "label": "CLASS",
+      "text": "teenager",
+      "subClassOf": [
+        "PERSON",
+        "ROLE"
+      ]
+    },
+    {
+      "start_char": 251,
+      "end_char": 266,
+      "label": "INDIVIDUAL",
+      "text": "Ichigo Kurosaki"
+    },
+    {
+      "start_char": 333,
+      "end_char": 340,
+      "label": "CLASS",
+      "text": "nametag",
+      "subClassOf": [
+        "INFORMATION_ENTITY"
+      ]
+    },
+    {
+      "start_char": 387,
+      "end_char": 391,
+      "label": "INDIVIDUAL",
+      "text": "Chad"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 8
+    },
+    {
+      "id": 1,
+      "start": 9,
+      "end": 13
+    },
+    {
+      "id": 2,
+      "start": 13,
+      "end": 30
+    },
+    {
+      "id": 3,
+      "start": 31,
+      "end": 33
+    },
+    {
+      "id": 4,
+      "start": 34,
+      "end": 35
+    },
+    {
+      "id": 5,
+      "start": 36,
+      "end": 45
+    },
+    {
+      "id": 6,
+      "start": 46,
+      "end": 55
+    },
+    {
+      "id": 7,
+      "start": 55,
+      "end": 67
+    },
+    {
+      "id": 8,
+      "start": 68,
+      "end": 70
+    },
+    {
+      "id": 9,
+      "start": 71,
+      "end": 74
+    },
+    {
+      "id": 10,
+      "start": 75,
+      "end": 80
+    },
+    {
+      "id": 11,
+      "start": 81,
+      "end": 84
+    },
+    {
+      "id": 12,
+      "start": 85,
+      "end": 90
+    },
+    {
+      "id": 13,
+      "start": 91,
+      "end": 97
+    },
+    {
+      "id": 14,
+      "start": 97,
+      "end": 109
+    },
+    {
+      "id": 15,
+      "start": 110,
+      "end": 116
+    },
+    {
+      "id": 16,
+      "start": 116,
+      "end": 133
+    },
+    {
+      "id": 17,
+      "start": 134,
+      "end": 141
+    },
+    {
+      "id": 18,
+      "start": 142,
+      "end": 144
+    },
+    {
+      "id": 19,
+      "start": 145,
+      "end": 149
+    },
+    {
+      "id": 20,
+      "start": 150,
+      "end": 154
+    },
+    {
+      "id": 21,
+      "start": 154,
+      "end": 171
+    },
+    {
+      "id": 22,
+      "start": 171,
+      "end": 172
+    },
+    {
+      "id": 23,
+      "start": 173,
+      "end": 175
+    },
+    {
+      "id": 24,
+      "start": 176,
+      "end": 178
+    },
+    {
+      "id": 25,
+      "start": 179,
+      "end": 181
+    },
+    {
+      "id": 26,
+      "start": 182,
+      "end": 191
+    },
+    {
+      "id": 27,
+      "start": 192,
+      "end": 196
+    },
+    {
+      "id": 28,
+      "start": 197,
+      "end": 205
+    },
+    {
+      "id": 29,
+      "start": 205,
+      "end": 217
+    },
+    {
+      "id": 30,
+      "start": 218,
+      "end": 221
+    },
+    {
+      "id": 31,
+      "start": 222,
+      "end": 229
+    },
+    {
+      "id": 32,
+      "start": 230,
+      "end": 232
+    },
+    {
+      "id": 33,
+      "start": 233,
+      "end": 236
+    },
+    {
+      "id": 34,
+      "start": 237,
+      "end": 241
+    },
+    {
+      "id": 35,
+      "start": 242,
+      "end": 247
+    },
+    {
+      "id": 36,
+      "start": 248,
+      "end": 250
+    },
+    {
+      "id": 37,
+      "start": 251,
+      "end": 257
+    },
+    {
+      "id": 38,
+      "start": 258,
+      "end": 266
+    },
+    {
+      "id": 39,
+      "start": 266,
+      "end": 283
+    },
+    {
+      "id": 40,
+      "start": 283,
+      "end": 284
+    },
+    {
+      "id": 41,
+      "start": 285,
+      "end": 292
+    },
+    {
+      "id": 42,
+      "start": 293,
+      "end": 299
+    },
+    {
+      "id": 43,
+      "start": 300,
+      "end": 305
+    },
+    {
+      "id": 44,
+      "start": 306,
+      "end": 310
+    },
+    {
+      "id": 45,
+      "start": 311,
+      "end": 319
+    },
+    {
+      "id": 46,
+      "start": 319,
+      "end": 321
+    },
+    {
+      "id": 47,
+      "start": 322,
+      "end": 326
+    },
+    {
+      "id": 48,
+      "start": 327,
+      "end": 330
+    },
+    {
+      "id": 49,
+      "start": 331,
+      "end": 332
+    },
+    {
+      "id": 50,
+      "start": 333,
+      "end": 340
+    },
+    {
+      "id": 51,
+      "start": 340,
+      "end": 352
+    },
+    {
+      "id": 52,
+      "start": 352,
+      "end": 353
+    },
+    {
+      "id": 53,
+      "start": 354,
+      "end": 356
+    },
+    {
+      "id": 54,
+      "start": 357,
+      "end": 367
+    },
+    {
+      "id": 55,
+      "start": 368,
+      "end": 371
+    },
+    {
+      "id": 56,
+      "start": 372,
+      "end": 378
+    },
+    {
+      "id": 57,
+      "start": 379,
+      "end": 383
+    },
+    {
+      "id": 58,
+      "start": 384,
+      "end": 386
+    },
+    {
+      "id": 59,
+      "start": 387,
+      "end": 391
+    },
+    {
+      "id": 60,
+      "start": 391,
+      "end": 408
+    },
+    {
+      "id": 61,
+      "start": 409,
+      "end": 412
+    },
+    {
+      "id": 62,
+      "start": 413,
+      "end": 415
+    },
+    {
+      "id": 63,
+      "start": 416,
+      "end": 419
+    },
+    {
+      "id": 64,
+      "start": 420,
+      "end": 428
+    },
+    {
+      "id": 65,
+      "start": 429,
+      "end": 443
+    },
+    {
+      "id": 66,
+      "start": 444,
+      "end": 446
+    },
+    {
+      "id": 67,
+      "start": 447,
+      "end": 452
+    },
+    {
+      "id": 68,
+      "start": 452,
+      "end": 453
+    },
+    {
+      "id": 69,
+      "start": 454,
+      "end": 457
+    },
+    {
+      "id": 70,
+      "start": 458,
+      "end": 464
+    },
+    {
+      "id": 71,
+      "start": 465,
+      "end": 474
+    },
+    {
+      "id": 72,
+      "start": 475,
+      "end": 477
+    },
+    {
+      "id": 73,
+      "start": 478,
+      "end": 482
+    },
+    {
+      "id": 74,
+      "start": 483,
+      "end": 486
+    },
+    {
+      "id": 75,
+      "start": 487,
+      "end": 491
+    },
+    {
+      "id": 76,
+      "start": 492,
+      "end": 502
+    },
+    {
+      "id": 77,
+      "start": 503,
+      "end": 506
+    },
+    {
+      "id": 78,
+      "start": 507,
+      "end": 512
+    },
+    {
+      "id": 79,
+      "start": 512,
+      "end": 513
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Yasutora Sado",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "fictional character",
+      "dest": 1
+    },
+    {
+      "dep_text": "Yasutora Sado",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "anime and manga series",
+      "dest": 2
+    },
+    {
+      "dep_text": "Yasutora Sado",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "teenager",
+      "dest": 5
+    }
+  ],
+  "classes": {
+    "fictional_character_1": {
+      "labels": [
+        "PERSONIFICATION",
+        "ROLE"
+      ],
+      "class": "fictional character"
+    },
+    "anime_and_manga_series_2": {
+      "labels": [
+        "INFORMATION_ENTITY",
+        "SOCIAL_OBJECT"
+      ],
+      "class": "anime and manga series"
+    },
+    "teenager_5": {
+      "labels": [
+        "PERSON",
+        "ROLE"
+      ],
+      "class": "teenager"
+    },
+    "nametag_7": {
+      "labels": [
+        "INFORMATION_ENTITY"
+      ],
+      "class": "nametag"
+    }
+  }
+}

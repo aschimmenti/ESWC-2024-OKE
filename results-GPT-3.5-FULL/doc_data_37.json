@@ -1,0 +1,389 @@
+{
+  "text": "Munkebo is a town in central Denmark, located in Kerteminde municipality, Region of Southern Denmark on the island of Funen. It was also the site of the municipal council of the abolished Munkebo municipality.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 7,
+      "label": "ENTITY"
+    },
+    {
+      "start": 26,
+      "end": 30,
+      "label": "CLASS"
+    },
+    {
+      "start": 46,
+      "end": 61,
+      "label": "ENTITY"
+    },
+    {
+      "start": 87,
+      "end": 110,
+      "label": "ENTITY"
+    },
+    {
+      "start": 125,
+      "end": 151,
+      "label": "ENTITY"
+    },
+    {
+      "start": 182,
+      "end": 187,
+      "label": "ENTITY"
+    },
+    {
+      "start": 218,
+      "end": 222,
+      "label": "CLASS"
+    },
+    {
+      "start": 242,
+      "end": 259,
+      "label": "CLASS"
+    },
+    {
+      "start_char": 0,
+      "end_char": 7,
+      "label": "ENTITY",
+      "text": "Munkebo"
+    },
+    {
+      "start_char": 26,
+      "end_char": 30,
+      "label": "CLASS",
+      "text": "town",
+      "subClassOf": [
+        "LOCATION"
+      ]
+    },
+    {
+      "start_char": 46,
+      "end_char": 61,
+      "label": "ENTITY",
+      "text": "central Denmark"
+    },
+    {
+      "start_char": 87,
+      "end_char": 110,
+      "label": "ENTITY",
+      "text": "Kerteminde municipality"
+    },
+    {
+      "start_char": 125,
+      "end_char": 151,
+      "label": "ENTITY",
+      "text": "Region of Southern Denmark"
+    },
+    {
+      "start_char": 182,
+      "end_char": 187,
+      "label": "ENTITY",
+      "text": "Funen"
+    },
+    {
+      "start_char": 218,
+      "end_char": 222,
+      "label": "CLASS",
+      "text": "site",
+      "subClassOf": [
+        "LOCATION"
+      ]
+    },
+    {
+      "start_char": 242,
+      "end_char": 259,
+      "label": "CLASS",
+      "text": "municipal council",
+      "subClassOf": [
+        "Unknown"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 7
+    },
+    {
+      "id": 1,
+      "start": 7,
+      "end": 20
+    },
+    {
+      "id": 2,
+      "start": 21,
+      "end": 23
+    },
+    {
+      "id": 3,
+      "start": 24,
+      "end": 25
+    },
+    {
+      "id": 4,
+      "start": 26,
+      "end": 30
+    },
+    {
+      "id": 5,
+      "start": 30,
+      "end": 42
+    },
+    {
+      "id": 6,
+      "start": 43,
+      "end": 45
+    },
+    {
+      "id": 7,
+      "start": 46,
+      "end": 53
+    },
+    {
+      "id": 8,
+      "start": 54,
+      "end": 61
+    },
+    {
+      "id": 9,
+      "start": 61,
+      "end": 74
+    },
+    {
+      "id": 10,
+      "start": 74,
+      "end": 75
+    },
+    {
+      "id": 11,
+      "start": 76,
+      "end": 83
+    },
+    {
+      "id": 12,
+      "start": 84,
+      "end": 86
+    },
+    {
+      "id": 13,
+      "start": 87,
+      "end": 97
+    },
+    {
+      "id": 14,
+      "start": 98,
+      "end": 110
+    },
+    {
+      "id": 15,
+      "start": 110,
+      "end": 123
+    },
+    {
+      "id": 16,
+      "start": 123,
+      "end": 124
+    },
+    {
+      "id": 17,
+      "start": 125,
+      "end": 131
+    },
+    {
+      "id": 18,
+      "start": 132,
+      "end": 134
+    },
+    {
+      "id": 19,
+      "start": 135,
+      "end": 143
+    },
+    {
+      "id": 20,
+      "start": 144,
+      "end": 151
+    },
+    {
+      "id": 21,
+      "start": 151,
+      "end": 164
+    },
+    {
+      "id": 22,
+      "start": 165,
+      "end": 167
+    },
+    {
+      "id": 23,
+      "start": 168,
+      "end": 171
+    },
+    {
+      "id": 24,
+      "start": 172,
+      "end": 178
+    },
+    {
+      "id": 25,
+      "start": 179,
+      "end": 181
+    },
+    {
+      "id": 26,
+      "start": 182,
+      "end": 187
+    },
+    {
+      "id": 27,
+      "start": 187,
+      "end": 200
+    },
+    {
+      "id": 28,
+      "start": 200,
+      "end": 201
+    },
+    {
+      "id": 29,
+      "start": 202,
+      "end": 204
+    },
+    {
+      "id": 30,
+      "start": 205,
+      "end": 208
+    },
+    {
+      "id": 31,
+      "start": 209,
+      "end": 213
+    },
+    {
+      "id": 32,
+      "start": 214,
+      "end": 217
+    },
+    {
+      "id": 33,
+      "start": 218,
+      "end": 222
+    },
+    {
+      "id": 34,
+      "start": 222,
+      "end": 234
+    },
+    {
+      "id": 35,
+      "start": 235,
+      "end": 237
+    },
+    {
+      "id": 36,
+      "start": 238,
+      "end": 241
+    },
+    {
+      "id": 37,
+      "start": 242,
+      "end": 251
+    },
+    {
+      "id": 38,
+      "start": 252,
+      "end": 259
+    },
+    {
+      "id": 39,
+      "start": 259,
+      "end": 271
+    },
+    {
+      "id": 40,
+      "start": 272,
+      "end": 274
+    },
+    {
+      "id": 41,
+      "start": 275,
+      "end": 278
+    },
+    {
+      "id": 42,
+      "start": 279,
+      "end": 288
+    },
+    {
+      "id": 43,
+      "start": 289,
+      "end": 296
+    },
+    {
+      "id": 44,
+      "start": 297,
+      "end": 309
+    },
+    {
+      "id": 45,
+      "start": 309,
+      "end": 310
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Munkebo",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "town",
+      "dest": 1
+    },
+    {
+      "dep_text": "central Denmark",
+      "dep": 2,
+      "rel": "rdf-isClassOf",
+      "dest_text": "Kerteminde municipality",
+      "dest": 3
+    },
+    {
+      "dep_text": "central Denmark",
+      "dep": 2,
+      "rel": "rdf-isClassOf",
+      "dest_text": "Region of Southern Denmark",
+      "dest": 4
+    },
+    {
+      "dep_text": "central Denmark",
+      "dep": 2,
+      "rel": "rdf-isClassOf",
+      "dest_text": "Funen",
+      "dest": 5
+    },
+    {
+      "dep_text": "site",
+      "dep": 6,
+      "rel": "rdf-type",
+      "dest_text": "municipal council",
+      "dest": 7
+    }
+  ],
+  "classes": {
+    "town_1": {
+      "labels": [
+        "LOCATION"
+      ],
+      "class": "town"
+    },
+    "site_6": {
+      "labels": [
+        "LOCATION"
+      ],
+      "class": "site"
+    },
+    "municipal_council_7": {
+      "labels": [],
+      "class": "municipal council"
+    }
+  }
+}

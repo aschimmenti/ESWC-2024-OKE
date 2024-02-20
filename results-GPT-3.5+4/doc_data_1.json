@@ -1,0 +1,297 @@
+{
+  "text": "In geometry, a deltoid, also known as a tricuspoid or Steiner curve, is a hypocycloid of three cusps.",
+  "ents": [
+    {
+      "start": 3,
+      "end": 11,
+      "label": "CLASS"
+    },
+    {
+      "start": 27,
+      "end": 34,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 69,
+      "end": 79,
+      "label": "CLASS"
+    },
+    {
+      "start": 95,
+      "end": 108,
+      "label": "CLASS"
+    },
+    {
+      "start": 127,
+      "end": 138,
+      "label": "CLASS"
+    },
+    {
+      "start": 160,
+      "end": 165,
+      "label": "CLASS"
+    },
+    {
+      "start_char": 3,
+      "end_char": 11,
+      "label": "CLASS",
+      "text": "geometry",
+      "subClassOf": [
+        "TOPIC"
+      ]
+    },
+    {
+      "start_char": 27,
+      "end_char": 34,
+      "label": "INDIVIDUAL",
+      "text": "deltoid"
+    },
+    {
+      "start_char": 69,
+      "end_char": 79,
+      "label": "CLASS",
+      "text": "tricuspoid",
+      "subClassOf": [
+        "ABSTRACT"
+      ]
+    },
+    {
+      "start_char": 95,
+      "end_char": 108,
+      "label": "CLASS",
+      "text": "Steiner curve",
+      "subClassOf": [
+        "ABSTRACT"
+      ]
+    },
+    {
+      "start_char": 127,
+      "end_char": 138,
+      "label": "CLASS",
+      "text": "hypocycloid",
+      "subClassOf": [
+        "ABSTRACT"
+      ]
+    },
+    {
+      "start_char": 160,
+      "end_char": 165,
+      "label": "CLASS",
+      "text": "cusps",
+      "subClassOf": [
+        "PHYSICAL_OBJECT"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 2
+    },
+    {
+      "id": 1,
+      "start": 3,
+      "end": 11
+    },
+    {
+      "id": 2,
+      "start": 11,
+      "end": 23
+    },
+    {
+      "id": 3,
+      "start": 23,
+      "end": 24
+    },
+    {
+      "id": 4,
+      "start": 25,
+      "end": 26
+    },
+    {
+      "id": 5,
+      "start": 27,
+      "end": 34
+    },
+    {
+      "id": 6,
+      "start": 34,
+      "end": 51
+    },
+    {
+      "id": 7,
+      "start": 51,
+      "end": 52
+    },
+    {
+      "id": 8,
+      "start": 53,
+      "end": 57
+    },
+    {
+      "id": 9,
+      "start": 58,
+      "end": 63
+    },
+    {
+      "id": 10,
+      "start": 64,
+      "end": 66
+    },
+    {
+      "id": 11,
+      "start": 67,
+      "end": 68
+    },
+    {
+      "id": 12,
+      "start": 69,
+      "end": 79
+    },
+    {
+      "id": 13,
+      "start": 79,
+      "end": 91
+    },
+    {
+      "id": 14,
+      "start": 92,
+      "end": 94
+    },
+    {
+      "id": 15,
+      "start": 95,
+      "end": 102
+    },
+    {
+      "id": 16,
+      "start": 103,
+      "end": 108
+    },
+    {
+      "id": 17,
+      "start": 108,
+      "end": 120
+    },
+    {
+      "id": 18,
+      "start": 120,
+      "end": 121
+    },
+    {
+      "id": 19,
+      "start": 122,
+      "end": 124
+    },
+    {
+      "id": 20,
+      "start": 125,
+      "end": 126
+    },
+    {
+      "id": 21,
+      "start": 127,
+      "end": 138
+    },
+    {
+      "id": 22,
+      "start": 138,
+      "end": 150
+    },
+    {
+      "id": 23,
+      "start": 151,
+      "end": 153
+    },
+    {
+      "id": 24,
+      "start": 154,
+      "end": 159
+    },
+    {
+      "id": 25,
+      "start": 160,
+      "end": 165
+    },
+    {
+      "id": 26,
+      "start": 165,
+      "end": 177
+    },
+    {
+      "id": 27,
+      "start": 177,
+      "end": 178
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "deltoid",
+      "dep": 1,
+      "rel": "is_a",
+      "dest_text": "geometry",
+      "dest": 0
+    },
+    {
+      "dep_text": "deltoid",
+      "dep": 1,
+      "rel": "is_a",
+      "dest_text": "tricuspoid",
+      "dest": 2
+    },
+    {
+      "dep_text": "deltoid",
+      "dep": 1,
+      "rel": "is_a",
+      "dest_text": "Steiner curve",
+      "dest": 3
+    },
+    {
+      "dep_text": "deltoid",
+      "dep": 1,
+      "rel": "is_a",
+      "dest_text": "hypocycloid",
+      "dest": 4
+    },
+    {
+      "dep_text": "deltoid",
+      "dep": 1,
+      "rel": "is_a",
+      "dest_text": "cusps",
+      "dest": 5
+    }
+  ],
+  "classes": {
+    "geometry_0": {
+      "labels": [
+        "TOPIC"
+      ],
+      "class": "geometry"
+    },
+    "tricuspoid_2": {
+      "labels": [
+        "ABSTRACT"
+      ],
+      "class": "tricuspoid"
+    },
+    "Steiner_curve_3": {
+      "labels": [
+        "ABSTRACT"
+      ],
+      "class": "Steiner curve"
+    },
+    "hypocycloid_4": {
+      "labels": [
+        "ABSTRACT"
+      ],
+      "class": "hypocycloid"
+    },
+    "cusps_5": {
+      "labels": [
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "cusps"
+    }
+  }
+}

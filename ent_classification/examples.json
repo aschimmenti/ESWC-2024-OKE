@@ -1,0 +1,375 @@
+[
+  {
+    "text": "The British Museum is a public museum dedicated to human history, art and culture located in the Bloomsbury area of London.",
+    "spans": [
+      {
+        "text": "British Museum",
+        "is_entity": true,
+        "label": "ENTITY",
+        "reason": "A location, being a museum"
+      },
+      {
+        "text": "human history",
+        "is_entity": true,
+        "label": "ENTITY",
+        "reason": "in this context, refered as a topic the museum is dedicated"
+      },
+      {
+        "text": "art",
+        "is_entity": true,
+        "label": "ENTITY",
+        "reason": "in this context, refered as a topic the museum is dedicated"
+      },
+      {
+        "text": "culture",
+        "is_entity": true,
+        "label": "ENTITY",
+        "reason": "in this context, refered as a topic the museum is dedicated"
+      },
+      {
+        "text": "Bloomsbury",
+        "is_entity": true,
+        "label": "ENTITY",
+        "reason": "in this context, a location in which the museum is"
+      },
+      {
+        "text": "London",
+        "is_entity": true,
+        "label": "ENTITY",
+        "reason": "in this context, a location in which the other mentioned location exists"
+      }
+    ]
+  },
+  {
+    "text": "The Dialogue Concerning the Two Chief World Systems is a 1632 famous Italian-language book by Galileo Galilei comparing the Copernican system with the traditional Ptolemaic system.",
+    "spans": [
+      {
+        "text": "Dialogue Concerning the Two Chief World Systems",
+        "is_entity": true,
+        "label": "ENTITY",
+        "reason": "title of an information entity (as a book)"
+      },{
+        "text": "1632 famous Italian-language book",
+        "is_entity": false,
+        "label": "==NONE==",
+        "reason": "only the class itself is to be considered, not the adjectives reffering to it"
+      },
+      {
+        "text": "book",
+        "is_entity": true,
+        "label": "CLASS",
+        "reason": "the class that the Dialogue is given"
+      },
+      {
+        "text": "1632",
+        "is_entity": true,
+        "label": "ENTITY",
+        "reason": "the date mentioned in the text"
+      },
+      {
+        "text": "Galileo Galilei",
+        "is_entity": true,
+        "label": "ENTITY",
+        "reason": "A person mentioned"
+      },
+      {
+        "text": "Italian language",
+        "is_entity": true,
+        "label": "ENTITY",
+        "reason": "in this context, it's a type of communication"
+      },
+      {
+        "text": "Copernican system",
+        "is_entity": true,
+        "label": "ENTITY",
+        "reason": "The Copernican system, i.e. a vision on the way the universe works"
+      },
+      {
+        "text": "Ptolemaic system",
+        "is_entity": true,
+        "label": "ENTITY",
+        "reason": "The Ptolemaic system, i.e. a vision on the way the universe works"
+      },
+      {
+        "text": "system",
+        "is_entity": true,
+        "label": "CLASS",
+        "reason": "a theory that is valid for humans"
+      }
+    ]
+  },
+  {
+    "text": "The 2006 FIFA Club World Cup was a football tournament held in Japan between 10 December and 17 December 2006.",
+    "spans": [
+      {
+        "text": "2006 FIFA Club World Cup",
+        "is_entity": true,
+        "label": "ENTITY",
+        "reason": "The entity name"
+      },
+      {
+        "text": "football tournament",
+        "is_entity": true,
+        "label": "CLASS",
+        "reason": "the class of the entity FIFA Club World Cup"
+      },{
+        "text": "Japan",
+        "is_entity": true,
+        "label": "ENTITY",
+        "reason": "The nation name"
+      },
+      {
+        "text": "10 December 2006",
+        "is_entity": true,
+        "label": "ENTITY",
+        "reason": "Even if the text mentions 10 December only, insert yourself the full date"
+      },
+      {
+        "text": "17 December 2006",
+        "is_entity": true,
+        "label": "ENTITY",
+        "reason": "Another date time, which must be considered an entity of type 'date'"
+      }
+    ]
+  },
+  {
+    "text": "The University of Bologna is the oldest public research university in Bologna, Italy, founded in 1088. ",
+    "spans": [
+      {
+        "text": "University of Bologna",
+        "is_entity": true,
+        "label": "ENTITY",
+        "reason": "An organisation, being a public research university"
+      },{
+        "text": "the oldest public research university",
+        "is_entity": false,
+        "label": "==NONE==",
+        "reason": "only public research university is a class, not the adjective 'oldest'"
+      },
+      {
+        "text": "public research university",
+        "is_entity": true,
+        "label": "CLASS",
+        "reason": "the class given to the University of Bologna"
+      },
+      {
+        "text": "Italy",
+        "is_entity": true,
+        "label": "ENTITY",
+        "reason": "a nation in which the mentioned city is found"
+      },
+      {
+        "text": "1088",
+        "is_entity": true,
+        "label": "ENTITY",
+        "reason": "the time point in which the foundation is considered to have happened"
+      }
+    ]
+  },
+  {
+    "text":  "JSC Dalavia, also known as Dalavia - Far Eastern Airways was an airline based in Khabarovsk, Russia.",
+    "spans": [
+      {
+        "text": "JSC Dalavia",
+        "is_entity": true,
+        "label": "ENTITY",
+        "reason": "the name of an organisation"
+      }, {
+        "text": "Dalavia - Far Eastern Airways",
+        "is_entity": false,
+        "label": "==NONE==",
+        "reason": "another name for the organisation. choose only the one which fits the most in the given context."
+      },
+      {
+        "text": "airline",
+        "is_entity": true,
+        "label": "CLASS",
+        "reason": "a specific type of business organisation that deals with air travels"
+      }, {
+        "text": "Khabarovsk",
+        "is_entity": true,
+        "label": "ENTITY",
+        "reason": "a city in Russia"
+      }, {
+        "text": "Russia",
+        "is_entity": true,
+        "label": "ENTITY",
+        "reason": "a nation"
+      }
+    ]
+  },
+  {
+    "text": "The World Chess Championship 1984 was a match between challenger Garry Kasparov and defending champion Anatoly Karpov for the World Chess Championship title.",
+    "spans": [
+      {
+        "text": "World Chess Championship 1984",
+        "is_entity": true,
+        "label": "ENTITY",
+        "reason": "A particular in which people participate competing"
+      }, {
+        "text": "Championship",
+        "is_entity": false,
+        "label": "==NONE==",
+        "reason": "the Championship title is part of the entity, not the class"
+      },
+      {
+        "text": "match",
+        "is_entity": true,
+        "label": "CLASS",
+        "reason": "The text says World Chess Championship 1984 is a match"
+      },
+      {
+        "text": "Garry Kasparov",
+        "is_entity": true,
+        "label": "ENTITY",
+        "reason": "A person mentioned"
+      },
+      {
+        "text": "challenger",
+        "is_entity": true,
+        "label": "CLASS",
+        "reason": "the class given to Garry Kasparov"
+      },
+      {
+        "text": "Anatoly Karpov",
+        "is_entity": true,
+        "label": "ENTITY",
+        "reason": "Another mentioned person"
+      },
+      {
+        "text": "defending champion",
+        "is_entity": true,
+        "label": "CLASS",
+        "reason": "Anatoly Karpov is said to be the defending champion"
+      }
+    ]
+  },
+  {
+    "text":  "A bicycle, often called a bike or cycle, is a human-powered, pedal-driven, single-track vehicle, having two wheels attached to a frame, one behind the other. A bicycle rider is called a cyclist, or bicyclist.",
+    "spans": [
+      {
+        "text": "bycicle",
+        "is_entity": true,
+        "label": "ENTITY",
+        "reason": "A particular in which people participate competing"
+      }, {
+        "text": "cycle",
+        "is_entity": false,
+        "label": "==NONE==",
+        "reason": "only in this context, it's a synonim in the text"
+      },
+      {
+        "text": "vehicle",
+        "is_entity": true,
+        "label": "CLASS",
+        "reason": "The text says the bike is a type of vehicle"
+      }
+    ]
+  },
+  {
+    "text":  "Avinyonet de Puigventós is a municipality in the comarca of Alt Empordà, Girona, Catalonia, Spain.",
+    "spans": [
+      {
+        "text": "Avinyonet de Puigventós",
+        "is_entity": true,
+        "label": "ENTITY",
+        "reason": "A named place"
+      }, {
+        "text": "municipality",
+        "is_entity": true,
+        "label": "CLASS",
+        "reason": "The Avinyonet de Puigventós is described to be a municipality"
+      },
+      {
+        "text": "comarca",
+        "is_entity": true,
+        "label": "CLASS",
+        "reason": "The text says that Alt Empordà is a comarca"
+      }, {
+        "text": "Alt Empordà",
+        "is_entity": true,
+        "label": "ENTITY",
+        "reason": "The mentioned comarca's name"
+      }, 
+      {
+        "text": "Girona",
+        "is_entity": true,
+        "label": "ENTITY",
+        "reason": "The Girona province"
+      },
+      {
+        "text": "Catalonia",
+        "is_entity": true,
+        "label": "ENTITY",
+        "reason": "The named entity - region - Catalonia"
+      },
+      {
+        "text": "Spain",
+        "is_entity": true,
+        "label": "ENTITY",
+        "reason": "The named entity - nation - Spain"
+      }
+    ]
+  },
+  {
+    "text":  "Cattivik was an Italian humoristic comic book character created by Bonvi",
+    "spans": [
+      {
+        "text": "Cattivik",
+        "is_entity": true,
+        "label": "ENTITY",
+        "reason": "A named character"
+      }, {
+        "text": "Italian humoristic comic book character",
+        "is_entity": false,
+        "label": "==NONE==",
+        "reason": "only choose the class, without the adjectives"
+      },
+      {
+        "text": "comic book character",
+        "is_entity": true,
+        "label": "CLASS",
+        "reason": "the actual class without definitions of the named character"
+      }, {
+        "text": "Bonvi",
+        "is_entity": true,
+        "label": "ENTITY",
+        "reason": "The author of the named character"
+      }
+    ]
+  },
+  {
+    "text":  "The 'International recognition of the State of Palestine' is a NATO resolution of the 19 September 1996 which recognizes Palestine as an observer state",
+    "spans": [
+      {
+        "text": "International recognition of the State of Palestine",
+        "is_entity": true,
+        "label": "ENTITY",
+        "reason": "the title of a law emitted"
+      }, {
+        "text": "NATO resolution",
+        "is_entity": true,
+        "label": "CLASS",
+        "reason": "the type of the mentioned law"
+      },
+      {
+        "text": "19 September 1996",
+        "is_entity": true,
+        "label": "ENTITY",
+        "reason": "A date"
+      }, {
+        "text": "Palestine",
+        "is_entity": true,
+        "label": "ENTITY",
+        "reason": "a nation"
+      }, {
+        "text": "observer state",
+        "is_entity": true,
+        "label": "CLASS",
+        "reason": "a class which is given to the entity Palestine"
+      }
+    ]
+  }
+]
+
+

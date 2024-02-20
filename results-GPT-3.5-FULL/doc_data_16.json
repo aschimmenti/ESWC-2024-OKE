@@ -1,0 +1,317 @@
+{
+  "text": "Environmental chemistry is the scientific study of the chemical and biochemical phenomena that occur in natural places. It should not be confused with green chemistry, which seeks to reduce potential pollution at its source.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 23,
+      "label": "ENTITY"
+    },
+    {
+      "start": 44,
+      "end": 60,
+      "label": "CLASS"
+    },
+    {
+      "start": 129,
+      "end": 143,
+      "label": "ENTITY"
+    },
+    {
+      "start": 189,
+      "end": 204,
+      "label": "ENTITY"
+    },
+    {
+      "start": 251,
+      "end": 260,
+      "label": "CLASS"
+    },
+    {
+      "start_char": 0,
+      "end_char": 23,
+      "label": "ENTITY",
+      "text": "Environmental chemistry"
+    },
+    {
+      "start_char": 44,
+      "end_char": 60,
+      "label": "CLASS",
+      "text": "scientific study",
+      "subClassOf": [
+        "INFORMATION_ENTITY",
+        "TOPIC"
+      ]
+    },
+    {
+      "start_char": 129,
+      "end_char": 143,
+      "label": "ENTITY",
+      "text": "natural places"
+    },
+    {
+      "start_char": 189,
+      "end_char": 204,
+      "label": "ENTITY",
+      "text": "green chemistry"
+    },
+    {
+      "start_char": 251,
+      "end_char": 260,
+      "label": "CLASS",
+      "text": "pollution",
+      "subClassOf": [
+        "ABSTRACT"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 13
+    },
+    {
+      "id": 1,
+      "start": 14,
+      "end": 23
+    },
+    {
+      "id": 2,
+      "start": 23,
+      "end": 36
+    },
+    {
+      "id": 3,
+      "start": 37,
+      "end": 39
+    },
+    {
+      "id": 4,
+      "start": 40,
+      "end": 43
+    },
+    {
+      "id": 5,
+      "start": 44,
+      "end": 54
+    },
+    {
+      "id": 6,
+      "start": 55,
+      "end": 60
+    },
+    {
+      "id": 7,
+      "start": 60,
+      "end": 72
+    },
+    {
+      "id": 8,
+      "start": 73,
+      "end": 75
+    },
+    {
+      "id": 9,
+      "start": 76,
+      "end": 79
+    },
+    {
+      "id": 10,
+      "start": 80,
+      "end": 88
+    },
+    {
+      "id": 11,
+      "start": 89,
+      "end": 92
+    },
+    {
+      "id": 12,
+      "start": 93,
+      "end": 104
+    },
+    {
+      "id": 13,
+      "start": 105,
+      "end": 114
+    },
+    {
+      "id": 14,
+      "start": 115,
+      "end": 119
+    },
+    {
+      "id": 15,
+      "start": 120,
+      "end": 125
+    },
+    {
+      "id": 16,
+      "start": 126,
+      "end": 128
+    },
+    {
+      "id": 17,
+      "start": 129,
+      "end": 136
+    },
+    {
+      "id": 18,
+      "start": 137,
+      "end": 143
+    },
+    {
+      "id": 19,
+      "start": 143,
+      "end": 156
+    },
+    {
+      "id": 20,
+      "start": 156,
+      "end": 157
+    },
+    {
+      "id": 21,
+      "start": 158,
+      "end": 160
+    },
+    {
+      "id": 22,
+      "start": 161,
+      "end": 167
+    },
+    {
+      "id": 23,
+      "start": 168,
+      "end": 171
+    },
+    {
+      "id": 24,
+      "start": 172,
+      "end": 174
+    },
+    {
+      "id": 25,
+      "start": 175,
+      "end": 183
+    },
+    {
+      "id": 26,
+      "start": 184,
+      "end": 188
+    },
+    {
+      "id": 27,
+      "start": 189,
+      "end": 194
+    },
+    {
+      "id": 28,
+      "start": 195,
+      "end": 204
+    },
+    {
+      "id": 29,
+      "start": 204,
+      "end": 217
+    },
+    {
+      "id": 30,
+      "start": 217,
+      "end": 218
+    },
+    {
+      "id": 31,
+      "start": 219,
+      "end": 224
+    },
+    {
+      "id": 32,
+      "start": 225,
+      "end": 230
+    },
+    {
+      "id": 33,
+      "start": 231,
+      "end": 233
+    },
+    {
+      "id": 34,
+      "start": 234,
+      "end": 240
+    },
+    {
+      "id": 35,
+      "start": 241,
+      "end": 250
+    },
+    {
+      "id": 36,
+      "start": 251,
+      "end": 260
+    },
+    {
+      "id": 37,
+      "start": 260,
+      "end": 272
+    },
+    {
+      "id": 38,
+      "start": 273,
+      "end": 275
+    },
+    {
+      "id": 39,
+      "start": 276,
+      "end": 279
+    },
+    {
+      "id": 40,
+      "start": 280,
+      "end": 286
+    },
+    {
+      "id": 41,
+      "start": 286,
+      "end": 287
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Environmental chemistry",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "scientific study",
+      "dest": 1
+    },
+    {
+      "dep_text": "natural places",
+      "dep": 2,
+      "rel": "rdf-isClassOf",
+      "dest_text": "scientific study",
+      "dest": 1
+    },
+    {
+      "dep_text": "green chemistry",
+      "dep": 3,
+      "rel": "rdf-type",
+      "dest_text": "pollution",
+      "dest": 4
+    }
+  ],
+  "classes": {
+    "scientific_study_1": {
+      "labels": [
+        "INFORMATION_ENTITY",
+        "TOPIC"
+      ],
+      "class": "scientific study"
+    },
+    "pollution_4": {
+      "labels": [
+        "ABSTRACT"
+      ],
+      "class": "pollution"
+    }
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "text": "The Bulls of Guisando are a set of celtiberian sculptures located on the hill of Guisando in the municipality of El Tiemblo, Ávila, Spain.",
+  "ents": [
+    {
+      "start": 4,
+      "end": 21,
+      "label": "ENTITY"
+    },
+    {
+      "start": 48,
+      "end": 70,
+      "label": "CLASS"
+    },
+    {
+      "start": 138,
+      "end": 148,
+      "label": "ENTITY"
+    },
+    {
+      "start": 163,
+      "end": 168,
+      "label": "ENTITY"
+    },
+    {
+      "start": 183,
+      "end": 188,
+      "label": "ENTITY"
+    },
+    {
+      "start_char": 4,
+      "end_char": 21,
+      "label": "ENTITY",
+      "text": "Bulls of Guisando"
+    },
+    {
+      "start_char": 48,
+      "end_char": 70,
+      "label": "CLASS",
+      "text": "celtiberian sculptures",
+      "subClassOf": [
+        "LOCATION",
+        "PHYSICAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 138,
+      "end_char": 148,
+      "label": "ENTITY",
+      "text": "El Tiemblo"
+    },
+    {
+      "start_char": 163,
+      "end_char": 168,
+      "label": "ENTITY",
+      "text": "Ávila"
+    },
+    {
+      "start_char": 183,
+      "end_char": 188,
+      "label": "ENTITY",
+      "text": "Spain"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 3
+    },
+    {
+      "id": 1,
+      "start": 4,
+      "end": 9
+    },
+    {
+      "id": 2,
+      "start": 10,
+      "end": 12
+    },
+    {
+      "id": 3,
+      "start": 13,
+      "end": 21
+    },
+    {
+      "id": 4,
+      "start": 21,
+      "end": 34
+    },
+    {
+      "id": 5,
+      "start": 35,
+      "end": 38
+    },
+    {
+      "id": 6,
+      "start": 39,
+      "end": 40
+    },
+    {
+      "id": 7,
+      "start": 41,
+      "end": 44
+    },
+    {
+      "id": 8,
+      "start": 45,
+      "end": 47
+    },
+    {
+      "id": 9,
+      "start": 48,
+      "end": 59
+    },
+    {
+      "id": 10,
+      "start": 60,
+      "end": 70
+    },
+    {
+      "id": 11,
+      "start": 70,
+      "end": 82
+    },
+    {
+      "id": 12,
+      "start": 83,
+      "end": 90
+    },
+    {
+      "id": 13,
+      "start": 91,
+      "end": 93
+    },
+    {
+      "id": 14,
+      "start": 94,
+      "end": 97
+    },
+    {
+      "id": 15,
+      "start": 98,
+      "end": 102
+    },
+    {
+      "id": 16,
+      "start": 103,
+      "end": 105
+    },
+    {
+      "id": 17,
+      "start": 106,
+      "end": 114
+    },
+    {
+      "id": 18,
+      "start": 115,
+      "end": 117
+    },
+    {
+      "id": 19,
+      "start": 118,
+      "end": 121
+    },
+    {
+      "id": 20,
+      "start": 122,
+      "end": 134
+    },
+    {
+      "id": 21,
+      "start": 135,
+      "end": 137
+    },
+    {
+      "id": 22,
+      "start": 138,
+      "end": 140
+    },
+    {
+      "id": 23,
+      "start": 141,
+      "end": 148
+    },
+    {
+      "id": 24,
+      "start": 148,
+      "end": 161
+    },
+    {
+      "id": 25,
+      "start": 161,
+      "end": 162
+    },
+    {
+      "id": 26,
+      "start": 163,
+      "end": 168
+    },
+    {
+      "id": 27,
+      "start": 168,
+      "end": 181
+    },
+    {
+      "id": 28,
+      "start": 181,
+      "end": 182
+    },
+    {
+      "id": 29,
+      "start": 183,
+      "end": 188
+    },
+    {
+      "id": 30,
+      "start": 188,
+      "end": 201
+    },
+    {
+      "id": 31,
+      "start": 201,
+      "end": 202
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Bulls of Guisando",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "celtiberian sculptures",
+      "dest": 1
+    }
+  ],
+  "classes": {
+    "celtiberian_sculptures_1": {
+      "labels": [
+        "LOCATION",
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "celtiberian sculptures"
+    }
+  }
+}

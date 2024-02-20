@@ -1,0 +1,425 @@
+{
+  "text": "Color photography is photography that uses media capable of reproducing colors. By contrast, black-and-white (monochrome) photography records only a single channel of luminance (brightness) and uses media capable only of showing shades of gray.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 17,
+      "label": "CLASS"
+    },
+    {
+      "start": 33,
+      "end": 44,
+      "label": "CLASS"
+    },
+    {
+      "start": 134,
+      "end": 144,
+      "label": "CLASS"
+    },
+    {
+      "start": 203,
+      "end": 212,
+      "label": "CLASS"
+    },
+    {
+      "start": 247,
+      "end": 252,
+      "label": "CLASS"
+    },
+    {
+      "start": 289,
+      "end": 303,
+      "label": "CLASS"
+    },
+    {
+      "start_char": 0,
+      "end_char": 17,
+      "label": "CLASS",
+      "text": "Color photography",
+      "subClassOf": [
+        "INFORMATION_ENTITY",
+        "PHYSICAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 33,
+      "end_char": 44,
+      "label": "CLASS",
+      "text": "photography",
+      "subClassOf": [
+        "ACTIVITY"
+      ]
+    },
+    {
+      "start_char": 134,
+      "end_char": 144,
+      "label": "CLASS",
+      "text": "monochrome",
+      "subClassOf": [
+        "PHYSICAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 203,
+      "end_char": 212,
+      "label": "CLASS",
+      "text": "luminance",
+      "subClassOf": [
+        "ABSTRACT"
+      ]
+    },
+    {
+      "start_char": 247,
+      "end_char": 252,
+      "label": "CLASS",
+      "text": "media",
+      "subClassOf": [
+        "INFORMATION_ENTITY",
+        "PHYSICAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 289,
+      "end_char": 303,
+      "label": "CLASS",
+      "text": "shades of gray",
+      "subClassOf": [
+        "ABSTRACT"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 5
+    },
+    {
+      "id": 1,
+      "start": 6,
+      "end": 17
+    },
+    {
+      "id": 2,
+      "start": 17,
+      "end": 29
+    },
+    {
+      "id": 3,
+      "start": 30,
+      "end": 32
+    },
+    {
+      "id": 4,
+      "start": 33,
+      "end": 44
+    },
+    {
+      "id": 5,
+      "start": 44,
+      "end": 56
+    },
+    {
+      "id": 6,
+      "start": 57,
+      "end": 61
+    },
+    {
+      "id": 7,
+      "start": 62,
+      "end": 66
+    },
+    {
+      "id": 8,
+      "start": 67,
+      "end": 72
+    },
+    {
+      "id": 9,
+      "start": 73,
+      "end": 80
+    },
+    {
+      "id": 10,
+      "start": 81,
+      "end": 83
+    },
+    {
+      "id": 11,
+      "start": 84,
+      "end": 95
+    },
+    {
+      "id": 12,
+      "start": 96,
+      "end": 102
+    },
+    {
+      "id": 13,
+      "start": 102,
+      "end": 103
+    },
+    {
+      "id": 14,
+      "start": 104,
+      "end": 106
+    },
+    {
+      "id": 15,
+      "start": 107,
+      "end": 115
+    },
+    {
+      "id": 16,
+      "start": 115,
+      "end": 116
+    },
+    {
+      "id": 17,
+      "start": 117,
+      "end": 122
+    },
+    {
+      "id": 18,
+      "start": 122,
+      "end": 123
+    },
+    {
+      "id": 19,
+      "start": 123,
+      "end": 126
+    },
+    {
+      "id": 20,
+      "start": 126,
+      "end": 127
+    },
+    {
+      "id": 21,
+      "start": 127,
+      "end": 132
+    },
+    {
+      "id": 22,
+      "start": 133,
+      "end": 134
+    },
+    {
+      "id": 23,
+      "start": 134,
+      "end": 144
+    },
+    {
+      "id": 24,
+      "start": 144,
+      "end": 156
+    },
+    {
+      "id": 25,
+      "start": 156,
+      "end": 157
+    },
+    {
+      "id": 26,
+      "start": 158,
+      "end": 169
+    },
+    {
+      "id": 27,
+      "start": 170,
+      "end": 177
+    },
+    {
+      "id": 28,
+      "start": 178,
+      "end": 182
+    },
+    {
+      "id": 29,
+      "start": 183,
+      "end": 184
+    },
+    {
+      "id": 30,
+      "start": 185,
+      "end": 191
+    },
+    {
+      "id": 31,
+      "start": 192,
+      "end": 199
+    },
+    {
+      "id": 32,
+      "start": 200,
+      "end": 202
+    },
+    {
+      "id": 33,
+      "start": 203,
+      "end": 212
+    },
+    {
+      "id": 34,
+      "start": 212,
+      "end": 224
+    },
+    {
+      "id": 35,
+      "start": 225,
+      "end": 226
+    },
+    {
+      "id": 36,
+      "start": 226,
+      "end": 236
+    },
+    {
+      "id": 37,
+      "start": 236,
+      "end": 237
+    },
+    {
+      "id": 38,
+      "start": 238,
+      "end": 241
+    },
+    {
+      "id": 39,
+      "start": 242,
+      "end": 246
+    },
+    {
+      "id": 40,
+      "start": 247,
+      "end": 252
+    },
+    {
+      "id": 41,
+      "start": 252,
+      "end": 264
+    },
+    {
+      "id": 42,
+      "start": 265,
+      "end": 272
+    },
+    {
+      "id": 43,
+      "start": 273,
+      "end": 277
+    },
+    {
+      "id": 44,
+      "start": 278,
+      "end": 280
+    },
+    {
+      "id": 45,
+      "start": 281,
+      "end": 288
+    },
+    {
+      "id": 46,
+      "start": 289,
+      "end": 295
+    },
+    {
+      "id": 47,
+      "start": 296,
+      "end": 298
+    },
+    {
+      "id": 48,
+      "start": 299,
+      "end": 303
+    },
+    {
+      "id": 49,
+      "start": 303,
+      "end": 315
+    },
+    {
+      "id": 50,
+      "start": 315,
+      "end": 316
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Color photography",
+      "dep": 0,
+      "rel": "rdf-isClassOf",
+      "dest_text": "photography",
+      "dest": 1
+    },
+    {
+      "dep_text": "monochrome",
+      "dep": 2,
+      "rel": "rdf-isClassOf",
+      "dest_text": "photography",
+      "dest": 1
+    },
+    {
+      "dep_text": "luminance",
+      "dep": 3,
+      "rel": "rdf-isClassOf",
+      "dest_text": "photography",
+      "dest": 1
+    },
+    {
+      "dep_text": "media",
+      "dep": 4,
+      "rel": "rdf-isClassOf",
+      "dest_text": "photography",
+      "dest": 1
+    },
+    {
+      "dep_text": "shades of gray",
+      "dep": 5,
+      "rel": "rdf-isClassOf",
+      "dest_text": "photography",
+      "dest": 1
+    }
+  ],
+  "classes": {
+    "Color_photography_0": {
+      "labels": [
+        "INFORMATION_ENTITY",
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "Color photography"
+    },
+    "photography_1": {
+      "labels": [
+        "ACTIVITY"
+      ],
+      "class": "photography"
+    },
+    "monochrome_2": {
+      "labels": [
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "monochrome"
+    },
+    "luminance_3": {
+      "labels": [
+        "ABSTRACT"
+      ],
+      "class": "luminance"
+    },
+    "media_4": {
+      "labels": [
+        "INFORMATION_ENTITY",
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "media"
+    },
+    "shades_of_gray_5": {
+      "labels": [
+        "ABSTRACT"
+      ],
+      "class": "shades of gray"
+    }
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "text": "Dirty Pair Flash is a humorous science fiction anime based on the light novel series by Haruka Takachiho.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 16,
+      "label": "ENTITY"
+    },
+    {
+      "start": 79,
+      "end": 97,
+      "label": "CLASS"
+    },
+    {
+      "start": 113,
+      "end": 129,
+      "label": "ENTITY"
+    },
+    {
+      "start_char": 0,
+      "end_char": 16,
+      "label": "ENTITY",
+      "text": "Dirty Pair Flash"
+    },
+    {
+      "start_char": 79,
+      "end_char": 97,
+      "label": "CLASS",
+      "text": "light novel series",
+      "subClassOf": [
+        "INFORMATION_ENTITY",
+        "TOPIC"
+      ]
+    },
+    {
+      "start_char": 113,
+      "end_char": 129,
+      "label": "ENTITY",
+      "text": "Haruka Takachiho"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 5
+    },
+    {
+      "id": 1,
+      "start": 6,
+      "end": 10
+    },
+    {
+      "id": 2,
+      "start": 11,
+      "end": 16
+    },
+    {
+      "id": 3,
+      "start": 16,
+      "end": 29
+    },
+    {
+      "id": 4,
+      "start": 30,
+      "end": 32
+    },
+    {
+      "id": 5,
+      "start": 33,
+      "end": 34
+    },
+    {
+      "id": 6,
+      "start": 35,
+      "end": 43
+    },
+    {
+      "id": 7,
+      "start": 44,
+      "end": 51
+    },
+    {
+      "id": 8,
+      "start": 52,
+      "end": 59
+    },
+    {
+      "id": 9,
+      "start": 60,
+      "end": 65
+    },
+    {
+      "id": 10,
+      "start": 66,
+      "end": 71
+    },
+    {
+      "id": 11,
+      "start": 72,
+      "end": 74
+    },
+    {
+      "id": 12,
+      "start": 75,
+      "end": 78
+    },
+    {
+      "id": 13,
+      "start": 79,
+      "end": 84
+    },
+    {
+      "id": 14,
+      "start": 85,
+      "end": 90
+    },
+    {
+      "id": 15,
+      "start": 91,
+      "end": 97
+    },
+    {
+      "id": 16,
+      "start": 97,
+      "end": 109
+    },
+    {
+      "id": 17,
+      "start": 110,
+      "end": 112
+    },
+    {
+      "id": 18,
+      "start": 113,
+      "end": 119
+    },
+    {
+      "id": 19,
+      "start": 120,
+      "end": 129
+    },
+    {
+      "id": 20,
+      "start": 129,
+      "end": 142
+    },
+    {
+      "id": 21,
+      "start": 142,
+      "end": 143
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Dirty Pair Flash",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "light novel series",
+      "dest": 1
+    }
+  ],
+  "classes": {
+    "light_novel_series_1": {
+      "labels": [
+        "INFORMATION_ENTITY",
+        "TOPIC"
+      ],
+      "class": "light novel series"
+    }
+  }
+}

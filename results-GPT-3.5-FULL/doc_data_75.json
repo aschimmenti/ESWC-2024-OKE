@@ -1,0 +1,223 @@
+{
+  "text": "Tiberio Murgia was an Italian film actor. He appeared in more than 100 films between 1958 and 2009.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 14,
+      "label": "ENTITY"
+    },
+    {
+      "start": 48,
+      "end": 53,
+      "label": "CLASS"
+    },
+    {
+      "start": 96,
+      "end": 101,
+      "label": "CLASS"
+    },
+    {
+      "start": 122,
+      "end": 126,
+      "label": "ENTITY"
+    },
+    {
+      "start": 144,
+      "end": 148,
+      "label": "ENTITY"
+    },
+    {
+      "start_char": 0,
+      "end_char": 14,
+      "label": "ENTITY",
+      "text": "Tiberio Murgia"
+    },
+    {
+      "start_char": 48,
+      "end_char": 53,
+      "label": "CLASS",
+      "text": "actor",
+      "subClassOf": [
+        "PERSON"
+      ]
+    },
+    {
+      "start_char": 96,
+      "end_char": 101,
+      "label": "CLASS",
+      "text": "films",
+      "subClassOf": [
+        "ACTIVITY"
+      ]
+    },
+    {
+      "start_char": 122,
+      "end_char": 126,
+      "label": "ENTITY",
+      "text": "1958"
+    },
+    {
+      "start_char": 144,
+      "end_char": 148,
+      "label": "ENTITY",
+      "text": "2009"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 7
+    },
+    {
+      "id": 1,
+      "start": 8,
+      "end": 14
+    },
+    {
+      "id": 2,
+      "start": 14,
+      "end": 27
+    },
+    {
+      "id": 3,
+      "start": 28,
+      "end": 31
+    },
+    {
+      "id": 4,
+      "start": 32,
+      "end": 34
+    },
+    {
+      "id": 5,
+      "start": 35,
+      "end": 42
+    },
+    {
+      "id": 6,
+      "start": 43,
+      "end": 47
+    },
+    {
+      "id": 7,
+      "start": 48,
+      "end": 53
+    },
+    {
+      "id": 8,
+      "start": 53,
+      "end": 65
+    },
+    {
+      "id": 9,
+      "start": 65,
+      "end": 66
+    },
+    {
+      "id": 10,
+      "start": 67,
+      "end": 69
+    },
+    {
+      "id": 11,
+      "start": 70,
+      "end": 78
+    },
+    {
+      "id": 12,
+      "start": 79,
+      "end": 81
+    },
+    {
+      "id": 13,
+      "start": 82,
+      "end": 86
+    },
+    {
+      "id": 14,
+      "start": 87,
+      "end": 91
+    },
+    {
+      "id": 15,
+      "start": 92,
+      "end": 95
+    },
+    {
+      "id": 16,
+      "start": 96,
+      "end": 101
+    },
+    {
+      "id": 17,
+      "start": 101,
+      "end": 113
+    },
+    {
+      "id": 18,
+      "start": 114,
+      "end": 121
+    },
+    {
+      "id": 19,
+      "start": 122,
+      "end": 126
+    },
+    {
+      "id": 20,
+      "start": 126,
+      "end": 139
+    },
+    {
+      "id": 21,
+      "start": 140,
+      "end": 143
+    },
+    {
+      "id": 22,
+      "start": 144,
+      "end": 148
+    },
+    {
+      "id": 23,
+      "start": 148,
+      "end": 161
+    },
+    {
+      "id": 24,
+      "start": 161,
+      "end": 162
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Tiberio Murgia",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "actor",
+      "dest": 1
+    },
+    {
+      "dep_text": "Tiberio Murgia",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "films",
+      "dest": 2
+    }
+  ],
+  "classes": {
+    "actor_1": {
+      "labels": [
+        "PERSON"
+      ],
+      "class": "actor"
+    },
+    "films_2": {
+      "labels": [
+        "ACTIVITY"
+      ],
+      "class": "films"
+    }
+  }
+}

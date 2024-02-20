@@ -1,0 +1,209 @@
+{
+  "text": "Umm Dreiga or Oum Dreiga is an oasis town in the Río de Oro area of Western Sahara.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 10,
+      "label": "ENTITY"
+    },
+    {
+      "start": 27,
+      "end": 37,
+      "label": "ENTITY"
+    },
+    {
+      "start": 57,
+      "end": 67,
+      "label": "CLASS"
+    },
+    {
+      "start": 87,
+      "end": 97,
+      "label": "ENTITY"
+    },
+    {
+      "start": 119,
+      "end": 133,
+      "label": "ENTITY"
+    },
+    {
+      "start_char": 0,
+      "end_char": 10,
+      "label": "ENTITY",
+      "text": "Umm Dreiga"
+    },
+    {
+      "start_char": 27,
+      "end_char": 37,
+      "label": "ENTITY",
+      "text": "Oum Dreiga"
+    },
+    {
+      "start_char": 57,
+      "end_char": 67,
+      "label": "CLASS",
+      "text": "oasis town",
+      "subClassOf": [
+        "LOCATION"
+      ]
+    },
+    {
+      "start_char": 87,
+      "end_char": 97,
+      "label": "ENTITY",
+      "text": "Río de Oro"
+    },
+    {
+      "start_char": 119,
+      "end_char": 133,
+      "label": "ENTITY",
+      "text": "Western Sahara"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 3
+    },
+    {
+      "id": 1,
+      "start": 4,
+      "end": 10
+    },
+    {
+      "id": 2,
+      "start": 10,
+      "end": 23
+    },
+    {
+      "id": 3,
+      "start": 24,
+      "end": 26
+    },
+    {
+      "id": 4,
+      "start": 27,
+      "end": 30
+    },
+    {
+      "id": 5,
+      "start": 31,
+      "end": 37
+    },
+    {
+      "id": 6,
+      "start": 37,
+      "end": 50
+    },
+    {
+      "id": 7,
+      "start": 51,
+      "end": 53
+    },
+    {
+      "id": 8,
+      "start": 54,
+      "end": 56
+    },
+    {
+      "id": 9,
+      "start": 57,
+      "end": 62
+    },
+    {
+      "id": 10,
+      "start": 63,
+      "end": 67
+    },
+    {
+      "id": 11,
+      "start": 67,
+      "end": 79
+    },
+    {
+      "id": 12,
+      "start": 80,
+      "end": 82
+    },
+    {
+      "id": 13,
+      "start": 83,
+      "end": 86
+    },
+    {
+      "id": 14,
+      "start": 87,
+      "end": 90
+    },
+    {
+      "id": 15,
+      "start": 91,
+      "end": 93
+    },
+    {
+      "id": 16,
+      "start": 94,
+      "end": 97
+    },
+    {
+      "id": 17,
+      "start": 97,
+      "end": 110
+    },
+    {
+      "id": 18,
+      "start": 111,
+      "end": 115
+    },
+    {
+      "id": 19,
+      "start": 116,
+      "end": 118
+    },
+    {
+      "id": 20,
+      "start": 119,
+      "end": 126
+    },
+    {
+      "id": 21,
+      "start": 127,
+      "end": 133
+    },
+    {
+      "id": 22,
+      "start": 133,
+      "end": 146
+    },
+    {
+      "id": 23,
+      "start": 146,
+      "end": 147
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Umm Dreiga",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "oasis town",
+      "dest": 2
+    },
+    {
+      "dep_text": "Oum Dreiga",
+      "dep": 1,
+      "rel": "rdf-type",
+      "dest_text": "oasis town",
+      "dest": 2
+    }
+  ],
+  "classes": {
+    "oasis_town_2": {
+      "labels": [
+        "LOCATION"
+      ],
+      "class": "oasis town"
+    }
+  }
+}

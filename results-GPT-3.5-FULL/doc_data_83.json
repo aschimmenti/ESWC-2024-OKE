@@ -1,0 +1,490 @@
+{
+  "text": "Mauerpark is a public linear park in Berlin's Prenzlauer Berg district. The name translates to \"Wall Park\", referring to its status as a former part of the Berlin Wall and its Death Strip. The park is located at the border of Prenzlauer Berg and Gesundbrunnen district of former West Berlin.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 9,
+      "label": "ENTITY"
+    },
+    {
+      "start": 28,
+      "end": 46,
+      "label": "CLASS"
+    },
+    {
+      "start": 62,
+      "end": 68,
+      "label": "ENTITY"
+    },
+    {
+      "start": 84,
+      "end": 99,
+      "label": "ENTITY"
+    },
+    {
+      "start": 147,
+      "end": 156,
+      "label": "CLASS"
+    },
+    {
+      "start": 219,
+      "end": 230,
+      "label": "ENTITY"
+    },
+    {
+      "start": 252,
+      "end": 263,
+      "label": "ENTITY"
+    },
+    {
+      "start": 315,
+      "end": 330,
+      "label": "ENTITY"
+    },
+    {
+      "start": 348,
+      "end": 370,
+      "label": "ENTITY"
+    },
+    {
+      "start": 394,
+      "end": 405,
+      "label": "ENTITY"
+    },
+    {
+      "start_char": 0,
+      "end_char": 9,
+      "label": "ENTITY",
+      "text": "Mauerpark"
+    },
+    {
+      "start_char": 28,
+      "end_char": 46,
+      "label": "CLASS",
+      "text": "public linear park",
+      "subClassOf": [
+        "LOCATION",
+        "PHYSICAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 62,
+      "end_char": 68,
+      "label": "ENTITY",
+      "text": "Berlin"
+    },
+    {
+      "start_char": 84,
+      "end_char": 99,
+      "label": "ENTITY",
+      "text": "Prenzlauer Berg"
+    },
+    {
+      "start_char": 147,
+      "end_char": 156,
+      "label": "CLASS",
+      "text": "Wall Park",
+      "subClassOf": [
+        "LOCATION"
+      ]
+    },
+    {
+      "start_char": 219,
+      "end_char": 230,
+      "label": "ENTITY",
+      "text": "Berlin Wall"
+    },
+    {
+      "start_char": 252,
+      "end_char": 263,
+      "label": "ENTITY",
+      "text": "Death Strip"
+    },
+    {
+      "start_char": 315,
+      "end_char": 330,
+      "label": "ENTITY",
+      "text": "Prenzlauer Berg"
+    },
+    {
+      "start_char": 348,
+      "end_char": 370,
+      "label": "ENTITY",
+      "text": "Gesundbrunnen district"
+    },
+    {
+      "start_char": 394,
+      "end_char": 405,
+      "label": "ENTITY",
+      "text": "West Berlin"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 9
+    },
+    {
+      "id": 1,
+      "start": 9,
+      "end": 22
+    },
+    {
+      "id": 2,
+      "start": 23,
+      "end": 25
+    },
+    {
+      "id": 3,
+      "start": 26,
+      "end": 27
+    },
+    {
+      "id": 4,
+      "start": 28,
+      "end": 34
+    },
+    {
+      "id": 5,
+      "start": 35,
+      "end": 41
+    },
+    {
+      "id": 6,
+      "start": 42,
+      "end": 46
+    },
+    {
+      "id": 7,
+      "start": 46,
+      "end": 58
+    },
+    {
+      "id": 8,
+      "start": 59,
+      "end": 61
+    },
+    {
+      "id": 9,
+      "start": 62,
+      "end": 68
+    },
+    {
+      "id": 10,
+      "start": 68,
+      "end": 81
+    },
+    {
+      "id": 11,
+      "start": 81,
+      "end": 83
+    },
+    {
+      "id": 12,
+      "start": 84,
+      "end": 94
+    },
+    {
+      "id": 13,
+      "start": 95,
+      "end": 99
+    },
+    {
+      "id": 14,
+      "start": 99,
+      "end": 112
+    },
+    {
+      "id": 15,
+      "start": 113,
+      "end": 121
+    },
+    {
+      "id": 16,
+      "start": 121,
+      "end": 122
+    },
+    {
+      "id": 17,
+      "start": 123,
+      "end": 126
+    },
+    {
+      "id": 18,
+      "start": 127,
+      "end": 131
+    },
+    {
+      "id": 19,
+      "start": 132,
+      "end": 142
+    },
+    {
+      "id": 20,
+      "start": 143,
+      "end": 145
+    },
+    {
+      "id": 21,
+      "start": 146,
+      "end": 147
+    },
+    {
+      "id": 22,
+      "start": 147,
+      "end": 151
+    },
+    {
+      "id": 23,
+      "start": 152,
+      "end": 156
+    },
+    {
+      "id": 24,
+      "start": 156,
+      "end": 168
+    },
+    {
+      "id": 25,
+      "start": 168,
+      "end": 169
+    },
+    {
+      "id": 26,
+      "start": 169,
+      "end": 170
+    },
+    {
+      "id": 27,
+      "start": 171,
+      "end": 180
+    },
+    {
+      "id": 28,
+      "start": 181,
+      "end": 183
+    },
+    {
+      "id": 29,
+      "start": 184,
+      "end": 187
+    },
+    {
+      "id": 30,
+      "start": 188,
+      "end": 194
+    },
+    {
+      "id": 31,
+      "start": 195,
+      "end": 197
+    },
+    {
+      "id": 32,
+      "start": 198,
+      "end": 199
+    },
+    {
+      "id": 33,
+      "start": 200,
+      "end": 206
+    },
+    {
+      "id": 34,
+      "start": 207,
+      "end": 211
+    },
+    {
+      "id": 35,
+      "start": 212,
+      "end": 214
+    },
+    {
+      "id": 36,
+      "start": 215,
+      "end": 218
+    },
+    {
+      "id": 37,
+      "start": 219,
+      "end": 225
+    },
+    {
+      "id": 38,
+      "start": 226,
+      "end": 230
+    },
+    {
+      "id": 39,
+      "start": 230,
+      "end": 243
+    },
+    {
+      "id": 40,
+      "start": 244,
+      "end": 247
+    },
+    {
+      "id": 41,
+      "start": 248,
+      "end": 251
+    },
+    {
+      "id": 42,
+      "start": 252,
+      "end": 257
+    },
+    {
+      "id": 43,
+      "start": 258,
+      "end": 263
+    },
+    {
+      "id": 44,
+      "start": 263,
+      "end": 276
+    },
+    {
+      "id": 45,
+      "start": 276,
+      "end": 277
+    },
+    {
+      "id": 46,
+      "start": 278,
+      "end": 281
+    },
+    {
+      "id": 47,
+      "start": 282,
+      "end": 286
+    },
+    {
+      "id": 48,
+      "start": 287,
+      "end": 289
+    },
+    {
+      "id": 49,
+      "start": 290,
+      "end": 297
+    },
+    {
+      "id": 50,
+      "start": 298,
+      "end": 300
+    },
+    {
+      "id": 51,
+      "start": 301,
+      "end": 304
+    },
+    {
+      "id": 52,
+      "start": 305,
+      "end": 311
+    },
+    {
+      "id": 53,
+      "start": 312,
+      "end": 314
+    },
+    {
+      "id": 54,
+      "start": 315,
+      "end": 325
+    },
+    {
+      "id": 55,
+      "start": 326,
+      "end": 330
+    },
+    {
+      "id": 56,
+      "start": 330,
+      "end": 343
+    },
+    {
+      "id": 57,
+      "start": 344,
+      "end": 347
+    },
+    {
+      "id": 58,
+      "start": 348,
+      "end": 361
+    },
+    {
+      "id": 59,
+      "start": 362,
+      "end": 370
+    },
+    {
+      "id": 60,
+      "start": 370,
+      "end": 383
+    },
+    {
+      "id": 61,
+      "start": 384,
+      "end": 386
+    },
+    {
+      "id": 62,
+      "start": 387,
+      "end": 393
+    },
+    {
+      "id": 63,
+      "start": 394,
+      "end": 398
+    },
+    {
+      "id": 64,
+      "start": 399,
+      "end": 405
+    },
+    {
+      "id": 65,
+      "start": 405,
+      "end": 418
+    },
+    {
+      "id": 66,
+      "start": 418,
+      "end": 419
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Mauerpark",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "public linear park",
+      "dest": 1
+    },
+    {
+      "dep_text": "Wall Park",
+      "dep": 4,
+      "rel": "rdf-type",
+      "dest_text": "Berlin Wall",
+      "dest": 5
+    }
+  ],
+  "classes": {
+    "public_linear_park_1": {
+      "labels": [
+        "LOCATION",
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "public linear park"
+    },
+    "Wall_Park_4": {
+      "labels": [
+        "LOCATION"
+      ],
+      "class": "Wall Park"
+    }
+  }
+}

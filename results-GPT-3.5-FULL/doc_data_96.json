@@ -1,0 +1,218 @@
+{
+  "text": "The Hopetoun Blunder was a political event immediately prior to the Federation of the British colonies in Australia.",
+  "ents": [
+    {
+      "start": 4,
+      "end": 20,
+      "label": "ENTITY"
+    },
+    {
+      "start": 40,
+      "end": 55,
+      "label": "CLASS"
+    },
+    {
+      "start": 93,
+      "end": 103,
+      "label": "CLASS"
+    },
+    {
+      "start": 123,
+      "end": 139,
+      "label": "ENTITY"
+    },
+    {
+      "start": 156,
+      "end": 165,
+      "label": "ENTITY"
+    },
+    {
+      "start_char": 4,
+      "end_char": 20,
+      "label": "ENTITY",
+      "text": "Hopetoun Blunder"
+    },
+    {
+      "start_char": 40,
+      "end_char": 55,
+      "label": "CLASS",
+      "text": "political event",
+      "subClassOf": [
+        "EVENT"
+      ]
+    },
+    {
+      "start_char": 93,
+      "end_char": 103,
+      "label": "CLASS",
+      "text": "Federation",
+      "subClassOf": [
+        "EVENT"
+      ]
+    },
+    {
+      "start_char": 123,
+      "end_char": 139,
+      "label": "ENTITY",
+      "text": "British colonies"
+    },
+    {
+      "start_char": 156,
+      "end_char": 165,
+      "label": "ENTITY",
+      "text": "Australia"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 3
+    },
+    {
+      "id": 1,
+      "start": 4,
+      "end": 12
+    },
+    {
+      "id": 2,
+      "start": 13,
+      "end": 20
+    },
+    {
+      "id": 3,
+      "start": 20,
+      "end": 33
+    },
+    {
+      "id": 4,
+      "start": 34,
+      "end": 37
+    },
+    {
+      "id": 5,
+      "start": 38,
+      "end": 39
+    },
+    {
+      "id": 6,
+      "start": 40,
+      "end": 49
+    },
+    {
+      "id": 7,
+      "start": 50,
+      "end": 55
+    },
+    {
+      "id": 8,
+      "start": 55,
+      "end": 67
+    },
+    {
+      "id": 9,
+      "start": 68,
+      "end": 79
+    },
+    {
+      "id": 10,
+      "start": 80,
+      "end": 85
+    },
+    {
+      "id": 11,
+      "start": 86,
+      "end": 88
+    },
+    {
+      "id": 12,
+      "start": 89,
+      "end": 92
+    },
+    {
+      "id": 13,
+      "start": 93,
+      "end": 103
+    },
+    {
+      "id": 14,
+      "start": 103,
+      "end": 115
+    },
+    {
+      "id": 15,
+      "start": 116,
+      "end": 118
+    },
+    {
+      "id": 16,
+      "start": 119,
+      "end": 122
+    },
+    {
+      "id": 17,
+      "start": 123,
+      "end": 130
+    },
+    {
+      "id": 18,
+      "start": 131,
+      "end": 139
+    },
+    {
+      "id": 19,
+      "start": 139,
+      "end": 152
+    },
+    {
+      "id": 20,
+      "start": 153,
+      "end": 155
+    },
+    {
+      "id": 21,
+      "start": 156,
+      "end": 165
+    },
+    {
+      "id": 22,
+      "start": 165,
+      "end": 178
+    },
+    {
+      "id": 23,
+      "start": 178,
+      "end": 179
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Hopetoun Blunder",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "political event",
+      "dest": 1
+    },
+    {
+      "dep_text": "Federation",
+      "dep": 2,
+      "rel": "rdf-isClassOf",
+      "dest_text": "political event",
+      "dest": 1
+    }
+  ],
+  "classes": {
+    "political_event_1": {
+      "labels": [
+        "EVENT"
+      ],
+      "class": "political event"
+    },
+    "Federation_2": {
+      "labels": [
+        "EVENT"
+      ],
+      "class": "Federation"
+    }
+  }
+}

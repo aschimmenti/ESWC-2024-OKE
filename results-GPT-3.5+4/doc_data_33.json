@@ -1,0 +1,190 @@
+{
+  "text": "Gelderland is a province of the Netherlands, located in the central eastern part of the country.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 10,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 33,
+      "end": 41,
+      "label": "CLASS"
+    },
+    {
+      "start": 61,
+      "end": 72,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 106,
+      "end": 126,
+      "label": "CLASS"
+    },
+    {
+      "start_char": 0,
+      "end_char": 10,
+      "label": "INDIVIDUAL",
+      "text": "Gelderland"
+    },
+    {
+      "start_char": 33,
+      "end_char": 41,
+      "label": "CLASS",
+      "text": "province",
+      "subClassOf": [
+        "LOCATION"
+      ]
+    },
+    {
+      "start_char": 61,
+      "end_char": 72,
+      "label": "INDIVIDUAL",
+      "text": "Netherlands"
+    },
+    {
+      "start_char": 106,
+      "end_char": 126,
+      "label": "CLASS",
+      "text": "central eastern part",
+      "subClassOf": [
+        "LOCATION"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 10
+    },
+    {
+      "id": 1,
+      "start": 10,
+      "end": 27
+    },
+    {
+      "id": 2,
+      "start": 28,
+      "end": 30
+    },
+    {
+      "id": 3,
+      "start": 31,
+      "end": 32
+    },
+    {
+      "id": 4,
+      "start": 33,
+      "end": 41
+    },
+    {
+      "id": 5,
+      "start": 41,
+      "end": 53
+    },
+    {
+      "id": 6,
+      "start": 54,
+      "end": 56
+    },
+    {
+      "id": 7,
+      "start": 57,
+      "end": 60
+    },
+    {
+      "id": 8,
+      "start": 61,
+      "end": 72
+    },
+    {
+      "id": 9,
+      "start": 72,
+      "end": 89
+    },
+    {
+      "id": 10,
+      "start": 89,
+      "end": 90
+    },
+    {
+      "id": 11,
+      "start": 91,
+      "end": 98
+    },
+    {
+      "id": 12,
+      "start": 99,
+      "end": 101
+    },
+    {
+      "id": 13,
+      "start": 102,
+      "end": 105
+    },
+    {
+      "id": 14,
+      "start": 106,
+      "end": 113
+    },
+    {
+      "id": 15,
+      "start": 114,
+      "end": 121
+    },
+    {
+      "id": 16,
+      "start": 122,
+      "end": 126
+    },
+    {
+      "id": 17,
+      "start": 126,
+      "end": 138
+    },
+    {
+      "id": 18,
+      "start": 139,
+      "end": 141
+    },
+    {
+      "id": 19,
+      "start": 142,
+      "end": 145
+    },
+    {
+      "id": 20,
+      "start": 146,
+      "end": 153
+    },
+    {
+      "id": 21,
+      "start": 153,
+      "end": 154
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Gelderland",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "province",
+      "dest": 1
+    }
+  ],
+  "classes": {
+    "province_1": {
+      "labels": [
+        "LOCATION"
+      ],
+      "class": "province"
+    },
+    "central_eastern_part_3": {
+      "labels": [
+        "LOCATION"
+      ],
+      "class": "central eastern part"
+    }
+  }
+}

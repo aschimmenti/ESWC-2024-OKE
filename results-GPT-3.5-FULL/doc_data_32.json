@@ -1,0 +1,514 @@
+{
+  "text": "Oceania, also known as Oceanica, is a region centered on the islands of the tropical Pacific Ocean. Opinions of what constitutes Oceania range from its three subregions of Melanesia, Micronesia, and Polynesia to, more broadly, the entire insular region between Asia and the Americas, including Australasia and the Malay Archipelago.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 7,
+      "label": "ENTITY"
+    },
+    {
+      "start": 51,
+      "end": 57,
+      "label": "CLASS"
+    },
+    {
+      "start": 101,
+      "end": 123,
+      "label": "ENTITY"
+    },
+    {
+      "start": 210,
+      "end": 219,
+      "label": "ENTITY"
+    },
+    {
+      "start": 234,
+      "end": 244,
+      "label": "ENTITY"
+    },
+    {
+      "start": 263,
+      "end": 272,
+      "label": "ENTITY"
+    },
+    {
+      "start": 315,
+      "end": 329,
+      "label": "CLASS"
+    },
+    {
+      "start": 350,
+      "end": 354,
+      "label": "ENTITY"
+    },
+    {
+      "start": 376,
+      "end": 384,
+      "label": "ENTITY"
+    },
+    {
+      "start": 409,
+      "end": 420,
+      "label": "ENTITY"
+    },
+    {
+      "start": 442,
+      "end": 459,
+      "label": "ENTITY"
+    },
+    {
+      "start_char": 0,
+      "end_char": 7,
+      "label": "ENTITY",
+      "text": "Oceania"
+    },
+    {
+      "start_char": 51,
+      "end_char": 57,
+      "label": "CLASS",
+      "text": "region",
+      "subClassOf": [
+        "LOCATION"
+      ]
+    },
+    {
+      "start_char": 101,
+      "end_char": 123,
+      "label": "ENTITY",
+      "text": "tropical Pacific Ocean"
+    },
+    {
+      "start_char": 210,
+      "end_char": 219,
+      "label": "ENTITY",
+      "text": "Melanesia"
+    },
+    {
+      "start_char": 234,
+      "end_char": 244,
+      "label": "ENTITY",
+      "text": "Micronesia"
+    },
+    {
+      "start_char": 263,
+      "end_char": 272,
+      "label": "ENTITY",
+      "text": "Polynesia"
+    },
+    {
+      "start_char": 315,
+      "end_char": 329,
+      "label": "CLASS",
+      "text": "insular region",
+      "subClassOf": [
+        "LOCATION"
+      ]
+    },
+    {
+      "start_char": 350,
+      "end_char": 354,
+      "label": "ENTITY",
+      "text": "Asia"
+    },
+    {
+      "start_char": 376,
+      "end_char": 384,
+      "label": "ENTITY",
+      "text": "Americas"
+    },
+    {
+      "start_char": 409,
+      "end_char": 420,
+      "label": "ENTITY",
+      "text": "Australasia"
+    },
+    {
+      "start_char": 442,
+      "end_char": 459,
+      "label": "ENTITY",
+      "text": "Malay Archipelago"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 7
+    },
+    {
+      "id": 1,
+      "start": 7,
+      "end": 20
+    },
+    {
+      "id": 2,
+      "start": 20,
+      "end": 21
+    },
+    {
+      "id": 3,
+      "start": 22,
+      "end": 26
+    },
+    {
+      "id": 4,
+      "start": 27,
+      "end": 32
+    },
+    {
+      "id": 5,
+      "start": 33,
+      "end": 35
+    },
+    {
+      "id": 6,
+      "start": 36,
+      "end": 44
+    },
+    {
+      "id": 7,
+      "start": 44,
+      "end": 45
+    },
+    {
+      "id": 8,
+      "start": 46,
+      "end": 48
+    },
+    {
+      "id": 9,
+      "start": 49,
+      "end": 50
+    },
+    {
+      "id": 10,
+      "start": 51,
+      "end": 57
+    },
+    {
+      "id": 11,
+      "start": 57,
+      "end": 69
+    },
+    {
+      "id": 12,
+      "start": 70,
+      "end": 78
+    },
+    {
+      "id": 13,
+      "start": 79,
+      "end": 81
+    },
+    {
+      "id": 14,
+      "start": 82,
+      "end": 85
+    },
+    {
+      "id": 15,
+      "start": 86,
+      "end": 93
+    },
+    {
+      "id": 16,
+      "start": 94,
+      "end": 96
+    },
+    {
+      "id": 17,
+      "start": 97,
+      "end": 100
+    },
+    {
+      "id": 18,
+      "start": 101,
+      "end": 109
+    },
+    {
+      "id": 19,
+      "start": 110,
+      "end": 117
+    },
+    {
+      "id": 20,
+      "start": 118,
+      "end": 123
+    },
+    {
+      "id": 21,
+      "start": 123,
+      "end": 136
+    },
+    {
+      "id": 22,
+      "start": 136,
+      "end": 137
+    },
+    {
+      "id": 23,
+      "start": 138,
+      "end": 146
+    },
+    {
+      "id": 24,
+      "start": 147,
+      "end": 149
+    },
+    {
+      "id": 25,
+      "start": 150,
+      "end": 154
+    },
+    {
+      "id": 26,
+      "start": 155,
+      "end": 166
+    },
+    {
+      "id": 27,
+      "start": 167,
+      "end": 174
+    },
+    {
+      "id": 28,
+      "start": 175,
+      "end": 180
+    },
+    {
+      "id": 29,
+      "start": 181,
+      "end": 185
+    },
+    {
+      "id": 30,
+      "start": 186,
+      "end": 189
+    },
+    {
+      "id": 31,
+      "start": 190,
+      "end": 195
+    },
+    {
+      "id": 32,
+      "start": 196,
+      "end": 206
+    },
+    {
+      "id": 33,
+      "start": 207,
+      "end": 209
+    },
+    {
+      "id": 34,
+      "start": 210,
+      "end": 219
+    },
+    {
+      "id": 35,
+      "start": 219,
+      "end": 232
+    },
+    {
+      "id": 36,
+      "start": 232,
+      "end": 233
+    },
+    {
+      "id": 37,
+      "start": 234,
+      "end": 244
+    },
+    {
+      "id": 38,
+      "start": 244,
+      "end": 257
+    },
+    {
+      "id": 39,
+      "start": 257,
+      "end": 258
+    },
+    {
+      "id": 40,
+      "start": 259,
+      "end": 262
+    },
+    {
+      "id": 41,
+      "start": 263,
+      "end": 272
+    },
+    {
+      "id": 42,
+      "start": 272,
+      "end": 285
+    },
+    {
+      "id": 43,
+      "start": 286,
+      "end": 288
+    },
+    {
+      "id": 44,
+      "start": 288,
+      "end": 289
+    },
+    {
+      "id": 45,
+      "start": 290,
+      "end": 294
+    },
+    {
+      "id": 46,
+      "start": 295,
+      "end": 302
+    },
+    {
+      "id": 47,
+      "start": 302,
+      "end": 303
+    },
+    {
+      "id": 48,
+      "start": 304,
+      "end": 307
+    },
+    {
+      "id": 49,
+      "start": 308,
+      "end": 314
+    },
+    {
+      "id": 50,
+      "start": 315,
+      "end": 322
+    },
+    {
+      "id": 51,
+      "start": 323,
+      "end": 329
+    },
+    {
+      "id": 52,
+      "start": 329,
+      "end": 341
+    },
+    {
+      "id": 53,
+      "start": 342,
+      "end": 349
+    },
+    {
+      "id": 54,
+      "start": 350,
+      "end": 354
+    },
+    {
+      "id": 55,
+      "start": 354,
+      "end": 367
+    },
+    {
+      "id": 56,
+      "start": 368,
+      "end": 371
+    },
+    {
+      "id": 57,
+      "start": 372,
+      "end": 375
+    },
+    {
+      "id": 58,
+      "start": 376,
+      "end": 384
+    },
+    {
+      "id": 59,
+      "start": 384,
+      "end": 397
+    },
+    {
+      "id": 60,
+      "start": 397,
+      "end": 398
+    },
+    {
+      "id": 61,
+      "start": 399,
+      "end": 408
+    },
+    {
+      "id": 62,
+      "start": 409,
+      "end": 420
+    },
+    {
+      "id": 63,
+      "start": 420,
+      "end": 433
+    },
+    {
+      "id": 64,
+      "start": 434,
+      "end": 437
+    },
+    {
+      "id": 65,
+      "start": 438,
+      "end": 441
+    },
+    {
+      "id": 66,
+      "start": 442,
+      "end": 447
+    },
+    {
+      "id": 67,
+      "start": 448,
+      "end": 459
+    },
+    {
+      "id": 68,
+      "start": 459,
+      "end": 473
+    },
+    {
+      "id": 69,
+      "start": 473,
+      "end": 474
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Oceania",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "region",
+      "dest": 1
+    },
+    {
+      "dep_text": "insular region",
+      "dep": 6,
+      "rel": "rdf-isClassOf",
+      "dest_text": "region",
+      "dest": 1
+    }
+  ],
+  "classes": {
+    "region_1": {
+      "labels": [
+        "LOCATION"
+      ],
+      "class": "region"
+    },
+    "insular_region_6": {
+      "labels": [
+        "LOCATION"
+      ],
+      "class": "insular region"
+    }
+  }
+}

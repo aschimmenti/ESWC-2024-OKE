@@ -1,0 +1,563 @@
+{
+  "text": "Radicchio is a leaf chicory (Cichorium intybus, Asteraceae), sometimes known as Italian chicory, and is a perennial. It is grown as a leaf vegetable which usually has white-veined red leaves. It has a bitter and spicy taste, which mellows when it is grilled or roasted.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 9,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 32,
+      "end": 44,
+      "label": "CLASS"
+    },
+    {
+      "start": 58,
+      "end": 75,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 94,
+      "end": 104,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 143,
+      "end": 158,
+      "label": "CLASS"
+    },
+    {
+      "start": 181,
+      "end": 190,
+      "label": "CLASS"
+    },
+    {
+      "start": 221,
+      "end": 235,
+      "label": "CLASS"
+    },
+    {
+      "start": 266,
+      "end": 289,
+      "label": "CLASS"
+    },
+    {
+      "start": 312,
+      "end": 334,
+      "label": "CLASS"
+    },
+    {
+      "start": 373,
+      "end": 391,
+      "label": "CLASS"
+    },
+    {
+      "start_char": 0,
+      "end_char": 9,
+      "label": "INDIVIDUAL",
+      "text": "Radicchio"
+    },
+    {
+      "start_char": 32,
+      "end_char": 44,
+      "label": "CLASS",
+      "text": "leaf chicory",
+      "subClassOf": [
+        "ORGANISM"
+      ]
+    },
+    {
+      "start_char": 58,
+      "end_char": 75,
+      "label": "INDIVIDUAL",
+      "text": "Cichorium intybus"
+    },
+    {
+      "start_char": 94,
+      "end_char": 104,
+      "label": "INDIVIDUAL",
+      "text": "Asteraceae"
+    },
+    {
+      "start_char": 143,
+      "end_char": 158,
+      "label": "CLASS",
+      "text": "Italian chicory",
+      "subClassOf": [
+        "ORGANISM"
+      ]
+    },
+    {
+      "start_char": 181,
+      "end_char": 190,
+      "label": "CLASS",
+      "text": "perennial",
+      "subClassOf": [
+        "ORGANISM"
+      ]
+    },
+    {
+      "start_char": 221,
+      "end_char": 235,
+      "label": "CLASS",
+      "text": "leaf vegetable",
+      "subClassOf": [
+        "ORGANISM"
+      ]
+    },
+    {
+      "start_char": 266,
+      "end_char": 289,
+      "label": "CLASS",
+      "text": "white-veined red leaves",
+      "subClassOf": [
+        "ORGANISM"
+      ]
+    },
+    {
+      "start_char": 312,
+      "end_char": 334,
+      "label": "CLASS",
+      "text": "bitter and spicy taste",
+      "subClassOf": [
+        "INFORMATION_ENTITY"
+      ]
+    },
+    {
+      "start_char": 373,
+      "end_char": 391,
+      "label": "CLASS",
+      "text": "grilled or roasted",
+      "subClassOf": [
+        "ACTIVITY"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 9
+    },
+    {
+      "id": 1,
+      "start": 9,
+      "end": 26
+    },
+    {
+      "id": 2,
+      "start": 27,
+      "end": 29
+    },
+    {
+      "id": 3,
+      "start": 30,
+      "end": 31
+    },
+    {
+      "id": 4,
+      "start": 32,
+      "end": 36
+    },
+    {
+      "id": 5,
+      "start": 37,
+      "end": 44
+    },
+    {
+      "id": 6,
+      "start": 44,
+      "end": 56
+    },
+    {
+      "id": 7,
+      "start": 57,
+      "end": 58
+    },
+    {
+      "id": 8,
+      "start": 58,
+      "end": 67
+    },
+    {
+      "id": 9,
+      "start": 68,
+      "end": 75
+    },
+    {
+      "id": 10,
+      "start": 75,
+      "end": 92
+    },
+    {
+      "id": 11,
+      "start": 92,
+      "end": 93
+    },
+    {
+      "id": 12,
+      "start": 94,
+      "end": 104
+    },
+    {
+      "id": 13,
+      "start": 104,
+      "end": 121
+    },
+    {
+      "id": 14,
+      "start": 121,
+      "end": 122
+    },
+    {
+      "id": 15,
+      "start": 122,
+      "end": 123
+    },
+    {
+      "id": 16,
+      "start": 124,
+      "end": 133
+    },
+    {
+      "id": 17,
+      "start": 134,
+      "end": 139
+    },
+    {
+      "id": 18,
+      "start": 140,
+      "end": 142
+    },
+    {
+      "id": 19,
+      "start": 143,
+      "end": 150
+    },
+    {
+      "id": 20,
+      "start": 151,
+      "end": 158
+    },
+    {
+      "id": 21,
+      "start": 158,
+      "end": 170
+    },
+    {
+      "id": 22,
+      "start": 170,
+      "end": 171
+    },
+    {
+      "id": 23,
+      "start": 172,
+      "end": 175
+    },
+    {
+      "id": 24,
+      "start": 176,
+      "end": 178
+    },
+    {
+      "id": 25,
+      "start": 179,
+      "end": 180
+    },
+    {
+      "id": 26,
+      "start": 181,
+      "end": 190
+    },
+    {
+      "id": 27,
+      "start": 190,
+      "end": 202
+    },
+    {
+      "id": 28,
+      "start": 202,
+      "end": 203
+    },
+    {
+      "id": 29,
+      "start": 204,
+      "end": 206
+    },
+    {
+      "id": 30,
+      "start": 207,
+      "end": 209
+    },
+    {
+      "id": 31,
+      "start": 210,
+      "end": 215
+    },
+    {
+      "id": 32,
+      "start": 216,
+      "end": 218
+    },
+    {
+      "id": 33,
+      "start": 219,
+      "end": 220
+    },
+    {
+      "id": 34,
+      "start": 221,
+      "end": 225
+    },
+    {
+      "id": 35,
+      "start": 226,
+      "end": 235
+    },
+    {
+      "id": 36,
+      "start": 235,
+      "end": 247
+    },
+    {
+      "id": 37,
+      "start": 248,
+      "end": 253
+    },
+    {
+      "id": 38,
+      "start": 254,
+      "end": 261
+    },
+    {
+      "id": 39,
+      "start": 262,
+      "end": 265
+    },
+    {
+      "id": 40,
+      "start": 266,
+      "end": 271
+    },
+    {
+      "id": 41,
+      "start": 271,
+      "end": 272
+    },
+    {
+      "id": 42,
+      "start": 272,
+      "end": 278
+    },
+    {
+      "id": 43,
+      "start": 279,
+      "end": 282
+    },
+    {
+      "id": 44,
+      "start": 283,
+      "end": 289
+    },
+    {
+      "id": 45,
+      "start": 289,
+      "end": 301
+    },
+    {
+      "id": 46,
+      "start": 301,
+      "end": 302
+    },
+    {
+      "id": 47,
+      "start": 303,
+      "end": 305
+    },
+    {
+      "id": 48,
+      "start": 306,
+      "end": 309
+    },
+    {
+      "id": 49,
+      "start": 310,
+      "end": 311
+    },
+    {
+      "id": 50,
+      "start": 312,
+      "end": 318
+    },
+    {
+      "id": 51,
+      "start": 319,
+      "end": 322
+    },
+    {
+      "id": 52,
+      "start": 323,
+      "end": 328
+    },
+    {
+      "id": 53,
+      "start": 329,
+      "end": 334
+    },
+    {
+      "id": 54,
+      "start": 334,
+      "end": 346
+    },
+    {
+      "id": 55,
+      "start": 346,
+      "end": 347
+    },
+    {
+      "id": 56,
+      "start": 348,
+      "end": 353
+    },
+    {
+      "id": 57,
+      "start": 354,
+      "end": 361
+    },
+    {
+      "id": 58,
+      "start": 362,
+      "end": 366
+    },
+    {
+      "id": 59,
+      "start": 367,
+      "end": 369
+    },
+    {
+      "id": 60,
+      "start": 370,
+      "end": 372
+    },
+    {
+      "id": 61,
+      "start": 373,
+      "end": 380
+    },
+    {
+      "id": 62,
+      "start": 381,
+      "end": 383
+    },
+    {
+      "id": 63,
+      "start": 384,
+      "end": 391
+    },
+    {
+      "id": 64,
+      "start": 391,
+      "end": 403
+    },
+    {
+      "id": 65,
+      "start": 403,
+      "end": 404
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Radicchio",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "leaf chicory",
+      "dest": 1
+    },
+    {
+      "dep_text": "Radicchio",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "Italian chicory",
+      "dest": 4
+    },
+    {
+      "dep_text": "Radicchio",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "perennial",
+      "dest": 5
+    },
+    {
+      "dep_text": "Radicchio",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "leaf vegetable",
+      "dest": 6
+    },
+    {
+      "dep_text": "Radicchio",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "white-veined red leaves",
+      "dest": 7
+    },
+    {
+      "dep_text": "Radicchio",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "bitter and spicy taste",
+      "dest": 8
+    },
+    {
+      "dep_text": "Radicchio",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "grilled or roasted",
+      "dest": 9
+    }
+  ],
+  "classes": {
+    "leaf_chicory_1": {
+      "labels": [
+        "ORGANISM"
+      ],
+      "class": "leaf chicory"
+    },
+    "Italian_chicory_4": {
+      "labels": [
+        "ORGANISM"
+      ],
+      "class": "Italian chicory"
+    },
+    "perennial_5": {
+      "labels": [
+        "ORGANISM"
+      ],
+      "class": "perennial"
+    },
+    "leaf_vegetable_6": {
+      "labels": [
+        "ORGANISM"
+      ],
+      "class": "leaf vegetable"
+    },
+    "white-veined_red_leaves_7": {
+      "labels": [
+        "ORGANISM"
+      ],
+      "class": "white-veined red leaves"
+    },
+    "bitter_and_spicy_taste_8": {
+      "labels": [
+        "INFORMATION_ENTITY"
+      ],
+      "class": "bitter and spicy taste"
+    },
+    "grilled_or_roasted_9": {
+      "labels": [
+        "ACTIVITY"
+      ],
+      "class": "grilled or roasted"
+    }
+  }
+}

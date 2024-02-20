@@ -1,0 +1,393 @@
+{
+  "text": "Marriage, also called matrimony or wedlock, is a socially recognized union between spouses that establishes rights and obligations between them, between them and their children, and between them and their in-laws.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 8,
+      "label": "ENTITY"
+    },
+    {
+      "start": 82,
+      "end": 87,
+      "label": "CLASS"
+    },
+    {
+      "start": 108,
+      "end": 115,
+      "label": "CLASS"
+    },
+    {
+      "start": 145,
+      "end": 151,
+      "label": "CLASS"
+    },
+    {
+      "start": 168,
+      "end": 179,
+      "label": "CLASS"
+    },
+    {
+      "start": 229,
+      "end": 237,
+      "label": "ENTITY"
+    },
+    {
+      "start": 279,
+      "end": 286,
+      "label": "CLASS"
+    },
+    {
+      "start_char": 0,
+      "end_char": 8,
+      "label": "ENTITY",
+      "text": "Marriage"
+    },
+    {
+      "start_char": 82,
+      "end_char": 87,
+      "label": "CLASS",
+      "text": "union",
+      "subClassOf": [
+        "SOCIAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 108,
+      "end_char": 115,
+      "label": "CLASS",
+      "text": "spouses",
+      "subClassOf": [
+        "SOCIAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 145,
+      "end_char": 151,
+      "label": "CLASS",
+      "text": "rights",
+      "subClassOf": [
+        "ABSTRACT"
+      ]
+    },
+    {
+      "start_char": 168,
+      "end_char": 179,
+      "label": "CLASS",
+      "text": "obligations",
+      "subClassOf": [
+        "SITUATION"
+      ]
+    },
+    {
+      "start_char": 229,
+      "end_char": 237,
+      "label": "ENTITY",
+      "text": "children"
+    },
+    {
+      "start_char": 279,
+      "end_char": 286,
+      "label": "CLASS",
+      "text": "in-laws",
+      "subClassOf": [
+        "SOCIAL_OBJECT"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 8
+    },
+    {
+      "id": 1,
+      "start": 8,
+      "end": 21
+    },
+    {
+      "id": 2,
+      "start": 21,
+      "end": 22
+    },
+    {
+      "id": 3,
+      "start": 23,
+      "end": 27
+    },
+    {
+      "id": 4,
+      "start": 28,
+      "end": 34
+    },
+    {
+      "id": 5,
+      "start": 35,
+      "end": 44
+    },
+    {
+      "id": 6,
+      "start": 45,
+      "end": 47
+    },
+    {
+      "id": 7,
+      "start": 48,
+      "end": 55
+    },
+    {
+      "id": 8,
+      "start": 55,
+      "end": 56
+    },
+    {
+      "id": 9,
+      "start": 57,
+      "end": 59
+    },
+    {
+      "id": 10,
+      "start": 60,
+      "end": 61
+    },
+    {
+      "id": 11,
+      "start": 62,
+      "end": 70
+    },
+    {
+      "id": 12,
+      "start": 71,
+      "end": 81
+    },
+    {
+      "id": 13,
+      "start": 82,
+      "end": 87
+    },
+    {
+      "id": 14,
+      "start": 87,
+      "end": 99
+    },
+    {
+      "id": 15,
+      "start": 100,
+      "end": 107
+    },
+    {
+      "id": 16,
+      "start": 108,
+      "end": 115
+    },
+    {
+      "id": 17,
+      "start": 115,
+      "end": 127
+    },
+    {
+      "id": 18,
+      "start": 128,
+      "end": 132
+    },
+    {
+      "id": 19,
+      "start": 133,
+      "end": 144
+    },
+    {
+      "id": 20,
+      "start": 145,
+      "end": 151
+    },
+    {
+      "id": 21,
+      "start": 151,
+      "end": 163
+    },
+    {
+      "id": 22,
+      "start": 164,
+      "end": 167
+    },
+    {
+      "id": 23,
+      "start": 168,
+      "end": 179
+    },
+    {
+      "id": 24,
+      "start": 179,
+      "end": 191
+    },
+    {
+      "id": 25,
+      "start": 192,
+      "end": 199
+    },
+    {
+      "id": 26,
+      "start": 200,
+      "end": 204
+    },
+    {
+      "id": 27,
+      "start": 204,
+      "end": 205
+    },
+    {
+      "id": 28,
+      "start": 206,
+      "end": 213
+    },
+    {
+      "id": 29,
+      "start": 214,
+      "end": 218
+    },
+    {
+      "id": 30,
+      "start": 219,
+      "end": 222
+    },
+    {
+      "id": 31,
+      "start": 223,
+      "end": 228
+    },
+    {
+      "id": 32,
+      "start": 229,
+      "end": 237
+    },
+    {
+      "id": 33,
+      "start": 237,
+      "end": 250
+    },
+    {
+      "id": 34,
+      "start": 250,
+      "end": 251
+    },
+    {
+      "id": 35,
+      "start": 252,
+      "end": 255
+    },
+    {
+      "id": 36,
+      "start": 256,
+      "end": 263
+    },
+    {
+      "id": 37,
+      "start": 264,
+      "end": 268
+    },
+    {
+      "id": 38,
+      "start": 269,
+      "end": 272
+    },
+    {
+      "id": 39,
+      "start": 273,
+      "end": 278
+    },
+    {
+      "id": 40,
+      "start": 279,
+      "end": 281
+    },
+    {
+      "id": 41,
+      "start": 281,
+      "end": 282
+    },
+    {
+      "id": 42,
+      "start": 282,
+      "end": 286
+    },
+    {
+      "id": 43,
+      "start": 286,
+      "end": 298
+    },
+    {
+      "id": 44,
+      "start": 298,
+      "end": 299
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Marriage",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "union",
+      "dest": 1
+    },
+    {
+      "dep_text": "Marriage",
+      "dep": 0,
+      "rel": "rdf-isClassOf",
+      "dest_text": "spouses",
+      "dest": 2
+    },
+    {
+      "dep_text": "Marriage",
+      "dep": 0,
+      "rel": "rdf-isClassOf",
+      "dest_text": "rights",
+      "dest": 3
+    },
+    {
+      "dep_text": "Marriage",
+      "dep": 0,
+      "rel": "rdf-isClassOf",
+      "dest_text": "obligations",
+      "dest": 4
+    },
+    {
+      "dep_text": "Marriage",
+      "dep": 0,
+      "rel": "rdf-isClassOf",
+      "dest_text": "in-laws",
+      "dest": 6
+    }
+  ],
+  "classes": {
+    "union_1": {
+      "labels": [
+        "SOCIAL_OBJECT"
+      ],
+      "class": "union"
+    },
+    "spouses_2": {
+      "labels": [
+        "SOCIAL_OBJECT"
+      ],
+      "class": "spouses"
+    },
+    "rights_3": {
+      "labels": [
+        "ABSTRACT"
+      ],
+      "class": "rights"
+    },
+    "obligations_4": {
+      "labels": [
+        "SITUATION"
+      ],
+      "class": "obligations"
+    },
+    "in-laws_6": {
+      "labels": [
+        "SOCIAL_OBJECT"
+      ],
+      "class": "in-laws"
+    }
+  }
+}

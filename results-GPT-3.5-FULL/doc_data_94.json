@@ -1,0 +1,347 @@
+{
+  "text": "The Battle of Britain (German: Luftschlacht um England, literally \"Air battle for England\") is the name given to the air campaign waged by the German Air Force (Luftwaffe) against the United Kingdom during the summer and autumn of 1940.",
+  "ents": [
+    {
+      "start": 4,
+      "end": 21,
+      "label": "ENTITY"
+    },
+    {
+      "start": 130,
+      "end": 142,
+      "label": "CLASS"
+    },
+    {
+      "start": 168,
+      "end": 174,
+      "label": "ENTITY"
+    },
+    {
+      "start": 222,
+      "end": 236,
+      "label": "ENTITY"
+    },
+    {
+      "start": 261,
+      "end": 286,
+      "label": "ENTITY"
+    },
+    {
+      "start_char": 4,
+      "end_char": 21,
+      "label": "ENTITY",
+      "text": "Battle of Britain"
+    },
+    {
+      "start_char": 130,
+      "end_char": 142,
+      "label": "CLASS",
+      "text": "air campaign",
+      "subClassOf": [
+        "ACTIVITY"
+      ]
+    },
+    {
+      "start_char": 168,
+      "end_char": 174,
+      "label": "ENTITY",
+      "text": "German"
+    },
+    {
+      "start_char": 222,
+      "end_char": 236,
+      "label": "ENTITY",
+      "text": "United Kingdom"
+    },
+    {
+      "start_char": 261,
+      "end_char": 286,
+      "label": "ENTITY",
+      "text": "summer and autumn of 1940"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 3
+    },
+    {
+      "id": 1,
+      "start": 4,
+      "end": 10
+    },
+    {
+      "id": 2,
+      "start": 11,
+      "end": 13
+    },
+    {
+      "id": 3,
+      "start": 14,
+      "end": 21
+    },
+    {
+      "id": 4,
+      "start": 21,
+      "end": 34
+    },
+    {
+      "id": 5,
+      "start": 35,
+      "end": 36
+    },
+    {
+      "id": 6,
+      "start": 36,
+      "end": 42
+    },
+    {
+      "id": 7,
+      "start": 42,
+      "end": 43
+    },
+    {
+      "id": 8,
+      "start": 44,
+      "end": 56
+    },
+    {
+      "id": 9,
+      "start": 57,
+      "end": 59
+    },
+    {
+      "id": 10,
+      "start": 60,
+      "end": 67
+    },
+    {
+      "id": 11,
+      "start": 67,
+      "end": 68
+    },
+    {
+      "id": 12,
+      "start": 69,
+      "end": 78
+    },
+    {
+      "id": 13,
+      "start": 79,
+      "end": 80
+    },
+    {
+      "id": 14,
+      "start": 80,
+      "end": 83
+    },
+    {
+      "id": 15,
+      "start": 84,
+      "end": 90
+    },
+    {
+      "id": 16,
+      "start": 91,
+      "end": 94
+    },
+    {
+      "id": 17,
+      "start": 95,
+      "end": 102
+    },
+    {
+      "id": 18,
+      "start": 102,
+      "end": 103
+    },
+    {
+      "id": 19,
+      "start": 103,
+      "end": 104
+    },
+    {
+      "id": 20,
+      "start": 105,
+      "end": 107
+    },
+    {
+      "id": 21,
+      "start": 108,
+      "end": 111
+    },
+    {
+      "id": 22,
+      "start": 112,
+      "end": 116
+    },
+    {
+      "id": 23,
+      "start": 117,
+      "end": 122
+    },
+    {
+      "id": 24,
+      "start": 123,
+      "end": 125
+    },
+    {
+      "id": 25,
+      "start": 126,
+      "end": 129
+    },
+    {
+      "id": 26,
+      "start": 130,
+      "end": 133
+    },
+    {
+      "id": 27,
+      "start": 134,
+      "end": 142
+    },
+    {
+      "id": 28,
+      "start": 142,
+      "end": 154
+    },
+    {
+      "id": 29,
+      "start": 155,
+      "end": 160
+    },
+    {
+      "id": 30,
+      "start": 161,
+      "end": 163
+    },
+    {
+      "id": 31,
+      "start": 164,
+      "end": 167
+    },
+    {
+      "id": 32,
+      "start": 168,
+      "end": 174
+    },
+    {
+      "id": 33,
+      "start": 174,
+      "end": 187
+    },
+    {
+      "id": 34,
+      "start": 188,
+      "end": 191
+    },
+    {
+      "id": 35,
+      "start": 192,
+      "end": 197
+    },
+    {
+      "id": 36,
+      "start": 198,
+      "end": 199
+    },
+    {
+      "id": 37,
+      "start": 199,
+      "end": 208
+    },
+    {
+      "id": 38,
+      "start": 208,
+      "end": 209
+    },
+    {
+      "id": 39,
+      "start": 210,
+      "end": 217
+    },
+    {
+      "id": 40,
+      "start": 218,
+      "end": 221
+    },
+    {
+      "id": 41,
+      "start": 222,
+      "end": 228
+    },
+    {
+      "id": 42,
+      "start": 229,
+      "end": 236
+    },
+    {
+      "id": 43,
+      "start": 236,
+      "end": 249
+    },
+    {
+      "id": 44,
+      "start": 250,
+      "end": 256
+    },
+    {
+      "id": 45,
+      "start": 257,
+      "end": 260
+    },
+    {
+      "id": 46,
+      "start": 261,
+      "end": 267
+    },
+    {
+      "id": 47,
+      "start": 268,
+      "end": 271
+    },
+    {
+      "id": 48,
+      "start": 272,
+      "end": 278
+    },
+    {
+      "id": 49,
+      "start": 279,
+      "end": 281
+    },
+    {
+      "id": 50,
+      "start": 282,
+      "end": 286
+    },
+    {
+      "id": 51,
+      "start": 286,
+      "end": 299
+    },
+    {
+      "id": 52,
+      "start": 299,
+      "end": 300
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Battle of Britain",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "air campaign",
+      "dest": 1
+    }
+  ],
+  "classes": {
+    "air_campaign_1": {
+      "labels": [
+        "ACTIVITY"
+      ],
+      "class": "air campaign"
+    }
+  }
+}

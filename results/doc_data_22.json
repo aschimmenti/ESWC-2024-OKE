@@ -1,0 +1,703 @@
+{
+  "text": "The TT Circuit Assen is a motorsport race track built in 1955 and located in Assen, Netherlands. Host of the Dutch TT race, it is popularly referred to as \"The Cathedral\" of motorcycling by the fans of the sport. It has a capacity of 100,000 spectators, including 60,000 seats. Since 1992 it is also part of the Superbike World Championship calendar.",
+  "ents": [
+    {
+      "start": 4,
+      "end": 20,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 43,
+      "end": 64,
+      "label": "CLASS"
+    },
+    {
+      "start": 86,
+      "end": 90,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 123,
+      "end": 128,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 147,
+      "end": 158,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 189,
+      "end": 202,
+      "label": "CLASS"
+    },
+    {
+      "start": 247,
+      "end": 262,
+      "label": "CLASS"
+    },
+    {
+      "start": 278,
+      "end": 290,
+      "label": "CLASS"
+    },
+    {
+      "start": 310,
+      "end": 314,
+      "label": "CLASS"
+    },
+    {
+      "start": 334,
+      "end": 339,
+      "label": "CLASS"
+    },
+    {
+      "start": 362,
+      "end": 370,
+      "label": "CLASS"
+    },
+    {
+      "start": 387,
+      "end": 405,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 435,
+      "end": 447,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 501,
+      "end": 529,
+      "label": "CLASS"
+    },
+    {
+      "start": 543,
+      "end": 551,
+      "label": "CLASS"
+    },
+    {
+      "start_char": 4,
+      "end_char": 20,
+      "label": "INDIVIDUAL",
+      "text": "TT Circuit Assen"
+    },
+    {
+      "start_char": 43,
+      "end_char": 64,
+      "label": "CLASS",
+      "text": "motorsport race track",
+      "subClassOf": [
+        "ACTIVITY",
+        "LOCATION"
+      ]
+    },
+    {
+      "start_char": 86,
+      "end_char": 90,
+      "label": "INDIVIDUAL",
+      "text": "1955"
+    },
+    {
+      "start_char": 123,
+      "end_char": 128,
+      "label": "INDIVIDUAL",
+      "text": "Assen"
+    },
+    {
+      "start_char": 147,
+      "end_char": 158,
+      "label": "INDIVIDUAL",
+      "text": "Netherlands"
+    },
+    {
+      "start_char": 189,
+      "end_char": 202,
+      "label": "CLASS",
+      "text": "Dutch TT race",
+      "subClassOf": [
+        "ACTIVITY",
+        "EVENT"
+      ]
+    },
+    {
+      "start_char": 247,
+      "end_char": 262,
+      "label": "CLASS",
+      "text": "\"The Cathedral\"",
+      "subClassOf": [
+        "LOCATION",
+        "PHYSICAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 278,
+      "end_char": 290,
+      "label": "CLASS",
+      "text": "motorcycling",
+      "subClassOf": [
+        "ACTIVITY"
+      ]
+    },
+    {
+      "start_char": 310,
+      "end_char": 314,
+      "label": "CLASS",
+      "text": "fans",
+      "subClassOf": [
+        "PERSON",
+        "SOCIAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 334,
+      "end_char": 339,
+      "label": "CLASS",
+      "text": "sport",
+      "subClassOf": [
+        "ACTIVITY"
+      ]
+    },
+    {
+      "start_char": 362,
+      "end_char": 370,
+      "label": "CLASS",
+      "text": "capacity",
+      "subClassOf": [
+        "ABSTRACT",
+        "INFORMATION_ENTITY"
+      ]
+    },
+    {
+      "start_char": 387,
+      "end_char": 405,
+      "label": "INDIVIDUAL",
+      "text": "100,000 spectators"
+    },
+    {
+      "start_char": 435,
+      "end_char": 447,
+      "label": "INDIVIDUAL",
+      "text": "60,000 seats"
+    },
+    {
+      "start_char": 501,
+      "end_char": 529,
+      "label": "CLASS",
+      "text": "Superbike World Championship",
+      "subClassOf": [
+        "ACTIVITY",
+        "EVENT"
+      ]
+    },
+    {
+      "start_char": 543,
+      "end_char": 551,
+      "label": "CLASS",
+      "text": "calendar",
+      "subClassOf": [
+        "EVENT",
+        "INFORMATION_ENTITY"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 3
+    },
+    {
+      "id": 1,
+      "start": 4,
+      "end": 6
+    },
+    {
+      "id": 2,
+      "start": 7,
+      "end": 14
+    },
+    {
+      "id": 3,
+      "start": 15,
+      "end": 20
+    },
+    {
+      "id": 4,
+      "start": 20,
+      "end": 37
+    },
+    {
+      "id": 5,
+      "start": 38,
+      "end": 40
+    },
+    {
+      "id": 6,
+      "start": 41,
+      "end": 42
+    },
+    {
+      "id": 7,
+      "start": 43,
+      "end": 53
+    },
+    {
+      "id": 8,
+      "start": 54,
+      "end": 58
+    },
+    {
+      "id": 9,
+      "start": 59,
+      "end": 64
+    },
+    {
+      "id": 10,
+      "start": 64,
+      "end": 76
+    },
+    {
+      "id": 11,
+      "start": 77,
+      "end": 82
+    },
+    {
+      "id": 12,
+      "start": 83,
+      "end": 85
+    },
+    {
+      "id": 13,
+      "start": 86,
+      "end": 90
+    },
+    {
+      "id": 14,
+      "start": 90,
+      "end": 107
+    },
+    {
+      "id": 15,
+      "start": 108,
+      "end": 111
+    },
+    {
+      "id": 16,
+      "start": 112,
+      "end": 119
+    },
+    {
+      "id": 17,
+      "start": 120,
+      "end": 122
+    },
+    {
+      "id": 18,
+      "start": 123,
+      "end": 128
+    },
+    {
+      "id": 19,
+      "start": 128,
+      "end": 145
+    },
+    {
+      "id": 20,
+      "start": 145,
+      "end": 146
+    },
+    {
+      "id": 21,
+      "start": 147,
+      "end": 158
+    },
+    {
+      "id": 22,
+      "start": 158,
+      "end": 175
+    },
+    {
+      "id": 23,
+      "start": 175,
+      "end": 176
+    },
+    {
+      "id": 24,
+      "start": 177,
+      "end": 181
+    },
+    {
+      "id": 25,
+      "start": 182,
+      "end": 184
+    },
+    {
+      "id": 26,
+      "start": 185,
+      "end": 188
+    },
+    {
+      "id": 27,
+      "start": 189,
+      "end": 194
+    },
+    {
+      "id": 28,
+      "start": 195,
+      "end": 197
+    },
+    {
+      "id": 29,
+      "start": 198,
+      "end": 202
+    },
+    {
+      "id": 30,
+      "start": 202,
+      "end": 214
+    },
+    {
+      "id": 31,
+      "start": 214,
+      "end": 215
+    },
+    {
+      "id": 32,
+      "start": 216,
+      "end": 218
+    },
+    {
+      "id": 33,
+      "start": 219,
+      "end": 221
+    },
+    {
+      "id": 34,
+      "start": 222,
+      "end": 231
+    },
+    {
+      "id": 35,
+      "start": 232,
+      "end": 240
+    },
+    {
+      "id": 36,
+      "start": 241,
+      "end": 243
+    },
+    {
+      "id": 37,
+      "start": 244,
+      "end": 246
+    },
+    {
+      "id": 38,
+      "start": 247,
+      "end": 248
+    },
+    {
+      "id": 39,
+      "start": 248,
+      "end": 251
+    },
+    {
+      "id": 40,
+      "start": 252,
+      "end": 261
+    },
+    {
+      "id": 41,
+      "start": 261,
+      "end": 262
+    },
+    {
+      "id": 42,
+      "start": 262,
+      "end": 274
+    },
+    {
+      "id": 43,
+      "start": 275,
+      "end": 277
+    },
+    {
+      "id": 44,
+      "start": 278,
+      "end": 290
+    },
+    {
+      "id": 45,
+      "start": 290,
+      "end": 302
+    },
+    {
+      "id": 46,
+      "start": 303,
+      "end": 305
+    },
+    {
+      "id": 47,
+      "start": 306,
+      "end": 309
+    },
+    {
+      "id": 48,
+      "start": 310,
+      "end": 314
+    },
+    {
+      "id": 49,
+      "start": 314,
+      "end": 326
+    },
+    {
+      "id": 50,
+      "start": 327,
+      "end": 329
+    },
+    {
+      "id": 51,
+      "start": 330,
+      "end": 333
+    },
+    {
+      "id": 52,
+      "start": 334,
+      "end": 339
+    },
+    {
+      "id": 53,
+      "start": 339,
+      "end": 351
+    },
+    {
+      "id": 54,
+      "start": 351,
+      "end": 352
+    },
+    {
+      "id": 55,
+      "start": 353,
+      "end": 355
+    },
+    {
+      "id": 56,
+      "start": 356,
+      "end": 359
+    },
+    {
+      "id": 57,
+      "start": 360,
+      "end": 361
+    },
+    {
+      "id": 58,
+      "start": 362,
+      "end": 370
+    },
+    {
+      "id": 59,
+      "start": 370,
+      "end": 383
+    },
+    {
+      "id": 60,
+      "start": 384,
+      "end": 386
+    },
+    {
+      "id": 61,
+      "start": 387,
+      "end": 394
+    },
+    {
+      "id": 62,
+      "start": 395,
+      "end": 405
+    },
+    {
+      "id": 63,
+      "start": 405,
+      "end": 423
+    },
+    {
+      "id": 64,
+      "start": 423,
+      "end": 424
+    },
+    {
+      "id": 65,
+      "start": 425,
+      "end": 434
+    },
+    {
+      "id": 66,
+      "start": 435,
+      "end": 441
+    },
+    {
+      "id": 67,
+      "start": 442,
+      "end": 447
+    },
+    {
+      "id": 68,
+      "start": 447,
+      "end": 465
+    },
+    {
+      "id": 69,
+      "start": 465,
+      "end": 466
+    },
+    {
+      "id": 70,
+      "start": 467,
+      "end": 472
+    },
+    {
+      "id": 71,
+      "start": 473,
+      "end": 477
+    },
+    {
+      "id": 72,
+      "start": 478,
+      "end": 480
+    },
+    {
+      "id": 73,
+      "start": 481,
+      "end": 483
+    },
+    {
+      "id": 74,
+      "start": 484,
+      "end": 488
+    },
+    {
+      "id": 75,
+      "start": 489,
+      "end": 493
+    },
+    {
+      "id": 76,
+      "start": 494,
+      "end": 496
+    },
+    {
+      "id": 77,
+      "start": 497,
+      "end": 500
+    },
+    {
+      "id": 78,
+      "start": 501,
+      "end": 510
+    },
+    {
+      "id": 79,
+      "start": 511,
+      "end": 516
+    },
+    {
+      "id": 80,
+      "start": 517,
+      "end": 529
+    },
+    {
+      "id": 81,
+      "start": 529,
+      "end": 542
+    },
+    {
+      "id": 82,
+      "start": 543,
+      "end": 551
+    },
+    {
+      "id": 83,
+      "start": 551,
+      "end": 564
+    },
+    {
+      "id": 84,
+      "start": 564,
+      "end": 565
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "TT Circuit Assen",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "motorsport race track",
+      "dest": 1
+    }
+  ],
+  "classes": {
+    "motorsport_race_track_1": {
+      "labels": [
+        "ACTIVITY",
+        "LOCATION"
+      ],
+      "class": "motorsport race track"
+    },
+    "Dutch_TT_race_5": {
+      "labels": [
+        "ACTIVITY",
+        "EVENT"
+      ],
+      "class": "Dutch TT race"
+    },
+    "\"The_Cathedral\"_6": {
+      "labels": [
+        "LOCATION",
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "\"The Cathedral\""
+    },
+    "motorcycling_7": {
+      "labels": [
+        "ACTIVITY"
+      ],
+      "class": "motorcycling"
+    },
+    "fans_8": {
+      "labels": [
+        "PERSON",
+        "SOCIAL_OBJECT"
+      ],
+      "class": "fans"
+    },
+    "sport_9": {
+      "labels": [
+        "ACTIVITY"
+      ],
+      "class": "sport"
+    },
+    "capacity_10": {
+      "labels": [
+        "ABSTRACT",
+        "INFORMATION_ENTITY"
+      ],
+      "class": "capacity"
+    },
+    "Superbike_World_Championship_13": {
+      "labels": [
+        "ACTIVITY",
+        "EVENT"
+      ],
+      "class": "Superbike World Championship"
+    },
+    "calendar_14": {
+      "labels": [
+        "EVENT",
+        "INFORMATION_ENTITY"
+      ],
+      "class": "calendar"
+    }
+  }
+}

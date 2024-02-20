@@ -1,0 +1,585 @@
+{
+  "text": "Skalbmierz is a town in south eastern Poland, in Świętokrzyskie Voivodeship, in Kazimierza County. It has 1,326 inhabitants (2004). Skalbmierz has a long and rich history, the town belongs to the province of Lesser Poland. Skalbmierz received town charter in 1342, lost it in 1869, and regained in 1927.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 10,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 33,
+      "end": 37,
+      "label": "CLASS"
+    },
+    {
+      "start": 53,
+      "end": 73,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 95,
+      "end": 121,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 143,
+      "end": 160,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 205,
+      "end": 209,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 260,
+      "end": 267,
+      "label": "CLASS"
+    },
+    {
+      "start": 305,
+      "end": 313,
+      "label": "CLASS"
+    },
+    {
+      "start": 329,
+      "end": 342,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 381,
+      "end": 393,
+      "label": "CLASS"
+    },
+    {
+      "start": 409,
+      "end": 413,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 444,
+      "end": 448,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 484,
+      "end": 488,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start_char": 0,
+      "end_char": 10,
+      "label": "INDIVIDUAL",
+      "text": "Skalbmierz"
+    },
+    {
+      "start_char": 33,
+      "end_char": 37,
+      "label": "CLASS",
+      "text": "town",
+      "subClassOf": [
+        "LOCATION"
+      ]
+    },
+    {
+      "start_char": 53,
+      "end_char": 73,
+      "label": "INDIVIDUAL",
+      "text": "south eastern Poland"
+    },
+    {
+      "start_char": 95,
+      "end_char": 121,
+      "label": "INDIVIDUAL",
+      "text": "Świętokrzyskie Voivodeship"
+    },
+    {
+      "start_char": 143,
+      "end_char": 160,
+      "label": "INDIVIDUAL",
+      "text": "Kazimierza County"
+    },
+    {
+      "start_char": 205,
+      "end_char": 209,
+      "label": "INDIVIDUAL",
+      "text": "2004"
+    },
+    {
+      "start_char": 260,
+      "end_char": 267,
+      "label": "CLASS",
+      "text": "history",
+      "subClassOf": [
+        "TOPIC"
+      ]
+    },
+    {
+      "start_char": 305,
+      "end_char": 313,
+      "label": "CLASS",
+      "text": "province",
+      "subClassOf": [
+        "LOCATION"
+      ]
+    },
+    {
+      "start_char": 329,
+      "end_char": 342,
+      "label": "INDIVIDUAL",
+      "text": "Lesser Poland"
+    },
+    {
+      "start_char": 381,
+      "end_char": 393,
+      "label": "CLASS",
+      "text": "town charter",
+      "subClassOf": [
+        "INFORMATION_ENTITY",
+        "SOCIAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 409,
+      "end_char": 413,
+      "label": "INDIVIDUAL",
+      "text": "1342"
+    },
+    {
+      "start_char": 444,
+      "end_char": 448,
+      "label": "INDIVIDUAL",
+      "text": "1869"
+    },
+    {
+      "start_char": 484,
+      "end_char": 488,
+      "label": "INDIVIDUAL",
+      "text": "1927"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 10
+    },
+    {
+      "id": 1,
+      "start": 10,
+      "end": 27
+    },
+    {
+      "id": 2,
+      "start": 28,
+      "end": 30
+    },
+    {
+      "id": 3,
+      "start": 31,
+      "end": 32
+    },
+    {
+      "id": 4,
+      "start": 33,
+      "end": 37
+    },
+    {
+      "id": 5,
+      "start": 37,
+      "end": 49
+    },
+    {
+      "id": 6,
+      "start": 50,
+      "end": 52
+    },
+    {
+      "id": 7,
+      "start": 53,
+      "end": 58
+    },
+    {
+      "id": 8,
+      "start": 59,
+      "end": 66
+    },
+    {
+      "id": 9,
+      "start": 67,
+      "end": 73
+    },
+    {
+      "id": 10,
+      "start": 73,
+      "end": 90
+    },
+    {
+      "id": 11,
+      "start": 90,
+      "end": 91
+    },
+    {
+      "id": 12,
+      "start": 92,
+      "end": 94
+    },
+    {
+      "id": 13,
+      "start": 95,
+      "end": 109
+    },
+    {
+      "id": 14,
+      "start": 110,
+      "end": 121
+    },
+    {
+      "id": 15,
+      "start": 121,
+      "end": 138
+    },
+    {
+      "id": 16,
+      "start": 138,
+      "end": 139
+    },
+    {
+      "id": 17,
+      "start": 140,
+      "end": 142
+    },
+    {
+      "id": 18,
+      "start": 143,
+      "end": 153
+    },
+    {
+      "id": 19,
+      "start": 154,
+      "end": 160
+    },
+    {
+      "id": 20,
+      "start": 160,
+      "end": 177
+    },
+    {
+      "id": 21,
+      "start": 177,
+      "end": 178
+    },
+    {
+      "id": 22,
+      "start": 179,
+      "end": 181
+    },
+    {
+      "id": 23,
+      "start": 182,
+      "end": 185
+    },
+    {
+      "id": 24,
+      "start": 186,
+      "end": 191
+    },
+    {
+      "id": 25,
+      "start": 192,
+      "end": 203
+    },
+    {
+      "id": 26,
+      "start": 204,
+      "end": 205
+    },
+    {
+      "id": 27,
+      "start": 205,
+      "end": 209
+    },
+    {
+      "id": 28,
+      "start": 209,
+      "end": 226
+    },
+    {
+      "id": 29,
+      "start": 226,
+      "end": 227
+    },
+    {
+      "id": 30,
+      "start": 227,
+      "end": 228
+    },
+    {
+      "id": 31,
+      "start": 229,
+      "end": 239
+    },
+    {
+      "id": 32,
+      "start": 240,
+      "end": 243
+    },
+    {
+      "id": 33,
+      "start": 244,
+      "end": 245
+    },
+    {
+      "id": 34,
+      "start": 246,
+      "end": 250
+    },
+    {
+      "id": 35,
+      "start": 251,
+      "end": 254
+    },
+    {
+      "id": 36,
+      "start": 255,
+      "end": 259
+    },
+    {
+      "id": 37,
+      "start": 260,
+      "end": 267
+    },
+    {
+      "id": 38,
+      "start": 267,
+      "end": 279
+    },
+    {
+      "id": 39,
+      "start": 279,
+      "end": 280
+    },
+    {
+      "id": 40,
+      "start": 281,
+      "end": 284
+    },
+    {
+      "id": 41,
+      "start": 285,
+      "end": 289
+    },
+    {
+      "id": 42,
+      "start": 290,
+      "end": 297
+    },
+    {
+      "id": 43,
+      "start": 298,
+      "end": 300
+    },
+    {
+      "id": 44,
+      "start": 301,
+      "end": 304
+    },
+    {
+      "id": 45,
+      "start": 305,
+      "end": 313
+    },
+    {
+      "id": 46,
+      "start": 313,
+      "end": 325
+    },
+    {
+      "id": 47,
+      "start": 326,
+      "end": 328
+    },
+    {
+      "id": 48,
+      "start": 329,
+      "end": 335
+    },
+    {
+      "id": 49,
+      "start": 336,
+      "end": 342
+    },
+    {
+      "id": 50,
+      "start": 342,
+      "end": 359
+    },
+    {
+      "id": 51,
+      "start": 359,
+      "end": 360
+    },
+    {
+      "id": 52,
+      "start": 361,
+      "end": 371
+    },
+    {
+      "id": 53,
+      "start": 372,
+      "end": 380
+    },
+    {
+      "id": 54,
+      "start": 381,
+      "end": 385
+    },
+    {
+      "id": 55,
+      "start": 386,
+      "end": 393
+    },
+    {
+      "id": 56,
+      "start": 393,
+      "end": 405
+    },
+    {
+      "id": 57,
+      "start": 406,
+      "end": 408
+    },
+    {
+      "id": 58,
+      "start": 409,
+      "end": 413
+    },
+    {
+      "id": 59,
+      "start": 413,
+      "end": 431
+    },
+    {
+      "id": 60,
+      "start": 431,
+      "end": 432
+    },
+    {
+      "id": 61,
+      "start": 433,
+      "end": 437
+    },
+    {
+      "id": 62,
+      "start": 438,
+      "end": 440
+    },
+    {
+      "id": 63,
+      "start": 441,
+      "end": 443
+    },
+    {
+      "id": 64,
+      "start": 444,
+      "end": 448
+    },
+    {
+      "id": 65,
+      "start": 448,
+      "end": 466
+    },
+    {
+      "id": 66,
+      "start": 466,
+      "end": 467
+    },
+    {
+      "id": 67,
+      "start": 468,
+      "end": 471
+    },
+    {
+      "id": 68,
+      "start": 472,
+      "end": 480
+    },
+    {
+      "id": 69,
+      "start": 481,
+      "end": 483
+    },
+    {
+      "id": 70,
+      "start": 484,
+      "end": 488
+    },
+    {
+      "id": 71,
+      "start": 488,
+      "end": 506
+    },
+    {
+      "id": 72,
+      "start": 506,
+      "end": 507
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Skalbmierz",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "town",
+      "dest": 1
+    },
+    {
+      "dep_text": "Skalbmierz",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "history",
+      "dest": 6
+    },
+    {
+      "dep_text": "Skalbmierz",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "province",
+      "dest": 7
+    },
+    {
+      "dep_text": "Skalbmierz",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "town charter",
+      "dest": 9
+    }
+  ],
+  "classes": {
+    "town_1": {
+      "labels": [
+        "LOCATION"
+      ],
+      "class": "town"
+    },
+    "history_6": {
+      "labels": [
+        "TOPIC"
+      ],
+      "class": "history"
+    },
+    "province_7": {
+      "labels": [
+        "LOCATION"
+      ],
+      "class": "province"
+    },
+    "town_charter_9": {
+      "labels": [
+        "INFORMATION_ENTITY",
+        "SOCIAL_OBJECT"
+      ],
+      "class": "town charter"
+    }
+  }
+}

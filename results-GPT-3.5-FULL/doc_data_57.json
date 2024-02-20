@@ -1,0 +1,459 @@
+{
+  "text": "Laika was a Soviet space dog who became one of the first animals in space, and the first animal to orbit the Earth. Laika, a stray dog from the streets of Moscow, was selected to be the occupant of the Soviet spacecraft Sputnik 2 that was launched into outer space on November 3, 1957.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 5,
+      "label": "ENTITY"
+    },
+    {
+      "start": 25,
+      "end": 41,
+      "label": "CLASS"
+    },
+    {
+      "start": 134,
+      "end": 139,
+      "label": "ENTITY"
+    },
+    {
+      "start": 163,
+      "end": 172,
+      "label": "CLASS"
+    },
+    {
+      "start": 205,
+      "end": 211,
+      "label": "ENTITY"
+    },
+    {
+      "start": 265,
+      "end": 292,
+      "label": "ENTITY"
+    },
+    {
+      "start": 344,
+      "end": 360,
+      "label": "ENTITY"
+    },
+    {
+      "start_char": 0,
+      "end_char": 5,
+      "label": "ENTITY",
+      "text": "Laika"
+    },
+    {
+      "start_char": 25,
+      "end_char": 41,
+      "label": "CLASS",
+      "text": "Soviet space dog",
+      "subClassOf": [
+        "ORGANISM",
+        "PERSON"
+      ]
+    },
+    {
+      "start_char": 134,
+      "end_char": 139,
+      "label": "ENTITY",
+      "text": "Earth"
+    },
+    {
+      "start_char": 163,
+      "end_char": 172,
+      "label": "CLASS",
+      "text": "stray dog",
+      "subClassOf": [
+        "ORGANISM",
+        "PERSON"
+      ]
+    },
+    {
+      "start_char": 205,
+      "end_char": 211,
+      "label": "ENTITY",
+      "text": "Moscow"
+    },
+    {
+      "start_char": 265,
+      "end_char": 292,
+      "label": "ENTITY",
+      "text": "Soviet spacecraft Sputnik 2"
+    },
+    {
+      "start_char": 344,
+      "end_char": 360,
+      "label": "ENTITY",
+      "text": "November 3, 1957"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 5
+    },
+    {
+      "id": 1,
+      "start": 5,
+      "end": 18
+    },
+    {
+      "id": 2,
+      "start": 19,
+      "end": 22
+    },
+    {
+      "id": 3,
+      "start": 23,
+      "end": 24
+    },
+    {
+      "id": 4,
+      "start": 25,
+      "end": 31
+    },
+    {
+      "id": 5,
+      "start": 32,
+      "end": 37
+    },
+    {
+      "id": 6,
+      "start": 38,
+      "end": 41
+    },
+    {
+      "id": 7,
+      "start": 41,
+      "end": 53
+    },
+    {
+      "id": 8,
+      "start": 54,
+      "end": 57
+    },
+    {
+      "id": 9,
+      "start": 58,
+      "end": 64
+    },
+    {
+      "id": 10,
+      "start": 65,
+      "end": 68
+    },
+    {
+      "id": 11,
+      "start": 69,
+      "end": 71
+    },
+    {
+      "id": 12,
+      "start": 72,
+      "end": 75
+    },
+    {
+      "id": 13,
+      "start": 76,
+      "end": 81
+    },
+    {
+      "id": 14,
+      "start": 82,
+      "end": 89
+    },
+    {
+      "id": 15,
+      "start": 90,
+      "end": 92
+    },
+    {
+      "id": 16,
+      "start": 93,
+      "end": 98
+    },
+    {
+      "id": 17,
+      "start": 98,
+      "end": 99
+    },
+    {
+      "id": 18,
+      "start": 100,
+      "end": 103
+    },
+    {
+      "id": 19,
+      "start": 104,
+      "end": 107
+    },
+    {
+      "id": 20,
+      "start": 108,
+      "end": 113
+    },
+    {
+      "id": 21,
+      "start": 114,
+      "end": 120
+    },
+    {
+      "id": 22,
+      "start": 121,
+      "end": 123
+    },
+    {
+      "id": 23,
+      "start": 124,
+      "end": 129
+    },
+    {
+      "id": 24,
+      "start": 130,
+      "end": 133
+    },
+    {
+      "id": 25,
+      "start": 134,
+      "end": 139
+    },
+    {
+      "id": 26,
+      "start": 139,
+      "end": 152
+    },
+    {
+      "id": 27,
+      "start": 152,
+      "end": 153
+    },
+    {
+      "id": 28,
+      "start": 154,
+      "end": 159
+    },
+    {
+      "id": 29,
+      "start": 159,
+      "end": 160
+    },
+    {
+      "id": 30,
+      "start": 161,
+      "end": 162
+    },
+    {
+      "id": 31,
+      "start": 163,
+      "end": 168
+    },
+    {
+      "id": 32,
+      "start": 169,
+      "end": 172
+    },
+    {
+      "id": 33,
+      "start": 172,
+      "end": 184
+    },
+    {
+      "id": 34,
+      "start": 185,
+      "end": 189
+    },
+    {
+      "id": 35,
+      "start": 190,
+      "end": 193
+    },
+    {
+      "id": 36,
+      "start": 194,
+      "end": 201
+    },
+    {
+      "id": 37,
+      "start": 202,
+      "end": 204
+    },
+    {
+      "id": 38,
+      "start": 205,
+      "end": 211
+    },
+    {
+      "id": 39,
+      "start": 211,
+      "end": 224
+    },
+    {
+      "id": 40,
+      "start": 224,
+      "end": 225
+    },
+    {
+      "id": 41,
+      "start": 226,
+      "end": 229
+    },
+    {
+      "id": 42,
+      "start": 230,
+      "end": 238
+    },
+    {
+      "id": 43,
+      "start": 239,
+      "end": 241
+    },
+    {
+      "id": 44,
+      "start": 242,
+      "end": 244
+    },
+    {
+      "id": 45,
+      "start": 245,
+      "end": 248
+    },
+    {
+      "id": 46,
+      "start": 249,
+      "end": 257
+    },
+    {
+      "id": 47,
+      "start": 258,
+      "end": 260
+    },
+    {
+      "id": 48,
+      "start": 261,
+      "end": 264
+    },
+    {
+      "id": 49,
+      "start": 265,
+      "end": 271
+    },
+    {
+      "id": 50,
+      "start": 272,
+      "end": 282
+    },
+    {
+      "id": 51,
+      "start": 283,
+      "end": 290
+    },
+    {
+      "id": 52,
+      "start": 291,
+      "end": 292
+    },
+    {
+      "id": 53,
+      "start": 292,
+      "end": 305
+    },
+    {
+      "id": 54,
+      "start": 306,
+      "end": 310
+    },
+    {
+      "id": 55,
+      "start": 311,
+      "end": 314
+    },
+    {
+      "id": 56,
+      "start": 315,
+      "end": 323
+    },
+    {
+      "id": 57,
+      "start": 324,
+      "end": 328
+    },
+    {
+      "id": 58,
+      "start": 329,
+      "end": 334
+    },
+    {
+      "id": 59,
+      "start": 335,
+      "end": 340
+    },
+    {
+      "id": 60,
+      "start": 341,
+      "end": 343
+    },
+    {
+      "id": 61,
+      "start": 344,
+      "end": 352
+    },
+    {
+      "id": 62,
+      "start": 353,
+      "end": 354
+    },
+    {
+      "id": 63,
+      "start": 354,
+      "end": 355
+    },
+    {
+      "id": 64,
+      "start": 356,
+      "end": 360
+    },
+    {
+      "id": 65,
+      "start": 360,
+      "end": 373
+    },
+    {
+      "id": 66,
+      "start": 373,
+      "end": 374
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Laika",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "Soviet space dog",
+      "dest": 1
+    },
+    {
+      "dep_text": "Laika",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "stray dog",
+      "dest": 3
+    }
+  ],
+  "classes": {
+    "Soviet_space_dog_1": {
+      "labels": [
+        "ORGANISM",
+        "PERSON"
+      ],
+      "class": "Soviet space dog"
+    },
+    "stray_dog_3": {
+      "labels": [
+        "ORGANISM",
+        "PERSON"
+      ],
+      "class": "stray dog"
+    }
+  }
+}

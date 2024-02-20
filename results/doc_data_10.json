@@ -1,0 +1,251 @@
+{
+  "text": "The Teatro Massimo Vittorio Emanuele is an opera house and opera company located on the Piazza Verdi in Palermo, Sicily.",
+  "ents": [
+    {
+      "start": 4,
+      "end": 36,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 60,
+      "end": 71,
+      "label": "CLASS"
+    },
+    {
+      "start": 88,
+      "end": 101,
+      "label": "CLASS"
+    },
+    {
+      "start": 129,
+      "end": 141,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 162,
+      "end": 169,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 188,
+      "end": 194,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start_char": 4,
+      "end_char": 36,
+      "label": "INDIVIDUAL",
+      "text": "Teatro Massimo Vittorio Emanuele"
+    },
+    {
+      "start_char": 60,
+      "end_char": 71,
+      "label": "CLASS",
+      "text": "opera house",
+      "subClassOf": [
+        "LOCATION",
+        "ORGANISATION"
+      ]
+    },
+    {
+      "start_char": 88,
+      "end_char": 101,
+      "label": "CLASS",
+      "text": "opera company",
+      "subClassOf": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "start_char": 129,
+      "end_char": 141,
+      "label": "INDIVIDUAL",
+      "text": "Piazza Verdi"
+    },
+    {
+      "start_char": 162,
+      "end_char": 169,
+      "label": "INDIVIDUAL",
+      "text": "Palermo"
+    },
+    {
+      "start_char": 188,
+      "end_char": 194,
+      "label": "INDIVIDUAL",
+      "text": "Sicily"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 3
+    },
+    {
+      "id": 1,
+      "start": 4,
+      "end": 10
+    },
+    {
+      "id": 2,
+      "start": 11,
+      "end": 18
+    },
+    {
+      "id": 3,
+      "start": 19,
+      "end": 27
+    },
+    {
+      "id": 4,
+      "start": 28,
+      "end": 36
+    },
+    {
+      "id": 5,
+      "start": 36,
+      "end": 53
+    },
+    {
+      "id": 6,
+      "start": 54,
+      "end": 56
+    },
+    {
+      "id": 7,
+      "start": 57,
+      "end": 59
+    },
+    {
+      "id": 8,
+      "start": 60,
+      "end": 65
+    },
+    {
+      "id": 9,
+      "start": 66,
+      "end": 71
+    },
+    {
+      "id": 10,
+      "start": 71,
+      "end": 83
+    },
+    {
+      "id": 11,
+      "start": 84,
+      "end": 87
+    },
+    {
+      "id": 12,
+      "start": 88,
+      "end": 93
+    },
+    {
+      "id": 13,
+      "start": 94,
+      "end": 101
+    },
+    {
+      "id": 14,
+      "start": 101,
+      "end": 113
+    },
+    {
+      "id": 15,
+      "start": 114,
+      "end": 121
+    },
+    {
+      "id": 16,
+      "start": 122,
+      "end": 124
+    },
+    {
+      "id": 17,
+      "start": 125,
+      "end": 128
+    },
+    {
+      "id": 18,
+      "start": 129,
+      "end": 135
+    },
+    {
+      "id": 19,
+      "start": 136,
+      "end": 141
+    },
+    {
+      "id": 20,
+      "start": 141,
+      "end": 158
+    },
+    {
+      "id": 21,
+      "start": 159,
+      "end": 161
+    },
+    {
+      "id": 22,
+      "start": 162,
+      "end": 169
+    },
+    {
+      "id": 23,
+      "start": 169,
+      "end": 186
+    },
+    {
+      "id": 24,
+      "start": 186,
+      "end": 187
+    },
+    {
+      "id": 25,
+      "start": 188,
+      "end": 194
+    },
+    {
+      "id": 26,
+      "start": 194,
+      "end": 211
+    },
+    {
+      "id": 27,
+      "start": 211,
+      "end": 212
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Teatro Massimo Vittorio Emanuele",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "opera house",
+      "dest": 1
+    },
+    {
+      "dep_text": "Teatro Massimo Vittorio Emanuele",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "opera company",
+      "dest": 2
+    }
+  ],
+  "classes": {
+    "opera_house_1": {
+      "labels": [
+        "LOCATION",
+        "ORGANISATION"
+      ],
+      "class": "opera house"
+    },
+    "opera_company_2": {
+      "labels": [
+        "ORGANISATION"
+      ],
+      "class": "opera company"
+    }
+  }
+}

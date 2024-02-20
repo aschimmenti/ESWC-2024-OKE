@@ -1,0 +1,246 @@
+[
+  {
+    "text": "Guido Gustavo Gozzano (19 December 1883 – 9 August 1916) was an Italian poet and writer. He was born in Turin, the son of Fausto Gozzano, an engineer,[1] and of Diodata Mautino",
+    "spans": [
+      {
+        "text": "Guido Gustavo Gozzano",
+        "is_entity": true,
+        "label": "PERSON",
+        "reason": "A person mentioned"
+      },
+      {
+        "text": "19 December 1883",
+        "is_entity": true,
+        "label": "TIME_INTERVAL",
+        "reason": "the point in time (in this context of birth)"
+      },
+      {
+        "text": "9 August 1916",
+        "is_entity": true,
+        "label": "TIME_INTERVAL",
+        "reason": "the point in time (in this context of death)"
+      },
+      {
+        "text": "poet",
+        "is_entity": true,
+        "label": "ROLE",
+        "reason": "in this context, the role or occupation the person had in his life"
+      },
+      {
+        "text": "writer",
+        "is_entity": true,
+        "label": "ROLE",
+        "reason": "in this context, the role or occupation the person had in his life"
+      },
+      {
+        "text": "Fausto Gozzano",
+        "is_entity": true,
+        "label": "PERSON",
+        "reason": "A person mentioned"
+      },
+      {
+        "text": "engineer",
+        "is_entity": true,
+        "label": "ROLE",
+        "reason": "in this context, the role or occupation the person had in his life"
+      },
+      {
+        "text": "Diodata Mautino",
+        "is_entity": true,
+        "label": "PERSON",
+        "reason": "A person mentioned"
+      }
+    ]
+  },
+  {
+    "text": "The British Museum is a public museum dedicated to human history, art and culture located in the Bloomsbury area of London.",
+    "spans": [
+      {
+        "text": "British Museum",
+        "is_entity": true,
+        "label": "LOCATION",
+        "reason": "A location, being a museum"
+      },
+      {
+        "text": "human history",
+        "is_entity": true,
+        "label": "TOPIC",
+        "reason": "in this context, refered as a topic the museum is dedicated"
+      },
+      {
+        "text": "art",
+        "is_entity": true,
+        "label": "TOPIC",
+        "reason": "in this context, refered as a topic the museum is dedicated"
+      },
+      {
+        "text": "culture",
+        "is_entity": true,
+        "label": "TOPIC",
+        "reason": "in this context, refered as a topic the museum is dedicated"
+      },
+      {
+        "text": "Bloomsbury",
+        "is_entity": true,
+        "label": "LOCATION",
+        "reason": "in this context, a location in which the museum is"
+      },
+      {
+        "text": "London",
+        "is_entity": true,
+        "label": "LOCATION",
+        "reason": "in this context, a location in which the other mentioned location exists"
+      }
+    ]
+  },
+  {
+    "text": "The Dialogue Concerning the Two Chief World Systems is a 1632 Italian-language book by Galileo Galilei comparing the Copernican system with the traditional Ptolemaic system.",
+    "spans": [
+      {
+        "text": "Dialogue Concerning the Two Chief World Systems",
+        "is_entity": true,
+        "label": "INFORMATION_ENTITY",
+        "reason": "title of an information entity (as a book)"
+      },
+      {
+        "text": "1632",
+        "is_entity": true,
+        "label": "TIME_INTERVAL",
+        "reason": "the date mentioned in the text"
+      },
+      {
+        "text": "Galileo Galilei",
+        "is_entity": true,
+        "label": "PERSON",
+        "reason": "A person mentioned"
+      },
+      {
+        "text": "Italian language",
+        "is_entity": true,
+        "label": "SOCIAL_OBJECT",
+        "reason": "in this context, it's a type of communication"
+      },
+      {
+        "text": "Copernican system",
+        "is_entity": true,
+        "label": "SOCIAL_OBJECT",
+        "reason": "a theory that is valid for humans"
+      },
+      {
+        "text": "Ptolemaic system",
+        "is_entity": true,
+        "label": "SOCIAL_OBJECT",
+        "reason": "a debated object, so something which is socially discussed"
+      }
+    ]
+  },
+  {
+    "text": "Uranium is a chemical element; it has symbol U and atomic number 92.",
+    "spans": [
+      {
+        "text": "Uranium",
+        "is_entity": true,
+        "label": "PHYSICAL_OBJECT",
+        "reason": "a chemical element"
+      }
+    ]
+  },
+  {
+    "text": "The University of Bologna is a public research university in Bologna, Italy, founded in 1088. ",
+    "spans": [
+      {
+        "text": "University of Bologna",
+        "is_entity": true,
+        "label": "ORGANISATION",
+        "reason": "An organisation, being a public research university"
+      },
+      {
+        "text": "Bologna",
+        "is_entity": true,
+        "label": "LOCATION",
+        "reason": "a city mentioned"
+      },
+      {
+        "text": "Italy",
+        "is_entity": true,
+        "label": "LOCATION",
+        "reason": "a nation in which the mentioned city is found"
+      },
+      {
+        "text": "1088",
+        "is_entity": true,
+        "label": "TIME_INTERVAL",
+        "reason": "the time point in which the foundation is considered to have happened"
+      }
+    ]
+  },
+  {
+    "text": "The University of Bologna is a public research university in Bologna, Italy, founded in 1088. ",
+    "spans": [
+      {
+        "text": "University of Bologna",
+        "is_entity": true,
+        "label": "ORGANISATION",
+        "reason": "An organisation, being a public research university"
+      },
+      {
+        "text": "Bologna",
+        "is_entity": true,
+        "label": "LOCATION",
+        "reason": "a city mentioned"
+      },
+      {
+        "text": "Italy",
+        "is_entity": true,
+        "label": "LOCATION",
+        "reason": "a nation in which the mentioned city is found"
+      },
+      {
+        "text": "1088",
+        "is_entity": true,
+        "label": "TIME_INTERVAL",
+        "reason": "the time point in which the foundation is considered to have happened"
+      }
+    ]
+  },
+  {
+    "text": "The World Chess Championship 1984 was a match between challenger Garry Kasparov and defending champion Anatoly Karpov for the World Chess Championship title.",
+    "spans": [
+      {
+        "text": "World Chess Championship 1984",
+        "is_entity": true,
+        "label": "ACTIVITY",
+        "reason": "An activity in which people participate competing"
+      },
+      {
+        "text": "Garry Kasparov",
+        "is_entity": true,
+        "label": "PERSON",
+        "reason": "A person mentioned"
+      },
+      {
+        "text": "Anatoly Karpov",
+        "is_entity": true,
+        "label": "PERSON",
+        "reason": "Another mentioned person"
+      },
+      {
+        "text": "defending champion",
+        "is_entity": false,
+        "label": "ROLE",
+        "reason": "the role is a contextual one which is not relevant"
+      },{
+        "text": "challenger",
+        "is_entity": false,
+        "label": "ROLE",
+        "reason": "the role is a contextual one in the match which is not relevant"
+      },
+      {
+        "text": "World Chess Championship",
+        "is_entity": true,
+        "label": "ROLE",
+        "reason": "the role the two people were competing for"
+      }
+    ]
+  }
+]

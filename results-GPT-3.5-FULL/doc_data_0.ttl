@@ -1,0 +1,15 @@
+@prefix dul: <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+@prefix oke: <http://example.org/oke#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+oke:Gian_Antonio_Stella a oke:journalist ;
+    rdfs:label "Gian Antonio Stella" .
+
+oke:Sergio_Rizzo a oke:journalist ;
+    rdfs:label "Sergio Rizzo" .
+
+dul:Person rdfs:label "Person" .
+
+oke:journalist rdfs:label "journalist" ;
+    rdfs:subClassOf dul:Person .
+

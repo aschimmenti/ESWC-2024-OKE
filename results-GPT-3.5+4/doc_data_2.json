@@ -1,0 +1,551 @@
+{
+  "text": "Year 412 BC was a year of the pre-Julian Roman calendar. At the time, it was known as the Year of the Consulship of Ambustus and Pacilus (or, less frequently, year 342 Ab urbe condita). The denomination 412 BC for this year has been used since the early medieval period, when the Anno Domini calendar era became the prevalent method in Europe for naming years.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 11,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 47,
+      "end": 72,
+      "label": "CLASS"
+    },
+    {
+      "start": 119,
+      "end": 165,
+      "label": "CLASS"
+    },
+    {
+      "start": 200,
+      "end": 224,
+      "label": "CLASS"
+    },
+    {
+      "start": 333,
+      "end": 357,
+      "label": "CLASS"
+    },
+    {
+      "start": 401,
+      "end": 407,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start_char": 0,
+      "end_char": 11,
+      "label": "INDIVIDUAL",
+      "text": "Year 412 BC"
+    },
+    {
+      "start_char": 47,
+      "end_char": 72,
+      "label": "CLASS",
+      "text": "pre-Julian Roman calendar",
+      "subClassOf": [
+        "TIME_INTERVAL"
+      ]
+    },
+    {
+      "start_char": 119,
+      "end_char": 165,
+      "label": "CLASS",
+      "text": "Year of the Consulship of Ambustus and Pacilus",
+      "subClassOf": [
+        "TIME_INTERVAL"
+      ]
+    },
+    {
+      "start_char": 200,
+      "end_char": 224,
+      "label": "CLASS",
+      "text": "year 342 Ab urbe condita",
+      "subClassOf": [
+        "TIME_INTERVAL"
+      ]
+    },
+    {
+      "start_char": 333,
+      "end_char": 357,
+      "label": "CLASS",
+      "text": "Anno Domini calendar era",
+      "subClassOf": [
+        "TIME_INTERVAL"
+      ]
+    },
+    {
+      "start_char": 401,
+      "end_char": 407,
+      "label": "INDIVIDUAL",
+      "text": "Europe"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 4
+    },
+    {
+      "id": 1,
+      "start": 5,
+      "end": 8
+    },
+    {
+      "id": 2,
+      "start": 9,
+      "end": 11
+    },
+    {
+      "id": 3,
+      "start": 11,
+      "end": 28
+    },
+    {
+      "id": 4,
+      "start": 29,
+      "end": 32
+    },
+    {
+      "id": 5,
+      "start": 33,
+      "end": 34
+    },
+    {
+      "id": 6,
+      "start": 35,
+      "end": 39
+    },
+    {
+      "id": 7,
+      "start": 40,
+      "end": 42
+    },
+    {
+      "id": 8,
+      "start": 43,
+      "end": 46
+    },
+    {
+      "id": 9,
+      "start": 47,
+      "end": 50
+    },
+    {
+      "id": 10,
+      "start": 50,
+      "end": 51
+    },
+    {
+      "id": 11,
+      "start": 51,
+      "end": 57
+    },
+    {
+      "id": 12,
+      "start": 58,
+      "end": 63
+    },
+    {
+      "id": 13,
+      "start": 64,
+      "end": 72
+    },
+    {
+      "id": 14,
+      "start": 72,
+      "end": 84
+    },
+    {
+      "id": 15,
+      "start": 84,
+      "end": 85
+    },
+    {
+      "id": 16,
+      "start": 86,
+      "end": 88
+    },
+    {
+      "id": 17,
+      "start": 89,
+      "end": 92
+    },
+    {
+      "id": 18,
+      "start": 93,
+      "end": 97
+    },
+    {
+      "id": 19,
+      "start": 97,
+      "end": 98
+    },
+    {
+      "id": 20,
+      "start": 99,
+      "end": 101
+    },
+    {
+      "id": 21,
+      "start": 102,
+      "end": 105
+    },
+    {
+      "id": 22,
+      "start": 106,
+      "end": 111
+    },
+    {
+      "id": 23,
+      "start": 112,
+      "end": 114
+    },
+    {
+      "id": 24,
+      "start": 115,
+      "end": 118
+    },
+    {
+      "id": 25,
+      "start": 119,
+      "end": 123
+    },
+    {
+      "id": 26,
+      "start": 124,
+      "end": 126
+    },
+    {
+      "id": 27,
+      "start": 127,
+      "end": 130
+    },
+    {
+      "id": 28,
+      "start": 131,
+      "end": 141
+    },
+    {
+      "id": 29,
+      "start": 142,
+      "end": 144
+    },
+    {
+      "id": 30,
+      "start": 145,
+      "end": 153
+    },
+    {
+      "id": 31,
+      "start": 154,
+      "end": 157
+    },
+    {
+      "id": 32,
+      "start": 158,
+      "end": 165
+    },
+    {
+      "id": 33,
+      "start": 165,
+      "end": 177
+    },
+    {
+      "id": 34,
+      "start": 178,
+      "end": 179
+    },
+    {
+      "id": 35,
+      "start": 179,
+      "end": 181
+    },
+    {
+      "id": 36,
+      "start": 181,
+      "end": 182
+    },
+    {
+      "id": 37,
+      "start": 183,
+      "end": 187
+    },
+    {
+      "id": 38,
+      "start": 188,
+      "end": 198
+    },
+    {
+      "id": 39,
+      "start": 198,
+      "end": 199
+    },
+    {
+      "id": 40,
+      "start": 200,
+      "end": 204
+    },
+    {
+      "id": 41,
+      "start": 205,
+      "end": 208
+    },
+    {
+      "id": 42,
+      "start": 209,
+      "end": 211
+    },
+    {
+      "id": 43,
+      "start": 212,
+      "end": 216
+    },
+    {
+      "id": 44,
+      "start": 217,
+      "end": 224
+    },
+    {
+      "id": 45,
+      "start": 224,
+      "end": 236
+    },
+    {
+      "id": 46,
+      "start": 236,
+      "end": 237
+    },
+    {
+      "id": 47,
+      "start": 237,
+      "end": 238
+    },
+    {
+      "id": 48,
+      "start": 239,
+      "end": 242
+    },
+    {
+      "id": 49,
+      "start": 243,
+      "end": 255
+    },
+    {
+      "id": 50,
+      "start": 256,
+      "end": 259
+    },
+    {
+      "id": 51,
+      "start": 260,
+      "end": 262
+    },
+    {
+      "id": 52,
+      "start": 263,
+      "end": 266
+    },
+    {
+      "id": 53,
+      "start": 267,
+      "end": 271
+    },
+    {
+      "id": 54,
+      "start": 272,
+      "end": 276
+    },
+    {
+      "id": 55,
+      "start": 277,
+      "end": 280
+    },
+    {
+      "id": 56,
+      "start": 281,
+      "end": 285
+    },
+    {
+      "id": 57,
+      "start": 286,
+      "end": 290
+    },
+    {
+      "id": 58,
+      "start": 291,
+      "end": 296
+    },
+    {
+      "id": 59,
+      "start": 297,
+      "end": 300
+    },
+    {
+      "id": 60,
+      "start": 301,
+      "end": 306
+    },
+    {
+      "id": 61,
+      "start": 307,
+      "end": 315
+    },
+    {
+      "id": 62,
+      "start": 316,
+      "end": 322
+    },
+    {
+      "id": 63,
+      "start": 322,
+      "end": 323
+    },
+    {
+      "id": 64,
+      "start": 324,
+      "end": 328
+    },
+    {
+      "id": 65,
+      "start": 329,
+      "end": 332
+    },
+    {
+      "id": 66,
+      "start": 333,
+      "end": 337
+    },
+    {
+      "id": 67,
+      "start": 338,
+      "end": 344
+    },
+    {
+      "id": 68,
+      "start": 345,
+      "end": 353
+    },
+    {
+      "id": 69,
+      "start": 354,
+      "end": 357
+    },
+    {
+      "id": 70,
+      "start": 357,
+      "end": 369
+    },
+    {
+      "id": 71,
+      "start": 370,
+      "end": 376
+    },
+    {
+      "id": 72,
+      "start": 377,
+      "end": 380
+    },
+    {
+      "id": 73,
+      "start": 381,
+      "end": 390
+    },
+    {
+      "id": 74,
+      "start": 391,
+      "end": 397
+    },
+    {
+      "id": 75,
+      "start": 398,
+      "end": 400
+    },
+    {
+      "id": 76,
+      "start": 401,
+      "end": 407
+    },
+    {
+      "id": 77,
+      "start": 407,
+      "end": 424
+    },
+    {
+      "id": 78,
+      "start": 425,
+      "end": 428
+    },
+    {
+      "id": 79,
+      "start": 429,
+      "end": 435
+    },
+    {
+      "id": 80,
+      "start": 436,
+      "end": 441
+    },
+    {
+      "id": 81,
+      "start": 441,
+      "end": 442
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Year 412 BC",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "pre-Julian Roman calendar",
+      "dest": 1
+    },
+    {
+      "dep_text": "Year 412 BC",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "Year of the Consulship of Ambustus and Pacilus",
+      "dest": 2
+    },
+    {
+      "dep_text": "Year 412 BC",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "year 342 Ab urbe condita",
+      "dest": 3
+    },
+    {
+      "dep_text": "Year 412 BC",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "Anno Domini calendar era",
+      "dest": 4
+    }
+  ],
+  "classes": {
+    "pre-Julian_Roman_calendar_1": {
+      "labels": [
+        "TIME_INTERVAL"
+      ],
+      "class": "pre-Julian Roman calendar"
+    },
+    "Year_of_the_Consulship_of_Ambustus_and_Pacilus_2": {
+      "labels": [
+        "TIME_INTERVAL"
+      ],
+      "class": "Year of the Consulship of Ambustus and Pacilus"
+    },
+    "year_342_Ab_urbe_condita_3": {
+      "labels": [
+        "TIME_INTERVAL"
+      ],
+      "class": "year 342 Ab urbe condita"
+    },
+    "Anno_Domini_calendar_era_4": {
+      "labels": [
+        "TIME_INTERVAL"
+      ],
+      "class": "Anno Domini calendar era"
+    }
+  }
+}

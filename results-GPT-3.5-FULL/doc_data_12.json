@@ -1,0 +1,758 @@
+{
+  "text": "n monotheism and henotheism, God is conceived as the Supreme Being. The concept of God as described by theologians commonly includes the attributes of omniscience (infinite knowledge), omnipotence (unlimited power), omnipresence (present everywhere), omnibenevolence (perfect goodness), divine simplicity, and eternal and necessary existence.",
+  "ents": [
+    {
+      "start": 2,
+      "end": 12,
+      "label": "CLASS"
+    },
+    {
+      "start": 29,
+      "end": 39,
+      "label": "CLASS"
+    },
+    {
+      "start": 53,
+      "end": 56,
+      "label": "ENTITY"
+    },
+    {
+      "start": 90,
+      "end": 103,
+      "label": "CLASS"
+    },
+    {
+      "start": 152,
+      "end": 163,
+      "label": "ENTITY"
+    },
+    {
+      "start": 199,
+      "end": 209,
+      "label": "CLASS"
+    },
+    {
+      "start": 225,
+      "end": 236,
+      "label": "CLASS"
+    },
+    {
+      "start": 250,
+      "end": 268,
+      "label": "CLASS"
+    },
+    {
+      "start": 283,
+      "end": 294,
+      "label": "CLASS"
+    },
+    {
+      "start": 308,
+      "end": 323,
+      "label": "CLASS"
+    },
+    {
+      "start": 338,
+      "end": 350,
+      "label": "CLASS"
+    },
+    {
+      "start": 365,
+      "end": 383,
+      "label": "CLASS"
+    },
+    {
+      "start": 399,
+      "end": 414,
+      "label": "CLASS"
+    },
+    {
+      "start": 429,
+      "end": 445,
+      "label": "CLASS"
+    },
+    {
+      "start": 461,
+      "end": 478,
+      "label": "CLASS"
+    },
+    {
+      "start": 497,
+      "end": 528,
+      "label": "CLASS"
+    },
+    {
+      "start_char": 2,
+      "end_char": 12,
+      "label": "CLASS",
+      "text": "monotheism",
+      "subClassOf": [
+        "ABSTRACT"
+      ]
+    },
+    {
+      "start_char": 29,
+      "end_char": 39,
+      "label": "CLASS",
+      "text": "henotheism",
+      "subClassOf": [
+        "ABSTRACT"
+      ]
+    },
+    {
+      "start_char": 53,
+      "end_char": 56,
+      "label": "ENTITY",
+      "text": "God"
+    },
+    {
+      "start_char": 90,
+      "end_char": 103,
+      "label": "CLASS",
+      "text": "Supreme Being",
+      "subClassOf": [
+        "PERSONIFICATION"
+      ]
+    },
+    {
+      "start_char": 152,
+      "end_char": 163,
+      "label": "ENTITY",
+      "text": "theologians"
+    },
+    {
+      "start_char": 199,
+      "end_char": 209,
+      "label": "CLASS",
+      "text": "attributes",
+      "subClassOf": [
+        "ABSTRACT"
+      ]
+    },
+    {
+      "start_char": 225,
+      "end_char": 236,
+      "label": "CLASS",
+      "text": "omniscience",
+      "subClassOf": [
+        "ABSTRACT"
+      ]
+    },
+    {
+      "start_char": 250,
+      "end_char": 268,
+      "label": "CLASS",
+      "text": "infinite knowledge",
+      "subClassOf": [
+        "ABSTRACT"
+      ]
+    },
+    {
+      "start_char": 283,
+      "end_char": 294,
+      "label": "CLASS",
+      "text": "omnipotence",
+      "subClassOf": [
+        "ABSTRACT"
+      ]
+    },
+    {
+      "start_char": 308,
+      "end_char": 323,
+      "label": "CLASS",
+      "text": "unlimited power",
+      "subClassOf": [
+        "ABSTRACT"
+      ]
+    },
+    {
+      "start_char": 338,
+      "end_char": 350,
+      "label": "CLASS",
+      "text": "omnipresence",
+      "subClassOf": [
+        "ABSTRACT"
+      ]
+    },
+    {
+      "start_char": 365,
+      "end_char": 383,
+      "label": "CLASS",
+      "text": "present everywhere",
+      "subClassOf": [
+        "ABSTRACT"
+      ]
+    },
+    {
+      "start_char": 399,
+      "end_char": 414,
+      "label": "CLASS",
+      "text": "omnibenevolence",
+      "subClassOf": [
+        "ABSTRACT"
+      ]
+    },
+    {
+      "start_char": 429,
+      "end_char": 445,
+      "label": "CLASS",
+      "text": "perfect goodness",
+      "subClassOf": [
+        "ABSTRACT"
+      ]
+    },
+    {
+      "start_char": 461,
+      "end_char": 478,
+      "label": "CLASS",
+      "text": "divine simplicity",
+      "subClassOf": [
+        "ABSTRACT"
+      ]
+    },
+    {
+      "start_char": 497,
+      "end_char": 528,
+      "label": "CLASS",
+      "text": "eternal and necessary existence",
+      "subClassOf": [
+        "ABSTRACT"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 1
+    },
+    {
+      "id": 1,
+      "start": 2,
+      "end": 12
+    },
+    {
+      "id": 2,
+      "start": 12,
+      "end": 24
+    },
+    {
+      "id": 3,
+      "start": 25,
+      "end": 28
+    },
+    {
+      "id": 4,
+      "start": 29,
+      "end": 39
+    },
+    {
+      "id": 5,
+      "start": 39,
+      "end": 51
+    },
+    {
+      "id": 6,
+      "start": 51,
+      "end": 52
+    },
+    {
+      "id": 7,
+      "start": 53,
+      "end": 56
+    },
+    {
+      "id": 8,
+      "start": 56,
+      "end": 69
+    },
+    {
+      "id": 9,
+      "start": 70,
+      "end": 72
+    },
+    {
+      "id": 10,
+      "start": 73,
+      "end": 82
+    },
+    {
+      "id": 11,
+      "start": 83,
+      "end": 85
+    },
+    {
+      "id": 12,
+      "start": 86,
+      "end": 89
+    },
+    {
+      "id": 13,
+      "start": 90,
+      "end": 97
+    },
+    {
+      "id": 14,
+      "start": 98,
+      "end": 103
+    },
+    {
+      "id": 15,
+      "start": 103,
+      "end": 115
+    },
+    {
+      "id": 16,
+      "start": 115,
+      "end": 116
+    },
+    {
+      "id": 17,
+      "start": 117,
+      "end": 120
+    },
+    {
+      "id": 18,
+      "start": 121,
+      "end": 128
+    },
+    {
+      "id": 19,
+      "start": 129,
+      "end": 131
+    },
+    {
+      "id": 20,
+      "start": 132,
+      "end": 135
+    },
+    {
+      "id": 21,
+      "start": 136,
+      "end": 138
+    },
+    {
+      "id": 22,
+      "start": 139,
+      "end": 148
+    },
+    {
+      "id": 23,
+      "start": 149,
+      "end": 151
+    },
+    {
+      "id": 24,
+      "start": 152,
+      "end": 163
+    },
+    {
+      "id": 25,
+      "start": 163,
+      "end": 176
+    },
+    {
+      "id": 26,
+      "start": 177,
+      "end": 185
+    },
+    {
+      "id": 27,
+      "start": 186,
+      "end": 194
+    },
+    {
+      "id": 28,
+      "start": 195,
+      "end": 198
+    },
+    {
+      "id": 29,
+      "start": 199,
+      "end": 209
+    },
+    {
+      "id": 30,
+      "start": 209,
+      "end": 221
+    },
+    {
+      "id": 31,
+      "start": 222,
+      "end": 224
+    },
+    {
+      "id": 32,
+      "start": 225,
+      "end": 236
+    },
+    {
+      "id": 33,
+      "start": 236,
+      "end": 248
+    },
+    {
+      "id": 34,
+      "start": 249,
+      "end": 250
+    },
+    {
+      "id": 35,
+      "start": 250,
+      "end": 258
+    },
+    {
+      "id": 36,
+      "start": 259,
+      "end": 268
+    },
+    {
+      "id": 37,
+      "start": 268,
+      "end": 280
+    },
+    {
+      "id": 38,
+      "start": 280,
+      "end": 281
+    },
+    {
+      "id": 39,
+      "start": 281,
+      "end": 282
+    },
+    {
+      "id": 40,
+      "start": 283,
+      "end": 294
+    },
+    {
+      "id": 41,
+      "start": 294,
+      "end": 306
+    },
+    {
+      "id": 42,
+      "start": 307,
+      "end": 308
+    },
+    {
+      "id": 43,
+      "start": 308,
+      "end": 317
+    },
+    {
+      "id": 44,
+      "start": 318,
+      "end": 323
+    },
+    {
+      "id": 45,
+      "start": 323,
+      "end": 335
+    },
+    {
+      "id": 46,
+      "start": 335,
+      "end": 336
+    },
+    {
+      "id": 47,
+      "start": 336,
+      "end": 337
+    },
+    {
+      "id": 48,
+      "start": 338,
+      "end": 350
+    },
+    {
+      "id": 49,
+      "start": 350,
+      "end": 363
+    },
+    {
+      "id": 50,
+      "start": 364,
+      "end": 365
+    },
+    {
+      "id": 51,
+      "start": 365,
+      "end": 372
+    },
+    {
+      "id": 52,
+      "start": 373,
+      "end": 383
+    },
+    {
+      "id": 53,
+      "start": 383,
+      "end": 396
+    },
+    {
+      "id": 54,
+      "start": 396,
+      "end": 397
+    },
+    {
+      "id": 55,
+      "start": 397,
+      "end": 398
+    },
+    {
+      "id": 56,
+      "start": 399,
+      "end": 414
+    },
+    {
+      "id": 57,
+      "start": 414,
+      "end": 427
+    },
+    {
+      "id": 58,
+      "start": 428,
+      "end": 429
+    },
+    {
+      "id": 59,
+      "start": 429,
+      "end": 436
+    },
+    {
+      "id": 60,
+      "start": 437,
+      "end": 445
+    },
+    {
+      "id": 61,
+      "start": 445,
+      "end": 458
+    },
+    {
+      "id": 62,
+      "start": 458,
+      "end": 459
+    },
+    {
+      "id": 63,
+      "start": 459,
+      "end": 460
+    },
+    {
+      "id": 64,
+      "start": 461,
+      "end": 467
+    },
+    {
+      "id": 65,
+      "start": 468,
+      "end": 478
+    },
+    {
+      "id": 66,
+      "start": 478,
+      "end": 491
+    },
+    {
+      "id": 67,
+      "start": 491,
+      "end": 492
+    },
+    {
+      "id": 68,
+      "start": 493,
+      "end": 496
+    },
+    {
+      "id": 69,
+      "start": 497,
+      "end": 504
+    },
+    {
+      "id": 70,
+      "start": 505,
+      "end": 508
+    },
+    {
+      "id": 71,
+      "start": 509,
+      "end": 518
+    },
+    {
+      "id": 72,
+      "start": 519,
+      "end": 528
+    },
+    {
+      "id": 73,
+      "start": 528,
+      "end": 541
+    },
+    {
+      "id": 74,
+      "start": 541,
+      "end": 542
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "God",
+      "dep": 2,
+      "rel": "rdf-isClassOf",
+      "dest_text": "Supreme Being",
+      "dest": 3
+    },
+    {
+      "dep_text": "God",
+      "dep": 2,
+      "rel": "rdf-isClassOf",
+      "dest_text": "theologians",
+      "dest": 4
+    },
+    {
+      "dep_text": "God",
+      "dep": 2,
+      "rel": "rdf-isClassOf",
+      "dest_text": "attributes",
+      "dest": 5
+    },
+    {
+      "dep_text": "God",
+      "dep": 2,
+      "rel": "rdf-isClassOf",
+      "dest_text": "omniscience",
+      "dest": 6
+    },
+    {
+      "dep_text": "God",
+      "dep": 2,
+      "rel": "rdf-isClassOf",
+      "dest_text": "omnipotence",
+      "dest": 8
+    },
+    {
+      "dep_text": "God",
+      "dep": 2,
+      "rel": "rdf-isClassOf",
+      "dest_text": "omnipresence",
+      "dest": 10
+    },
+    {
+      "dep_text": "God",
+      "dep": 2,
+      "rel": "rdf-isClassOf",
+      "dest_text": "omnibenevolence",
+      "dest": 12
+    },
+    {
+      "dep_text": "God",
+      "dep": 2,
+      "rel": "rdf-isClassOf",
+      "dest_text": "perfect goodness",
+      "dest": 13
+    },
+    {
+      "dep_text": "God",
+      "dep": 2,
+      "rel": "rdf-isClassOf",
+      "dest_text": "divine simplicity",
+      "dest": 14
+    },
+    {
+      "dep_text": "God",
+      "dep": 2,
+      "rel": "rdf-isClassOf",
+      "dest_text": "eternal and necessary existence",
+      "dest": 15
+    }
+  ],
+  "classes": {
+    "monotheism_0": {
+      "labels": [
+        "ABSTRACT"
+      ],
+      "class": "monotheism"
+    },
+    "henotheism_1": {
+      "labels": [
+        "ABSTRACT"
+      ],
+      "class": "henotheism"
+    },
+    "Supreme_Being_3": {
+      "labels": [
+        "PERSONIFICATION"
+      ],
+      "class": "Supreme Being"
+    },
+    "attributes_5": {
+      "labels": [
+        "ABSTRACT"
+      ],
+      "class": "attributes"
+    },
+    "omniscience_6": {
+      "labels": [
+        "ABSTRACT"
+      ],
+      "class": "omniscience"
+    },
+    "infinite_knowledge_7": {
+      "labels": [
+        "ABSTRACT"
+      ],
+      "class": "infinite knowledge"
+    },
+    "omnipotence_8": {
+      "labels": [
+        "ABSTRACT"
+      ],
+      "class": "omnipotence"
+    },
+    "unlimited_power_9": {
+      "labels": [
+        "ABSTRACT"
+      ],
+      "class": "unlimited power"
+    },
+    "omnipresence_10": {
+      "labels": [
+        "ABSTRACT"
+      ],
+      "class": "omnipresence"
+    },
+    "present_everywhere_11": {
+      "labels": [
+        "ABSTRACT"
+      ],
+      "class": "present everywhere"
+    },
+    "omnibenevolence_12": {
+      "labels": [
+        "ABSTRACT"
+      ],
+      "class": "omnibenevolence"
+    },
+    "perfect_goodness_13": {
+      "labels": [
+        "ABSTRACT"
+      ],
+      "class": "perfect goodness"
+    },
+    "divine_simplicity_14": {
+      "labels": [
+        "ABSTRACT"
+      ],
+      "class": "divine simplicity"
+    },
+    "eternal_and_necessary_existence_15": {
+      "labels": [
+        "ABSTRACT"
+      ],
+      "class": "eternal and necessary existence"
+    }
+  }
+}

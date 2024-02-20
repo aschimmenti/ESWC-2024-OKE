@@ -1,0 +1,462 @@
+{
+  "text": "Nothing in Common is a 1986 comedy-drama film, directed by Garry Marshall. It stars Tom Hanks and Jackie Gleason in what would prove to be Gleason's final film role - he was suffering from colon cancer, liver cancer, and thrombosed hemorrhoids during production.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 17,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 40,
+      "end": 44,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 62,
+      "end": 79,
+      "label": "CLASS"
+    },
+    {
+      "start": 105,
+      "end": 119,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 147,
+      "end": 156,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 178,
+      "end": 192,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 236,
+      "end": 261,
+      "label": "CLASS"
+    },
+    {
+      "start": 298,
+      "end": 310,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 329,
+      "end": 341,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 364,
+      "end": 386,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start_char": 0,
+      "end_char": 17,
+      "label": "INDIVIDUAL",
+      "text": "Nothing in Common"
+    },
+    {
+      "start_char": 40,
+      "end_char": 44,
+      "label": "INDIVIDUAL",
+      "text": "1986"
+    },
+    {
+      "start_char": 62,
+      "end_char": 79,
+      "label": "CLASS",
+      "text": "comedy-drama film",
+      "subClassOf": [
+        "INFORMATION_ENTITY",
+        "PHYSICAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 105,
+      "end_char": 119,
+      "label": "INDIVIDUAL",
+      "text": "Garry Marshall"
+    },
+    {
+      "start_char": 147,
+      "end_char": 156,
+      "label": "INDIVIDUAL",
+      "text": "Tom Hanks"
+    },
+    {
+      "start_char": 178,
+      "end_char": 192,
+      "label": "INDIVIDUAL",
+      "text": "Jackie Gleason"
+    },
+    {
+      "start_char": 236,
+      "end_char": 261,
+      "label": "CLASS",
+      "text": "Gleason's final film role",
+      "subClassOf": [
+        "PERSON",
+        "ROLE"
+      ]
+    },
+    {
+      "start_char": 298,
+      "end_char": 310,
+      "label": "INDIVIDUAL",
+      "text": "colon cancer"
+    },
+    {
+      "start_char": 329,
+      "end_char": 341,
+      "label": "INDIVIDUAL",
+      "text": "liver cancer"
+    },
+    {
+      "start_char": 364,
+      "end_char": 386,
+      "label": "INDIVIDUAL",
+      "text": "thrombosed hemorrhoids"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 7
+    },
+    {
+      "id": 1,
+      "start": 8,
+      "end": 10
+    },
+    {
+      "id": 2,
+      "start": 11,
+      "end": 17
+    },
+    {
+      "id": 3,
+      "start": 17,
+      "end": 34
+    },
+    {
+      "id": 4,
+      "start": 35,
+      "end": 37
+    },
+    {
+      "id": 5,
+      "start": 38,
+      "end": 39
+    },
+    {
+      "id": 6,
+      "start": 40,
+      "end": 44
+    },
+    {
+      "id": 7,
+      "start": 44,
+      "end": 61
+    },
+    {
+      "id": 8,
+      "start": 62,
+      "end": 68
+    },
+    {
+      "id": 9,
+      "start": 68,
+      "end": 69
+    },
+    {
+      "id": 10,
+      "start": 69,
+      "end": 74
+    },
+    {
+      "id": 11,
+      "start": 75,
+      "end": 79
+    },
+    {
+      "id": 12,
+      "start": 79,
+      "end": 91
+    },
+    {
+      "id": 13,
+      "start": 91,
+      "end": 92
+    },
+    {
+      "id": 14,
+      "start": 93,
+      "end": 101
+    },
+    {
+      "id": 15,
+      "start": 102,
+      "end": 104
+    },
+    {
+      "id": 16,
+      "start": 105,
+      "end": 110
+    },
+    {
+      "id": 17,
+      "start": 111,
+      "end": 119
+    },
+    {
+      "id": 18,
+      "start": 119,
+      "end": 136
+    },
+    {
+      "id": 19,
+      "start": 136,
+      "end": 137
+    },
+    {
+      "id": 20,
+      "start": 138,
+      "end": 140
+    },
+    {
+      "id": 21,
+      "start": 141,
+      "end": 146
+    },
+    {
+      "id": 22,
+      "start": 147,
+      "end": 150
+    },
+    {
+      "id": 23,
+      "start": 151,
+      "end": 156
+    },
+    {
+      "id": 24,
+      "start": 156,
+      "end": 173
+    },
+    {
+      "id": 25,
+      "start": 174,
+      "end": 177
+    },
+    {
+      "id": 26,
+      "start": 178,
+      "end": 184
+    },
+    {
+      "id": 27,
+      "start": 185,
+      "end": 192
+    },
+    {
+      "id": 28,
+      "start": 192,
+      "end": 209
+    },
+    {
+      "id": 29,
+      "start": 210,
+      "end": 212
+    },
+    {
+      "id": 30,
+      "start": 213,
+      "end": 217
+    },
+    {
+      "id": 31,
+      "start": 218,
+      "end": 223
+    },
+    {
+      "id": 32,
+      "start": 224,
+      "end": 229
+    },
+    {
+      "id": 33,
+      "start": 230,
+      "end": 232
+    },
+    {
+      "id": 34,
+      "start": 233,
+      "end": 235
+    },
+    {
+      "id": 35,
+      "start": 236,
+      "end": 243
+    },
+    {
+      "id": 36,
+      "start": 243,
+      "end": 245
+    },
+    {
+      "id": 37,
+      "start": 246,
+      "end": 251
+    },
+    {
+      "id": 38,
+      "start": 252,
+      "end": 256
+    },
+    {
+      "id": 39,
+      "start": 257,
+      "end": 261
+    },
+    {
+      "id": 40,
+      "start": 261,
+      "end": 273
+    },
+    {
+      "id": 41,
+      "start": 274,
+      "end": 275
+    },
+    {
+      "id": 42,
+      "start": 276,
+      "end": 278
+    },
+    {
+      "id": 43,
+      "start": 279,
+      "end": 282
+    },
+    {
+      "id": 44,
+      "start": 283,
+      "end": 292
+    },
+    {
+      "id": 45,
+      "start": 293,
+      "end": 297
+    },
+    {
+      "id": 46,
+      "start": 298,
+      "end": 303
+    },
+    {
+      "id": 47,
+      "start": 304,
+      "end": 310
+    },
+    {
+      "id": 48,
+      "start": 310,
+      "end": 327
+    },
+    {
+      "id": 49,
+      "start": 327,
+      "end": 328
+    },
+    {
+      "id": 50,
+      "start": 329,
+      "end": 334
+    },
+    {
+      "id": 51,
+      "start": 335,
+      "end": 341
+    },
+    {
+      "id": 52,
+      "start": 341,
+      "end": 358
+    },
+    {
+      "id": 53,
+      "start": 358,
+      "end": 359
+    },
+    {
+      "id": 54,
+      "start": 360,
+      "end": 363
+    },
+    {
+      "id": 55,
+      "start": 364,
+      "end": 374
+    },
+    {
+      "id": 56,
+      "start": 375,
+      "end": 386
+    },
+    {
+      "id": 57,
+      "start": 386,
+      "end": 403
+    },
+    {
+      "id": 58,
+      "start": 404,
+      "end": 410
+    },
+    {
+      "id": 59,
+      "start": 411,
+      "end": 421
+    },
+    {
+      "id": 60,
+      "start": 421,
+      "end": 422
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Nothing in Common",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "comedy-drama film",
+      "dest": 2
+    },
+    {
+      "dep_text": "Gleason's final film role",
+      "dep": 6,
+      "rel": "is_a",
+      "dest_text": "Jackie Gleason",
+      "dest": 5
+    }
+  ],
+  "classes": {
+    "comedy-drama_film_2": {
+      "labels": [
+        "INFORMATION_ENTITY",
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "comedy-drama film"
+    },
+    "Gleason's_final_film_role_6": {
+      "labels": [
+        "PERSON",
+        "ROLE"
+      ],
+      "class": "Gleason's final film role"
+    }
+  }
+}

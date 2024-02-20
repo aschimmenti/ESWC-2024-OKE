@@ -1,0 +1,145 @@
+{
+  "text": "Cool Hand Lōc is the second and final studio album by Tone Lōc.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 13,
+      "label": "ENTITY"
+    },
+    {
+      "start": 51,
+      "end": 63,
+      "label": "CLASS"
+    },
+    {
+      "start": 79,
+      "end": 87,
+      "label": "ENTITY"
+    },
+    {
+      "start_char": 0,
+      "end_char": 13,
+      "label": "ENTITY",
+      "text": "Cool Hand Lōc"
+    },
+    {
+      "start_char": 51,
+      "end_char": 63,
+      "label": "CLASS",
+      "text": "studio album",
+      "subClassOf": [
+        "PHYSICAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 79,
+      "end_char": 87,
+      "label": "ENTITY",
+      "text": "Tone Lōc"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 4
+    },
+    {
+      "id": 1,
+      "start": 5,
+      "end": 9
+    },
+    {
+      "id": 2,
+      "start": 10,
+      "end": 13
+    },
+    {
+      "id": 3,
+      "start": 13,
+      "end": 26
+    },
+    {
+      "id": 4,
+      "start": 27,
+      "end": 29
+    },
+    {
+      "id": 5,
+      "start": 30,
+      "end": 33
+    },
+    {
+      "id": 6,
+      "start": 34,
+      "end": 40
+    },
+    {
+      "id": 7,
+      "start": 41,
+      "end": 44
+    },
+    {
+      "id": 8,
+      "start": 45,
+      "end": 50
+    },
+    {
+      "id": 9,
+      "start": 51,
+      "end": 57
+    },
+    {
+      "id": 10,
+      "start": 58,
+      "end": 63
+    },
+    {
+      "id": 11,
+      "start": 63,
+      "end": 75
+    },
+    {
+      "id": 12,
+      "start": 76,
+      "end": 78
+    },
+    {
+      "id": 13,
+      "start": 79,
+      "end": 83
+    },
+    {
+      "id": 14,
+      "start": 84,
+      "end": 87
+    },
+    {
+      "id": 15,
+      "start": 87,
+      "end": 100
+    },
+    {
+      "id": 16,
+      "start": 100,
+      "end": 101
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Cool Hand Lōc",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "studio album",
+      "dest": 1
+    }
+  ],
+  "classes": {
+    "studio_album_1": {
+      "labels": [
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "studio album"
+    }
+  }
+}

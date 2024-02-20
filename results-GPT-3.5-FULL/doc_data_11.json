@@ -1,0 +1,327 @@
+{
+  "text": "Marlik is an ancient site near Roudbar in Gilan, north of Iran. The site of a royal cemetery, and artifacts found at this site date back to 3,000 years ago.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 6,
+      "label": "ENTITY"
+    },
+    {
+      "start": 26,
+      "end": 38,
+      "label": "CLASS"
+    },
+    {
+      "start": 56,
+      "end": 63,
+      "label": "ENTITY"
+    },
+    {
+      "start": 80,
+      "end": 85,
+      "label": "ENTITY"
+    },
+    {
+      "start": 109,
+      "end": 113,
+      "label": "ENTITY"
+    },
+    {
+      "start": 142,
+      "end": 156,
+      "label": "CLASS"
+    },
+    {
+      "start": 216,
+      "end": 231,
+      "label": "ENTITY"
+    },
+    {
+      "start_char": 0,
+      "end_char": 6,
+      "label": "ENTITY",
+      "text": "Marlik"
+    },
+    {
+      "start_char": 26,
+      "end_char": 38,
+      "label": "CLASS",
+      "text": "ancient site",
+      "subClassOf": [
+        "LOCATION"
+      ]
+    },
+    {
+      "start_char": 56,
+      "end_char": 63,
+      "label": "ENTITY",
+      "text": "Roudbar"
+    },
+    {
+      "start_char": 80,
+      "end_char": 85,
+      "label": "ENTITY",
+      "text": "Gilan"
+    },
+    {
+      "start_char": 109,
+      "end_char": 113,
+      "label": "ENTITY",
+      "text": "Iran"
+    },
+    {
+      "start_char": 142,
+      "end_char": 156,
+      "label": "CLASS",
+      "text": "royal cemetery",
+      "subClassOf": [
+        "LOCATION",
+        "PHYSICAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 216,
+      "end_char": 231,
+      "label": "ENTITY",
+      "text": "3,000 years ago"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 6
+    },
+    {
+      "id": 1,
+      "start": 6,
+      "end": 19
+    },
+    {
+      "id": 2,
+      "start": 20,
+      "end": 22
+    },
+    {
+      "id": 3,
+      "start": 23,
+      "end": 25
+    },
+    {
+      "id": 4,
+      "start": 26,
+      "end": 33
+    },
+    {
+      "id": 5,
+      "start": 34,
+      "end": 38
+    },
+    {
+      "id": 6,
+      "start": 38,
+      "end": 50
+    },
+    {
+      "id": 7,
+      "start": 51,
+      "end": 55
+    },
+    {
+      "id": 8,
+      "start": 56,
+      "end": 63
+    },
+    {
+      "id": 9,
+      "start": 63,
+      "end": 76
+    },
+    {
+      "id": 10,
+      "start": 77,
+      "end": 79
+    },
+    {
+      "id": 11,
+      "start": 80,
+      "end": 85
+    },
+    {
+      "id": 12,
+      "start": 85,
+      "end": 98
+    },
+    {
+      "id": 13,
+      "start": 98,
+      "end": 99
+    },
+    {
+      "id": 14,
+      "start": 100,
+      "end": 105
+    },
+    {
+      "id": 15,
+      "start": 106,
+      "end": 108
+    },
+    {
+      "id": 16,
+      "start": 109,
+      "end": 113
+    },
+    {
+      "id": 17,
+      "start": 113,
+      "end": 126
+    },
+    {
+      "id": 18,
+      "start": 126,
+      "end": 127
+    },
+    {
+      "id": 19,
+      "start": 128,
+      "end": 131
+    },
+    {
+      "id": 20,
+      "start": 132,
+      "end": 136
+    },
+    {
+      "id": 21,
+      "start": 137,
+      "end": 139
+    },
+    {
+      "id": 22,
+      "start": 140,
+      "end": 141
+    },
+    {
+      "id": 23,
+      "start": 142,
+      "end": 147
+    },
+    {
+      "id": 24,
+      "start": 148,
+      "end": 156
+    },
+    {
+      "id": 25,
+      "start": 156,
+      "end": 168
+    },
+    {
+      "id": 26,
+      "start": 168,
+      "end": 169
+    },
+    {
+      "id": 27,
+      "start": 170,
+      "end": 173
+    },
+    {
+      "id": 28,
+      "start": 174,
+      "end": 183
+    },
+    {
+      "id": 29,
+      "start": 184,
+      "end": 189
+    },
+    {
+      "id": 30,
+      "start": 190,
+      "end": 192
+    },
+    {
+      "id": 31,
+      "start": 193,
+      "end": 197
+    },
+    {
+      "id": 32,
+      "start": 198,
+      "end": 202
+    },
+    {
+      "id": 33,
+      "start": 203,
+      "end": 207
+    },
+    {
+      "id": 34,
+      "start": 208,
+      "end": 212
+    },
+    {
+      "id": 35,
+      "start": 213,
+      "end": 215
+    },
+    {
+      "id": 36,
+      "start": 216,
+      "end": 221
+    },
+    {
+      "id": 37,
+      "start": 222,
+      "end": 227
+    },
+    {
+      "id": 38,
+      "start": 228,
+      "end": 231
+    },
+    {
+      "id": 39,
+      "start": 231,
+      "end": 244
+    },
+    {
+      "id": 40,
+      "start": 244,
+      "end": 245
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Marlik",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "ancient site",
+      "dest": 1
+    },
+    {
+      "dep_text": "royal cemetery",
+      "dep": 5,
+      "rel": "rdf-isClassOf",
+      "dest_text": "ancient site",
+      "dest": 1
+    }
+  ],
+  "classes": {
+    "ancient_site_1": {
+      "labels": [
+        "LOCATION"
+      ],
+      "class": "ancient site"
+    },
+    "royal_cemetery_5": {
+      "labels": [
+        "LOCATION",
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "royal cemetery"
+    }
+  }
+}

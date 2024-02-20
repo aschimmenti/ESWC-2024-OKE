@@ -1,0 +1,186 @@
+{
+  "text": "El Oso, released in 1998, is an album by the New York City band Soul Coughing.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 6,
+      "label": "ENTITY"
+    },
+    {
+      "start": 33,
+      "end": 37,
+      "label": "ENTITY"
+    },
+    {
+      "start": 58,
+      "end": 63,
+      "label": "CLASS"
+    },
+    {
+      "start": 83,
+      "end": 115,
+      "label": "ENTITY"
+    },
+    {
+      "start_char": 0,
+      "end_char": 6,
+      "label": "ENTITY",
+      "text": "El Oso"
+    },
+    {
+      "start_char": 33,
+      "end_char": 37,
+      "label": "ENTITY",
+      "text": "1998"
+    },
+    {
+      "start_char": 58,
+      "end_char": 63,
+      "label": "CLASS",
+      "text": "album",
+      "subClassOf": [
+        "PHYSICAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 83,
+      "end_char": 115,
+      "label": "ENTITY",
+      "text": "New York City band Soul Coughing"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 2
+    },
+    {
+      "id": 1,
+      "start": 3,
+      "end": 6
+    },
+    {
+      "id": 2,
+      "start": 6,
+      "end": 19
+    },
+    {
+      "id": 3,
+      "start": 19,
+      "end": 20
+    },
+    {
+      "id": 4,
+      "start": 21,
+      "end": 29
+    },
+    {
+      "id": 5,
+      "start": 30,
+      "end": 32
+    },
+    {
+      "id": 6,
+      "start": 33,
+      "end": 37
+    },
+    {
+      "id": 7,
+      "start": 37,
+      "end": 50
+    },
+    {
+      "id": 8,
+      "start": 50,
+      "end": 51
+    },
+    {
+      "id": 9,
+      "start": 52,
+      "end": 54
+    },
+    {
+      "id": 10,
+      "start": 55,
+      "end": 57
+    },
+    {
+      "id": 11,
+      "start": 58,
+      "end": 63
+    },
+    {
+      "id": 12,
+      "start": 63,
+      "end": 75
+    },
+    {
+      "id": 13,
+      "start": 76,
+      "end": 78
+    },
+    {
+      "id": 14,
+      "start": 79,
+      "end": 82
+    },
+    {
+      "id": 15,
+      "start": 83,
+      "end": 86
+    },
+    {
+      "id": 16,
+      "start": 87,
+      "end": 91
+    },
+    {
+      "id": 17,
+      "start": 92,
+      "end": 96
+    },
+    {
+      "id": 18,
+      "start": 97,
+      "end": 101
+    },
+    {
+      "id": 19,
+      "start": 102,
+      "end": 106
+    },
+    {
+      "id": 20,
+      "start": 107,
+      "end": 115
+    },
+    {
+      "id": 21,
+      "start": 115,
+      "end": 128
+    },
+    {
+      "id": 22,
+      "start": 128,
+      "end": 129
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "album",
+      "dep": 2,
+      "rel": "rdf-isClassOf",
+      "dest_text": "New York City band Soul Coughing",
+      "dest": 3
+    }
+  ],
+  "classes": {
+    "album_2": {
+      "labels": [
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "album"
+    }
+  }
+}

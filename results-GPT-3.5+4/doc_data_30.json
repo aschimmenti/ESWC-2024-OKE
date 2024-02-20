@@ -1,0 +1,384 @@
+{
+  "text": "Cooperative learning is an educational approach which aims to organize classroom activities into academic and social learning experiences. There is much more to Cooperative Learning than merely arranging students into groups, and it has been described as \"structuring positive interdependence.\"",
+  "ents": [
+    {
+      "start": 0,
+      "end": 20,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 44,
+      "end": 64,
+      "label": "CLASS"
+    },
+    {
+      "start": 100,
+      "end": 120,
+      "label": "CLASS"
+    },
+    {
+      "start": 138,
+      "end": 178,
+      "label": "CLASS"
+    },
+    {
+      "start": 321,
+      "end": 345,
+      "label": "CLASS"
+    },
+    {
+      "start_char": 0,
+      "end_char": 20,
+      "label": "INDIVIDUAL",
+      "text": "Cooperative learning"
+    },
+    {
+      "start_char": 44,
+      "end_char": 64,
+      "label": "CLASS",
+      "text": "educational approach",
+      "subClassOf": [
+        "ACTIVITY"
+      ]
+    },
+    {
+      "start_char": 100,
+      "end_char": 120,
+      "label": "CLASS",
+      "text": "classroom activities",
+      "subClassOf": [
+        "ACTIVITY"
+      ]
+    },
+    {
+      "start_char": 138,
+      "end_char": 178,
+      "label": "CLASS",
+      "text": "academic and social learning experiences",
+      "subClassOf": [
+        "ACTIVITY",
+        "SITUATION"
+      ]
+    },
+    {
+      "start_char": 321,
+      "end_char": 345,
+      "label": "CLASS",
+      "text": "positive interdependence",
+      "subClassOf": [
+        "ABSTRACT",
+        "SITUATION"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 11
+    },
+    {
+      "id": 1,
+      "start": 12,
+      "end": 20
+    },
+    {
+      "id": 2,
+      "start": 20,
+      "end": 37
+    },
+    {
+      "id": 3,
+      "start": 38,
+      "end": 40
+    },
+    {
+      "id": 4,
+      "start": 41,
+      "end": 43
+    },
+    {
+      "id": 5,
+      "start": 44,
+      "end": 55
+    },
+    {
+      "id": 6,
+      "start": 56,
+      "end": 64
+    },
+    {
+      "id": 7,
+      "start": 64,
+      "end": 76
+    },
+    {
+      "id": 8,
+      "start": 77,
+      "end": 82
+    },
+    {
+      "id": 9,
+      "start": 83,
+      "end": 87
+    },
+    {
+      "id": 10,
+      "start": 88,
+      "end": 90
+    },
+    {
+      "id": 11,
+      "start": 91,
+      "end": 99
+    },
+    {
+      "id": 12,
+      "start": 100,
+      "end": 109
+    },
+    {
+      "id": 13,
+      "start": 110,
+      "end": 120
+    },
+    {
+      "id": 14,
+      "start": 120,
+      "end": 132
+    },
+    {
+      "id": 15,
+      "start": 133,
+      "end": 137
+    },
+    {
+      "id": 16,
+      "start": 138,
+      "end": 146
+    },
+    {
+      "id": 17,
+      "start": 147,
+      "end": 150
+    },
+    {
+      "id": 18,
+      "start": 151,
+      "end": 157
+    },
+    {
+      "id": 19,
+      "start": 158,
+      "end": 166
+    },
+    {
+      "id": 20,
+      "start": 167,
+      "end": 178
+    },
+    {
+      "id": 21,
+      "start": 178,
+      "end": 190
+    },
+    {
+      "id": 22,
+      "start": 190,
+      "end": 191
+    },
+    {
+      "id": 23,
+      "start": 192,
+      "end": 197
+    },
+    {
+      "id": 24,
+      "start": 198,
+      "end": 200
+    },
+    {
+      "id": 25,
+      "start": 201,
+      "end": 205
+    },
+    {
+      "id": 26,
+      "start": 206,
+      "end": 210
+    },
+    {
+      "id": 27,
+      "start": 211,
+      "end": 213
+    },
+    {
+      "id": 28,
+      "start": 214,
+      "end": 225
+    },
+    {
+      "id": 29,
+      "start": 226,
+      "end": 234
+    },
+    {
+      "id": 30,
+      "start": 235,
+      "end": 239
+    },
+    {
+      "id": 31,
+      "start": 240,
+      "end": 246
+    },
+    {
+      "id": 32,
+      "start": 247,
+      "end": 256
+    },
+    {
+      "id": 33,
+      "start": 257,
+      "end": 265
+    },
+    {
+      "id": 34,
+      "start": 266,
+      "end": 270
+    },
+    {
+      "id": 35,
+      "start": 271,
+      "end": 277
+    },
+    {
+      "id": 36,
+      "start": 277,
+      "end": 278
+    },
+    {
+      "id": 37,
+      "start": 279,
+      "end": 282
+    },
+    {
+      "id": 38,
+      "start": 283,
+      "end": 285
+    },
+    {
+      "id": 39,
+      "start": 286,
+      "end": 289
+    },
+    {
+      "id": 40,
+      "start": 290,
+      "end": 294
+    },
+    {
+      "id": 41,
+      "start": 295,
+      "end": 304
+    },
+    {
+      "id": 42,
+      "start": 305,
+      "end": 307
+    },
+    {
+      "id": 43,
+      "start": 308,
+      "end": 309
+    },
+    {
+      "id": 44,
+      "start": 309,
+      "end": 320
+    },
+    {
+      "id": 45,
+      "start": 321,
+      "end": 329
+    },
+    {
+      "id": 46,
+      "start": 330,
+      "end": 345
+    },
+    {
+      "id": 47,
+      "start": 345,
+      "end": 357
+    },
+    {
+      "id": 48,
+      "start": 357,
+      "end": 358
+    },
+    {
+      "id": 49,
+      "start": 358,
+      "end": 359
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Cooperative learning",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "educational approach",
+      "dest": 1
+    },
+    {
+      "dep_text": "Cooperative learning",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "classroom activities",
+      "dest": 2
+    },
+    {
+      "dep_text": "Cooperative learning",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "academic and social learning experiences",
+      "dest": 3
+    },
+    {
+      "dep_text": "Cooperative learning",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "positive interdependence",
+      "dest": 4
+    }
+  ],
+  "classes": {
+    "educational_approach_1": {
+      "labels": [
+        "ACTIVITY"
+      ],
+      "class": "educational approach"
+    },
+    "classroom_activities_2": {
+      "labels": [
+        "ACTIVITY"
+      ],
+      "class": "classroom activities"
+    },
+    "academic_and_social_learning_experiences_3": {
+      "labels": [
+        "ACTIVITY",
+        "SITUATION"
+      ],
+      "class": "academic and social learning experiences"
+    },
+    "positive_interdependence_4": {
+      "labels": [
+        "ABSTRACT",
+        "SITUATION"
+      ],
+      "class": "positive interdependence"
+    }
+  }
+}

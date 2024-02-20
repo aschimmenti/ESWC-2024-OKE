@@ -1,0 +1,414 @@
+{
+  "text": "Laudio/Llodio is a town and municipality located in the province of Álava, in the Basque Country, northern Spain. Laudio is the name in Basque language and Llodio in Spanish; both are used indistinctly.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 13,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 36,
+      "end": 40,
+      "label": "CLASS"
+    },
+    {
+      "start": 57,
+      "end": 69,
+      "label": "CLASS"
+    },
+    {
+      "start": 97,
+      "end": 105,
+      "label": "CLASS"
+    },
+    {
+      "start": 121,
+      "end": 126,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 152,
+      "end": 166,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 194,
+      "end": 199,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 240,
+      "end": 255,
+      "label": "CLASS"
+    },
+    {
+      "start": 282,
+      "end": 289,
+      "label": "CLASS"
+    },
+    {
+      "start_char": 0,
+      "end_char": 13,
+      "label": "INDIVIDUAL",
+      "text": "Laudio/Llodio"
+    },
+    {
+      "start_char": 36,
+      "end_char": 40,
+      "label": "CLASS",
+      "text": "town",
+      "subClassOf": [
+        "LOCATION"
+      ]
+    },
+    {
+      "start_char": 57,
+      "end_char": 69,
+      "label": "CLASS",
+      "text": "municipality",
+      "subClassOf": [
+        "LOCATION"
+      ]
+    },
+    {
+      "start_char": 97,
+      "end_char": 105,
+      "label": "CLASS",
+      "text": "province",
+      "subClassOf": [
+        "LOCATION"
+      ]
+    },
+    {
+      "start_char": 121,
+      "end_char": 126,
+      "label": "INDIVIDUAL",
+      "text": "Álava"
+    },
+    {
+      "start_char": 152,
+      "end_char": 166,
+      "label": "INDIVIDUAL",
+      "text": "Basque Country"
+    },
+    {
+      "start_char": 194,
+      "end_char": 199,
+      "label": "INDIVIDUAL",
+      "text": "Spain"
+    },
+    {
+      "start_char": 240,
+      "end_char": 255,
+      "label": "CLASS",
+      "text": "Basque language",
+      "subClassOf": [
+        "LOCATION"
+      ]
+    },
+    {
+      "start_char": 282,
+      "end_char": 289,
+      "label": "CLASS",
+      "text": "Spanish",
+      "subClassOf": [
+        "LOCATION"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 6
+    },
+    {
+      "id": 1,
+      "start": 6,
+      "end": 7
+    },
+    {
+      "id": 2,
+      "start": 7,
+      "end": 13
+    },
+    {
+      "id": 3,
+      "start": 13,
+      "end": 30
+    },
+    {
+      "id": 4,
+      "start": 31,
+      "end": 33
+    },
+    {
+      "id": 5,
+      "start": 34,
+      "end": 35
+    },
+    {
+      "id": 6,
+      "start": 36,
+      "end": 40
+    },
+    {
+      "id": 7,
+      "start": 40,
+      "end": 52
+    },
+    {
+      "id": 8,
+      "start": 53,
+      "end": 56
+    },
+    {
+      "id": 9,
+      "start": 57,
+      "end": 69
+    },
+    {
+      "id": 10,
+      "start": 69,
+      "end": 81
+    },
+    {
+      "id": 11,
+      "start": 82,
+      "end": 89
+    },
+    {
+      "id": 12,
+      "start": 90,
+      "end": 92
+    },
+    {
+      "id": 13,
+      "start": 93,
+      "end": 96
+    },
+    {
+      "id": 14,
+      "start": 97,
+      "end": 105
+    },
+    {
+      "id": 15,
+      "start": 105,
+      "end": 117
+    },
+    {
+      "id": 16,
+      "start": 118,
+      "end": 120
+    },
+    {
+      "id": 17,
+      "start": 121,
+      "end": 126
+    },
+    {
+      "id": 18,
+      "start": 126,
+      "end": 143
+    },
+    {
+      "id": 19,
+      "start": 143,
+      "end": 144
+    },
+    {
+      "id": 20,
+      "start": 145,
+      "end": 147
+    },
+    {
+      "id": 21,
+      "start": 148,
+      "end": 151
+    },
+    {
+      "id": 22,
+      "start": 152,
+      "end": 158
+    },
+    {
+      "id": 23,
+      "start": 159,
+      "end": 166
+    },
+    {
+      "id": 24,
+      "start": 166,
+      "end": 183
+    },
+    {
+      "id": 25,
+      "start": 183,
+      "end": 184
+    },
+    {
+      "id": 26,
+      "start": 185,
+      "end": 193
+    },
+    {
+      "id": 27,
+      "start": 194,
+      "end": 199
+    },
+    {
+      "id": 28,
+      "start": 199,
+      "end": 216
+    },
+    {
+      "id": 29,
+      "start": 216,
+      "end": 217
+    },
+    {
+      "id": 30,
+      "start": 218,
+      "end": 224
+    },
+    {
+      "id": 31,
+      "start": 225,
+      "end": 227
+    },
+    {
+      "id": 32,
+      "start": 228,
+      "end": 231
+    },
+    {
+      "id": 33,
+      "start": 232,
+      "end": 236
+    },
+    {
+      "id": 34,
+      "start": 237,
+      "end": 239
+    },
+    {
+      "id": 35,
+      "start": 240,
+      "end": 246
+    },
+    {
+      "id": 36,
+      "start": 247,
+      "end": 255
+    },
+    {
+      "id": 37,
+      "start": 255,
+      "end": 267
+    },
+    {
+      "id": 38,
+      "start": 268,
+      "end": 271
+    },
+    {
+      "id": 39,
+      "start": 272,
+      "end": 278
+    },
+    {
+      "id": 40,
+      "start": 279,
+      "end": 281
+    },
+    {
+      "id": 41,
+      "start": 282,
+      "end": 289
+    },
+    {
+      "id": 42,
+      "start": 289,
+      "end": 301
+    },
+    {
+      "id": 43,
+      "start": 301,
+      "end": 302
+    },
+    {
+      "id": 44,
+      "start": 303,
+      "end": 307
+    },
+    {
+      "id": 45,
+      "start": 308,
+      "end": 311
+    },
+    {
+      "id": 46,
+      "start": 312,
+      "end": 316
+    },
+    {
+      "id": 47,
+      "start": 317,
+      "end": 329
+    },
+    {
+      "id": 48,
+      "start": 329,
+      "end": 330
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Laudio/Llodio",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "town",
+      "dest": 1
+    },
+    {
+      "dep_text": "Laudio/Llodio",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "municipality",
+      "dest": 2
+    }
+  ],
+  "classes": {
+    "town_1": {
+      "labels": [
+        "LOCATION"
+      ],
+      "class": "town"
+    },
+    "municipality_2": {
+      "labels": [
+        "LOCATION"
+      ],
+      "class": "municipality"
+    },
+    "province_3": {
+      "labels": [
+        "LOCATION"
+      ],
+      "class": "province"
+    },
+    "Basque_language_7": {
+      "labels": [
+        "LOCATION"
+      ],
+      "class": "Basque language"
+    },
+    "Spanish_8": {
+      "labels": [
+        "LOCATION"
+      ],
+      "class": "Spanish"
+    }
+  }
+}

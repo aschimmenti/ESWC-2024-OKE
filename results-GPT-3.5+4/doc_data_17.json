@@ -1,0 +1,541 @@
+{
+  "text": "Yasutora Sado is a fictional character in the anime and manga series Bleach created by Tite Kubo. He is an extremely tall teenager who studies in the same class as Ichigo Kurosaki. Because Ichigo first read Yasutora's name off a nametag, he pronounced his family name as Chad due to the variable pronunciations of kanji, and Ichigo continues to call him this throughout the story.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 13,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 63,
+      "end": 85,
+      "label": "CLASS"
+    },
+    {
+      "start": 98,
+      "end": 104,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 133,
+      "end": 142,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 185,
+      "end": 193,
+      "label": "CLASS"
+    },
+    {
+      "start": 239,
+      "end": 254,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 321,
+      "end": 328,
+      "label": "CLASS"
+    },
+    {
+      "start": 375,
+      "end": 379,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start_char": 0,
+      "end_char": 13,
+      "label": "INDIVIDUAL",
+      "text": "Yasutora Sado"
+    },
+    {
+      "start_char": 63,
+      "end_char": 85,
+      "label": "CLASS",
+      "text": "anime and manga series",
+      "subClassOf": [
+        "INFORMATION_ENTITY",
+        "PERSONIFICATION"
+      ]
+    },
+    {
+      "start_char": 98,
+      "end_char": 104,
+      "label": "INDIVIDUAL",
+      "text": "Bleach"
+    },
+    {
+      "start_char": 133,
+      "end_char": 142,
+      "label": "INDIVIDUAL",
+      "text": "Tite Kubo"
+    },
+    {
+      "start_char": 185,
+      "end_char": 193,
+      "label": "CLASS",
+      "text": "teenager",
+      "subClassOf": [
+        "PERSON",
+        "ROLE"
+      ]
+    },
+    {
+      "start_char": 239,
+      "end_char": 254,
+      "label": "INDIVIDUAL",
+      "text": "Ichigo Kurosaki"
+    },
+    {
+      "start_char": 321,
+      "end_char": 328,
+      "label": "CLASS",
+      "text": "nametag",
+      "subClassOf": [
+        "INFORMATION_ENTITY",
+        "PHYSICAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 375,
+      "end_char": 379,
+      "label": "INDIVIDUAL",
+      "text": "Chad"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 8
+    },
+    {
+      "id": 1,
+      "start": 9,
+      "end": 13
+    },
+    {
+      "id": 2,
+      "start": 13,
+      "end": 30
+    },
+    {
+      "id": 3,
+      "start": 31,
+      "end": 33
+    },
+    {
+      "id": 4,
+      "start": 34,
+      "end": 35
+    },
+    {
+      "id": 5,
+      "start": 36,
+      "end": 45
+    },
+    {
+      "id": 6,
+      "start": 46,
+      "end": 55
+    },
+    {
+      "id": 7,
+      "start": 56,
+      "end": 58
+    },
+    {
+      "id": 8,
+      "start": 59,
+      "end": 62
+    },
+    {
+      "id": 9,
+      "start": 63,
+      "end": 68
+    },
+    {
+      "id": 10,
+      "start": 69,
+      "end": 72
+    },
+    {
+      "id": 11,
+      "start": 73,
+      "end": 78
+    },
+    {
+      "id": 12,
+      "start": 79,
+      "end": 85
+    },
+    {
+      "id": 13,
+      "start": 85,
+      "end": 97
+    },
+    {
+      "id": 14,
+      "start": 98,
+      "end": 104
+    },
+    {
+      "id": 15,
+      "start": 104,
+      "end": 121
+    },
+    {
+      "id": 16,
+      "start": 122,
+      "end": 129
+    },
+    {
+      "id": 17,
+      "start": 130,
+      "end": 132
+    },
+    {
+      "id": 18,
+      "start": 133,
+      "end": 137
+    },
+    {
+      "id": 19,
+      "start": 138,
+      "end": 142
+    },
+    {
+      "id": 20,
+      "start": 142,
+      "end": 159
+    },
+    {
+      "id": 21,
+      "start": 159,
+      "end": 160
+    },
+    {
+      "id": 22,
+      "start": 161,
+      "end": 163
+    },
+    {
+      "id": 23,
+      "start": 164,
+      "end": 166
+    },
+    {
+      "id": 24,
+      "start": 167,
+      "end": 169
+    },
+    {
+      "id": 25,
+      "start": 170,
+      "end": 179
+    },
+    {
+      "id": 26,
+      "start": 180,
+      "end": 184
+    },
+    {
+      "id": 27,
+      "start": 185,
+      "end": 193
+    },
+    {
+      "id": 28,
+      "start": 193,
+      "end": 205
+    },
+    {
+      "id": 29,
+      "start": 206,
+      "end": 209
+    },
+    {
+      "id": 30,
+      "start": 210,
+      "end": 217
+    },
+    {
+      "id": 31,
+      "start": 218,
+      "end": 220
+    },
+    {
+      "id": 32,
+      "start": 221,
+      "end": 224
+    },
+    {
+      "id": 33,
+      "start": 225,
+      "end": 229
+    },
+    {
+      "id": 34,
+      "start": 230,
+      "end": 235
+    },
+    {
+      "id": 35,
+      "start": 236,
+      "end": 238
+    },
+    {
+      "id": 36,
+      "start": 239,
+      "end": 245
+    },
+    {
+      "id": 37,
+      "start": 246,
+      "end": 254
+    },
+    {
+      "id": 38,
+      "start": 254,
+      "end": 271
+    },
+    {
+      "id": 39,
+      "start": 271,
+      "end": 272
+    },
+    {
+      "id": 40,
+      "start": 273,
+      "end": 280
+    },
+    {
+      "id": 41,
+      "start": 281,
+      "end": 287
+    },
+    {
+      "id": 42,
+      "start": 288,
+      "end": 293
+    },
+    {
+      "id": 43,
+      "start": 294,
+      "end": 298
+    },
+    {
+      "id": 44,
+      "start": 299,
+      "end": 307
+    },
+    {
+      "id": 45,
+      "start": 307,
+      "end": 309
+    },
+    {
+      "id": 46,
+      "start": 310,
+      "end": 314
+    },
+    {
+      "id": 47,
+      "start": 315,
+      "end": 318
+    },
+    {
+      "id": 48,
+      "start": 319,
+      "end": 320
+    },
+    {
+      "id": 49,
+      "start": 321,
+      "end": 328
+    },
+    {
+      "id": 50,
+      "start": 328,
+      "end": 340
+    },
+    {
+      "id": 51,
+      "start": 340,
+      "end": 341
+    },
+    {
+      "id": 52,
+      "start": 342,
+      "end": 344
+    },
+    {
+      "id": 53,
+      "start": 345,
+      "end": 355
+    },
+    {
+      "id": 54,
+      "start": 356,
+      "end": 359
+    },
+    {
+      "id": 55,
+      "start": 360,
+      "end": 366
+    },
+    {
+      "id": 56,
+      "start": 367,
+      "end": 371
+    },
+    {
+      "id": 57,
+      "start": 372,
+      "end": 374
+    },
+    {
+      "id": 58,
+      "start": 375,
+      "end": 379
+    },
+    {
+      "id": 59,
+      "start": 379,
+      "end": 396
+    },
+    {
+      "id": 60,
+      "start": 397,
+      "end": 400
+    },
+    {
+      "id": 61,
+      "start": 401,
+      "end": 403
+    },
+    {
+      "id": 62,
+      "start": 404,
+      "end": 407
+    },
+    {
+      "id": 63,
+      "start": 408,
+      "end": 416
+    },
+    {
+      "id": 64,
+      "start": 417,
+      "end": 431
+    },
+    {
+      "id": 65,
+      "start": 432,
+      "end": 434
+    },
+    {
+      "id": 66,
+      "start": 435,
+      "end": 440
+    },
+    {
+      "id": 67,
+      "start": 440,
+      "end": 441
+    },
+    {
+      "id": 68,
+      "start": 442,
+      "end": 445
+    },
+    {
+      "id": 69,
+      "start": 446,
+      "end": 452
+    },
+    {
+      "id": 70,
+      "start": 453,
+      "end": 462
+    },
+    {
+      "id": 71,
+      "start": 463,
+      "end": 465
+    },
+    {
+      "id": 72,
+      "start": 466,
+      "end": 470
+    },
+    {
+      "id": 73,
+      "start": 471,
+      "end": 474
+    },
+    {
+      "id": 74,
+      "start": 475,
+      "end": 479
+    },
+    {
+      "id": 75,
+      "start": 480,
+      "end": 490
+    },
+    {
+      "id": 76,
+      "start": 491,
+      "end": 494
+    },
+    {
+      "id": 77,
+      "start": 495,
+      "end": 500
+    },
+    {
+      "id": 78,
+      "start": 500,
+      "end": 501
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Yasutora Sado",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "anime and manga series",
+      "dest": 1
+    },
+    {
+      "dep_text": "Yasutora Sado",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "teenager",
+      "dest": 4
+    }
+  ],
+  "classes": {
+    "anime_and_manga_series_1": {
+      "labels": [
+        "INFORMATION_ENTITY",
+        "PERSONIFICATION"
+      ],
+      "class": "anime and manga series"
+    },
+    "teenager_4": {
+      "labels": [
+        "PERSON",
+        "ROLE"
+      ],
+      "class": "teenager"
+    },
+    "nametag_6": {
+      "labels": [
+        "INFORMATION_ENTITY",
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "nametag"
+    }
+  }
+}

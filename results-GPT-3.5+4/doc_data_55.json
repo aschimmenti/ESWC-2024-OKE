@@ -1,0 +1,403 @@
+{
+  "text": "Democracy is \"a system of government in which all the people of a state or polity ... are involved in making decisions about its affairs, typically by voting to elect representatives to a parliament or similar assembly.\"",
+  "ents": [
+    {
+      "start": 0,
+      "end": 9,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 33,
+      "end": 53,
+      "label": "CLASS"
+    },
+    {
+      "start": 95,
+      "end": 100,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 121,
+      "end": 127,
+      "label": "CLASS"
+    },
+    {
+      "start": 209,
+      "end": 215,
+      "label": "CLASS"
+    },
+    {
+      "start": 237,
+      "end": 252,
+      "label": "CLASS"
+    },
+    {
+      "start": 270,
+      "end": 280,
+      "label": "CLASS"
+    },
+    {
+      "start": 304,
+      "end": 312,
+      "label": "CLASS"
+    },
+    {
+      "start_char": 0,
+      "end_char": 9,
+      "label": "INDIVIDUAL",
+      "text": "Democracy"
+    },
+    {
+      "start_char": 33,
+      "end_char": 53,
+      "label": "CLASS",
+      "text": "system of government",
+      "subClassOf": [
+        "ABSTRACT"
+      ]
+    },
+    {
+      "start_char": 95,
+      "end_char": 100,
+      "label": "INDIVIDUAL",
+      "text": "state"
+    },
+    {
+      "start_char": 121,
+      "end_char": 127,
+      "label": "CLASS",
+      "text": "polity",
+      "subClassOf": [
+        "Unknown"
+      ]
+    },
+    {
+      "start_char": 209,
+      "end_char": 215,
+      "label": "CLASS",
+      "text": "voting",
+      "subClassOf": [
+        "ACTIVITY"
+      ]
+    },
+    {
+      "start_char": 237,
+      "end_char": 252,
+      "label": "CLASS",
+      "text": "representatives",
+      "subClassOf": [
+        "PERSON",
+        "ROLE"
+      ]
+    },
+    {
+      "start_char": 270,
+      "end_char": 280,
+      "label": "CLASS",
+      "text": "parliament",
+      "subClassOf": [
+        "Unknown"
+      ]
+    },
+    {
+      "start_char": 304,
+      "end_char": 312,
+      "label": "CLASS",
+      "text": "assembly",
+      "subClassOf": [
+        "ACTIVITY"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 9
+    },
+    {
+      "id": 1,
+      "start": 9,
+      "end": 26
+    },
+    {
+      "id": 2,
+      "start": 27,
+      "end": 29
+    },
+    {
+      "id": 3,
+      "start": 30,
+      "end": 31
+    },
+    {
+      "id": 4,
+      "start": 31,
+      "end": 32
+    },
+    {
+      "id": 5,
+      "start": 33,
+      "end": 39
+    },
+    {
+      "id": 6,
+      "start": 40,
+      "end": 42
+    },
+    {
+      "id": 7,
+      "start": 43,
+      "end": 53
+    },
+    {
+      "id": 8,
+      "start": 53,
+      "end": 65
+    },
+    {
+      "id": 9,
+      "start": 66,
+      "end": 68
+    },
+    {
+      "id": 10,
+      "start": 69,
+      "end": 74
+    },
+    {
+      "id": 11,
+      "start": 75,
+      "end": 78
+    },
+    {
+      "id": 12,
+      "start": 79,
+      "end": 82
+    },
+    {
+      "id": 13,
+      "start": 83,
+      "end": 89
+    },
+    {
+      "id": 14,
+      "start": 90,
+      "end": 92
+    },
+    {
+      "id": 15,
+      "start": 93,
+      "end": 94
+    },
+    {
+      "id": 16,
+      "start": 95,
+      "end": 100
+    },
+    {
+      "id": 17,
+      "start": 100,
+      "end": 117
+    },
+    {
+      "id": 18,
+      "start": 118,
+      "end": 120
+    },
+    {
+      "id": 19,
+      "start": 121,
+      "end": 127
+    },
+    {
+      "id": 20,
+      "start": 127,
+      "end": 139
+    },
+    {
+      "id": 21,
+      "start": 140,
+      "end": 143
+    },
+    {
+      "id": 22,
+      "start": 144,
+      "end": 147
+    },
+    {
+      "id": 23,
+      "start": 148,
+      "end": 156
+    },
+    {
+      "id": 24,
+      "start": 157,
+      "end": 159
+    },
+    {
+      "id": 25,
+      "start": 160,
+      "end": 166
+    },
+    {
+      "id": 26,
+      "start": 167,
+      "end": 176
+    },
+    {
+      "id": 27,
+      "start": 177,
+      "end": 182
+    },
+    {
+      "id": 28,
+      "start": 183,
+      "end": 186
+    },
+    {
+      "id": 29,
+      "start": 187,
+      "end": 194
+    },
+    {
+      "id": 30,
+      "start": 194,
+      "end": 195
+    },
+    {
+      "id": 31,
+      "start": 196,
+      "end": 205
+    },
+    {
+      "id": 32,
+      "start": 206,
+      "end": 208
+    },
+    {
+      "id": 33,
+      "start": 209,
+      "end": 215
+    },
+    {
+      "id": 34,
+      "start": 215,
+      "end": 227
+    },
+    {
+      "id": 35,
+      "start": 228,
+      "end": 230
+    },
+    {
+      "id": 36,
+      "start": 231,
+      "end": 236
+    },
+    {
+      "id": 37,
+      "start": 237,
+      "end": 252
+    },
+    {
+      "id": 38,
+      "start": 252,
+      "end": 264
+    },
+    {
+      "id": 39,
+      "start": 265,
+      "end": 267
+    },
+    {
+      "id": 40,
+      "start": 268,
+      "end": 269
+    },
+    {
+      "id": 41,
+      "start": 270,
+      "end": 280
+    },
+    {
+      "id": 42,
+      "start": 280,
+      "end": 292
+    },
+    {
+      "id": 43,
+      "start": 293,
+      "end": 295
+    },
+    {
+      "id": 44,
+      "start": 296,
+      "end": 303
+    },
+    {
+      "id": 45,
+      "start": 304,
+      "end": 312
+    },
+    {
+      "id": 46,
+      "start": 312,
+      "end": 324
+    },
+    {
+      "id": 47,
+      "start": 324,
+      "end": 325
+    },
+    {
+      "id": 48,
+      "start": 325,
+      "end": 326
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Democracy",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "system of government",
+      "dest": 1
+    }
+  ],
+  "classes": {
+    "system_of_government_1": {
+      "labels": [
+        "ABSTRACT"
+      ],
+      "class": "system of government"
+    },
+    "polity_3": {
+      "labels": [],
+      "class": "polity"
+    },
+    "voting_4": {
+      "labels": [
+        "ACTIVITY"
+      ],
+      "class": "voting"
+    },
+    "representatives_5": {
+      "labels": [
+        "PERSON",
+        "ROLE"
+      ],
+      "class": "representatives"
+    },
+    "parliament_6": {
+      "labels": [],
+      "class": "parliament"
+    },
+    "assembly_7": {
+      "labels": [
+        "ACTIVITY"
+      ],
+      "class": "assembly"
+    }
+  }
+}

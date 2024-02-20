@@ -1,0 +1,273 @@
+{
+  "text": "Born on December, 1629 and died on 19 August 1686, Jean-Baptiste Cotelier or Cotelerius was a Patristic scholar and Catholic theologian.",
+  "ents": [
+    {
+      "start": 8,
+      "end": 22,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 52,
+      "end": 66,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 85,
+      "end": 107,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 128,
+      "end": 138,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 162,
+      "end": 179,
+      "label": "CLASS"
+    },
+    {
+      "start": 196,
+      "end": 215,
+      "label": "CLASS"
+    },
+    {
+      "start_char": 8,
+      "end_char": 22,
+      "label": "INDIVIDUAL",
+      "text": "December, 1629"
+    },
+    {
+      "start_char": 52,
+      "end_char": 66,
+      "label": "INDIVIDUAL",
+      "text": "19 August 1686"
+    },
+    {
+      "start_char": 85,
+      "end_char": 107,
+      "label": "INDIVIDUAL",
+      "text": "Jean-Baptiste Cotelier"
+    },
+    {
+      "start_char": 128,
+      "end_char": 138,
+      "label": "INDIVIDUAL",
+      "text": "Cotelerius"
+    },
+    {
+      "start_char": 162,
+      "end_char": 179,
+      "label": "CLASS",
+      "text": "Patristic scholar",
+      "subClassOf": [
+        "PERSON",
+        "ROLE"
+      ]
+    },
+    {
+      "start_char": 196,
+      "end_char": 215,
+      "label": "CLASS",
+      "text": "Catholic theologian",
+      "subClassOf": [
+        "PERSON",
+        "ROLE"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 4
+    },
+    {
+      "id": 1,
+      "start": 5,
+      "end": 7
+    },
+    {
+      "id": 2,
+      "start": 8,
+      "end": 16
+    },
+    {
+      "id": 3,
+      "start": 16,
+      "end": 17
+    },
+    {
+      "id": 4,
+      "start": 18,
+      "end": 22
+    },
+    {
+      "id": 5,
+      "start": 22,
+      "end": 39
+    },
+    {
+      "id": 6,
+      "start": 40,
+      "end": 43
+    },
+    {
+      "id": 7,
+      "start": 44,
+      "end": 48
+    },
+    {
+      "id": 8,
+      "start": 49,
+      "end": 51
+    },
+    {
+      "id": 9,
+      "start": 52,
+      "end": 54
+    },
+    {
+      "id": 10,
+      "start": 55,
+      "end": 61
+    },
+    {
+      "id": 11,
+      "start": 62,
+      "end": 66
+    },
+    {
+      "id": 12,
+      "start": 66,
+      "end": 83
+    },
+    {
+      "id": 13,
+      "start": 83,
+      "end": 84
+    },
+    {
+      "id": 14,
+      "start": 85,
+      "end": 89
+    },
+    {
+      "id": 15,
+      "start": 89,
+      "end": 90
+    },
+    {
+      "id": 16,
+      "start": 90,
+      "end": 98
+    },
+    {
+      "id": 17,
+      "start": 99,
+      "end": 107
+    },
+    {
+      "id": 18,
+      "start": 107,
+      "end": 124
+    },
+    {
+      "id": 19,
+      "start": 125,
+      "end": 127
+    },
+    {
+      "id": 20,
+      "start": 128,
+      "end": 138
+    },
+    {
+      "id": 21,
+      "start": 138,
+      "end": 155
+    },
+    {
+      "id": 22,
+      "start": 156,
+      "end": 159
+    },
+    {
+      "id": 23,
+      "start": 160,
+      "end": 161
+    },
+    {
+      "id": 24,
+      "start": 162,
+      "end": 171
+    },
+    {
+      "id": 25,
+      "start": 172,
+      "end": 179
+    },
+    {
+      "id": 26,
+      "start": 179,
+      "end": 191
+    },
+    {
+      "id": 27,
+      "start": 192,
+      "end": 195
+    },
+    {
+      "id": 28,
+      "start": 196,
+      "end": 204
+    },
+    {
+      "id": 29,
+      "start": 205,
+      "end": 215
+    },
+    {
+      "id": 30,
+      "start": 215,
+      "end": 227
+    },
+    {
+      "id": 31,
+      "start": 227,
+      "end": 228
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Jean-Baptiste Cotelier",
+      "dep": 2,
+      "rel": "is_a",
+      "dest_text": "Patristic scholar",
+      "dest": 4
+    },
+    {
+      "dep_text": "Jean-Baptiste Cotelier",
+      "dep": 2,
+      "rel": "is_a",
+      "dest_text": "Catholic theologian",
+      "dest": 5
+    }
+  ],
+  "classes": {
+    "Patristic_scholar_4": {
+      "labels": [
+        "PERSON",
+        "ROLE"
+      ],
+      "class": "Patristic scholar"
+    },
+    "Catholic_theologian_5": {
+      "labels": [
+        "PERSON",
+        "ROLE"
+      ],
+      "class": "Catholic theologian"
+    }
+  }
+}

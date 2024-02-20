@@ -1,0 +1,604 @@
+{
+  "text": "The United States Court of Appeals for the Tenth Circuit (in case citations, 10th Cir.) is a federal court with appellate jurisdiction over the district courts in the following districts: District of Colorado, District of Kansas, District of New Mexico, Eastern District of Oklahoma, Northern District of Oklahoma, Western District of Oklahoma, District of Utah and District of Wyoming.",
+  "ents": [
+    {
+      "start": 4,
+      "end": 56,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 110,
+      "end": 123,
+      "label": "CLASS"
+    },
+    {
+      "start": 141,
+      "end": 163,
+      "label": "CLASS"
+    },
+    {
+      "start": 185,
+      "end": 200,
+      "label": "CLASS"
+    },
+    {
+      "start": 241,
+      "end": 261,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 280,
+      "end": 298,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 317,
+      "end": 339,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 358,
+      "end": 386,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 405,
+      "end": 434,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 453,
+      "end": 481,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 500,
+      "end": 516,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 539,
+      "end": 558,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start_char": 4,
+      "end_char": 56,
+      "label": "INDIVIDUAL",
+      "text": "United States Court of Appeals for the Tenth Circuit"
+    },
+    {
+      "start_char": 110,
+      "end_char": 123,
+      "label": "CLASS",
+      "text": "federal court",
+      "subClassOf": [
+        "Unknown"
+      ]
+    },
+    {
+      "start_char": 141,
+      "end_char": 163,
+      "label": "CLASS",
+      "text": "appellate jurisdiction",
+      "subClassOf": [
+        "Unknown"
+      ]
+    },
+    {
+      "start_char": 185,
+      "end_char": 200,
+      "label": "CLASS",
+      "text": "district courts",
+      "subClassOf": [
+        "LOCATION",
+        "ORGANISATION"
+      ]
+    },
+    {
+      "start_char": 241,
+      "end_char": 261,
+      "label": "INDIVIDUAL",
+      "text": "District of Colorado"
+    },
+    {
+      "start_char": 280,
+      "end_char": 298,
+      "label": "INDIVIDUAL",
+      "text": "District of Kansas"
+    },
+    {
+      "start_char": 317,
+      "end_char": 339,
+      "label": "INDIVIDUAL",
+      "text": "District of New Mexico"
+    },
+    {
+      "start_char": 358,
+      "end_char": 386,
+      "label": "INDIVIDUAL",
+      "text": "Eastern District of Oklahoma"
+    },
+    {
+      "start_char": 405,
+      "end_char": 434,
+      "label": "INDIVIDUAL",
+      "text": "Northern District of Oklahoma"
+    },
+    {
+      "start_char": 453,
+      "end_char": 481,
+      "label": "INDIVIDUAL",
+      "text": "Western District of Oklahoma"
+    },
+    {
+      "start_char": 500,
+      "end_char": 516,
+      "label": "INDIVIDUAL",
+      "text": "District of Utah"
+    },
+    {
+      "start_char": 539,
+      "end_char": 558,
+      "label": "INDIVIDUAL",
+      "text": "District of Wyoming"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 3
+    },
+    {
+      "id": 1,
+      "start": 4,
+      "end": 10
+    },
+    {
+      "id": 2,
+      "start": 11,
+      "end": 17
+    },
+    {
+      "id": 3,
+      "start": 18,
+      "end": 23
+    },
+    {
+      "id": 4,
+      "start": 24,
+      "end": 26
+    },
+    {
+      "id": 5,
+      "start": 27,
+      "end": 34
+    },
+    {
+      "id": 6,
+      "start": 35,
+      "end": 38
+    },
+    {
+      "id": 7,
+      "start": 39,
+      "end": 42
+    },
+    {
+      "id": 8,
+      "start": 43,
+      "end": 48
+    },
+    {
+      "id": 9,
+      "start": 49,
+      "end": 56
+    },
+    {
+      "id": 10,
+      "start": 56,
+      "end": 73
+    },
+    {
+      "id": 11,
+      "start": 74,
+      "end": 75
+    },
+    {
+      "id": 12,
+      "start": 75,
+      "end": 77
+    },
+    {
+      "id": 13,
+      "start": 78,
+      "end": 82
+    },
+    {
+      "id": 14,
+      "start": 83,
+      "end": 92
+    },
+    {
+      "id": 15,
+      "start": 92,
+      "end": 93
+    },
+    {
+      "id": 16,
+      "start": 94,
+      "end": 98
+    },
+    {
+      "id": 17,
+      "start": 99,
+      "end": 102
+    },
+    {
+      "id": 18,
+      "start": 102,
+      "end": 103
+    },
+    {
+      "id": 19,
+      "start": 103,
+      "end": 104
+    },
+    {
+      "id": 20,
+      "start": 105,
+      "end": 107
+    },
+    {
+      "id": 21,
+      "start": 108,
+      "end": 109
+    },
+    {
+      "id": 22,
+      "start": 110,
+      "end": 117
+    },
+    {
+      "id": 23,
+      "start": 118,
+      "end": 123
+    },
+    {
+      "id": 24,
+      "start": 123,
+      "end": 135
+    },
+    {
+      "id": 25,
+      "start": 136,
+      "end": 140
+    },
+    {
+      "id": 26,
+      "start": 141,
+      "end": 150
+    },
+    {
+      "id": 27,
+      "start": 151,
+      "end": 163
+    },
+    {
+      "id": 28,
+      "start": 163,
+      "end": 175
+    },
+    {
+      "id": 29,
+      "start": 176,
+      "end": 180
+    },
+    {
+      "id": 30,
+      "start": 181,
+      "end": 184
+    },
+    {
+      "id": 31,
+      "start": 185,
+      "end": 193
+    },
+    {
+      "id": 32,
+      "start": 194,
+      "end": 200
+    },
+    {
+      "id": 33,
+      "start": 200,
+      "end": 212
+    },
+    {
+      "id": 34,
+      "start": 213,
+      "end": 215
+    },
+    {
+      "id": 35,
+      "start": 216,
+      "end": 219
+    },
+    {
+      "id": 36,
+      "start": 220,
+      "end": 229
+    },
+    {
+      "id": 37,
+      "start": 230,
+      "end": 239
+    },
+    {
+      "id": 38,
+      "start": 239,
+      "end": 240
+    },
+    {
+      "id": 39,
+      "start": 241,
+      "end": 249
+    },
+    {
+      "id": 40,
+      "start": 250,
+      "end": 252
+    },
+    {
+      "id": 41,
+      "start": 253,
+      "end": 261
+    },
+    {
+      "id": 42,
+      "start": 261,
+      "end": 278
+    },
+    {
+      "id": 43,
+      "start": 278,
+      "end": 279
+    },
+    {
+      "id": 44,
+      "start": 280,
+      "end": 288
+    },
+    {
+      "id": 45,
+      "start": 289,
+      "end": 291
+    },
+    {
+      "id": 46,
+      "start": 292,
+      "end": 298
+    },
+    {
+      "id": 47,
+      "start": 298,
+      "end": 315
+    },
+    {
+      "id": 48,
+      "start": 315,
+      "end": 316
+    },
+    {
+      "id": 49,
+      "start": 317,
+      "end": 325
+    },
+    {
+      "id": 50,
+      "start": 326,
+      "end": 328
+    },
+    {
+      "id": 51,
+      "start": 329,
+      "end": 332
+    },
+    {
+      "id": 52,
+      "start": 333,
+      "end": 339
+    },
+    {
+      "id": 53,
+      "start": 339,
+      "end": 356
+    },
+    {
+      "id": 54,
+      "start": 356,
+      "end": 357
+    },
+    {
+      "id": 55,
+      "start": 358,
+      "end": 365
+    },
+    {
+      "id": 56,
+      "start": 366,
+      "end": 374
+    },
+    {
+      "id": 57,
+      "start": 375,
+      "end": 377
+    },
+    {
+      "id": 58,
+      "start": 378,
+      "end": 386
+    },
+    {
+      "id": 59,
+      "start": 386,
+      "end": 403
+    },
+    {
+      "id": 60,
+      "start": 403,
+      "end": 404
+    },
+    {
+      "id": 61,
+      "start": 405,
+      "end": 413
+    },
+    {
+      "id": 62,
+      "start": 414,
+      "end": 422
+    },
+    {
+      "id": 63,
+      "start": 423,
+      "end": 425
+    },
+    {
+      "id": 64,
+      "start": 426,
+      "end": 434
+    },
+    {
+      "id": 65,
+      "start": 434,
+      "end": 451
+    },
+    {
+      "id": 66,
+      "start": 451,
+      "end": 452
+    },
+    {
+      "id": 67,
+      "start": 453,
+      "end": 460
+    },
+    {
+      "id": 68,
+      "start": 461,
+      "end": 469
+    },
+    {
+      "id": 69,
+      "start": 470,
+      "end": 472
+    },
+    {
+      "id": 70,
+      "start": 473,
+      "end": 481
+    },
+    {
+      "id": 71,
+      "start": 481,
+      "end": 498
+    },
+    {
+      "id": 72,
+      "start": 498,
+      "end": 499
+    },
+    {
+      "id": 73,
+      "start": 500,
+      "end": 508
+    },
+    {
+      "id": 74,
+      "start": 509,
+      "end": 511
+    },
+    {
+      "id": 75,
+      "start": 512,
+      "end": 516
+    },
+    {
+      "id": 76,
+      "start": 516,
+      "end": 534
+    },
+    {
+      "id": 77,
+      "start": 535,
+      "end": 538
+    },
+    {
+      "id": 78,
+      "start": 539,
+      "end": 547
+    },
+    {
+      "id": 79,
+      "start": 548,
+      "end": 550
+    },
+    {
+      "id": 80,
+      "start": 551,
+      "end": 558
+    },
+    {
+      "id": 81,
+      "start": 558,
+      "end": 576
+    },
+    {
+      "id": 82,
+      "start": 576,
+      "end": 577
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "United States Court of Appeals for the Tenth Circuit",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "federal court",
+      "dest": 1
+    },
+    {
+      "dep_text": "United States Court of Appeals for the Tenth Circuit",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "appellate jurisdiction",
+      "dest": 2
+    },
+    {
+      "dep_text": "United States Court of Appeals for the Tenth Circuit",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "district courts",
+      "dest": 3
+    }
+  ],
+  "classes": {
+    "federal_court_1": {
+      "labels": [],
+      "class": "federal court"
+    },
+    "appellate_jurisdiction_2": {
+      "labels": [],
+      "class": "appellate jurisdiction"
+    },
+    "district_courts_3": {
+      "labels": [
+        "LOCATION",
+        "ORGANISATION"
+      ],
+      "class": "district courts"
+    }
+  }
+}

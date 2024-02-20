@@ -1,0 +1,161 @@
+{
+  "text": "Alkalinity is the quantitative capacity of an aqueous solution to neutralize an acid.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 10,
+      "label": "ENTITY"
+    },
+    {
+      "start": 31,
+      "end": 52,
+      "label": "CLASS"
+    },
+    {
+      "start": 71,
+      "end": 87,
+      "label": "ENTITY"
+    },
+    {
+      "start": 118,
+      "end": 122,
+      "label": "ENTITY"
+    },
+    {
+      "start_char": 0,
+      "end_char": 10,
+      "label": "ENTITY",
+      "text": "Alkalinity"
+    },
+    {
+      "start_char": 31,
+      "end_char": 52,
+      "label": "CLASS",
+      "text": "quantitative capacity",
+      "subClassOf": [
+        "ABSTRACT"
+      ]
+    },
+    {
+      "start_char": 71,
+      "end_char": 87,
+      "label": "ENTITY",
+      "text": "aqueous solution"
+    },
+    {
+      "start_char": 118,
+      "end_char": 122,
+      "label": "ENTITY",
+      "text": "acid"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 10
+    },
+    {
+      "id": 1,
+      "start": 10,
+      "end": 23
+    },
+    {
+      "id": 2,
+      "start": 24,
+      "end": 26
+    },
+    {
+      "id": 3,
+      "start": 27,
+      "end": 30
+    },
+    {
+      "id": 4,
+      "start": 31,
+      "end": 43
+    },
+    {
+      "id": 5,
+      "start": 44,
+      "end": 52
+    },
+    {
+      "id": 6,
+      "start": 52,
+      "end": 64
+    },
+    {
+      "id": 7,
+      "start": 65,
+      "end": 67
+    },
+    {
+      "id": 8,
+      "start": 68,
+      "end": 70
+    },
+    {
+      "id": 9,
+      "start": 71,
+      "end": 78
+    },
+    {
+      "id": 10,
+      "start": 79,
+      "end": 87
+    },
+    {
+      "id": 11,
+      "start": 87,
+      "end": 100
+    },
+    {
+      "id": 12,
+      "start": 101,
+      "end": 103
+    },
+    {
+      "id": 13,
+      "start": 104,
+      "end": 114
+    },
+    {
+      "id": 14,
+      "start": 115,
+      "end": 117
+    },
+    {
+      "id": 15,
+      "start": 118,
+      "end": 122
+    },
+    {
+      "id": 16,
+      "start": 122,
+      "end": 135
+    },
+    {
+      "id": 17,
+      "start": 135,
+      "end": 136
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Alkalinity",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "quantitative capacity",
+      "dest": 1
+    }
+  ],
+  "classes": {
+    "quantitative_capacity_1": {
+      "labels": [
+        "ABSTRACT"
+      ],
+      "class": "quantitative capacity"
+    }
+  }
+}

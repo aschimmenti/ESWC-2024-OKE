@@ -1,0 +1,1 @@
+{"text": "Laura is a student at the University of Bologna.", "ents": [{"start_char": 0, "end_char": 5, "label": "PERSON"}, {"start_char": 11, "end_char": 18, "label": "ROLE"}, {"start_char": 26, "end_char": 47, "label": "ORGANISATION"}], "relations": [{"dep": 0, "dest": 1, "relation": "hasRole"}, {"dep": 0, "dest": 2, "relation": "worksAt"}]}

@@ -1,0 +1,242 @@
+{
+  "text": "Holothuria is a genus of marine animals of the family Holothuriidae. Members of the genus are found in coastal waters in tropical and temperate regions.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 10,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 42,
+      "end": 56,
+      "label": "CLASS"
+    },
+    {
+      "start": 76,
+      "end": 96,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 149,
+      "end": 163,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 184,
+      "end": 214,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start_char": 0,
+      "end_char": 10,
+      "label": "INDIVIDUAL",
+      "text": "Holothuria"
+    },
+    {
+      "start_char": 42,
+      "end_char": 56,
+      "label": "CLASS",
+      "text": "marine animals",
+      "subClassOf": [
+        "ORGANISM"
+      ]
+    },
+    {
+      "start_char": 76,
+      "end_char": 96,
+      "label": "INDIVIDUAL",
+      "text": "family Holothuriidae"
+    },
+    {
+      "start_char": 149,
+      "end_char": 163,
+      "label": "INDIVIDUAL",
+      "text": "coastal waters"
+    },
+    {
+      "start_char": 184,
+      "end_char": 214,
+      "label": "INDIVIDUAL",
+      "text": "tropical and temperate regions"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 10
+    },
+    {
+      "id": 1,
+      "start": 10,
+      "end": 27
+    },
+    {
+      "id": 2,
+      "start": 28,
+      "end": 30
+    },
+    {
+      "id": 3,
+      "start": 31,
+      "end": 32
+    },
+    {
+      "id": 4,
+      "start": 33,
+      "end": 38
+    },
+    {
+      "id": 5,
+      "start": 39,
+      "end": 41
+    },
+    {
+      "id": 6,
+      "start": 42,
+      "end": 48
+    },
+    {
+      "id": 7,
+      "start": 49,
+      "end": 56
+    },
+    {
+      "id": 8,
+      "start": 56,
+      "end": 68
+    },
+    {
+      "id": 9,
+      "start": 69,
+      "end": 71
+    },
+    {
+      "id": 10,
+      "start": 72,
+      "end": 75
+    },
+    {
+      "id": 11,
+      "start": 76,
+      "end": 82
+    },
+    {
+      "id": 12,
+      "start": 83,
+      "end": 96
+    },
+    {
+      "id": 13,
+      "start": 96,
+      "end": 113
+    },
+    {
+      "id": 14,
+      "start": 113,
+      "end": 114
+    },
+    {
+      "id": 15,
+      "start": 115,
+      "end": 122
+    },
+    {
+      "id": 16,
+      "start": 123,
+      "end": 125
+    },
+    {
+      "id": 17,
+      "start": 126,
+      "end": 129
+    },
+    {
+      "id": 18,
+      "start": 130,
+      "end": 135
+    },
+    {
+      "id": 19,
+      "start": 136,
+      "end": 139
+    },
+    {
+      "id": 20,
+      "start": 140,
+      "end": 145
+    },
+    {
+      "id": 21,
+      "start": 146,
+      "end": 148
+    },
+    {
+      "id": 22,
+      "start": 149,
+      "end": 156
+    },
+    {
+      "id": 23,
+      "start": 157,
+      "end": 163
+    },
+    {
+      "id": 24,
+      "start": 163,
+      "end": 180
+    },
+    {
+      "id": 25,
+      "start": 181,
+      "end": 183
+    },
+    {
+      "id": 26,
+      "start": 184,
+      "end": 192
+    },
+    {
+      "id": 27,
+      "start": 193,
+      "end": 196
+    },
+    {
+      "id": 28,
+      "start": 197,
+      "end": 206
+    },
+    {
+      "id": 29,
+      "start": 207,
+      "end": 214
+    },
+    {
+      "id": 30,
+      "start": 214,
+      "end": 231
+    },
+    {
+      "id": 31,
+      "start": 231,
+      "end": 232
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Holothuria",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "marine animals",
+      "dest": 1
+    }
+  ],
+  "classes": {
+    "marine_animals_1": {
+      "labels": [
+        "ORGANISM"
+      ],
+      "class": "marine animals"
+    }
+  }
+}

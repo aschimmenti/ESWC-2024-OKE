@@ -1,0 +1,574 @@
+{
+  "text": "'La casta. Così i politici italiani sono diventati intoccabili' is an Italian book, written by Sergio Rizzo and Gian Antonio Stella, two journalists from the Italian national newspaper Corriere della Sera, detailing the amount of graft and corruption in italian politics. It was published in 2007, and became a bestseller.",
+  "ents": [
+    {
+      "start": 1,
+      "end": 62,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 87,
+      "end": 99,
+      "label": "CLASS"
+    },
+    {
+      "start": 124,
+      "end": 136,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 158,
+      "end": 177,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 200,
+      "end": 211,
+      "label": "CLASS"
+    },
+    {
+      "start": 260,
+      "end": 279,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 322,
+      "end": 327,
+      "label": "CLASS"
+    },
+    {
+      "start": 344,
+      "end": 354,
+      "label": "CLASS"
+    },
+    {
+      "start": 370,
+      "end": 386,
+      "label": "CLASS"
+    },
+    {
+      "start": 420,
+      "end": 424,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 456,
+      "end": 466,
+      "label": "CLASS"
+    },
+    {
+      "start_char": 1,
+      "end_char": 62,
+      "label": "INDIVIDUAL",
+      "text": "La casta. Così i politici italiani sono diventati intoccabili"
+    },
+    {
+      "start_char": 87,
+      "end_char": 99,
+      "label": "CLASS",
+      "text": "Italian book",
+      "subClassOf": [
+        "INFORMATION_ENTITY"
+      ]
+    },
+    {
+      "start_char": 124,
+      "end_char": 136,
+      "label": "INDIVIDUAL",
+      "text": "Sergio Rizzo"
+    },
+    {
+      "start_char": 158,
+      "end_char": 177,
+      "label": "INDIVIDUAL",
+      "text": "Gian Antonio Stella"
+    },
+    {
+      "start_char": 200,
+      "end_char": 211,
+      "label": "CLASS",
+      "text": "journalists",
+      "subClassOf": [
+        "PERSON",
+        "ROLE"
+      ]
+    },
+    {
+      "start_char": 260,
+      "end_char": 279,
+      "label": "INDIVIDUAL",
+      "text": "Corriere della Sera"
+    },
+    {
+      "start_char": 322,
+      "end_char": 327,
+      "label": "CLASS",
+      "text": "graft",
+      "subClassOf": [
+        "INFORMATION_ENTITY",
+        "SOCIAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 344,
+      "end_char": 354,
+      "label": "CLASS",
+      "text": "corruption",
+      "subClassOf": [
+        "SITUATION",
+        "TOPIC"
+      ]
+    },
+    {
+      "start_char": 370,
+      "end_char": 386,
+      "label": "CLASS",
+      "text": "italian politics",
+      "subClassOf": [
+        "SOCIAL_OBJECT",
+        "TOPIC"
+      ]
+    },
+    {
+      "start_char": 420,
+      "end_char": 424,
+      "label": "INDIVIDUAL",
+      "text": "2007"
+    },
+    {
+      "start_char": 456,
+      "end_char": 466,
+      "label": "CLASS",
+      "text": "bestseller",
+      "subClassOf": [
+        "INFORMATION_ENTITY",
+        "SOCIAL_OBJECT"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 1
+    },
+    {
+      "id": 1,
+      "start": 1,
+      "end": 3
+    },
+    {
+      "id": 2,
+      "start": 4,
+      "end": 9
+    },
+    {
+      "id": 3,
+      "start": 9,
+      "end": 10
+    },
+    {
+      "id": 4,
+      "start": 11,
+      "end": 15
+    },
+    {
+      "id": 5,
+      "start": 16,
+      "end": 17
+    },
+    {
+      "id": 6,
+      "start": 18,
+      "end": 26
+    },
+    {
+      "id": 7,
+      "start": 27,
+      "end": 35
+    },
+    {
+      "id": 8,
+      "start": 36,
+      "end": 40
+    },
+    {
+      "id": 9,
+      "start": 41,
+      "end": 50
+    },
+    {
+      "id": 10,
+      "start": 51,
+      "end": 62
+    },
+    {
+      "id": 11,
+      "start": 62,
+      "end": 79
+    },
+    {
+      "id": 12,
+      "start": 79,
+      "end": 80
+    },
+    {
+      "id": 13,
+      "start": 81,
+      "end": 83
+    },
+    {
+      "id": 14,
+      "start": 84,
+      "end": 86
+    },
+    {
+      "id": 15,
+      "start": 87,
+      "end": 94
+    },
+    {
+      "id": 16,
+      "start": 95,
+      "end": 99
+    },
+    {
+      "id": 17,
+      "start": 99,
+      "end": 111
+    },
+    {
+      "id": 18,
+      "start": 111,
+      "end": 112
+    },
+    {
+      "id": 19,
+      "start": 113,
+      "end": 120
+    },
+    {
+      "id": 20,
+      "start": 121,
+      "end": 123
+    },
+    {
+      "id": 21,
+      "start": 124,
+      "end": 130
+    },
+    {
+      "id": 22,
+      "start": 131,
+      "end": 136
+    },
+    {
+      "id": 23,
+      "start": 136,
+      "end": 153
+    },
+    {
+      "id": 24,
+      "start": 154,
+      "end": 157
+    },
+    {
+      "id": 25,
+      "start": 158,
+      "end": 162
+    },
+    {
+      "id": 26,
+      "start": 163,
+      "end": 170
+    },
+    {
+      "id": 27,
+      "start": 171,
+      "end": 177
+    },
+    {
+      "id": 28,
+      "start": 177,
+      "end": 194
+    },
+    {
+      "id": 29,
+      "start": 194,
+      "end": 195
+    },
+    {
+      "id": 30,
+      "start": 196,
+      "end": 199
+    },
+    {
+      "id": 31,
+      "start": 200,
+      "end": 211
+    },
+    {
+      "id": 32,
+      "start": 211,
+      "end": 223
+    },
+    {
+      "id": 33,
+      "start": 224,
+      "end": 228
+    },
+    {
+      "id": 34,
+      "start": 229,
+      "end": 232
+    },
+    {
+      "id": 35,
+      "start": 233,
+      "end": 240
+    },
+    {
+      "id": 36,
+      "start": 241,
+      "end": 249
+    },
+    {
+      "id": 37,
+      "start": 250,
+      "end": 259
+    },
+    {
+      "id": 38,
+      "start": 260,
+      "end": 268
+    },
+    {
+      "id": 39,
+      "start": 269,
+      "end": 274
+    },
+    {
+      "id": 40,
+      "start": 275,
+      "end": 279
+    },
+    {
+      "id": 41,
+      "start": 279,
+      "end": 296
+    },
+    {
+      "id": 42,
+      "start": 296,
+      "end": 297
+    },
+    {
+      "id": 43,
+      "start": 298,
+      "end": 307
+    },
+    {
+      "id": 44,
+      "start": 308,
+      "end": 311
+    },
+    {
+      "id": 45,
+      "start": 312,
+      "end": 318
+    },
+    {
+      "id": 46,
+      "start": 319,
+      "end": 321
+    },
+    {
+      "id": 47,
+      "start": 322,
+      "end": 327
+    },
+    {
+      "id": 48,
+      "start": 327,
+      "end": 339
+    },
+    {
+      "id": 49,
+      "start": 340,
+      "end": 343
+    },
+    {
+      "id": 50,
+      "start": 344,
+      "end": 354
+    },
+    {
+      "id": 51,
+      "start": 354,
+      "end": 366
+    },
+    {
+      "id": 52,
+      "start": 367,
+      "end": 369
+    },
+    {
+      "id": 53,
+      "start": 370,
+      "end": 377
+    },
+    {
+      "id": 54,
+      "start": 378,
+      "end": 386
+    },
+    {
+      "id": 55,
+      "start": 386,
+      "end": 398
+    },
+    {
+      "id": 56,
+      "start": 398,
+      "end": 399
+    },
+    {
+      "id": 57,
+      "start": 400,
+      "end": 402
+    },
+    {
+      "id": 58,
+      "start": 403,
+      "end": 406
+    },
+    {
+      "id": 59,
+      "start": 407,
+      "end": 416
+    },
+    {
+      "id": 60,
+      "start": 417,
+      "end": 419
+    },
+    {
+      "id": 61,
+      "start": 420,
+      "end": 424
+    },
+    {
+      "id": 62,
+      "start": 424,
+      "end": 441
+    },
+    {
+      "id": 63,
+      "start": 441,
+      "end": 442
+    },
+    {
+      "id": 64,
+      "start": 443,
+      "end": 446
+    },
+    {
+      "id": 65,
+      "start": 447,
+      "end": 453
+    },
+    {
+      "id": 66,
+      "start": 454,
+      "end": 455
+    },
+    {
+      "id": 67,
+      "start": 456,
+      "end": 466
+    },
+    {
+      "id": 68,
+      "start": 466,
+      "end": 479
+    },
+    {
+      "id": 69,
+      "start": 479,
+      "end": 480
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "La casta. Così i politici italiani sono diventati intoccabili",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "Italian book",
+      "dest": 1
+    },
+    {
+      "dep_text": "Sergio Rizzo",
+      "dep": 2,
+      "rel": "is_a",
+      "dest_text": "journalists",
+      "dest": 4
+    },
+    {
+      "dep_text": "Gian Antonio Stella",
+      "dep": 3,
+      "rel": "is_a",
+      "dest_text": "journalists",
+      "dest": 4
+    },
+    {
+      "dep_text": "La casta. Così i politici italiani sono diventati intoccabili",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "bestseller",
+      "dest": 10
+    }
+  ],
+  "classes": {
+    "Italian_book_1": {
+      "labels": [
+        "INFORMATION_ENTITY"
+      ],
+      "class": "Italian book"
+    },
+    "journalists_4": {
+      "labels": [
+        "PERSON",
+        "ROLE"
+      ],
+      "class": "journalists"
+    },
+    "graft_6": {
+      "labels": [
+        "INFORMATION_ENTITY",
+        "SOCIAL_OBJECT"
+      ],
+      "class": "graft"
+    },
+    "corruption_7": {
+      "labels": [
+        "SITUATION",
+        "TOPIC"
+      ],
+      "class": "corruption"
+    },
+    "italian_politics_8": {
+      "labels": [
+        "SOCIAL_OBJECT",
+        "TOPIC"
+      ],
+      "class": "italian politics"
+    },
+    "bestseller_10": {
+      "labels": [
+        "INFORMATION_ENTITY",
+        "SOCIAL_OBJECT"
+      ],
+      "class": "bestseller"
+    }
+  }
+}

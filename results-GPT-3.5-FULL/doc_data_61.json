@@ -1,0 +1,480 @@
+{
+  "text": "The Berlin Blockade was one of the first major international crises of the Cold War. During the multinational occupation of post-World War II Germany, the Soviet Union blocked the Western Allies' railway, road, and canal access to the sectors of Berlin under Western control.",
+  "ents": [
+    {
+      "start": 4,
+      "end": 19,
+      "label": "ENTITY"
+    },
+    {
+      "start": 88,
+      "end": 96,
+      "label": "CLASS"
+    },
+    {
+      "start": 121,
+      "end": 145,
+      "label": "CLASS"
+    },
+    {
+      "start": 166,
+      "end": 186,
+      "label": "ENTITY"
+    },
+    {
+      "start": 205,
+      "end": 217,
+      "label": "ENTITY"
+    },
+    {
+      "start": 243,
+      "end": 257,
+      "label": "ENTITY"
+    },
+    {
+      "start": 272,
+      "end": 279,
+      "label": "CLASS"
+    },
+    {
+      "start": 293,
+      "end": 297,
+      "label": "CLASS"
+    },
+    {
+      "start": 315,
+      "end": 320,
+      "label": "CLASS"
+    },
+    {
+      "start_char": 4,
+      "end_char": 19,
+      "label": "ENTITY",
+      "text": "Berlin Blockade"
+    },
+    {
+      "start_char": 88,
+      "end_char": 96,
+      "label": "CLASS",
+      "text": "Cold War",
+      "subClassOf": [
+        "EVENT"
+      ]
+    },
+    {
+      "start_char": 121,
+      "end_char": 145,
+      "label": "CLASS",
+      "text": "multinational occupation",
+      "subClassOf": [
+        "EVENT",
+        "SITUATION"
+      ]
+    },
+    {
+      "start_char": 166,
+      "end_char": 186,
+      "label": "ENTITY",
+      "text": "World War II Germany"
+    },
+    {
+      "start_char": 205,
+      "end_char": 217,
+      "label": "ENTITY",
+      "text": "Soviet Union"
+    },
+    {
+      "start_char": 243,
+      "end_char": 257,
+      "label": "ENTITY",
+      "text": "Western Allies"
+    },
+    {
+      "start_char": 272,
+      "end_char": 279,
+      "label": "CLASS",
+      "text": "railway",
+      "subClassOf": [
+        "LOCATION",
+        "PHYSICAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 293,
+      "end_char": 297,
+      "label": "CLASS",
+      "text": "road",
+      "subClassOf": [
+        "LOCATION",
+        "PHYSICAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 315,
+      "end_char": 320,
+      "label": "CLASS",
+      "text": "canal",
+      "subClassOf": [
+        "LOCATION"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 3
+    },
+    {
+      "id": 1,
+      "start": 4,
+      "end": 10
+    },
+    {
+      "id": 2,
+      "start": 11,
+      "end": 19
+    },
+    {
+      "id": 3,
+      "start": 19,
+      "end": 32
+    },
+    {
+      "id": 4,
+      "start": 33,
+      "end": 36
+    },
+    {
+      "id": 5,
+      "start": 37,
+      "end": 40
+    },
+    {
+      "id": 6,
+      "start": 41,
+      "end": 43
+    },
+    {
+      "id": 7,
+      "start": 44,
+      "end": 47
+    },
+    {
+      "id": 8,
+      "start": 48,
+      "end": 53
+    },
+    {
+      "id": 9,
+      "start": 54,
+      "end": 59
+    },
+    {
+      "id": 10,
+      "start": 60,
+      "end": 73
+    },
+    {
+      "id": 11,
+      "start": 74,
+      "end": 80
+    },
+    {
+      "id": 12,
+      "start": 81,
+      "end": 83
+    },
+    {
+      "id": 13,
+      "start": 84,
+      "end": 87
+    },
+    {
+      "id": 14,
+      "start": 88,
+      "end": 92
+    },
+    {
+      "id": 15,
+      "start": 93,
+      "end": 96
+    },
+    {
+      "id": 16,
+      "start": 96,
+      "end": 108
+    },
+    {
+      "id": 17,
+      "start": 108,
+      "end": 109
+    },
+    {
+      "id": 18,
+      "start": 110,
+      "end": 116
+    },
+    {
+      "id": 19,
+      "start": 117,
+      "end": 120
+    },
+    {
+      "id": 20,
+      "start": 121,
+      "end": 134
+    },
+    {
+      "id": 21,
+      "start": 135,
+      "end": 145
+    },
+    {
+      "id": 22,
+      "start": 145,
+      "end": 157
+    },
+    {
+      "id": 23,
+      "start": 158,
+      "end": 160
+    },
+    {
+      "id": 24,
+      "start": 161,
+      "end": 165
+    },
+    {
+      "id": 25,
+      "start": 165,
+      "end": 166
+    },
+    {
+      "id": 26,
+      "start": 166,
+      "end": 171
+    },
+    {
+      "id": 27,
+      "start": 172,
+      "end": 175
+    },
+    {
+      "id": 28,
+      "start": 176,
+      "end": 178
+    },
+    {
+      "id": 29,
+      "start": 179,
+      "end": 186
+    },
+    {
+      "id": 30,
+      "start": 186,
+      "end": 199
+    },
+    {
+      "id": 31,
+      "start": 199,
+      "end": 200
+    },
+    {
+      "id": 32,
+      "start": 201,
+      "end": 204
+    },
+    {
+      "id": 33,
+      "start": 205,
+      "end": 211
+    },
+    {
+      "id": 34,
+      "start": 212,
+      "end": 217
+    },
+    {
+      "id": 35,
+      "start": 217,
+      "end": 230
+    },
+    {
+      "id": 36,
+      "start": 231,
+      "end": 238
+    },
+    {
+      "id": 37,
+      "start": 239,
+      "end": 242
+    },
+    {
+      "id": 38,
+      "start": 243,
+      "end": 250
+    },
+    {
+      "id": 39,
+      "start": 251,
+      "end": 257
+    },
+    {
+      "id": 40,
+      "start": 257,
+      "end": 270
+    },
+    {
+      "id": 41,
+      "start": 270,
+      "end": 271
+    },
+    {
+      "id": 42,
+      "start": 272,
+      "end": 279
+    },
+    {
+      "id": 43,
+      "start": 279,
+      "end": 291
+    },
+    {
+      "id": 44,
+      "start": 291,
+      "end": 292
+    },
+    {
+      "id": 45,
+      "start": 293,
+      "end": 297
+    },
+    {
+      "id": 46,
+      "start": 297,
+      "end": 309
+    },
+    {
+      "id": 47,
+      "start": 309,
+      "end": 310
+    },
+    {
+      "id": 48,
+      "start": 311,
+      "end": 314
+    },
+    {
+      "id": 49,
+      "start": 315,
+      "end": 320
+    },
+    {
+      "id": 50,
+      "start": 320,
+      "end": 332
+    },
+    {
+      "id": 51,
+      "start": 333,
+      "end": 339
+    },
+    {
+      "id": 52,
+      "start": 340,
+      "end": 342
+    },
+    {
+      "id": 53,
+      "start": 343,
+      "end": 346
+    },
+    {
+      "id": 54,
+      "start": 347,
+      "end": 354
+    },
+    {
+      "id": 55,
+      "start": 355,
+      "end": 357
+    },
+    {
+      "id": 56,
+      "start": 358,
+      "end": 364
+    },
+    {
+      "id": 57,
+      "start": 365,
+      "end": 370
+    },
+    {
+      "id": 58,
+      "start": 371,
+      "end": 378
+    },
+    {
+      "id": 59,
+      "start": 379,
+      "end": 386
+    },
+    {
+      "id": 60,
+      "start": 386,
+      "end": 387
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Berlin Blockade",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "Cold War",
+      "dest": 1
+    },
+    {
+      "dep_text": "multinational occupation",
+      "dep": 2,
+      "rel": "rdf-isClassOf",
+      "dest_text": "World War II Germany",
+      "dest": 3
+    }
+  ],
+  "classes": {
+    "Cold_War_1": {
+      "labels": [
+        "EVENT"
+      ],
+      "class": "Cold War"
+    },
+    "multinational_occupation_2": {
+      "labels": [
+        "EVENT",
+        "SITUATION"
+      ],
+      "class": "multinational occupation"
+    },
+    "railway_6": {
+      "labels": [
+        "LOCATION",
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "railway"
+    },
+    "road_7": {
+      "labels": [
+        "LOCATION",
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "road"
+    },
+    "canal_8": {
+      "labels": [
+        "LOCATION"
+      ],
+      "class": "canal"
+    }
+  }
+}

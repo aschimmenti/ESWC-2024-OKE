@@ -1,0 +1,257 @@
+{
+  "text": "Richard Threlkeld Cox was a professor of physics at Johns Hopkins University, known for Cox's theorem relating to the foundations of probability.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 21,
+      "label": "ENTITY"
+    },
+    {
+      "start": 41,
+      "end": 50,
+      "label": "CLASS"
+    },
+    {
+      "start": 66,
+      "end": 73,
+      "label": "ENTITY"
+    },
+    {
+      "start": 90,
+      "end": 114,
+      "label": "ENTITY"
+    },
+    {
+      "start": 139,
+      "end": 152,
+      "label": "ENTITY"
+    },
+    {
+      "start": 197,
+      "end": 208,
+      "label": "ENTITY"
+    },
+    {
+      "start_char": 0,
+      "end_char": 21,
+      "label": "ENTITY",
+      "text": "Richard Threlkeld Cox"
+    },
+    {
+      "start_char": 41,
+      "end_char": 50,
+      "label": "CLASS",
+      "text": "professor",
+      "subClassOf": [
+        "PERSON",
+        "ROLE"
+      ]
+    },
+    {
+      "start_char": 66,
+      "end_char": 73,
+      "label": "ENTITY",
+      "text": "physics"
+    },
+    {
+      "start_char": 90,
+      "end_char": 114,
+      "label": "ENTITY",
+      "text": "Johns Hopkins University"
+    },
+    {
+      "start_char": 139,
+      "end_char": 152,
+      "label": "ENTITY",
+      "text": "Cox's theorem"
+    },
+    {
+      "start_char": 197,
+      "end_char": 208,
+      "label": "ENTITY",
+      "text": "probability"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 7
+    },
+    {
+      "id": 1,
+      "start": 8,
+      "end": 17
+    },
+    {
+      "id": 2,
+      "start": 18,
+      "end": 21
+    },
+    {
+      "id": 3,
+      "start": 21,
+      "end": 34
+    },
+    {
+      "id": 4,
+      "start": 35,
+      "end": 38
+    },
+    {
+      "id": 5,
+      "start": 39,
+      "end": 40
+    },
+    {
+      "id": 6,
+      "start": 41,
+      "end": 50
+    },
+    {
+      "id": 7,
+      "start": 50,
+      "end": 62
+    },
+    {
+      "id": 8,
+      "start": 63,
+      "end": 65
+    },
+    {
+      "id": 9,
+      "start": 66,
+      "end": 73
+    },
+    {
+      "id": 10,
+      "start": 73,
+      "end": 86
+    },
+    {
+      "id": 11,
+      "start": 87,
+      "end": 89
+    },
+    {
+      "id": 12,
+      "start": 90,
+      "end": 95
+    },
+    {
+      "id": 13,
+      "start": 96,
+      "end": 103
+    },
+    {
+      "id": 14,
+      "start": 104,
+      "end": 114
+    },
+    {
+      "id": 15,
+      "start": 114,
+      "end": 127
+    },
+    {
+      "id": 16,
+      "start": 127,
+      "end": 128
+    },
+    {
+      "id": 17,
+      "start": 129,
+      "end": 134
+    },
+    {
+      "id": 18,
+      "start": 135,
+      "end": 138
+    },
+    {
+      "id": 19,
+      "start": 139,
+      "end": 142
+    },
+    {
+      "id": 20,
+      "start": 142,
+      "end": 144
+    },
+    {
+      "id": 21,
+      "start": 145,
+      "end": 152
+    },
+    {
+      "id": 22,
+      "start": 152,
+      "end": 165
+    },
+    {
+      "id": 23,
+      "start": 166,
+      "end": 174
+    },
+    {
+      "id": 24,
+      "start": 175,
+      "end": 177
+    },
+    {
+      "id": 25,
+      "start": 178,
+      "end": 181
+    },
+    {
+      "id": 26,
+      "start": 182,
+      "end": 193
+    },
+    {
+      "id": 27,
+      "start": 194,
+      "end": 196
+    },
+    {
+      "id": 28,
+      "start": 197,
+      "end": 208
+    },
+    {
+      "id": 29,
+      "start": 208,
+      "end": 221
+    },
+    {
+      "id": 30,
+      "start": 221,
+      "end": 222
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Richard Threlkeld Cox",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "professor",
+      "dest": 1
+    },
+    {
+      "dep_text": "physics",
+      "dep": 2,
+      "rel": "rdf-isClassOf",
+      "dest_text": "Johns Hopkins University",
+      "dest": 3
+    }
+  ],
+  "classes": {
+    "professor_1": {
+      "labels": [
+        "PERSON",
+        "ROLE"
+      ],
+      "class": "professor"
+    }
+  }
+}

@@ -1,0 +1,400 @@
+{
+  "text": "Hard water is water that has high mineral content (in contrast with \"soft water\"). Hard water is formed when water percolates through deposits of limestone and chalk-containing minerals such as calcium and magnesium.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 10,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 31,
+      "end": 36,
+      "label": "CLASS"
+    },
+    {
+      "start": 63,
+      "end": 78,
+      "label": "CLASS"
+    },
+    {
+      "start": 110,
+      "end": 120,
+      "label": "CLASS"
+    },
+    {
+      "start": 199,
+      "end": 208,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 230,
+      "end": 255,
+      "label": "CLASS"
+    },
+    {
+      "start": 276,
+      "end": 283,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 305,
+      "end": 314,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start_char": 0,
+      "end_char": 10,
+      "label": "INDIVIDUAL",
+      "text": "Hard water"
+    },
+    {
+      "start_char": 31,
+      "end_char": 36,
+      "label": "CLASS",
+      "text": "water",
+      "subClassOf": [
+        "INFORMATION_ENTITY",
+        "PHYSICAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 63,
+      "end_char": 78,
+      "label": "CLASS",
+      "text": "mineral content",
+      "subClassOf": [
+        "INFORMATION_ENTITY",
+        "PHYSICAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 110,
+      "end_char": 120,
+      "label": "CLASS",
+      "text": "soft water",
+      "subClassOf": [
+        "INFORMATION_ENTITY",
+        "PHYSICAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 199,
+      "end_char": 208,
+      "label": "INDIVIDUAL",
+      "text": "limestone"
+    },
+    {
+      "start_char": 230,
+      "end_char": 255,
+      "label": "CLASS",
+      "text": "chalk-containing minerals",
+      "subClassOf": [
+        "ORGANISM"
+      ]
+    },
+    {
+      "start_char": 276,
+      "end_char": 283,
+      "label": "INDIVIDUAL",
+      "text": "calcium"
+    },
+    {
+      "start_char": 305,
+      "end_char": 314,
+      "label": "INDIVIDUAL",
+      "text": "magnesium"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 4
+    },
+    {
+      "id": 1,
+      "start": 5,
+      "end": 10
+    },
+    {
+      "id": 2,
+      "start": 10,
+      "end": 27
+    },
+    {
+      "id": 3,
+      "start": 28,
+      "end": 30
+    },
+    {
+      "id": 4,
+      "start": 31,
+      "end": 36
+    },
+    {
+      "id": 5,
+      "start": 36,
+      "end": 48
+    },
+    {
+      "id": 6,
+      "start": 49,
+      "end": 53
+    },
+    {
+      "id": 7,
+      "start": 54,
+      "end": 57
+    },
+    {
+      "id": 8,
+      "start": 58,
+      "end": 62
+    },
+    {
+      "id": 9,
+      "start": 63,
+      "end": 70
+    },
+    {
+      "id": 10,
+      "start": 71,
+      "end": 78
+    },
+    {
+      "id": 11,
+      "start": 78,
+      "end": 90
+    },
+    {
+      "id": 12,
+      "start": 91,
+      "end": 92
+    },
+    {
+      "id": 13,
+      "start": 92,
+      "end": 94
+    },
+    {
+      "id": 14,
+      "start": 95,
+      "end": 103
+    },
+    {
+      "id": 15,
+      "start": 104,
+      "end": 108
+    },
+    {
+      "id": 16,
+      "start": 109,
+      "end": 110
+    },
+    {
+      "id": 17,
+      "start": 110,
+      "end": 114
+    },
+    {
+      "id": 18,
+      "start": 115,
+      "end": 120
+    },
+    {
+      "id": 19,
+      "start": 120,
+      "end": 132
+    },
+    {
+      "id": 20,
+      "start": 132,
+      "end": 133
+    },
+    {
+      "id": 21,
+      "start": 133,
+      "end": 134
+    },
+    {
+      "id": 22,
+      "start": 134,
+      "end": 135
+    },
+    {
+      "id": 23,
+      "start": 136,
+      "end": 140
+    },
+    {
+      "id": 24,
+      "start": 141,
+      "end": 146
+    },
+    {
+      "id": 25,
+      "start": 147,
+      "end": 149
+    },
+    {
+      "id": 26,
+      "start": 150,
+      "end": 156
+    },
+    {
+      "id": 27,
+      "start": 157,
+      "end": 161
+    },
+    {
+      "id": 28,
+      "start": 162,
+      "end": 167
+    },
+    {
+      "id": 29,
+      "start": 168,
+      "end": 178
+    },
+    {
+      "id": 30,
+      "start": 179,
+      "end": 186
+    },
+    {
+      "id": 31,
+      "start": 187,
+      "end": 195
+    },
+    {
+      "id": 32,
+      "start": 196,
+      "end": 198
+    },
+    {
+      "id": 33,
+      "start": 199,
+      "end": 208
+    },
+    {
+      "id": 34,
+      "start": 208,
+      "end": 225
+    },
+    {
+      "id": 35,
+      "start": 226,
+      "end": 229
+    },
+    {
+      "id": 36,
+      "start": 230,
+      "end": 235
+    },
+    {
+      "id": 37,
+      "start": 235,
+      "end": 236
+    },
+    {
+      "id": 38,
+      "start": 236,
+      "end": 246
+    },
+    {
+      "id": 39,
+      "start": 247,
+      "end": 255
+    },
+    {
+      "id": 40,
+      "start": 255,
+      "end": 267
+    },
+    {
+      "id": 41,
+      "start": 268,
+      "end": 272
+    },
+    {
+      "id": 42,
+      "start": 273,
+      "end": 275
+    },
+    {
+      "id": 43,
+      "start": 276,
+      "end": 283
+    },
+    {
+      "id": 44,
+      "start": 283,
+      "end": 300
+    },
+    {
+      "id": 45,
+      "start": 301,
+      "end": 304
+    },
+    {
+      "id": 46,
+      "start": 305,
+      "end": 314
+    },
+    {
+      "id": 47,
+      "start": 314,
+      "end": 331
+    },
+    {
+      "id": 48,
+      "start": 331,
+      "end": 332
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Hard water",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "water",
+      "dest": 1
+    },
+    {
+      "dep_text": "Hard water",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "mineral content",
+      "dest": 2
+    }
+  ],
+  "classes": {
+    "water_1": {
+      "labels": [
+        "INFORMATION_ENTITY",
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "water"
+    },
+    "mineral_content_2": {
+      "labels": [
+        "INFORMATION_ENTITY",
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "mineral content"
+    },
+    "soft_water_3": {
+      "labels": [
+        "INFORMATION_ENTITY",
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "soft water"
+    },
+    "chalk-containing_minerals_5": {
+      "labels": [
+        "ORGANISM"
+      ],
+      "class": "chalk-containing minerals"
+    }
+  }
+}

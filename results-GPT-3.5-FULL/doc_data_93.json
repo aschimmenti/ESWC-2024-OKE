@@ -1,0 +1,424 @@
+{
+  "text": "Laudio/Llodio is a town and municipality located in the province of Álava, in the Basque Country, northern Spain. Laudio is the name in Basque language and Llodio in Spanish; both are used indistinctly.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 13,
+      "label": "ENTITY"
+    },
+    {
+      "start": 32,
+      "end": 36,
+      "label": "CLASS"
+    },
+    {
+      "start": 53,
+      "end": 65,
+      "label": "CLASS"
+    },
+    {
+      "start": 93,
+      "end": 101,
+      "label": "CLASS"
+    },
+    {
+      "start": 117,
+      "end": 122,
+      "label": "ENTITY"
+    },
+    {
+      "start": 144,
+      "end": 158,
+      "label": "ENTITY"
+    },
+    {
+      "start": 182,
+      "end": 187,
+      "label": "ENTITY"
+    },
+    {
+      "start": 224,
+      "end": 239,
+      "label": "ENTITY"
+    },
+    {
+      "start": 267,
+      "end": 274,
+      "label": "ENTITY"
+    },
+    {
+      "start_char": 0,
+      "end_char": 13,
+      "label": "ENTITY",
+      "text": "Laudio/Llodio"
+    },
+    {
+      "start_char": 32,
+      "end_char": 36,
+      "label": "CLASS",
+      "text": "town",
+      "subClassOf": [
+        "LOCATION"
+      ]
+    },
+    {
+      "start_char": 53,
+      "end_char": 65,
+      "label": "CLASS",
+      "text": "municipality",
+      "subClassOf": [
+        "LOCATION"
+      ]
+    },
+    {
+      "start_char": 93,
+      "end_char": 101,
+      "label": "CLASS",
+      "text": "province",
+      "subClassOf": [
+        "LOCATION"
+      ]
+    },
+    {
+      "start_char": 117,
+      "end_char": 122,
+      "label": "ENTITY",
+      "text": "Álava"
+    },
+    {
+      "start_char": 144,
+      "end_char": 158,
+      "label": "ENTITY",
+      "text": "Basque Country"
+    },
+    {
+      "start_char": 182,
+      "end_char": 187,
+      "label": "ENTITY",
+      "text": "Spain"
+    },
+    {
+      "start_char": 224,
+      "end_char": 239,
+      "label": "ENTITY",
+      "text": "Basque language"
+    },
+    {
+      "start_char": 267,
+      "end_char": 274,
+      "label": "ENTITY",
+      "text": "Spanish"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 6
+    },
+    {
+      "id": 1,
+      "start": 6,
+      "end": 7
+    },
+    {
+      "id": 2,
+      "start": 7,
+      "end": 13
+    },
+    {
+      "id": 3,
+      "start": 13,
+      "end": 26
+    },
+    {
+      "id": 4,
+      "start": 27,
+      "end": 29
+    },
+    {
+      "id": 5,
+      "start": 30,
+      "end": 31
+    },
+    {
+      "id": 6,
+      "start": 32,
+      "end": 36
+    },
+    {
+      "id": 7,
+      "start": 36,
+      "end": 48
+    },
+    {
+      "id": 8,
+      "start": 49,
+      "end": 52
+    },
+    {
+      "id": 9,
+      "start": 53,
+      "end": 65
+    },
+    {
+      "id": 10,
+      "start": 65,
+      "end": 77
+    },
+    {
+      "id": 11,
+      "start": 78,
+      "end": 85
+    },
+    {
+      "id": 12,
+      "start": 86,
+      "end": 88
+    },
+    {
+      "id": 13,
+      "start": 89,
+      "end": 92
+    },
+    {
+      "id": 14,
+      "start": 93,
+      "end": 101
+    },
+    {
+      "id": 15,
+      "start": 101,
+      "end": 113
+    },
+    {
+      "id": 16,
+      "start": 114,
+      "end": 116
+    },
+    {
+      "id": 17,
+      "start": 117,
+      "end": 122
+    },
+    {
+      "id": 18,
+      "start": 122,
+      "end": 135
+    },
+    {
+      "id": 19,
+      "start": 135,
+      "end": 136
+    },
+    {
+      "id": 20,
+      "start": 137,
+      "end": 139
+    },
+    {
+      "id": 21,
+      "start": 140,
+      "end": 143
+    },
+    {
+      "id": 22,
+      "start": 144,
+      "end": 150
+    },
+    {
+      "id": 23,
+      "start": 151,
+      "end": 158
+    },
+    {
+      "id": 24,
+      "start": 158,
+      "end": 171
+    },
+    {
+      "id": 25,
+      "start": 171,
+      "end": 172
+    },
+    {
+      "id": 26,
+      "start": 173,
+      "end": 181
+    },
+    {
+      "id": 27,
+      "start": 182,
+      "end": 187
+    },
+    {
+      "id": 28,
+      "start": 187,
+      "end": 200
+    },
+    {
+      "id": 29,
+      "start": 200,
+      "end": 201
+    },
+    {
+      "id": 30,
+      "start": 202,
+      "end": 208
+    },
+    {
+      "id": 31,
+      "start": 209,
+      "end": 211
+    },
+    {
+      "id": 32,
+      "start": 212,
+      "end": 215
+    },
+    {
+      "id": 33,
+      "start": 216,
+      "end": 220
+    },
+    {
+      "id": 34,
+      "start": 221,
+      "end": 223
+    },
+    {
+      "id": 35,
+      "start": 224,
+      "end": 230
+    },
+    {
+      "id": 36,
+      "start": 231,
+      "end": 239
+    },
+    {
+      "id": 37,
+      "start": 239,
+      "end": 252
+    },
+    {
+      "id": 38,
+      "start": 253,
+      "end": 256
+    },
+    {
+      "id": 39,
+      "start": 257,
+      "end": 263
+    },
+    {
+      "id": 40,
+      "start": 264,
+      "end": 266
+    },
+    {
+      "id": 41,
+      "start": 267,
+      "end": 274
+    },
+    {
+      "id": 42,
+      "start": 274,
+      "end": 287
+    },
+    {
+      "id": 43,
+      "start": 287,
+      "end": 288
+    },
+    {
+      "id": 44,
+      "start": 289,
+      "end": 293
+    },
+    {
+      "id": 45,
+      "start": 294,
+      "end": 297
+    },
+    {
+      "id": 46,
+      "start": 298,
+      "end": 302
+    },
+    {
+      "id": 47,
+      "start": 303,
+      "end": 315
+    },
+    {
+      "id": 48,
+      "start": 315,
+      "end": 316
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Laudio/Llodio",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "town",
+      "dest": 1
+    },
+    {
+      "dep_text": "Laudio/Llodio",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "municipality",
+      "dest": 2
+    },
+    {
+      "dep_text": "Laudio/Llodio",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "province",
+      "dest": 3
+    },
+    {
+      "dep_text": "Laudio/Llodio",
+      "dep": 0,
+      "rel": "rdf-isClassOf",
+      "dest_text": "Álava",
+      "dest": 4
+    },
+    {
+      "dep_text": "Laudio/Llodio",
+      "dep": 0,
+      "rel": "rdf-isClassOf",
+      "dest_text": "Basque Country",
+      "dest": 5
+    },
+    {
+      "dep_text": "Laudio/Llodio",
+      "dep": 0,
+      "rel": "rdf-isClassOf",
+      "dest_text": "Spain",
+      "dest": 6
+    }
+  ],
+  "classes": {
+    "town_1": {
+      "labels": [
+        "LOCATION"
+      ],
+      "class": "town"
+    },
+    "municipality_2": {
+      "labels": [
+        "LOCATION"
+      ],
+      "class": "municipality"
+    },
+    "province_3": {
+      "labels": [
+        "LOCATION"
+      ],
+      "class": "province"
+    }
+  }
+}

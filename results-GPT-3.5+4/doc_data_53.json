@@ -1,0 +1,268 @@
+{
+  "text": "Kopps is a 2003 Swedish film directed by Josef Fares. The name itself is a pun on pronouncing the English word \"Cops\" with a Swedish accent.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 5,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 28,
+      "end": 32,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 50,
+      "end": 62,
+      "label": "CLASS"
+    },
+    {
+      "start": 87,
+      "end": 98,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 161,
+      "end": 180,
+      "label": "CLASS"
+    },
+    {
+      "start_char": 0,
+      "end_char": 5,
+      "label": "INDIVIDUAL",
+      "text": "Kopps"
+    },
+    {
+      "start_char": 28,
+      "end_char": 32,
+      "label": "INDIVIDUAL",
+      "text": "2003"
+    },
+    {
+      "start_char": 50,
+      "end_char": 62,
+      "label": "CLASS",
+      "text": "Swedish film",
+      "subClassOf": [
+        "EVENT",
+        "INFORMATION_ENTITY"
+      ]
+    },
+    {
+      "start_char": 87,
+      "end_char": 98,
+      "label": "INDIVIDUAL",
+      "text": "Josef Fares"
+    },
+    {
+      "start_char": 161,
+      "end_char": 180,
+      "label": "CLASS",
+      "text": "English word \"Cops\"",
+      "subClassOf": [
+        "INFORMATION_ENTITY"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 5
+    },
+    {
+      "id": 1,
+      "start": 5,
+      "end": 22
+    },
+    {
+      "id": 2,
+      "start": 23,
+      "end": 25
+    },
+    {
+      "id": 3,
+      "start": 26,
+      "end": 27
+    },
+    {
+      "id": 4,
+      "start": 28,
+      "end": 32
+    },
+    {
+      "id": 5,
+      "start": 32,
+      "end": 49
+    },
+    {
+      "id": 6,
+      "start": 50,
+      "end": 57
+    },
+    {
+      "id": 7,
+      "start": 58,
+      "end": 62
+    },
+    {
+      "id": 8,
+      "start": 62,
+      "end": 74
+    },
+    {
+      "id": 9,
+      "start": 75,
+      "end": 83
+    },
+    {
+      "id": 10,
+      "start": 84,
+      "end": 86
+    },
+    {
+      "id": 11,
+      "start": 87,
+      "end": 92
+    },
+    {
+      "id": 12,
+      "start": 93,
+      "end": 98
+    },
+    {
+      "id": 13,
+      "start": 98,
+      "end": 115
+    },
+    {
+      "id": 14,
+      "start": 115,
+      "end": 116
+    },
+    {
+      "id": 15,
+      "start": 117,
+      "end": 120
+    },
+    {
+      "id": 16,
+      "start": 121,
+      "end": 125
+    },
+    {
+      "id": 17,
+      "start": 126,
+      "end": 132
+    },
+    {
+      "id": 18,
+      "start": 133,
+      "end": 135
+    },
+    {
+      "id": 19,
+      "start": 136,
+      "end": 137
+    },
+    {
+      "id": 20,
+      "start": 138,
+      "end": 141
+    },
+    {
+      "id": 21,
+      "start": 142,
+      "end": 144
+    },
+    {
+      "id": 22,
+      "start": 145,
+      "end": 156
+    },
+    {
+      "id": 23,
+      "start": 157,
+      "end": 160
+    },
+    {
+      "id": 24,
+      "start": 161,
+      "end": 168
+    },
+    {
+      "id": 25,
+      "start": 169,
+      "end": 173
+    },
+    {
+      "id": 26,
+      "start": 174,
+      "end": 175
+    },
+    {
+      "id": 27,
+      "start": 175,
+      "end": 179
+    },
+    {
+      "id": 28,
+      "start": 179,
+      "end": 180
+    },
+    {
+      "id": 29,
+      "start": 180,
+      "end": 192
+    },
+    {
+      "id": 30,
+      "start": 193,
+      "end": 197
+    },
+    {
+      "id": 31,
+      "start": 198,
+      "end": 199
+    },
+    {
+      "id": 32,
+      "start": 200,
+      "end": 207
+    },
+    {
+      "id": 33,
+      "start": 208,
+      "end": 214
+    },
+    {
+      "id": 34,
+      "start": 214,
+      "end": 215
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Kopps",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "Swedish film",
+      "dest": 2
+    }
+  ],
+  "classes": {
+    "Swedish_film_2": {
+      "labels": [
+        "EVENT",
+        "INFORMATION_ENTITY"
+      ],
+      "class": "Swedish film"
+    },
+    "English_word_\"Cops\"_4": {
+      "labels": [
+        "INFORMATION_ENTITY"
+      ],
+      "class": "English word \"Cops\""
+    }
+  }
+}

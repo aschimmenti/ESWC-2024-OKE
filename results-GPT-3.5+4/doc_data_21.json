@@ -1,0 +1,757 @@
+{
+  "text": "The Gimli Glider is the nickname of an Air Canada aircraft that was involved in an unusual aviation incident. On July 23, 1983, Air Canada Flight 143, a Boeing 767–233 jet, ran out of fuel at an altitude of 41,000 feet (12,000 m) MSL, about halfway through its flight originating in Montreal to Edmonton. The crew were able to glide the aircraft safely to an emergency landing at Gimli Industrial Park Airport, a former Royal Canadian Air Force base in Gimli, Manitoba.",
+  "ents": [
+    {
+      "start": 4,
+      "end": 16,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 56,
+      "end": 75,
+      "label": "CLASS"
+    },
+    {
+      "start": 120,
+      "end": 137,
+      "label": "CLASS"
+    },
+    {
+      "start": 154,
+      "end": 167,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 186,
+      "end": 207,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 228,
+      "end": 246,
+      "label": "CLASS"
+    },
+    {
+      "start": 370,
+      "end": 378,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 399,
+      "end": 407,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 480,
+      "end": 497,
+      "label": "CLASS"
+    },
+    {
+      "start": 513,
+      "end": 542,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 570,
+      "end": 594,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 621,
+      "end": 626,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 646,
+      "end": 654,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start_char": 4,
+      "end_char": 16,
+      "label": "INDIVIDUAL",
+      "text": "Gimli Glider"
+    },
+    {
+      "start_char": 56,
+      "end_char": 75,
+      "label": "CLASS",
+      "text": "Air Canada aircraft",
+      "subClassOf": [
+        "ORGANISATION",
+        "PHYSICAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 120,
+      "end_char": 137,
+      "label": "CLASS",
+      "text": "aviation incident",
+      "subClassOf": [
+        "EVENT"
+      ]
+    },
+    {
+      "start_char": 154,
+      "end_char": 167,
+      "label": "INDIVIDUAL",
+      "text": "July 23, 1983"
+    },
+    {
+      "start_char": 186,
+      "end_char": 207,
+      "label": "INDIVIDUAL",
+      "text": "Air Canada Flight 143"
+    },
+    {
+      "start_char": 228,
+      "end_char": 246,
+      "label": "CLASS",
+      "text": "Boeing 767–233 jet",
+      "subClassOf": [
+        "PHYSICAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 370,
+      "end_char": 378,
+      "label": "INDIVIDUAL",
+      "text": "Montreal"
+    },
+    {
+      "start_char": 399,
+      "end_char": 407,
+      "label": "INDIVIDUAL",
+      "text": "Edmonton"
+    },
+    {
+      "start_char": 480,
+      "end_char": 497,
+      "label": "CLASS",
+      "text": "emergency landing",
+      "subClassOf": [
+        "ACTIVITY",
+        "SITUATION"
+      ]
+    },
+    {
+      "start_char": 513,
+      "end_char": 542,
+      "label": "INDIVIDUAL",
+      "text": "Gimli Industrial Park Airport"
+    },
+    {
+      "start_char": 570,
+      "end_char": 594,
+      "label": "INDIVIDUAL",
+      "text": "Royal Canadian Air Force"
+    },
+    {
+      "start_char": 621,
+      "end_char": 626,
+      "label": "INDIVIDUAL",
+      "text": "Gimli"
+    },
+    {
+      "start_char": 646,
+      "end_char": 654,
+      "label": "INDIVIDUAL",
+      "text": "Manitoba"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 3
+    },
+    {
+      "id": 1,
+      "start": 4,
+      "end": 9
+    },
+    {
+      "id": 2,
+      "start": 10,
+      "end": 16
+    },
+    {
+      "id": 3,
+      "start": 16,
+      "end": 33
+    },
+    {
+      "id": 4,
+      "start": 34,
+      "end": 36
+    },
+    {
+      "id": 5,
+      "start": 37,
+      "end": 40
+    },
+    {
+      "id": 6,
+      "start": 41,
+      "end": 49
+    },
+    {
+      "id": 7,
+      "start": 50,
+      "end": 52
+    },
+    {
+      "id": 8,
+      "start": 53,
+      "end": 55
+    },
+    {
+      "id": 9,
+      "start": 56,
+      "end": 59
+    },
+    {
+      "id": 10,
+      "start": 60,
+      "end": 66
+    },
+    {
+      "id": 11,
+      "start": 67,
+      "end": 75
+    },
+    {
+      "id": 12,
+      "start": 75,
+      "end": 87
+    },
+    {
+      "id": 13,
+      "start": 88,
+      "end": 92
+    },
+    {
+      "id": 14,
+      "start": 93,
+      "end": 96
+    },
+    {
+      "id": 15,
+      "start": 97,
+      "end": 105
+    },
+    {
+      "id": 16,
+      "start": 106,
+      "end": 108
+    },
+    {
+      "id": 17,
+      "start": 109,
+      "end": 111
+    },
+    {
+      "id": 18,
+      "start": 112,
+      "end": 119
+    },
+    {
+      "id": 19,
+      "start": 120,
+      "end": 128
+    },
+    {
+      "id": 20,
+      "start": 129,
+      "end": 137
+    },
+    {
+      "id": 21,
+      "start": 137,
+      "end": 149
+    },
+    {
+      "id": 22,
+      "start": 149,
+      "end": 150
+    },
+    {
+      "id": 23,
+      "start": 151,
+      "end": 153
+    },
+    {
+      "id": 24,
+      "start": 154,
+      "end": 158
+    },
+    {
+      "id": 25,
+      "start": 159,
+      "end": 161
+    },
+    {
+      "id": 26,
+      "start": 161,
+      "end": 162
+    },
+    {
+      "id": 27,
+      "start": 163,
+      "end": 167
+    },
+    {
+      "id": 28,
+      "start": 167,
+      "end": 184
+    },
+    {
+      "id": 29,
+      "start": 184,
+      "end": 185
+    },
+    {
+      "id": 30,
+      "start": 186,
+      "end": 189
+    },
+    {
+      "id": 31,
+      "start": 190,
+      "end": 196
+    },
+    {
+      "id": 32,
+      "start": 197,
+      "end": 203
+    },
+    {
+      "id": 33,
+      "start": 204,
+      "end": 207
+    },
+    {
+      "id": 34,
+      "start": 207,
+      "end": 224
+    },
+    {
+      "id": 35,
+      "start": 224,
+      "end": 225
+    },
+    {
+      "id": 36,
+      "start": 226,
+      "end": 227
+    },
+    {
+      "id": 37,
+      "start": 228,
+      "end": 234
+    },
+    {
+      "id": 38,
+      "start": 235,
+      "end": 242
+    },
+    {
+      "id": 39,
+      "start": 243,
+      "end": 246
+    },
+    {
+      "id": 40,
+      "start": 246,
+      "end": 258
+    },
+    {
+      "id": 41,
+      "start": 258,
+      "end": 259
+    },
+    {
+      "id": 42,
+      "start": 260,
+      "end": 263
+    },
+    {
+      "id": 43,
+      "start": 264,
+      "end": 267
+    },
+    {
+      "id": 44,
+      "start": 268,
+      "end": 270
+    },
+    {
+      "id": 45,
+      "start": 271,
+      "end": 275
+    },
+    {
+      "id": 46,
+      "start": 276,
+      "end": 278
+    },
+    {
+      "id": 47,
+      "start": 279,
+      "end": 281
+    },
+    {
+      "id": 48,
+      "start": 282,
+      "end": 290
+    },
+    {
+      "id": 49,
+      "start": 291,
+      "end": 293
+    },
+    {
+      "id": 50,
+      "start": 294,
+      "end": 300
+    },
+    {
+      "id": 51,
+      "start": 301,
+      "end": 305
+    },
+    {
+      "id": 52,
+      "start": 306,
+      "end": 307
+    },
+    {
+      "id": 53,
+      "start": 307,
+      "end": 313
+    },
+    {
+      "id": 54,
+      "start": 314,
+      "end": 315
+    },
+    {
+      "id": 55,
+      "start": 315,
+      "end": 316
+    },
+    {
+      "id": 56,
+      "start": 317,
+      "end": 320
+    },
+    {
+      "id": 57,
+      "start": 320,
+      "end": 321
+    },
+    {
+      "id": 58,
+      "start": 322,
+      "end": 327
+    },
+    {
+      "id": 59,
+      "start": 328,
+      "end": 335
+    },
+    {
+      "id": 60,
+      "start": 336,
+      "end": 343
+    },
+    {
+      "id": 61,
+      "start": 344,
+      "end": 347
+    },
+    {
+      "id": 62,
+      "start": 348,
+      "end": 354
+    },
+    {
+      "id": 63,
+      "start": 355,
+      "end": 366
+    },
+    {
+      "id": 64,
+      "start": 367,
+      "end": 369
+    },
+    {
+      "id": 65,
+      "start": 370,
+      "end": 378
+    },
+    {
+      "id": 66,
+      "start": 378,
+      "end": 395
+    },
+    {
+      "id": 67,
+      "start": 396,
+      "end": 398
+    },
+    {
+      "id": 68,
+      "start": 399,
+      "end": 407
+    },
+    {
+      "id": 69,
+      "start": 407,
+      "end": 424
+    },
+    {
+      "id": 70,
+      "start": 424,
+      "end": 425
+    },
+    {
+      "id": 71,
+      "start": 426,
+      "end": 429
+    },
+    {
+      "id": 72,
+      "start": 430,
+      "end": 434
+    },
+    {
+      "id": 73,
+      "start": 435,
+      "end": 439
+    },
+    {
+      "id": 74,
+      "start": 440,
+      "end": 444
+    },
+    {
+      "id": 75,
+      "start": 445,
+      "end": 447
+    },
+    {
+      "id": 76,
+      "start": 448,
+      "end": 453
+    },
+    {
+      "id": 77,
+      "start": 454,
+      "end": 457
+    },
+    {
+      "id": 78,
+      "start": 458,
+      "end": 466
+    },
+    {
+      "id": 79,
+      "start": 467,
+      "end": 473
+    },
+    {
+      "id": 80,
+      "start": 474,
+      "end": 476
+    },
+    {
+      "id": 81,
+      "start": 477,
+      "end": 479
+    },
+    {
+      "id": 82,
+      "start": 480,
+      "end": 489
+    },
+    {
+      "id": 83,
+      "start": 490,
+      "end": 497
+    },
+    {
+      "id": 84,
+      "start": 497,
+      "end": 509
+    },
+    {
+      "id": 85,
+      "start": 510,
+      "end": 512
+    },
+    {
+      "id": 86,
+      "start": 513,
+      "end": 518
+    },
+    {
+      "id": 87,
+      "start": 519,
+      "end": 529
+    },
+    {
+      "id": 88,
+      "start": 530,
+      "end": 534
+    },
+    {
+      "id": 89,
+      "start": 535,
+      "end": 542
+    },
+    {
+      "id": 90,
+      "start": 542,
+      "end": 559
+    },
+    {
+      "id": 91,
+      "start": 559,
+      "end": 560
+    },
+    {
+      "id": 92,
+      "start": 561,
+      "end": 562
+    },
+    {
+      "id": 93,
+      "start": 563,
+      "end": 569
+    },
+    {
+      "id": 94,
+      "start": 570,
+      "end": 575
+    },
+    {
+      "id": 95,
+      "start": 576,
+      "end": 584
+    },
+    {
+      "id": 96,
+      "start": 585,
+      "end": 588
+    },
+    {
+      "id": 97,
+      "start": 589,
+      "end": 594
+    },
+    {
+      "id": 98,
+      "start": 594,
+      "end": 612
+    },
+    {
+      "id": 99,
+      "start": 613,
+      "end": 617
+    },
+    {
+      "id": 100,
+      "start": 618,
+      "end": 620
+    },
+    {
+      "id": 101,
+      "start": 621,
+      "end": 626
+    },
+    {
+      "id": 102,
+      "start": 626,
+      "end": 644
+    },
+    {
+      "id": 103,
+      "start": 644,
+      "end": 645
+    },
+    {
+      "id": 104,
+      "start": 646,
+      "end": 654
+    },
+    {
+      "id": 105,
+      "start": 654,
+      "end": 672
+    },
+    {
+      "id": 106,
+      "start": 672,
+      "end": 673
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Gimli Glider",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "Air Canada aircraft",
+      "dest": 1
+    },
+    {
+      "dep_text": "Gimli Glider",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "aviation incident",
+      "dest": 2
+    },
+    {
+      "dep_text": "Air Canada Flight 143",
+      "dep": 4,
+      "rel": "is_a",
+      "dest_text": "Boeing 767–233 jet",
+      "dest": 5
+    },
+    {
+      "dep_text": "Air Canada Flight 143",
+      "dep": 4,
+      "rel": "is_a",
+      "dest_text": "emergency landing",
+      "dest": 8
+    }
+  ],
+  "classes": {
+    "Air_Canada_aircraft_1": {
+      "labels": [
+        "ORGANISATION",
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "Air Canada aircraft"
+    },
+    "aviation_incident_2": {
+      "labels": [
+        "EVENT"
+      ],
+      "class": "aviation incident"
+    },
+    "Boeing_767–233_jet_5": {
+      "labels": [
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "Boeing 767–233 jet"
+    },
+    "emergency_landing_8": {
+      "labels": [
+        "ACTIVITY",
+        "SITUATION"
+      ],
+      "class": "emergency landing"
+    }
+  }
+}

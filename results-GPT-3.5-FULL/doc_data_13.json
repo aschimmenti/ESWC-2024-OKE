@@ -1,0 +1,397 @@
+{
+  "text": "The Choice of Hercules is a painting by the Italian Baroque painter Annibale Carracci. Dating from 1596, it is housed in the Capodimonte Gallery of Naples. The subject is the Choice of Hercules.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 22,
+      "label": "ENTITY"
+    },
+    {
+      "start": 41,
+      "end": 49,
+      "label": "CLASS"
+    },
+    {
+      "start": 69,
+      "end": 92,
+      "label": "CLASS"
+    },
+    {
+      "start": 105,
+      "end": 122,
+      "label": "ENTITY"
+    },
+    {
+      "start": 149,
+      "end": 153,
+      "label": "ENTITY"
+    },
+    {
+      "start": 188,
+      "end": 207,
+      "label": "ENTITY"
+    },
+    {
+      "start": 224,
+      "end": 230,
+      "label": "ENTITY"
+    },
+    {
+      "start": 249,
+      "end": 256,
+      "label": "CLASS"
+    },
+    {
+      "start_char": 0,
+      "end_char": 22,
+      "label": "ENTITY",
+      "text": "The Choice of Hercules"
+    },
+    {
+      "start_char": 41,
+      "end_char": 49,
+      "label": "CLASS",
+      "text": "painting",
+      "subClassOf": [
+        "PHYSICAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 69,
+      "end_char": 92,
+      "label": "CLASS",
+      "text": "Italian Baroque painter",
+      "subClassOf": [
+        "PERSON",
+        "PHYSICAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 105,
+      "end_char": 122,
+      "label": "ENTITY",
+      "text": "Annibale Carracci"
+    },
+    {
+      "start_char": 149,
+      "end_char": 153,
+      "label": "ENTITY",
+      "text": "1596"
+    },
+    {
+      "start_char": 188,
+      "end_char": 207,
+      "label": "ENTITY",
+      "text": "Capodimonte Gallery"
+    },
+    {
+      "start_char": 224,
+      "end_char": 230,
+      "label": "ENTITY",
+      "text": "Naples"
+    },
+    {
+      "start_char": 249,
+      "end_char": 256,
+      "label": "CLASS",
+      "text": "subject",
+      "subClassOf": [
+        "INFORMATION_ENTITY",
+        "PHYSICAL_OBJECT"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 3
+    },
+    {
+      "id": 1,
+      "start": 4,
+      "end": 10
+    },
+    {
+      "id": 2,
+      "start": 11,
+      "end": 13
+    },
+    {
+      "id": 3,
+      "start": 14,
+      "end": 22
+    },
+    {
+      "id": 4,
+      "start": 22,
+      "end": 35
+    },
+    {
+      "id": 5,
+      "start": 36,
+      "end": 38
+    },
+    {
+      "id": 6,
+      "start": 39,
+      "end": 40
+    },
+    {
+      "id": 7,
+      "start": 41,
+      "end": 49
+    },
+    {
+      "id": 8,
+      "start": 49,
+      "end": 61
+    },
+    {
+      "id": 9,
+      "start": 62,
+      "end": 64
+    },
+    {
+      "id": 10,
+      "start": 65,
+      "end": 68
+    },
+    {
+      "id": 11,
+      "start": 69,
+      "end": 76
+    },
+    {
+      "id": 12,
+      "start": 77,
+      "end": 84
+    },
+    {
+      "id": 13,
+      "start": 85,
+      "end": 92
+    },
+    {
+      "id": 14,
+      "start": 92,
+      "end": 104
+    },
+    {
+      "id": 15,
+      "start": 105,
+      "end": 113
+    },
+    {
+      "id": 16,
+      "start": 114,
+      "end": 122
+    },
+    {
+      "id": 17,
+      "start": 122,
+      "end": 135
+    },
+    {
+      "id": 18,
+      "start": 135,
+      "end": 136
+    },
+    {
+      "id": 19,
+      "start": 137,
+      "end": 143
+    },
+    {
+      "id": 20,
+      "start": 144,
+      "end": 148
+    },
+    {
+      "id": 21,
+      "start": 149,
+      "end": 153
+    },
+    {
+      "id": 22,
+      "start": 153,
+      "end": 166
+    },
+    {
+      "id": 23,
+      "start": 166,
+      "end": 167
+    },
+    {
+      "id": 24,
+      "start": 168,
+      "end": 170
+    },
+    {
+      "id": 25,
+      "start": 171,
+      "end": 173
+    },
+    {
+      "id": 26,
+      "start": 174,
+      "end": 180
+    },
+    {
+      "id": 27,
+      "start": 181,
+      "end": 183
+    },
+    {
+      "id": 28,
+      "start": 184,
+      "end": 187
+    },
+    {
+      "id": 29,
+      "start": 188,
+      "end": 199
+    },
+    {
+      "id": 30,
+      "start": 200,
+      "end": 207
+    },
+    {
+      "id": 31,
+      "start": 207,
+      "end": 220
+    },
+    {
+      "id": 32,
+      "start": 221,
+      "end": 223
+    },
+    {
+      "id": 33,
+      "start": 224,
+      "end": 230
+    },
+    {
+      "id": 34,
+      "start": 230,
+      "end": 243
+    },
+    {
+      "id": 35,
+      "start": 243,
+      "end": 244
+    },
+    {
+      "id": 36,
+      "start": 245,
+      "end": 248
+    },
+    {
+      "id": 37,
+      "start": 249,
+      "end": 256
+    },
+    {
+      "id": 38,
+      "start": 256,
+      "end": 268
+    },
+    {
+      "id": 39,
+      "start": 269,
+      "end": 271
+    },
+    {
+      "id": 40,
+      "start": 272,
+      "end": 275
+    },
+    {
+      "id": 41,
+      "start": 276,
+      "end": 282
+    },
+    {
+      "id": 42,
+      "start": 283,
+      "end": 285
+    },
+    {
+      "id": 43,
+      "start": 286,
+      "end": 294
+    },
+    {
+      "id": 44,
+      "start": 294,
+      "end": 295
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "The Choice of Hercules",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "painting",
+      "dest": 1
+    },
+    {
+      "dep_text": "Italian Baroque painter",
+      "dep": 2,
+      "rel": "rdf-type",
+      "dest_text": "painting",
+      "dest": 1
+    },
+    {
+      "dep_text": "Annibale Carracci",
+      "dep": 3,
+      "rel": "rdf-isClassOf",
+      "dest_text": "Italian Baroque painter",
+      "dest": 2
+    },
+    {
+      "dep_text": "1596",
+      "dep": 4,
+      "rel": "rdf-type",
+      "dest_text": "painting",
+      "dest": 1
+    },
+    {
+      "dep_text": "Capodimonte Gallery",
+      "dep": 5,
+      "rel": "rdf-type",
+      "dest_text": "painting",
+      "dest": 1
+    },
+    {
+      "dep_text": "Naples",
+      "dep": 6,
+      "rel": "rdf-type",
+      "dest_text": "painting",
+      "dest": 1
+    }
+  ],
+  "classes": {
+    "painting_1": {
+      "labels": [
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "painting"
+    },
+    "Italian_Baroque_painter_2": {
+      "labels": [
+        "PERSON",
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "Italian Baroque painter"
+    },
+    "subject_7": {
+      "labels": [
+        "INFORMATION_ENTITY",
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "subject"
+    }
+  }
+}

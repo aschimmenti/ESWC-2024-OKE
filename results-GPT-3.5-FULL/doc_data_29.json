@@ -1,0 +1,252 @@
+{
+  "text": "Kojiki is the oldest extant chronicle in Japan, dating from the early 8th century (711–712) and composed by Ō no Yasumaro at the request of Empress Gemmei.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 6,
+      "label": "ENTITY"
+    },
+    {
+      "start": 54,
+      "end": 59,
+      "label": "ENTITY"
+    },
+    {
+      "start": 90,
+      "end": 107,
+      "label": "ENTITY"
+    },
+    {
+      "start": 147,
+      "end": 160,
+      "label": "ENTITY"
+    },
+    {
+      "start": 192,
+      "end": 206,
+      "label": "ENTITY"
+    },
+    {
+      "start_char": 0,
+      "end_char": 6,
+      "label": "ENTITY",
+      "text": "Kojiki"
+    },
+    {
+      "start_char": 54,
+      "end_char": 59,
+      "label": "ENTITY",
+      "text": "Japan"
+    },
+    {
+      "start_char": 90,
+      "end_char": 107,
+      "label": "ENTITY",
+      "text": "early 8th century"
+    },
+    {
+      "start_char": 147,
+      "end_char": 160,
+      "label": "ENTITY",
+      "text": "Ō no Yasumaro"
+    },
+    {
+      "start_char": 192,
+      "end_char": 206,
+      "label": "ENTITY",
+      "text": "Empress Gemmei"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 6
+    },
+    {
+      "id": 1,
+      "start": 6,
+      "end": 19
+    },
+    {
+      "id": 2,
+      "start": 20,
+      "end": 22
+    },
+    {
+      "id": 3,
+      "start": 23,
+      "end": 26
+    },
+    {
+      "id": 4,
+      "start": 27,
+      "end": 33
+    },
+    {
+      "id": 5,
+      "start": 34,
+      "end": 40
+    },
+    {
+      "id": 6,
+      "start": 41,
+      "end": 50
+    },
+    {
+      "id": 7,
+      "start": 51,
+      "end": 53
+    },
+    {
+      "id": 8,
+      "start": 54,
+      "end": 59
+    },
+    {
+      "id": 9,
+      "start": 59,
+      "end": 72
+    },
+    {
+      "id": 10,
+      "start": 72,
+      "end": 73
+    },
+    {
+      "id": 11,
+      "start": 74,
+      "end": 80
+    },
+    {
+      "id": 12,
+      "start": 81,
+      "end": 85
+    },
+    {
+      "id": 13,
+      "start": 86,
+      "end": 89
+    },
+    {
+      "id": 14,
+      "start": 90,
+      "end": 95
+    },
+    {
+      "id": 15,
+      "start": 96,
+      "end": 99
+    },
+    {
+      "id": 16,
+      "start": 100,
+      "end": 107
+    },
+    {
+      "id": 17,
+      "start": 107,
+      "end": 120
+    },
+    {
+      "id": 18,
+      "start": 121,
+      "end": 122
+    },
+    {
+      "id": 19,
+      "start": 122,
+      "end": 129
+    },
+    {
+      "id": 20,
+      "start": 129,
+      "end": 130
+    },
+    {
+      "id": 21,
+      "start": 131,
+      "end": 134
+    },
+    {
+      "id": 22,
+      "start": 135,
+      "end": 143
+    },
+    {
+      "id": 23,
+      "start": 144,
+      "end": 146
+    },
+    {
+      "id": 24,
+      "start": 147,
+      "end": 148
+    },
+    {
+      "id": 25,
+      "start": 149,
+      "end": 151
+    },
+    {
+      "id": 26,
+      "start": 152,
+      "end": 160
+    },
+    {
+      "id": 27,
+      "start": 160,
+      "end": 173
+    },
+    {
+      "id": 28,
+      "start": 174,
+      "end": 176
+    },
+    {
+      "id": 29,
+      "start": 177,
+      "end": 180
+    },
+    {
+      "id": 30,
+      "start": 181,
+      "end": 188
+    },
+    {
+      "id": 31,
+      "start": 189,
+      "end": 191
+    },
+    {
+      "id": 32,
+      "start": 192,
+      "end": 199
+    },
+    {
+      "id": 33,
+      "start": 200,
+      "end": 206
+    },
+    {
+      "id": 34,
+      "start": 206,
+      "end": 219
+    },
+    {
+      "id": 35,
+      "start": 219,
+      "end": 220
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Kojiki",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "Japan",
+      "dest": 1
+    }
+  ],
+  "classes": {}
+}

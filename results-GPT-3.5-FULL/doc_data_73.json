@@ -1,0 +1,322 @@
+{
+  "text": "Year 183 BC was a year of the pre-Julian Roman calendar. At the time it was known as the Year of the Consulship of Marcellus and Labeo (or, less frequently, year 571 Ab urbe condita).",
+  "ents": [
+    {
+      "start": 5,
+      "end": 11,
+      "label": "ENTITY"
+    },
+    {
+      "start": 54,
+      "end": 68,
+      "label": "CLASS"
+    },
+    {
+      "start": 140,
+      "end": 149,
+      "label": "ENTITY"
+    },
+    {
+      "start": 167,
+      "end": 172,
+      "label": "ENTITY"
+    },
+    {
+      "start": 213,
+      "end": 232,
+      "label": "ENTITY"
+    },
+    {
+      "start_char": 5,
+      "end_char": 11,
+      "label": "ENTITY",
+      "text": "183 BC"
+    },
+    {
+      "start_char": 54,
+      "end_char": 68,
+      "label": "CLASS",
+      "text": "Roman calendar",
+      "subClassOf": [
+        "TIME_INTERVAL"
+      ]
+    },
+    {
+      "start_char": 140,
+      "end_char": 149,
+      "label": "ENTITY",
+      "text": "Marcellus"
+    },
+    {
+      "start_char": 167,
+      "end_char": 172,
+      "label": "ENTITY",
+      "text": "Labeo"
+    },
+    {
+      "start_char": 213,
+      "end_char": 232,
+      "label": "ENTITY",
+      "text": "571 Ab urbe condita"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 4
+    },
+    {
+      "id": 1,
+      "start": 5,
+      "end": 8
+    },
+    {
+      "id": 2,
+      "start": 9,
+      "end": 11
+    },
+    {
+      "id": 3,
+      "start": 11,
+      "end": 24
+    },
+    {
+      "id": 4,
+      "start": 25,
+      "end": 28
+    },
+    {
+      "id": 5,
+      "start": 29,
+      "end": 30
+    },
+    {
+      "id": 6,
+      "start": 31,
+      "end": 35
+    },
+    {
+      "id": 7,
+      "start": 36,
+      "end": 38
+    },
+    {
+      "id": 8,
+      "start": 39,
+      "end": 42
+    },
+    {
+      "id": 9,
+      "start": 43,
+      "end": 46
+    },
+    {
+      "id": 10,
+      "start": 46,
+      "end": 47
+    },
+    {
+      "id": 11,
+      "start": 47,
+      "end": 53
+    },
+    {
+      "id": 12,
+      "start": 54,
+      "end": 59
+    },
+    {
+      "id": 13,
+      "start": 60,
+      "end": 68
+    },
+    {
+      "id": 14,
+      "start": 68,
+      "end": 80
+    },
+    {
+      "id": 15,
+      "start": 80,
+      "end": 81
+    },
+    {
+      "id": 16,
+      "start": 82,
+      "end": 84
+    },
+    {
+      "id": 17,
+      "start": 85,
+      "end": 88
+    },
+    {
+      "id": 18,
+      "start": 89,
+      "end": 93
+    },
+    {
+      "id": 19,
+      "start": 94,
+      "end": 96
+    },
+    {
+      "id": 20,
+      "start": 97,
+      "end": 100
+    },
+    {
+      "id": 21,
+      "start": 101,
+      "end": 106
+    },
+    {
+      "id": 22,
+      "start": 107,
+      "end": 109
+    },
+    {
+      "id": 23,
+      "start": 110,
+      "end": 113
+    },
+    {
+      "id": 24,
+      "start": 114,
+      "end": 118
+    },
+    {
+      "id": 25,
+      "start": 119,
+      "end": 121
+    },
+    {
+      "id": 26,
+      "start": 122,
+      "end": 125
+    },
+    {
+      "id": 27,
+      "start": 126,
+      "end": 136
+    },
+    {
+      "id": 28,
+      "start": 137,
+      "end": 139
+    },
+    {
+      "id": 29,
+      "start": 140,
+      "end": 149
+    },
+    {
+      "id": 30,
+      "start": 149,
+      "end": 162
+    },
+    {
+      "id": 31,
+      "start": 163,
+      "end": 166
+    },
+    {
+      "id": 32,
+      "start": 167,
+      "end": 172
+    },
+    {
+      "id": 33,
+      "start": 172,
+      "end": 185
+    },
+    {
+      "id": 34,
+      "start": 186,
+      "end": 187
+    },
+    {
+      "id": 35,
+      "start": 187,
+      "end": 189
+    },
+    {
+      "id": 36,
+      "start": 189,
+      "end": 190
+    },
+    {
+      "id": 37,
+      "start": 191,
+      "end": 195
+    },
+    {
+      "id": 38,
+      "start": 196,
+      "end": 206
+    },
+    {
+      "id": 39,
+      "start": 206,
+      "end": 207
+    },
+    {
+      "id": 40,
+      "start": 208,
+      "end": 212
+    },
+    {
+      "id": 41,
+      "start": 213,
+      "end": 216
+    },
+    {
+      "id": 42,
+      "start": 217,
+      "end": 219
+    },
+    {
+      "id": 43,
+      "start": 220,
+      "end": 224
+    },
+    {
+      "id": 44,
+      "start": 225,
+      "end": 232
+    },
+    {
+      "id": 45,
+      "start": 232,
+      "end": 245
+    },
+    {
+      "id": 46,
+      "start": 245,
+      "end": 246
+    },
+    {
+      "id": 47,
+      "start": 246,
+      "end": 247
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "183 BC",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "Roman calendar",
+      "dest": 1
+    }
+  ],
+  "classes": {
+    "Roman_calendar_1": {
+      "labels": [
+        "TIME_INTERVAL"
+      ],
+      "class": "Roman calendar"
+    }
+  }
+}

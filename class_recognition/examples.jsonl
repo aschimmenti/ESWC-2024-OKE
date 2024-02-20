@@ -1,0 +1,25 @@
+{"text": "station in the context of this sentence: 'Danderyds sjukhus is a metro station in suburban Danderyd Municipality, north of Stockholm, Sweden'.", "answer": "LOCATION"}
+{"text": "female first name in the context of this sentence: 'The name Belinda is a common female first name of unknown etymology'.", "answer": "INFORMATION_ENTITY"}
+{"text": "football club in the context of this sentence: 'FC Amberg is a German football club from the city of Amberg, Bavaria'.", "answer": "ORGANIZATION"}
+{"text": "year in the context of this sentence: 'Year 82 BC was a year of the pre-Julian Roman calendar'.", "answer": "TIME_INTERVAL"}
+{"text": "meeting in the context of this sentence: 'The 2009 G-20 London Summit is the second meeting of the G-20 heads of state in discussion of financial markets and the world economy, which was held in London on 2 April 2009 at the ExCeL Exhibition Centre'. ", "answer": "ACTIVITY"}
+{"text": "pharaoh in the context of this sentence: 'Ahmose I was a pharaoh of ancient Egypt and the founder of the Eighteenth dynasty'.", "answer": "PERSON"}
+{"text": "epithet in the context of this sentence: 'Bromius in ancient Greece was used as an epithet of Dionysus/Bacchus.'", "answer": "PERSONIFICATION"}
+{"text": "season-ofCompetition in the context of this sentence: 'The DFB-Pokal 1980-81 was the 38th season of the competition, beginning on 27 August 1980 and ending on 2 May 1981.'", "answer": "SITUATION"}
+{"text": "chateau in the context of this sentence: 'The Castle of Compi\u00e8gne is a French ch\u00e2teau built for Louis XV and restored by Napoleon.'", "answer": "PHYSICAL_OBJECT"}
+{"text": "genus in the context of this sentence: 'Ankylosaurus is a genus of ankylosaurid dinosaur, containing one species, A. magniventris.'", "answer": "ORGANISM"}
+{"text": "number in the context of this sentence: '98 is the natural number following 97 and preceding 99.", "answer": "ABSTRACT"}
+{"text": "operatingSystem in the context of this sentence: 'Amoeba is a distributed operating system developed by Andrew S. Tanenbaum and others at the Vrije Universiteit.'", "answer": "SYSTEM"}
+{"text": "standard in the context of this sentence: 'The AES11 standard published by the Audio Engineering Society provides a systematic approach to the synchronization of digital audio signals. Recommendations are made concerning the accuracy of sample clocks as embodied in the interface signal and the use of this format as a convenient synchronization reference where signals must be rendered co-timed for digital processing.'", "answer": "DESCRIPTION"}
+{"text": "athleticConference in the context of this sentence: 'The Southern Intercollegiate Athletic Conference is a College athletic conference consisting of historically black colleges and universities located in the southern United States.'", "answer": "COLLECTION"}
+{"text": "device in the context of this sentence: 'An Abbe refractometer is a bench-top device for the high-precision measurement of an index of refraction.'", "answer": "INFORMATION_ENTITY, PHYSICAL_OBJECT"}
+{"text": "professor in the context of this sentence: 'Fabio Vitali, a professor who teaches at the University of Bologna, was very excited after seeing my Master Thesis, which was a paper.'", "answer": "ROLE"}
+{"text": "band in the context in the context of this sentence: 'the gothic-doom metal band The Sins of Thy Beloved.'", "answer": "ORGANISATION"}
+{"text": "lead vocalist in the context of this sentence: 'Anita Auglend is the lead vocalist of the gothic-doom metal band The Sins of Thy Beloved.'", "answer": "ROLE, PERSON"}
+{"text": "politician in the context of this sentence: Anas Sarwar MP is a British Labour Party politician and is deputy leader of the Scottish Labour Party.", "answer": "ROLE, PERSON"}
+{"text": "fortress in the context of this sentence: Sant'Elmo is the name of both a hill and a fortress in Naples.", "answer": "LOCATION"}
+{"text": "year in the context of this sentence: Year 1170 was a common year starting on Thursday", "answer": "TIME_INTERVAL"}
+{"text": "match in the context of this sentence: The World Chess Championship 1984 was a match between challenger Garry Kasparov and defending champion Anatoly Karpov.", "answer": "ACTIVITY"}
+{"text": "meeting in the context of this sentence: Botellin is a mass meeting of young people between 13 and 24 years to listen to music and talk.", "answer": "ACTIVITY"}
+{"text": "sister in the context of this sentence: Roberta Manning was the sister of John Manning", "answer": "PERSON"}
+{"text": "play in the context of this sentence: Henry V is a history play by William Shakespeare, believed to be written in approximately 1599.", "answer": "INFORMATION_ENTITY"}

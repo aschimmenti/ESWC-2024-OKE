@@ -1,0 +1,511 @@
+{
+  "text": "AmigaOne is a series of computers intended to run AmigaOS 4 developed by Hyperion Entertainment. Earlier models were produced by Eyetech, and were based on the Teron series of PowerPC POP mainboards. In September 2009, Hyperion Entertainment secured exclusive licence for AmigaOne name and subsequently new AmigaOne computers were released by A-Eon Technology and Acube Systems.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 8,
+      "label": "ENTITY"
+    },
+    {
+      "start": 63,
+      "end": 72,
+      "label": "ENTITY"
+    },
+    {
+      "start": 99,
+      "end": 121,
+      "label": "ENTITY"
+    },
+    {
+      "start": 168,
+      "end": 175,
+      "label": "ENTITY"
+    },
+    {
+      "start": 212,
+      "end": 224,
+      "label": "ENTITY"
+    },
+    {
+      "start": 241,
+      "end": 252,
+      "label": "ENTITY"
+    },
+    {
+      "start": 281,
+      "end": 295,
+      "label": "ENTITY"
+    },
+    {
+      "start": 434,
+      "end": 450,
+      "label": "ENTITY"
+    },
+    {
+      "start": 468,
+      "end": 481,
+      "label": "ENTITY"
+    },
+    {
+      "start_char": 0,
+      "end_char": 8,
+      "label": "ENTITY",
+      "text": "AmigaOne"
+    },
+    {
+      "start_char": 63,
+      "end_char": 72,
+      "label": "ENTITY",
+      "text": "AmigaOS 4"
+    },
+    {
+      "start_char": 99,
+      "end_char": 121,
+      "label": "ENTITY",
+      "text": "Hyperion Entertainment"
+    },
+    {
+      "start_char": 168,
+      "end_char": 175,
+      "label": "ENTITY",
+      "text": "Eyetech"
+    },
+    {
+      "start_char": 212,
+      "end_char": 224,
+      "label": "ENTITY",
+      "text": "Teron series"
+    },
+    {
+      "start_char": 241,
+      "end_char": 252,
+      "label": "ENTITY",
+      "text": "PowerPC POP"
+    },
+    {
+      "start_char": 281,
+      "end_char": 295,
+      "label": "ENTITY",
+      "text": "September 2009"
+    },
+    {
+      "start_char": 434,
+      "end_char": 450,
+      "label": "ENTITY",
+      "text": "A-Eon Technology"
+    },
+    {
+      "start_char": 468,
+      "end_char": 481,
+      "label": "ENTITY",
+      "text": "Acube Systems"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 8
+    },
+    {
+      "id": 1,
+      "start": 8,
+      "end": 21
+    },
+    {
+      "id": 2,
+      "start": 22,
+      "end": 24
+    },
+    {
+      "id": 3,
+      "start": 25,
+      "end": 26
+    },
+    {
+      "id": 4,
+      "start": 27,
+      "end": 33
+    },
+    {
+      "id": 5,
+      "start": 34,
+      "end": 36
+    },
+    {
+      "id": 6,
+      "start": 37,
+      "end": 46
+    },
+    {
+      "id": 7,
+      "start": 47,
+      "end": 55
+    },
+    {
+      "id": 8,
+      "start": 56,
+      "end": 58
+    },
+    {
+      "id": 9,
+      "start": 59,
+      "end": 62
+    },
+    {
+      "id": 10,
+      "start": 63,
+      "end": 70
+    },
+    {
+      "id": 11,
+      "start": 71,
+      "end": 72
+    },
+    {
+      "id": 12,
+      "start": 72,
+      "end": 85
+    },
+    {
+      "id": 13,
+      "start": 86,
+      "end": 95
+    },
+    {
+      "id": 14,
+      "start": 96,
+      "end": 98
+    },
+    {
+      "id": 15,
+      "start": 99,
+      "end": 107
+    },
+    {
+      "id": 16,
+      "start": 108,
+      "end": 121
+    },
+    {
+      "id": 17,
+      "start": 121,
+      "end": 134
+    },
+    {
+      "id": 18,
+      "start": 134,
+      "end": 135
+    },
+    {
+      "id": 19,
+      "start": 136,
+      "end": 143
+    },
+    {
+      "id": 20,
+      "start": 144,
+      "end": 150
+    },
+    {
+      "id": 21,
+      "start": 151,
+      "end": 155
+    },
+    {
+      "id": 22,
+      "start": 156,
+      "end": 164
+    },
+    {
+      "id": 23,
+      "start": 165,
+      "end": 167
+    },
+    {
+      "id": 24,
+      "start": 168,
+      "end": 175
+    },
+    {
+      "id": 25,
+      "start": 175,
+      "end": 188
+    },
+    {
+      "id": 26,
+      "start": 188,
+      "end": 189
+    },
+    {
+      "id": 27,
+      "start": 190,
+      "end": 193
+    },
+    {
+      "id": 28,
+      "start": 194,
+      "end": 198
+    },
+    {
+      "id": 29,
+      "start": 199,
+      "end": 204
+    },
+    {
+      "id": 30,
+      "start": 205,
+      "end": 207
+    },
+    {
+      "id": 31,
+      "start": 208,
+      "end": 211
+    },
+    {
+      "id": 32,
+      "start": 212,
+      "end": 217
+    },
+    {
+      "id": 33,
+      "start": 218,
+      "end": 224
+    },
+    {
+      "id": 34,
+      "start": 224,
+      "end": 237
+    },
+    {
+      "id": 35,
+      "start": 238,
+      "end": 240
+    },
+    {
+      "id": 36,
+      "start": 241,
+      "end": 248
+    },
+    {
+      "id": 37,
+      "start": 249,
+      "end": 252
+    },
+    {
+      "id": 38,
+      "start": 252,
+      "end": 265
+    },
+    {
+      "id": 39,
+      "start": 266,
+      "end": 276
+    },
+    {
+      "id": 40,
+      "start": 276,
+      "end": 277
+    },
+    {
+      "id": 41,
+      "start": 278,
+      "end": 280
+    },
+    {
+      "id": 42,
+      "start": 281,
+      "end": 290
+    },
+    {
+      "id": 43,
+      "start": 291,
+      "end": 295
+    },
+    {
+      "id": 44,
+      "start": 295,
+      "end": 308
+    },
+    {
+      "id": 45,
+      "start": 308,
+      "end": 309
+    },
+    {
+      "id": 46,
+      "start": 310,
+      "end": 318
+    },
+    {
+      "id": 47,
+      "start": 319,
+      "end": 332
+    },
+    {
+      "id": 48,
+      "start": 333,
+      "end": 340
+    },
+    {
+      "id": 49,
+      "start": 341,
+      "end": 350
+    },
+    {
+      "id": 50,
+      "start": 351,
+      "end": 358
+    },
+    {
+      "id": 51,
+      "start": 359,
+      "end": 362
+    },
+    {
+      "id": 52,
+      "start": 363,
+      "end": 371
+    },
+    {
+      "id": 53,
+      "start": 372,
+      "end": 376
+    },
+    {
+      "id": 54,
+      "start": 377,
+      "end": 380
+    },
+    {
+      "id": 55,
+      "start": 381,
+      "end": 393
+    },
+    {
+      "id": 56,
+      "start": 394,
+      "end": 397
+    },
+    {
+      "id": 57,
+      "start": 398,
+      "end": 406
+    },
+    {
+      "id": 58,
+      "start": 407,
+      "end": 416
+    },
+    {
+      "id": 59,
+      "start": 417,
+      "end": 421
+    },
+    {
+      "id": 60,
+      "start": 422,
+      "end": 430
+    },
+    {
+      "id": 61,
+      "start": 431,
+      "end": 433
+    },
+    {
+      "id": 62,
+      "start": 434,
+      "end": 435
+    },
+    {
+      "id": 63,
+      "start": 435,
+      "end": 436
+    },
+    {
+      "id": 64,
+      "start": 436,
+      "end": 439
+    },
+    {
+      "id": 65,
+      "start": 440,
+      "end": 450
+    },
+    {
+      "id": 66,
+      "start": 450,
+      "end": 463
+    },
+    {
+      "id": 67,
+      "start": 464,
+      "end": 467
+    },
+    {
+      "id": 68,
+      "start": 468,
+      "end": 473
+    },
+    {
+      "id": 69,
+      "start": 474,
+      "end": 481
+    },
+    {
+      "id": 70,
+      "start": 481,
+      "end": 494
+    },
+    {
+      "id": 71,
+      "start": 494,
+      "end": 495
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "AmigaOne",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "AmigaOS 4",
+      "dest": 1
+    },
+    {
+      "dep_text": "Hyperion Entertainment",
+      "dep": 2,
+      "rel": "rdf-isClassOf",
+      "dest_text": "AmigaOS 4",
+      "dest": 1
+    },
+    {
+      "dep_text": "Eyetech",
+      "dep": 3,
+      "rel": "rdf-isClassOf",
+      "dest_text": "AmigaOS 4",
+      "dest": 1
+    },
+    {
+      "dep_text": "Teron series",
+      "dep": 4,
+      "rel": "rdf-isClassOf",
+      "dest_text": "AmigaOS 4",
+      "dest": 1
+    },
+    {
+      "dep_text": "A-Eon Technology",
+      "dep": 7,
+      "rel": "rdf-isClassOf",
+      "dest_text": "AmigaOS 4",
+      "dest": 1
+    },
+    {
+      "dep_text": "Acube Systems",
+      "dep": 8,
+      "rel": "rdf-isClassOf",
+      "dest_text": "AmigaOS 4",
+      "dest": 1
+    }
+  ],
+  "classes": {}
+}

@@ -1,0 +1,341 @@
+{
+  "text": "Mickey Mouse is an anthropomorphic cartoon character and the official mascot of The Walt Disney Company. He was created by Walt Disney and Ub Iwerks at the Walt Disney Studios in 1928.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 12,
+      "label": "ENTITY"
+    },
+    {
+      "start": 48,
+      "end": 65,
+      "label": "CLASS"
+    },
+    {
+      "start": 86,
+      "end": 101,
+      "label": "CLASS"
+    },
+    {
+      "start": 117,
+      "end": 140,
+      "label": "ENTITY"
+    },
+    {
+      "start": 173,
+      "end": 184,
+      "label": "ENTITY"
+    },
+    {
+      "start": 202,
+      "end": 211,
+      "label": "ENTITY"
+    },
+    {
+      "start": 232,
+      "end": 251,
+      "label": "ENTITY"
+    },
+    {
+      "start": 268,
+      "end": 272,
+      "label": "ENTITY"
+    },
+    {
+      "start_char": 0,
+      "end_char": 12,
+      "label": "ENTITY",
+      "text": "Mickey Mouse"
+    },
+    {
+      "start_char": 48,
+      "end_char": 65,
+      "label": "CLASS",
+      "text": "cartoon character",
+      "subClassOf": [
+        "PERSONIFICATION"
+      ]
+    },
+    {
+      "start_char": 86,
+      "end_char": 101,
+      "label": "CLASS",
+      "text": "official mascot",
+      "subClassOf": [
+        "PERSONIFICATION"
+      ]
+    },
+    {
+      "start_char": 117,
+      "end_char": 140,
+      "label": "ENTITY",
+      "text": "The Walt Disney Company"
+    },
+    {
+      "start_char": 173,
+      "end_char": 184,
+      "label": "ENTITY",
+      "text": "Walt Disney"
+    },
+    {
+      "start_char": 202,
+      "end_char": 211,
+      "label": "ENTITY",
+      "text": "Ub Iwerks"
+    },
+    {
+      "start_char": 232,
+      "end_char": 251,
+      "label": "ENTITY",
+      "text": "Walt Disney Studios"
+    },
+    {
+      "start_char": 268,
+      "end_char": 272,
+      "label": "ENTITY",
+      "text": "1928"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 6
+    },
+    {
+      "id": 1,
+      "start": 7,
+      "end": 12
+    },
+    {
+      "id": 2,
+      "start": 12,
+      "end": 25
+    },
+    {
+      "id": 3,
+      "start": 26,
+      "end": 28
+    },
+    {
+      "id": 4,
+      "start": 29,
+      "end": 31
+    },
+    {
+      "id": 5,
+      "start": 32,
+      "end": 47
+    },
+    {
+      "id": 6,
+      "start": 48,
+      "end": 55
+    },
+    {
+      "id": 7,
+      "start": 56,
+      "end": 65
+    },
+    {
+      "id": 8,
+      "start": 65,
+      "end": 77
+    },
+    {
+      "id": 9,
+      "start": 78,
+      "end": 81
+    },
+    {
+      "id": 10,
+      "start": 82,
+      "end": 85
+    },
+    {
+      "id": 11,
+      "start": 86,
+      "end": 94
+    },
+    {
+      "id": 12,
+      "start": 95,
+      "end": 101
+    },
+    {
+      "id": 13,
+      "start": 101,
+      "end": 113
+    },
+    {
+      "id": 14,
+      "start": 114,
+      "end": 116
+    },
+    {
+      "id": 15,
+      "start": 117,
+      "end": 120
+    },
+    {
+      "id": 16,
+      "start": 121,
+      "end": 125
+    },
+    {
+      "id": 17,
+      "start": 126,
+      "end": 132
+    },
+    {
+      "id": 18,
+      "start": 133,
+      "end": 140
+    },
+    {
+      "id": 19,
+      "start": 140,
+      "end": 153
+    },
+    {
+      "id": 20,
+      "start": 153,
+      "end": 154
+    },
+    {
+      "id": 21,
+      "start": 155,
+      "end": 157
+    },
+    {
+      "id": 22,
+      "start": 158,
+      "end": 161
+    },
+    {
+      "id": 23,
+      "start": 162,
+      "end": 169
+    },
+    {
+      "id": 24,
+      "start": 170,
+      "end": 172
+    },
+    {
+      "id": 25,
+      "start": 173,
+      "end": 177
+    },
+    {
+      "id": 26,
+      "start": 178,
+      "end": 184
+    },
+    {
+      "id": 27,
+      "start": 184,
+      "end": 197
+    },
+    {
+      "id": 28,
+      "start": 198,
+      "end": 201
+    },
+    {
+      "id": 29,
+      "start": 202,
+      "end": 204
+    },
+    {
+      "id": 30,
+      "start": 205,
+      "end": 211
+    },
+    {
+      "id": 31,
+      "start": 211,
+      "end": 224
+    },
+    {
+      "id": 32,
+      "start": 225,
+      "end": 227
+    },
+    {
+      "id": 33,
+      "start": 228,
+      "end": 231
+    },
+    {
+      "id": 34,
+      "start": 232,
+      "end": 236
+    },
+    {
+      "id": 35,
+      "start": 237,
+      "end": 243
+    },
+    {
+      "id": 36,
+      "start": 244,
+      "end": 251
+    },
+    {
+      "id": 37,
+      "start": 251,
+      "end": 264
+    },
+    {
+      "id": 38,
+      "start": 265,
+      "end": 267
+    },
+    {
+      "id": 39,
+      "start": 268,
+      "end": 272
+    },
+    {
+      "id": 40,
+      "start": 272,
+      "end": 285
+    },
+    {
+      "id": 41,
+      "start": 285,
+      "end": 286
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Mickey Mouse",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "cartoon character",
+      "dest": 1
+    },
+    {
+      "dep_text": "Mickey Mouse",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "official mascot",
+      "dest": 2
+    }
+  ],
+  "classes": {
+    "cartoon_character_1": {
+      "labels": [
+        "PERSONIFICATION"
+      ],
+      "class": "cartoon character"
+    },
+    "official_mascot_2": {
+      "labels": [
+        "PERSONIFICATION"
+      ],
+      "class": "official mascot"
+    }
+  }
+}

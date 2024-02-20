@@ -1,0 +1,234 @@
+{
+  "text": "El Oso, released in 1998, is an album by the New York City band Soul Coughing.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 6,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 37,
+      "end": 41,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 66,
+      "end": 71,
+      "label": "CLASS"
+    },
+    {
+      "start": 91,
+      "end": 104,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 122,
+      "end": 126,
+      "label": "CLASS"
+    },
+    {
+      "start": 139,
+      "end": 152,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start_char": 0,
+      "end_char": 6,
+      "label": "INDIVIDUAL",
+      "text": "El Oso"
+    },
+    {
+      "start_char": 37,
+      "end_char": 41,
+      "label": "INDIVIDUAL",
+      "text": "1998"
+    },
+    {
+      "start_char": 66,
+      "end_char": 71,
+      "label": "CLASS",
+      "text": "album",
+      "subClassOf": [
+        "PHYSICAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 91,
+      "end_char": 104,
+      "label": "INDIVIDUAL",
+      "text": "New York City"
+    },
+    {
+      "start_char": 122,
+      "end_char": 126,
+      "label": "CLASS",
+      "text": "band",
+      "subClassOf": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "start_char": 139,
+      "end_char": 152,
+      "label": "INDIVIDUAL",
+      "text": "Soul Coughing"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 2
+    },
+    {
+      "id": 1,
+      "start": 3,
+      "end": 6
+    },
+    {
+      "id": 2,
+      "start": 6,
+      "end": 23
+    },
+    {
+      "id": 3,
+      "start": 23,
+      "end": 24
+    },
+    {
+      "id": 4,
+      "start": 25,
+      "end": 33
+    },
+    {
+      "id": 5,
+      "start": 34,
+      "end": 36
+    },
+    {
+      "id": 6,
+      "start": 37,
+      "end": 41
+    },
+    {
+      "id": 7,
+      "start": 41,
+      "end": 58
+    },
+    {
+      "id": 8,
+      "start": 58,
+      "end": 59
+    },
+    {
+      "id": 9,
+      "start": 60,
+      "end": 62
+    },
+    {
+      "id": 10,
+      "start": 63,
+      "end": 65
+    },
+    {
+      "id": 11,
+      "start": 66,
+      "end": 71
+    },
+    {
+      "id": 12,
+      "start": 71,
+      "end": 83
+    },
+    {
+      "id": 13,
+      "start": 84,
+      "end": 86
+    },
+    {
+      "id": 14,
+      "start": 87,
+      "end": 90
+    },
+    {
+      "id": 15,
+      "start": 91,
+      "end": 94
+    },
+    {
+      "id": 16,
+      "start": 95,
+      "end": 99
+    },
+    {
+      "id": 17,
+      "start": 100,
+      "end": 104
+    },
+    {
+      "id": 18,
+      "start": 104,
+      "end": 121
+    },
+    {
+      "id": 19,
+      "start": 122,
+      "end": 126
+    },
+    {
+      "id": 20,
+      "start": 126,
+      "end": 138
+    },
+    {
+      "id": 21,
+      "start": 139,
+      "end": 143
+    },
+    {
+      "id": 22,
+      "start": 144,
+      "end": 152
+    },
+    {
+      "id": 23,
+      "start": 152,
+      "end": 169
+    },
+    {
+      "id": 24,
+      "start": 169,
+      "end": 170
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "El Oso",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "album",
+      "dest": 2
+    },
+    {
+      "dep_text": "Soul Coughing",
+      "dep": 5,
+      "rel": "is_a",
+      "dest_text": "band",
+      "dest": 4
+    }
+  ],
+  "classes": {
+    "album_2": {
+      "labels": [
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "album"
+    },
+    "band_4": {
+      "labels": [
+        "ORGANISATION"
+      ],
+      "class": "band"
+    }
+  }
+}

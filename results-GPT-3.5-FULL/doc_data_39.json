@@ -1,0 +1,272 @@
+{
+  "text": "In the mathematical field of numerical analysis, interpolation is a method of constructing new data points within the range of a discrete set of known data points.",
+  "ents": [
+    {
+      "start": 7,
+      "end": 25,
+      "label": "CLASS"
+    },
+    {
+      "start": 41,
+      "end": 59,
+      "label": "CLASS"
+    },
+    {
+      "start": 73,
+      "end": 86,
+      "label": "ENTITY"
+    },
+    {
+      "start": 105,
+      "end": 111,
+      "label": "CLASS"
+    },
+    {
+      "start": 144,
+      "end": 155,
+      "label": "ENTITY"
+    },
+    {
+      "start_char": 7,
+      "end_char": 25,
+      "label": "CLASS",
+      "text": "mathematical field",
+      "subClassOf": [
+        "TOPIC"
+      ]
+    },
+    {
+      "start_char": 41,
+      "end_char": 59,
+      "label": "CLASS",
+      "text": "numerical analysis",
+      "subClassOf": [
+        "INFORMATION_ENTITY",
+        "TOPIC"
+      ]
+    },
+    {
+      "start_char": 73,
+      "end_char": 86,
+      "label": "ENTITY",
+      "text": "interpolation"
+    },
+    {
+      "start_char": 105,
+      "end_char": 111,
+      "label": "CLASS",
+      "text": "method",
+      "subClassOf": [
+        "ABSTRACT"
+      ]
+    },
+    {
+      "start_char": 144,
+      "end_char": 155,
+      "label": "ENTITY",
+      "text": "data points"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 2
+    },
+    {
+      "id": 1,
+      "start": 3,
+      "end": 6
+    },
+    {
+      "id": 2,
+      "start": 7,
+      "end": 19
+    },
+    {
+      "id": 3,
+      "start": 20,
+      "end": 25
+    },
+    {
+      "id": 4,
+      "start": 25,
+      "end": 37
+    },
+    {
+      "id": 5,
+      "start": 38,
+      "end": 40
+    },
+    {
+      "id": 6,
+      "start": 41,
+      "end": 50
+    },
+    {
+      "id": 7,
+      "start": 51,
+      "end": 59
+    },
+    {
+      "id": 8,
+      "start": 59,
+      "end": 71
+    },
+    {
+      "id": 9,
+      "start": 71,
+      "end": 72
+    },
+    {
+      "id": 10,
+      "start": 73,
+      "end": 86
+    },
+    {
+      "id": 11,
+      "start": 86,
+      "end": 99
+    },
+    {
+      "id": 12,
+      "start": 100,
+      "end": 102
+    },
+    {
+      "id": 13,
+      "start": 103,
+      "end": 104
+    },
+    {
+      "id": 14,
+      "start": 105,
+      "end": 111
+    },
+    {
+      "id": 15,
+      "start": 111,
+      "end": 123
+    },
+    {
+      "id": 16,
+      "start": 124,
+      "end": 126
+    },
+    {
+      "id": 17,
+      "start": 127,
+      "end": 139
+    },
+    {
+      "id": 18,
+      "start": 140,
+      "end": 143
+    },
+    {
+      "id": 19,
+      "start": 144,
+      "end": 148
+    },
+    {
+      "id": 20,
+      "start": 149,
+      "end": 155
+    },
+    {
+      "id": 21,
+      "start": 155,
+      "end": 168
+    },
+    {
+      "id": 22,
+      "start": 169,
+      "end": 175
+    },
+    {
+      "id": 23,
+      "start": 176,
+      "end": 179
+    },
+    {
+      "id": 24,
+      "start": 180,
+      "end": 185
+    },
+    {
+      "id": 25,
+      "start": 186,
+      "end": 188
+    },
+    {
+      "id": 26,
+      "start": 189,
+      "end": 190
+    },
+    {
+      "id": 27,
+      "start": 191,
+      "end": 199
+    },
+    {
+      "id": 28,
+      "start": 200,
+      "end": 203
+    },
+    {
+      "id": 29,
+      "start": 204,
+      "end": 206
+    },
+    {
+      "id": 30,
+      "start": 207,
+      "end": 212
+    },
+    {
+      "id": 31,
+      "start": 213,
+      "end": 217
+    },
+    {
+      "id": 32,
+      "start": 218,
+      "end": 224
+    },
+    {
+      "id": 33,
+      "start": 224,
+      "end": 225
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "interpolation",
+      "dep": 2,
+      "rel": "rdf-type",
+      "dest_text": "method",
+      "dest": 3
+    }
+  ],
+  "classes": {
+    "mathematical_field_0": {
+      "labels": [
+        "TOPIC"
+      ],
+      "class": "mathematical field"
+    },
+    "numerical_analysis_1": {
+      "labels": [
+        "INFORMATION_ENTITY",
+        "TOPIC"
+      ],
+      "class": "numerical analysis"
+    },
+    "method_3": {
+      "labels": [
+        "ABSTRACT"
+      ],
+      "class": "method"
+    }
+  }
+}

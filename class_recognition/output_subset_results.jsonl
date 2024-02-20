@@ -1,0 +1,16 @@
+{"text": "Station in the context of this sentence: Danderyds sjukhus is a metro station in suburban Danderyd Municipality, north of Stockholm, Sweden.", "answer": "Location"}
+{"text": "FemaleFirstName in the context of this sentence: The name Belinda is a common female first name of unknown etymology.", "answer": "InformationEntity"}
+{"text": "FootballClub in the context of this sentence: FC Amberg is a German football club from the city of Amberg, Bavaria.", "answer": "Organization"}
+{"text": "Year in the context of this sentence: Year 82 BC was a year of the pre-Julian Roman calendar.", "answer": "TimeInterval"}
+{"text": "Meeting in the context of this sentence: The 2009 G-20 London Summit is the second meeting of the G-20 heads of state in discussion of financial markets and the world economy, which was held in London on 2 April 2009 at the ExCeL Exhibition Centre. ", "answer": "Activity"}
+{"text": "Pharaoh in the context of this sentence: Ahmose I was a pharaoh of ancient Egypt and the founder of the Eighteenth dynasty.", "answer": "Person"}
+{"text": "Epithet in the context of this sentence: Bromius in ancient Greece was used as an epithet of Dionysus/Bacchus.", "answer": "Personification"}
+{"text": "Season-ofCompetition in the context of this sentence: The DFB-Pokal 1980-81 was the 38th season of the competition, beginning on 27 August 1980 and ending on 2 May 1981.", "answer": "Situation"}
+{"text": "Chateau in the context of this sentence: The Castle of Compi\u00e8gne is a French ch\u00e2teau built for Louis XV and restored by Napoleon.", "answer": "PhysicalObject"}
+{"text": "Self in the context of this sentence: An alter ego is a second self, which is believed to be distinct from a person's normal or original personality.", "answer": "CognitiveObject"}
+{"text": "Genus in the context of this sentence: Ankylosaurus is a genus of ankylosaurid dinosaur, containing one species, A. magniventris.", "answer": "Organism"}
+{"text": "Number in the context of this sentence: 98 is the natural number following 97 and preceding 99.", "answer": "Abstract"}
+{"text": "OperatingSystem in the context of this sentence: Amoeba is a distributed operating system developed by Andrew S. Tanenbaum and others at the Vrije Universiteit.", "answer": "System"}
+{"text": "Standard in the context of this sentence: The AES11 standard published by the Audio Engineering Society provides a systematic approach to the synchronization of digital audio signals. Recommendations are made concerning the accuracy of sample clocks as embodied in the interface signal and the use of this format as a convenient synchronization reference where signals must be rendered co-timed for digital processing.", "answer": "Description"}
+{"text": "AthleticConference in the context of this sentence: The Southern Intercollegiate Athletic Conference is a College athletic conference consisting of historically black colleges and universities located in the southern United States.", "answer": "Collection"}
+{"text": "Device in the context of this sentence: An Abbe refractometer is a bench-top device for the high-precision measurement of an index of refraction.", "answer": "InformationEntity, PhysicalObject"}

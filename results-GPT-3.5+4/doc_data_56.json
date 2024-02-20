@@ -1,0 +1,476 @@
+{
+  "text": "In meteorology, virga is an observable precipitation shaft that falls from a cloud but evaporates or sublimes before reaching the ground. At high altitudes the precipitation falls mainly as ice crystals before melting and finally evaporating; this is often due to compressional heating, because the air pressure increases closer to the ground.",
+  "ents": [
+    {
+      "start": 3,
+      "end": 14,
+      "label": "CLASS"
+    },
+    {
+      "start": 28,
+      "end": 33,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 68,
+      "end": 87,
+      "label": "CLASS"
+    },
+    {
+      "start": 118,
+      "end": 123,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 248,
+      "end": 260,
+      "label": "CLASS"
+    },
+    {
+      "start": 369,
+      "end": 381,
+      "label": "CLASS"
+    },
+    {
+      "start": 418,
+      "end": 424,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start_char": 3,
+      "end_char": 14,
+      "label": "CLASS",
+      "text": "meteorology",
+      "subClassOf": [
+        "INFORMATION_ENTITY"
+      ]
+    },
+    {
+      "start_char": 28,
+      "end_char": 33,
+      "label": "INDIVIDUAL",
+      "text": "virga"
+    },
+    {
+      "start_char": 68,
+      "end_char": 87,
+      "label": "CLASS",
+      "text": "precipitation shaft",
+      "subClassOf": [
+        "PHYSICAL_OBJECT",
+        "SITUATION"
+      ]
+    },
+    {
+      "start_char": 118,
+      "end_char": 123,
+      "label": "INDIVIDUAL",
+      "text": "cloud"
+    },
+    {
+      "start_char": 248,
+      "end_char": 260,
+      "label": "CLASS",
+      "text": "ice crystals",
+      "subClassOf": [
+        "ABSTRACT",
+        "PHYSICAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 369,
+      "end_char": 381,
+      "label": "CLASS",
+      "text": "air pressure",
+      "subClassOf": [
+        "PHYSICAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 418,
+      "end_char": 424,
+      "label": "INDIVIDUAL",
+      "text": "ground"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 2
+    },
+    {
+      "id": 1,
+      "start": 3,
+      "end": 14
+    },
+    {
+      "id": 2,
+      "start": 14,
+      "end": 26
+    },
+    {
+      "id": 3,
+      "start": 26,
+      "end": 27
+    },
+    {
+      "id": 4,
+      "start": 28,
+      "end": 33
+    },
+    {
+      "id": 5,
+      "start": 33,
+      "end": 50
+    },
+    {
+      "id": 6,
+      "start": 51,
+      "end": 53
+    },
+    {
+      "id": 7,
+      "start": 54,
+      "end": 56
+    },
+    {
+      "id": 8,
+      "start": 57,
+      "end": 67
+    },
+    {
+      "id": 9,
+      "start": 68,
+      "end": 81
+    },
+    {
+      "id": 10,
+      "start": 82,
+      "end": 87
+    },
+    {
+      "id": 11,
+      "start": 87,
+      "end": 99
+    },
+    {
+      "id": 12,
+      "start": 100,
+      "end": 104
+    },
+    {
+      "id": 13,
+      "start": 105,
+      "end": 110
+    },
+    {
+      "id": 14,
+      "start": 111,
+      "end": 115
+    },
+    {
+      "id": 15,
+      "start": 116,
+      "end": 117
+    },
+    {
+      "id": 16,
+      "start": 118,
+      "end": 123
+    },
+    {
+      "id": 17,
+      "start": 123,
+      "end": 140
+    },
+    {
+      "id": 18,
+      "start": 141,
+      "end": 144
+    },
+    {
+      "id": 19,
+      "start": 145,
+      "end": 155
+    },
+    {
+      "id": 20,
+      "start": 156,
+      "end": 158
+    },
+    {
+      "id": 21,
+      "start": 159,
+      "end": 167
+    },
+    {
+      "id": 22,
+      "start": 168,
+      "end": 174
+    },
+    {
+      "id": 23,
+      "start": 175,
+      "end": 183
+    },
+    {
+      "id": 24,
+      "start": 184,
+      "end": 187
+    },
+    {
+      "id": 25,
+      "start": 188,
+      "end": 194
+    },
+    {
+      "id": 26,
+      "start": 194,
+      "end": 195
+    },
+    {
+      "id": 27,
+      "start": 196,
+      "end": 198
+    },
+    {
+      "id": 28,
+      "start": 199,
+      "end": 203
+    },
+    {
+      "id": 29,
+      "start": 204,
+      "end": 213
+    },
+    {
+      "id": 30,
+      "start": 214,
+      "end": 217
+    },
+    {
+      "id": 31,
+      "start": 218,
+      "end": 231
+    },
+    {
+      "id": 32,
+      "start": 232,
+      "end": 237
+    },
+    {
+      "id": 33,
+      "start": 238,
+      "end": 244
+    },
+    {
+      "id": 34,
+      "start": 245,
+      "end": 247
+    },
+    {
+      "id": 35,
+      "start": 248,
+      "end": 251
+    },
+    {
+      "id": 36,
+      "start": 252,
+      "end": 260
+    },
+    {
+      "id": 37,
+      "start": 260,
+      "end": 272
+    },
+    {
+      "id": 38,
+      "start": 273,
+      "end": 279
+    },
+    {
+      "id": 39,
+      "start": 280,
+      "end": 287
+    },
+    {
+      "id": 40,
+      "start": 288,
+      "end": 291
+    },
+    {
+      "id": 41,
+      "start": 292,
+      "end": 299
+    },
+    {
+      "id": 42,
+      "start": 300,
+      "end": 311
+    },
+    {
+      "id": 43,
+      "start": 311,
+      "end": 312
+    },
+    {
+      "id": 44,
+      "start": 313,
+      "end": 317
+    },
+    {
+      "id": 45,
+      "start": 318,
+      "end": 320
+    },
+    {
+      "id": 46,
+      "start": 321,
+      "end": 326
+    },
+    {
+      "id": 47,
+      "start": 327,
+      "end": 330
+    },
+    {
+      "id": 48,
+      "start": 331,
+      "end": 333
+    },
+    {
+      "id": 49,
+      "start": 334,
+      "end": 347
+    },
+    {
+      "id": 50,
+      "start": 348,
+      "end": 355
+    },
+    {
+      "id": 51,
+      "start": 355,
+      "end": 356
+    },
+    {
+      "id": 52,
+      "start": 357,
+      "end": 364
+    },
+    {
+      "id": 53,
+      "start": 365,
+      "end": 368
+    },
+    {
+      "id": 54,
+      "start": 369,
+      "end": 372
+    },
+    {
+      "id": 55,
+      "start": 373,
+      "end": 381
+    },
+    {
+      "id": 56,
+      "start": 381,
+      "end": 393
+    },
+    {
+      "id": 57,
+      "start": 394,
+      "end": 403
+    },
+    {
+      "id": 58,
+      "start": 404,
+      "end": 410
+    },
+    {
+      "id": 59,
+      "start": 411,
+      "end": 413
+    },
+    {
+      "id": 60,
+      "start": 414,
+      "end": 417
+    },
+    {
+      "id": 61,
+      "start": 418,
+      "end": 424
+    },
+    {
+      "id": 62,
+      "start": 424,
+      "end": 441
+    },
+    {
+      "id": 63,
+      "start": 441,
+      "end": 442
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "virga",
+      "dep": 1,
+      "rel": "is_a",
+      "dest_text": "precipitation shaft",
+      "dest": 2
+    },
+    {
+      "dep_text": "virga",
+      "dep": 1,
+      "rel": "is_a",
+      "dest_text": "meteorology",
+      "dest": 0
+    },
+    {
+      "dep_text": "ice crystals",
+      "dep": 4,
+      "rel": "is_a",
+      "dest_text": "meteorology",
+      "dest": 0
+    },
+    {
+      "dep_text": "air pressure",
+      "dep": 5,
+      "rel": "is_a",
+      "dest_text": "meteorology",
+      "dest": 0
+    }
+  ],
+  "classes": {
+    "meteorology_0": {
+      "labels": [
+        "INFORMATION_ENTITY"
+      ],
+      "class": "meteorology"
+    },
+    "precipitation_shaft_2": {
+      "labels": [
+        "PHYSICAL_OBJECT",
+        "SITUATION"
+      ],
+      "class": "precipitation shaft"
+    },
+    "ice_crystals_4": {
+      "labels": [
+        "ABSTRACT",
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "ice crystals"
+    },
+    "air_pressure_5": {
+      "labels": [
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "air pressure"
+    }
+  }
+}

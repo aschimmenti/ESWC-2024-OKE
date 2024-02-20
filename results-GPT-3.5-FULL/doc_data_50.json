@@ -1,0 +1,133 @@
+{
+  "text": "A utopia is a community possessing highly desirable or near perfect qualities.",
+  "ents": [
+    {
+      "start": 2,
+      "end": 8,
+      "label": "CLASS"
+    },
+    {
+      "start": 26,
+      "end": 35,
+      "label": "CLASS"
+    },
+    {
+      "start_char": 2,
+      "end_char": 8,
+      "label": "CLASS",
+      "text": "utopia",
+      "subClassOf": [
+        "ABSTRACT"
+      ]
+    },
+    {
+      "start_char": 26,
+      "end_char": 35,
+      "label": "CLASS",
+      "text": "community",
+      "subClassOf": [
+        "SOCIAL_OBJECT"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 1
+    },
+    {
+      "id": 1,
+      "start": 2,
+      "end": 8
+    },
+    {
+      "id": 2,
+      "start": 8,
+      "end": 20
+    },
+    {
+      "id": 3,
+      "start": 21,
+      "end": 23
+    },
+    {
+      "id": 4,
+      "start": 24,
+      "end": 25
+    },
+    {
+      "id": 5,
+      "start": 26,
+      "end": 35
+    },
+    {
+      "id": 6,
+      "start": 35,
+      "end": 47
+    },
+    {
+      "id": 7,
+      "start": 48,
+      "end": 58
+    },
+    {
+      "id": 8,
+      "start": 59,
+      "end": 65
+    },
+    {
+      "id": 9,
+      "start": 66,
+      "end": 75
+    },
+    {
+      "id": 10,
+      "start": 76,
+      "end": 78
+    },
+    {
+      "id": 11,
+      "start": 79,
+      "end": 83
+    },
+    {
+      "id": 12,
+      "start": 84,
+      "end": 91
+    },
+    {
+      "id": 13,
+      "start": 92,
+      "end": 101
+    },
+    {
+      "id": 14,
+      "start": 101,
+      "end": 102
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "utopia",
+      "dep": 0,
+      "rel": "rdf-isClassOf",
+      "dest_text": "community",
+      "dest": 1
+    }
+  ],
+  "classes": {
+    "utopia_0": {
+      "labels": [
+        "ABSTRACT"
+      ],
+      "class": "utopia"
+    },
+    "community_1": {
+      "labels": [
+        "SOCIAL_OBJECT"
+      ],
+      "class": "community"
+    }
+  }
+}

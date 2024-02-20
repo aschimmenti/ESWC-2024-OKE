@@ -1,0 +1,236 @@
+{
+  "text": "Typhoon Haiyan, known in the Philippines as Typhoon Yolanda, was a tropical cyclon devastating portions of Southeast Asia, particularly the Philippines, in early-November 2013.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 14,
+      "label": "ENTITY"
+    },
+    {
+      "start": 57,
+      "end": 72,
+      "label": "ENTITY"
+    },
+    {
+      "start": 166,
+      "end": 177,
+      "label": "ENTITY"
+    },
+    {
+      "start": 195,
+      "end": 214,
+      "label": "ENTITY"
+    },
+    {
+      "start_char": 0,
+      "end_char": 14,
+      "label": "ENTITY",
+      "text": "Typhoon Haiyan"
+    },
+    {
+      "start_char": 57,
+      "end_char": 72,
+      "label": "ENTITY",
+      "text": "Typhoon Yolanda"
+    },
+    {
+      "start_char": 166,
+      "end_char": 177,
+      "label": "ENTITY",
+      "text": "Philippines"
+    },
+    {
+      "start_char": 195,
+      "end_char": 214,
+      "label": "ENTITY",
+      "text": "early-November 2013"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 7
+    },
+    {
+      "id": 1,
+      "start": 8,
+      "end": 14
+    },
+    {
+      "id": 2,
+      "start": 14,
+      "end": 27
+    },
+    {
+      "id": 3,
+      "start": 27,
+      "end": 28
+    },
+    {
+      "id": 4,
+      "start": 29,
+      "end": 34
+    },
+    {
+      "id": 5,
+      "start": 35,
+      "end": 37
+    },
+    {
+      "id": 6,
+      "start": 38,
+      "end": 41
+    },
+    {
+      "id": 7,
+      "start": 42,
+      "end": 53
+    },
+    {
+      "id": 8,
+      "start": 54,
+      "end": 56
+    },
+    {
+      "id": 9,
+      "start": 57,
+      "end": 64
+    },
+    {
+      "id": 10,
+      "start": 65,
+      "end": 72
+    },
+    {
+      "id": 11,
+      "start": 72,
+      "end": 85
+    },
+    {
+      "id": 12,
+      "start": 85,
+      "end": 86
+    },
+    {
+      "id": 13,
+      "start": 87,
+      "end": 90
+    },
+    {
+      "id": 14,
+      "start": 91,
+      "end": 92
+    },
+    {
+      "id": 15,
+      "start": 93,
+      "end": 101
+    },
+    {
+      "id": 16,
+      "start": 102,
+      "end": 108
+    },
+    {
+      "id": 17,
+      "start": 109,
+      "end": 120
+    },
+    {
+      "id": 18,
+      "start": 121,
+      "end": 129
+    },
+    {
+      "id": 19,
+      "start": 130,
+      "end": 132
+    },
+    {
+      "id": 20,
+      "start": 133,
+      "end": 142
+    },
+    {
+      "id": 21,
+      "start": 143,
+      "end": 147
+    },
+    {
+      "id": 22,
+      "start": 147,
+      "end": 148
+    },
+    {
+      "id": 23,
+      "start": 149,
+      "end": 161
+    },
+    {
+      "id": 24,
+      "start": 162,
+      "end": 165
+    },
+    {
+      "id": 25,
+      "start": 166,
+      "end": 177
+    },
+    {
+      "id": 26,
+      "start": 177,
+      "end": 190
+    },
+    {
+      "id": 27,
+      "start": 190,
+      "end": 191
+    },
+    {
+      "id": 28,
+      "start": 192,
+      "end": 194
+    },
+    {
+      "id": 29,
+      "start": 195,
+      "end": 200
+    },
+    {
+      "id": 30,
+      "start": 200,
+      "end": 201
+    },
+    {
+      "id": 31,
+      "start": 201,
+      "end": 209
+    },
+    {
+      "id": 32,
+      "start": 210,
+      "end": 214
+    },
+    {
+      "id": 33,
+      "start": 214,
+      "end": 227
+    },
+    {
+      "id": 34,
+      "start": 227,
+      "end": 228
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Typhoon Haiyan",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "Typhoon Yolanda",
+      "dest": 1
+    }
+  ],
+  "classes": {}
+}

@@ -1,0 +1,293 @@
+{
+  "text": "Bhima, also called Bhimasena and Vrikodara (Vṛkōdara, lit. 'one with a wolf's belly'), is a character of the Hindu epic Mahabharata",
+  "ents": [
+    {
+      "start": 0,
+      "end": 5,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 36,
+      "end": 45,
+      "label": "CLASS"
+    },
+    {
+      "start": 62,
+      "end": 71,
+      "label": "CLASS"
+    },
+    {
+      "start": 112,
+      "end": 124,
+      "label": "CLASS"
+    },
+    {
+      "start": 162,
+      "end": 184,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start_char": 0,
+      "end_char": 5,
+      "label": "INDIVIDUAL",
+      "text": "Bhima"
+    },
+    {
+      "start_char": 36,
+      "end_char": 45,
+      "label": "CLASS",
+      "text": "Bhimasena",
+      "subClassOf": [
+        "PERSON",
+        "PERSONIFICATION"
+      ]
+    },
+    {
+      "start_char": 62,
+      "end_char": 71,
+      "label": "CLASS",
+      "text": "Vrikodara",
+      "subClassOf": [
+        "PERSON",
+        "PERSONIFICATION"
+      ]
+    },
+    {
+      "start_char": 112,
+      "end_char": 124,
+      "label": "CLASS",
+      "text": "wolf's belly",
+      "subClassOf": [
+        "PERSONIFICATION"
+      ]
+    },
+    {
+      "start_char": 162,
+      "end_char": 184,
+      "label": "INDIVIDUAL",
+      "text": "Hindu epic Mahabharata"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 5
+    },
+    {
+      "id": 1,
+      "start": 5,
+      "end": 22
+    },
+    {
+      "id": 2,
+      "start": 22,
+      "end": 23
+    },
+    {
+      "id": 3,
+      "start": 24,
+      "end": 28
+    },
+    {
+      "id": 4,
+      "start": 29,
+      "end": 35
+    },
+    {
+      "id": 5,
+      "start": 36,
+      "end": 45
+    },
+    {
+      "id": 6,
+      "start": 45,
+      "end": 57
+    },
+    {
+      "id": 7,
+      "start": 58,
+      "end": 61
+    },
+    {
+      "id": 8,
+      "start": 62,
+      "end": 71
+    },
+    {
+      "id": 9,
+      "start": 71,
+      "end": 83
+    },
+    {
+      "id": 10,
+      "start": 84,
+      "end": 85
+    },
+    {
+      "id": 11,
+      "start": 85,
+      "end": 93
+    },
+    {
+      "id": 12,
+      "start": 93,
+      "end": 94
+    },
+    {
+      "id": 13,
+      "start": 95,
+      "end": 98
+    },
+    {
+      "id": 14,
+      "start": 98,
+      "end": 99
+    },
+    {
+      "id": 15,
+      "start": 100,
+      "end": 101
+    },
+    {
+      "id": 16,
+      "start": 101,
+      "end": 104
+    },
+    {
+      "id": 17,
+      "start": 105,
+      "end": 109
+    },
+    {
+      "id": 18,
+      "start": 110,
+      "end": 111
+    },
+    {
+      "id": 19,
+      "start": 112,
+      "end": 116
+    },
+    {
+      "id": 20,
+      "start": 116,
+      "end": 118
+    },
+    {
+      "id": 21,
+      "start": 119,
+      "end": 124
+    },
+    {
+      "id": 22,
+      "start": 124,
+      "end": 136
+    },
+    {
+      "id": 23,
+      "start": 136,
+      "end": 137
+    },
+    {
+      "id": 24,
+      "start": 137,
+      "end": 138
+    },
+    {
+      "id": 25,
+      "start": 138,
+      "end": 139
+    },
+    {
+      "id": 26,
+      "start": 140,
+      "end": 142
+    },
+    {
+      "id": 27,
+      "start": 143,
+      "end": 144
+    },
+    {
+      "id": 28,
+      "start": 145,
+      "end": 154
+    },
+    {
+      "id": 29,
+      "start": 155,
+      "end": 157
+    },
+    {
+      "id": 30,
+      "start": 158,
+      "end": 161
+    },
+    {
+      "id": 31,
+      "start": 162,
+      "end": 167
+    },
+    {
+      "id": 32,
+      "start": 168,
+      "end": 172
+    },
+    {
+      "id": 33,
+      "start": 173,
+      "end": 184
+    },
+    {
+      "id": 34,
+      "start": 184,
+      "end": 201
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Bhima",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "Bhimasena",
+      "dest": 1
+    },
+    {
+      "dep_text": "Bhima",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "Vrikodara",
+      "dest": 2
+    },
+    {
+      "dep_text": "Bhima",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "wolf's belly",
+      "dest": 3
+    }
+  ],
+  "classes": {
+    "Bhimasena_1": {
+      "labels": [
+        "PERSON",
+        "PERSONIFICATION"
+      ],
+      "class": "Bhimasena"
+    },
+    "Vrikodara_2": {
+      "labels": [
+        "PERSON",
+        "PERSONIFICATION"
+      ],
+      "class": "Vrikodara"
+    },
+    "wolf's_belly_3": {
+      "labels": [
+        "PERSONIFICATION"
+      ],
+      "class": "wolf's belly"
+    }
+  }
+}

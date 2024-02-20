@@ -1,0 +1,396 @@
+{
+  "text": "Environmental chemistry is the scientific study of the chemical and biochemical phenomena that occur in natural places. It should not be confused with green chemistry, which seeks to reduce potential pollution at its source.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 23,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 48,
+      "end": 64,
+      "label": "CLASS"
+    },
+    {
+      "start": 84,
+      "end": 118,
+      "label": "CLASS"
+    },
+    {
+      "start": 145,
+      "end": 159,
+      "label": "CLASS"
+    },
+    {
+      "start": 204,
+      "end": 219,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 260,
+      "end": 279,
+      "label": "CLASS"
+    },
+    {
+      "start": 299,
+      "end": 305,
+      "label": "CLASS"
+    },
+    {
+      "start_char": 0,
+      "end_char": 23,
+      "label": "INDIVIDUAL",
+      "text": "Environmental chemistry"
+    },
+    {
+      "start_char": 48,
+      "end_char": 64,
+      "label": "CLASS",
+      "text": "scientific study",
+      "subClassOf": [
+        "ACTIVITY",
+        "TOPIC"
+      ]
+    },
+    {
+      "start_char": 84,
+      "end_char": 118,
+      "label": "CLASS",
+      "text": "chemical and biochemical phenomena",
+      "subClassOf": [
+        "ABSTRACT",
+        "TOPIC"
+      ]
+    },
+    {
+      "start_char": 145,
+      "end_char": 159,
+      "label": "CLASS",
+      "text": "natural places",
+      "subClassOf": [
+        "LOCATION",
+        "TOPIC"
+      ]
+    },
+    {
+      "start_char": 204,
+      "end_char": 219,
+      "label": "INDIVIDUAL",
+      "text": "green chemistry"
+    },
+    {
+      "start_char": 260,
+      "end_char": 279,
+      "label": "CLASS",
+      "text": "potential pollution",
+      "subClassOf": [
+        "INFORMATION_ENTITY",
+        "SITUATION"
+      ]
+    },
+    {
+      "start_char": 299,
+      "end_char": 305,
+      "label": "CLASS",
+      "text": "source",
+      "subClassOf": [
+        "INFORMATION_ENTITY"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 13
+    },
+    {
+      "id": 1,
+      "start": 14,
+      "end": 23
+    },
+    {
+      "id": 2,
+      "start": 23,
+      "end": 40
+    },
+    {
+      "id": 3,
+      "start": 41,
+      "end": 43
+    },
+    {
+      "id": 4,
+      "start": 44,
+      "end": 47
+    },
+    {
+      "id": 5,
+      "start": 48,
+      "end": 58
+    },
+    {
+      "id": 6,
+      "start": 59,
+      "end": 64
+    },
+    {
+      "id": 7,
+      "start": 64,
+      "end": 76
+    },
+    {
+      "id": 8,
+      "start": 77,
+      "end": 79
+    },
+    {
+      "id": 9,
+      "start": 80,
+      "end": 83
+    },
+    {
+      "id": 10,
+      "start": 84,
+      "end": 92
+    },
+    {
+      "id": 11,
+      "start": 93,
+      "end": 96
+    },
+    {
+      "id": 12,
+      "start": 97,
+      "end": 108
+    },
+    {
+      "id": 13,
+      "start": 109,
+      "end": 118
+    },
+    {
+      "id": 14,
+      "start": 118,
+      "end": 130
+    },
+    {
+      "id": 15,
+      "start": 131,
+      "end": 135
+    },
+    {
+      "id": 16,
+      "start": 136,
+      "end": 141
+    },
+    {
+      "id": 17,
+      "start": 142,
+      "end": 144
+    },
+    {
+      "id": 18,
+      "start": 145,
+      "end": 152
+    },
+    {
+      "id": 19,
+      "start": 153,
+      "end": 159
+    },
+    {
+      "id": 20,
+      "start": 159,
+      "end": 171
+    },
+    {
+      "id": 21,
+      "start": 171,
+      "end": 172
+    },
+    {
+      "id": 22,
+      "start": 173,
+      "end": 175
+    },
+    {
+      "id": 23,
+      "start": 176,
+      "end": 182
+    },
+    {
+      "id": 24,
+      "start": 183,
+      "end": 186
+    },
+    {
+      "id": 25,
+      "start": 187,
+      "end": 189
+    },
+    {
+      "id": 26,
+      "start": 190,
+      "end": 198
+    },
+    {
+      "id": 27,
+      "start": 199,
+      "end": 203
+    },
+    {
+      "id": 28,
+      "start": 204,
+      "end": 209
+    },
+    {
+      "id": 29,
+      "start": 210,
+      "end": 219
+    },
+    {
+      "id": 30,
+      "start": 219,
+      "end": 236
+    },
+    {
+      "id": 31,
+      "start": 236,
+      "end": 237
+    },
+    {
+      "id": 32,
+      "start": 238,
+      "end": 243
+    },
+    {
+      "id": 33,
+      "start": 244,
+      "end": 249
+    },
+    {
+      "id": 34,
+      "start": 250,
+      "end": 252
+    },
+    {
+      "id": 35,
+      "start": 253,
+      "end": 259
+    },
+    {
+      "id": 36,
+      "start": 260,
+      "end": 269
+    },
+    {
+      "id": 37,
+      "start": 270,
+      "end": 279
+    },
+    {
+      "id": 38,
+      "start": 279,
+      "end": 291
+    },
+    {
+      "id": 39,
+      "start": 292,
+      "end": 294
+    },
+    {
+      "id": 40,
+      "start": 295,
+      "end": 298
+    },
+    {
+      "id": 41,
+      "start": 299,
+      "end": 305
+    },
+    {
+      "id": 42,
+      "start": 305,
+      "end": 317
+    },
+    {
+      "id": 43,
+      "start": 317,
+      "end": 318
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Environmental chemistry",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "scientific study",
+      "dest": 1
+    },
+    {
+      "dep_text": "Environmental chemistry",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "chemical and biochemical phenomena",
+      "dest": 2
+    },
+    {
+      "dep_text": "Environmental chemistry",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "natural places",
+      "dest": 3
+    },
+    {
+      "dep_text": "green chemistry",
+      "dep": 4,
+      "rel": "is_a",
+      "dest_text": "potential pollution",
+      "dest": 5
+    },
+    {
+      "dep_text": "green chemistry",
+      "dep": 4,
+      "rel": "is_a",
+      "dest_text": "source",
+      "dest": 6
+    }
+  ],
+  "classes": {
+    "scientific_study_1": {
+      "labels": [
+        "ACTIVITY",
+        "TOPIC"
+      ],
+      "class": "scientific study"
+    },
+    "chemical_and_biochemical_phenomena_2": {
+      "labels": [
+        "ABSTRACT",
+        "TOPIC"
+      ],
+      "class": "chemical and biochemical phenomena"
+    },
+    "natural_places_3": {
+      "labels": [
+        "LOCATION",
+        "TOPIC"
+      ],
+      "class": "natural places"
+    },
+    "potential_pollution_5": {
+      "labels": [
+        "INFORMATION_ENTITY",
+        "SITUATION"
+      ],
+      "class": "potential pollution"
+    },
+    "source_6": {
+      "labels": [
+        "INFORMATION_ENTITY"
+      ],
+      "class": "source"
+    }
+  }
+}

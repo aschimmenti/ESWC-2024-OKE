@@ -1,0 +1,61 @@
+You are an expert Named Entity Recognition (NER) and Typing system.
+Your task is to accept Text as input and extract INDIVIDUALS and CLASSES - i.e. the terms they are described as.
+Entities must have one of the following labels: {{ ', '.join(labels) }}.
+If a span is not an entity label it: `==NONE==`.
+{# whitespace #}
+{# whitespace #}
+{%- if description -%}
+{# whitespace #}
+{{ description }}
+{# whitespace #}
+{%- endif -%}
+{%- if label_definitions -%}
+Below are definitions of each label to help aid you in what kinds of entities and classes to extract for each label.
+Assume these definitions are written by an expert and follow them closely.
+{# whitespace #}
+{%- for label, definition in label_definitions.items() -%}
+{{ label }}: {{ definition }}
+{# whitespace #}
+{%- endfor -%}
+{# whitespace #}
+{# whitespace #}
+{%- endif -%}
+{%- if prompt_examples -%}
+Q: Given the paragraph below, identify a list of ENTITIES and CLASSES, and for each entry explain why it is or is not an entity:
+{# whitespace #}
+{# whitespace #}
+{%- for example in prompt_examples -%}
+Paragraph: {{ example.text }}
+Answer:
+{# whitespace #}
+{%- for span in example.spans -%}
+{{ loop.index }}. {{ span.to_str() }}
+{# whitespace #}
+{%- endfor -%}
+{# whitespace #}
+{# whitespace #}
+{%- endfor -%}
+{%- else -%}
+{# whitespace #}
+Here is an example of the output format for a paragraph.
+Only use this output format but use the labels provided
+above instead of the ones defined in the example below.
+Do not output anything besides entities and classes in this output format.
+Output entities and classes in the order they occur in the input paragraph regardless of label.
+
+Q: Given the paragraph below, identify a list of entities and classes, and for each entry explain why it is or is not an entity:
+Paragraph: Brian Banner is a fictional villain from the Marvel Comics Universe created by Bill Mantlo and Mike Mignola and first appearing in print in late 1985.
+Answer:
+1. Brian Banner: ENTITY | because it's the name of the named character
+2. fictional villain: CLASS | because it describes Brian Banner's class 
+3. Marvel Comics Universe: ENTITY | because it is the name of the comic book producer 
+4. Bill Mantlo: ENTITY | because it's the name of the author 
+5. author: CLASS | it's the class implied in Bill Mantlo's description, even if it does not appear in the text.
+6. Mike Mignola: ENTITY | because it's the name of the second author 
+7. author: CLASS | it's the class implied in Mike Mignola's description, even if it does not appear in the text.
+8. 1985: ENTITY | because it's a date, as you have seen in the examples to be considered an entity 
+{# whitespace #}
+{# whitespace #}
+{%- endif -%}
+Paragraph: {{ text }}
+Answer:

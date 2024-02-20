@@ -1,0 +1,146 @@
+{
+  "text": "98 is the natural number following 97 and preceding 99.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 2,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 27,
+      "end": 41,
+      "label": "CLASS"
+    },
+    {
+      "start": 64,
+      "end": 66,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 98,
+      "end": 100,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start_char": 0,
+      "end_char": 2,
+      "label": "INDIVIDUAL",
+      "text": "98"
+    },
+    {
+      "start_char": 27,
+      "end_char": 41,
+      "label": "CLASS",
+      "text": "natural number",
+      "subClassOf": [
+        "ABSTRACT"
+      ]
+    },
+    {
+      "start_char": 64,
+      "end_char": 66,
+      "label": "INDIVIDUAL",
+      "text": "97"
+    },
+    {
+      "start_char": 98,
+      "end_char": 100,
+      "label": "INDIVIDUAL",
+      "text": "99"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 2
+    },
+    {
+      "id": 1,
+      "start": 2,
+      "end": 19
+    },
+    {
+      "id": 2,
+      "start": 20,
+      "end": 22
+    },
+    {
+      "id": 3,
+      "start": 23,
+      "end": 26
+    },
+    {
+      "id": 4,
+      "start": 27,
+      "end": 34
+    },
+    {
+      "id": 5,
+      "start": 35,
+      "end": 41
+    },
+    {
+      "id": 6,
+      "start": 41,
+      "end": 53
+    },
+    {
+      "id": 7,
+      "start": 54,
+      "end": 63
+    },
+    {
+      "id": 8,
+      "start": 64,
+      "end": 66
+    },
+    {
+      "id": 9,
+      "start": 66,
+      "end": 83
+    },
+    {
+      "id": 10,
+      "start": 84,
+      "end": 87
+    },
+    {
+      "id": 11,
+      "start": 88,
+      "end": 97
+    },
+    {
+      "id": 12,
+      "start": 98,
+      "end": 100
+    },
+    {
+      "id": 13,
+      "start": 100,
+      "end": 117
+    },
+    {
+      "id": 14,
+      "start": 117,
+      "end": 118
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "98",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "natural number",
+      "dest": 1
+    }
+  ],
+  "classes": {
+    "natural_number_1": {
+      "labels": [
+        "ABSTRACT"
+      ],
+      "class": "natural number"
+    }
+  }
+}

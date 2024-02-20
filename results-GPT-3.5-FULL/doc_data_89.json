@@ -1,0 +1,440 @@
+{
+  "text": "Round Midnight is an American-French musical drama film directed by Bertrand Tavernier and written by Tavernier and David Rayfiel. It stars Dexter Gordon, François Cluzet and Herbie Hancock. Martin Scorsese, Philippe Noiret and Wayne Shorter appear in cameos.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 14,
+      "label": "ENTITY"
+    },
+    {
+      "start": 64,
+      "end": 68,
+      "label": "CLASS"
+    },
+    {
+      "start": 93,
+      "end": 111,
+      "label": "ENTITY"
+    },
+    {
+      "start": 154,
+      "end": 167,
+      "label": "ENTITY"
+    },
+    {
+      "start": 191,
+      "end": 204,
+      "label": "ENTITY"
+    },
+    {
+      "start": 219,
+      "end": 234,
+      "label": "ENTITY"
+    },
+    {
+      "start": 252,
+      "end": 266,
+      "label": "ENTITY"
+    },
+    {
+      "start": 281,
+      "end": 296,
+      "label": "ENTITY"
+    },
+    {
+      "start": 311,
+      "end": 326,
+      "label": "ENTITY"
+    },
+    {
+      "start": 344,
+      "end": 357,
+      "label": "ENTITY"
+    },
+    {
+      "start_char": 0,
+      "end_char": 14,
+      "label": "ENTITY",
+      "text": "Round Midnight"
+    },
+    {
+      "start_char": 64,
+      "end_char": 68,
+      "label": "CLASS",
+      "text": "film",
+      "subClassOf": [
+        "INFORMATION_ENTITY"
+      ]
+    },
+    {
+      "start_char": 93,
+      "end_char": 111,
+      "label": "ENTITY",
+      "text": "Bertrand Tavernier"
+    },
+    {
+      "start_char": 154,
+      "end_char": 167,
+      "label": "ENTITY",
+      "text": "David Rayfiel"
+    },
+    {
+      "start_char": 191,
+      "end_char": 204,
+      "label": "ENTITY",
+      "text": "Dexter Gordon"
+    },
+    {
+      "start_char": 219,
+      "end_char": 234,
+      "label": "ENTITY",
+      "text": "François Cluzet"
+    },
+    {
+      "start_char": 252,
+      "end_char": 266,
+      "label": "ENTITY",
+      "text": "Herbie Hancock"
+    },
+    {
+      "start_char": 281,
+      "end_char": 296,
+      "label": "ENTITY",
+      "text": "Martin Scorsese"
+    },
+    {
+      "start_char": 311,
+      "end_char": 326,
+      "label": "ENTITY",
+      "text": "Philippe Noiret"
+    },
+    {
+      "start_char": 344,
+      "end_char": 357,
+      "label": "ENTITY",
+      "text": "Wayne Shorter"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 5
+    },
+    {
+      "id": 1,
+      "start": 6,
+      "end": 14
+    },
+    {
+      "id": 2,
+      "start": 14,
+      "end": 27
+    },
+    {
+      "id": 3,
+      "start": 28,
+      "end": 30
+    },
+    {
+      "id": 4,
+      "start": 31,
+      "end": 33
+    },
+    {
+      "id": 5,
+      "start": 34,
+      "end": 42
+    },
+    {
+      "id": 6,
+      "start": 42,
+      "end": 43
+    },
+    {
+      "id": 7,
+      "start": 43,
+      "end": 49
+    },
+    {
+      "id": 8,
+      "start": 50,
+      "end": 57
+    },
+    {
+      "id": 9,
+      "start": 58,
+      "end": 63
+    },
+    {
+      "id": 10,
+      "start": 64,
+      "end": 68
+    },
+    {
+      "id": 11,
+      "start": 68,
+      "end": 80
+    },
+    {
+      "id": 12,
+      "start": 81,
+      "end": 89
+    },
+    {
+      "id": 13,
+      "start": 90,
+      "end": 92
+    },
+    {
+      "id": 14,
+      "start": 93,
+      "end": 101
+    },
+    {
+      "id": 15,
+      "start": 102,
+      "end": 111
+    },
+    {
+      "id": 16,
+      "start": 111,
+      "end": 124
+    },
+    {
+      "id": 17,
+      "start": 125,
+      "end": 128
+    },
+    {
+      "id": 18,
+      "start": 129,
+      "end": 136
+    },
+    {
+      "id": 19,
+      "start": 137,
+      "end": 139
+    },
+    {
+      "id": 20,
+      "start": 140,
+      "end": 149
+    },
+    {
+      "id": 21,
+      "start": 150,
+      "end": 153
+    },
+    {
+      "id": 22,
+      "start": 154,
+      "end": 159
+    },
+    {
+      "id": 23,
+      "start": 160,
+      "end": 167
+    },
+    {
+      "id": 24,
+      "start": 167,
+      "end": 180
+    },
+    {
+      "id": 25,
+      "start": 180,
+      "end": 181
+    },
+    {
+      "id": 26,
+      "start": 182,
+      "end": 184
+    },
+    {
+      "id": 27,
+      "start": 185,
+      "end": 190
+    },
+    {
+      "id": 28,
+      "start": 191,
+      "end": 197
+    },
+    {
+      "id": 29,
+      "start": 198,
+      "end": 204
+    },
+    {
+      "id": 30,
+      "start": 204,
+      "end": 217
+    },
+    {
+      "id": 31,
+      "start": 217,
+      "end": 218
+    },
+    {
+      "id": 32,
+      "start": 219,
+      "end": 227
+    },
+    {
+      "id": 33,
+      "start": 228,
+      "end": 234
+    },
+    {
+      "id": 34,
+      "start": 234,
+      "end": 247
+    },
+    {
+      "id": 35,
+      "start": 248,
+      "end": 251
+    },
+    {
+      "id": 36,
+      "start": 252,
+      "end": 258
+    },
+    {
+      "id": 37,
+      "start": 259,
+      "end": 266
+    },
+    {
+      "id": 38,
+      "start": 266,
+      "end": 279
+    },
+    {
+      "id": 39,
+      "start": 279,
+      "end": 280
+    },
+    {
+      "id": 40,
+      "start": 281,
+      "end": 287
+    },
+    {
+      "id": 41,
+      "start": 288,
+      "end": 296
+    },
+    {
+      "id": 42,
+      "start": 296,
+      "end": 309
+    },
+    {
+      "id": 43,
+      "start": 309,
+      "end": 310
+    },
+    {
+      "id": 44,
+      "start": 311,
+      "end": 319
+    },
+    {
+      "id": 45,
+      "start": 320,
+      "end": 326
+    },
+    {
+      "id": 46,
+      "start": 326,
+      "end": 339
+    },
+    {
+      "id": 47,
+      "start": 340,
+      "end": 343
+    },
+    {
+      "id": 48,
+      "start": 344,
+      "end": 349
+    },
+    {
+      "id": 49,
+      "start": 350,
+      "end": 357
+    },
+    {
+      "id": 50,
+      "start": 357,
+      "end": 370
+    },
+    {
+      "id": 51,
+      "start": 371,
+      "end": 377
+    },
+    {
+      "id": 52,
+      "start": 378,
+      "end": 380
+    },
+    {
+      "id": 53,
+      "start": 381,
+      "end": 387
+    },
+    {
+      "id": 54,
+      "start": 387,
+      "end": 388
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Round Midnight",
+      "dep": 0,
+      "rel": "rdf-type",
+      "dest_text": "film",
+      "dest": 1
+    },
+    {
+      "dep_text": "Bertrand Tavernier",
+      "dep": 2,
+      "rel": "rdf-type",
+      "dest_text": "David Rayfiel",
+      "dest": 3
+    },
+    {
+      "dep_text": "Dexter Gordon",
+      "dep": 4,
+      "rel": "rdf-isClassOf",
+      "dest_text": "film",
+      "dest": 1
+    },
+    {
+      "dep_text": "François Cluzet",
+      "dep": 5,
+      "rel": "rdf-isClassOf",
+      "dest_text": "film",
+      "dest": 1
+    },
+    {
+      "dep_text": "Herbie Hancock",
+      "dep": 6,
+      "rel": "rdf-isClassOf",
+      "dest_text": "film",
+      "dest": 1
+    }
+  ],
+  "classes": {
+    "film_1": {
+      "labels": [
+        "INFORMATION_ENTITY"
+      ],
+      "class": "film"
+    }
+  }
+}
