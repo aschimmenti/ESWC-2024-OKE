@@ -1,0 +1,208 @@
+{
+  "text": "Deontic logic is the field of logic that is concerned with obligation, permission, and related concepts.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 13,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 38,
+      "end": 52,
+      "label": "CLASS"
+    },
+    {
+      "start": 88,
+      "end": 98,
+      "label": "CLASS"
+    },
+    {
+      "start": 112,
+      "end": 122,
+      "label": "CLASS"
+    },
+    {
+      "start_char": 0,
+      "end_char": 13,
+      "label": "INDIVIDUAL",
+      "text": "Deontic logic"
+    },
+    {
+      "start_char": 38,
+      "end_char": 52,
+      "label": "CLASS",
+      "text": "field of logic",
+      "subClassOf": [
+        "TOPIC"
+      ]
+    },
+    {
+      "start_char": 88,
+      "end_char": 98,
+      "label": "CLASS",
+      "text": "obligation",
+      "subClassOf": [
+        "ABSTRACT",
+        "SITUATION"
+      ]
+    },
+    {
+      "start_char": 112,
+      "end_char": 122,
+      "label": "CLASS",
+      "text": "permission",
+      "subClassOf": [
+        "ABSTRACT",
+        "SOCIAL_OBJECT"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 7
+    },
+    {
+      "id": 1,
+      "start": 8,
+      "end": 13
+    },
+    {
+      "id": 2,
+      "start": 13,
+      "end": 30
+    },
+    {
+      "id": 3,
+      "start": 31,
+      "end": 33
+    },
+    {
+      "id": 4,
+      "start": 34,
+      "end": 37
+    },
+    {
+      "id": 5,
+      "start": 38,
+      "end": 43
+    },
+    {
+      "id": 6,
+      "start": 44,
+      "end": 46
+    },
+    {
+      "id": 7,
+      "start": 47,
+      "end": 52
+    },
+    {
+      "id": 8,
+      "start": 52,
+      "end": 64
+    },
+    {
+      "id": 9,
+      "start": 65,
+      "end": 69
+    },
+    {
+      "id": 10,
+      "start": 70,
+      "end": 72
+    },
+    {
+      "id": 11,
+      "start": 73,
+      "end": 82
+    },
+    {
+      "id": 12,
+      "start": 83,
+      "end": 87
+    },
+    {
+      "id": 13,
+      "start": 88,
+      "end": 98
+    },
+    {
+      "id": 14,
+      "start": 98,
+      "end": 110
+    },
+    {
+      "id": 15,
+      "start": 110,
+      "end": 111
+    },
+    {
+      "id": 16,
+      "start": 112,
+      "end": 122
+    },
+    {
+      "id": 17,
+      "start": 122,
+      "end": 134
+    },
+    {
+      "id": 18,
+      "start": 134,
+      "end": 135
+    },
+    {
+      "id": 19,
+      "start": 136,
+      "end": 139
+    },
+    {
+      "id": 20,
+      "start": 140,
+      "end": 147
+    },
+    {
+      "id": 21,
+      "start": 148,
+      "end": 156
+    },
+    {
+      "id": 22,
+      "start": 156,
+      "end": 157
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Deontic logic",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "field of logic",
+      "dest": 1
+    }
+  ],
+  "classes": {
+    "field_of_logic_1": {
+      "labels": [
+        "TOPIC"
+      ],
+      "class": "field of logic"
+    },
+    "obligation_2": {
+      "labels": [
+        "ABSTRACT",
+        "SITUATION"
+      ],
+      "class": "obligation"
+    },
+    "permission_3": {
+      "labels": [
+        "ABSTRACT",
+        "SOCIAL_OBJECT"
+      ],
+      "class": "permission"
+    }
+  }
+}

@@ -1,0 +1,404 @@
+{
+  "text": "Color photography is photography that uses media capable of reproducing colors. By contrast, black-and-white (monochrome) photography records only a single channel of luminance (brightness) and uses media capable only of showing shades of gray.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 17,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 38,
+      "end": 49,
+      "label": "CLASS"
+    },
+    {
+      "start": 72,
+      "end": 77,
+      "label": "CLASS"
+    },
+    {
+      "start": 134,
+      "end": 174,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 225,
+      "end": 247,
+      "label": "CLASS"
+    },
+    {
+      "start": 299,
+      "end": 313,
+      "label": "CLASS"
+    },
+    {
+      "start_char": 0,
+      "end_char": 17,
+      "label": "INDIVIDUAL",
+      "text": "Color photography"
+    },
+    {
+      "start_char": 38,
+      "end_char": 49,
+      "label": "CLASS",
+      "text": "photography",
+      "subClassOf": [
+        "ACTIVITY",
+        "INFORMATION_ENTITY"
+      ]
+    },
+    {
+      "start_char": 72,
+      "end_char": 77,
+      "label": "CLASS",
+      "text": "media",
+      "subClassOf": [
+        "INFORMATION_ENTITY",
+        "PHYSICAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 134,
+      "end_char": 174,
+      "label": "INDIVIDUAL",
+      "text": "black-and-white (monochrome) photography"
+    },
+    {
+      "start_char": 225,
+      "end_char": 247,
+      "label": "CLASS",
+      "text": "luminance (brightness)",
+      "subClassOf": [
+        "ABSTRACT",
+        "INFORMATION_ENTITY"
+      ]
+    },
+    {
+      "start_char": 299,
+      "end_char": 313,
+      "label": "CLASS",
+      "text": "shades of gray",
+      "subClassOf": [
+        "ABSTRACT",
+        "INFORMATION_ENTITY"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 5
+    },
+    {
+      "id": 1,
+      "start": 6,
+      "end": 17
+    },
+    {
+      "id": 2,
+      "start": 17,
+      "end": 34
+    },
+    {
+      "id": 3,
+      "start": 35,
+      "end": 37
+    },
+    {
+      "id": 4,
+      "start": 38,
+      "end": 49
+    },
+    {
+      "id": 5,
+      "start": 49,
+      "end": 61
+    },
+    {
+      "id": 6,
+      "start": 62,
+      "end": 66
+    },
+    {
+      "id": 7,
+      "start": 67,
+      "end": 71
+    },
+    {
+      "id": 8,
+      "start": 72,
+      "end": 77
+    },
+    {
+      "id": 9,
+      "start": 77,
+      "end": 89
+    },
+    {
+      "id": 10,
+      "start": 90,
+      "end": 97
+    },
+    {
+      "id": 11,
+      "start": 98,
+      "end": 100
+    },
+    {
+      "id": 12,
+      "start": 101,
+      "end": 112
+    },
+    {
+      "id": 13,
+      "start": 113,
+      "end": 119
+    },
+    {
+      "id": 14,
+      "start": 119,
+      "end": 120
+    },
+    {
+      "id": 15,
+      "start": 121,
+      "end": 123
+    },
+    {
+      "id": 16,
+      "start": 124,
+      "end": 132
+    },
+    {
+      "id": 17,
+      "start": 132,
+      "end": 133
+    },
+    {
+      "id": 18,
+      "start": 134,
+      "end": 139
+    },
+    {
+      "id": 19,
+      "start": 139,
+      "end": 140
+    },
+    {
+      "id": 20,
+      "start": 140,
+      "end": 143
+    },
+    {
+      "id": 21,
+      "start": 143,
+      "end": 144
+    },
+    {
+      "id": 22,
+      "start": 144,
+      "end": 149
+    },
+    {
+      "id": 23,
+      "start": 150,
+      "end": 151
+    },
+    {
+      "id": 24,
+      "start": 151,
+      "end": 161
+    },
+    {
+      "id": 25,
+      "start": 161,
+      "end": 162
+    },
+    {
+      "id": 26,
+      "start": 163,
+      "end": 174
+    },
+    {
+      "id": 27,
+      "start": 174,
+      "end": 191
+    },
+    {
+      "id": 28,
+      "start": 192,
+      "end": 199
+    },
+    {
+      "id": 29,
+      "start": 200,
+      "end": 204
+    },
+    {
+      "id": 30,
+      "start": 205,
+      "end": 206
+    },
+    {
+      "id": 31,
+      "start": 207,
+      "end": 213
+    },
+    {
+      "id": 32,
+      "start": 214,
+      "end": 221
+    },
+    {
+      "id": 33,
+      "start": 222,
+      "end": 224
+    },
+    {
+      "id": 34,
+      "start": 225,
+      "end": 234
+    },
+    {
+      "id": 35,
+      "start": 235,
+      "end": 236
+    },
+    {
+      "id": 36,
+      "start": 236,
+      "end": 246
+    },
+    {
+      "id": 37,
+      "start": 246,
+      "end": 247
+    },
+    {
+      "id": 38,
+      "start": 247,
+      "end": 259
+    },
+    {
+      "id": 39,
+      "start": 260,
+      "end": 263
+    },
+    {
+      "id": 40,
+      "start": 264,
+      "end": 268
+    },
+    {
+      "id": 41,
+      "start": 269,
+      "end": 274
+    },
+    {
+      "id": 42,
+      "start": 275,
+      "end": 282
+    },
+    {
+      "id": 43,
+      "start": 283,
+      "end": 287
+    },
+    {
+      "id": 44,
+      "start": 288,
+      "end": 290
+    },
+    {
+      "id": 45,
+      "start": 291,
+      "end": 298
+    },
+    {
+      "id": 46,
+      "start": 299,
+      "end": 305
+    },
+    {
+      "id": 47,
+      "start": 306,
+      "end": 308
+    },
+    {
+      "id": 48,
+      "start": 309,
+      "end": 313
+    },
+    {
+      "id": 49,
+      "start": 313,
+      "end": 325
+    },
+    {
+      "id": 50,
+      "start": 325,
+      "end": 326
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Color photography",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "photography",
+      "dest": 1
+    },
+    {
+      "dep_text": "Color photography",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "media",
+      "dest": 2
+    },
+    {
+      "dep_text": "black-and-white (monochrome) photography",
+      "dep": 3,
+      "rel": "is_a",
+      "dest_text": "luminance (brightness)",
+      "dest": 4
+    },
+    {
+      "dep_text": "black-and-white (monochrome) photography",
+      "dep": 3,
+      "rel": "is_a",
+      "dest_text": "shades of gray",
+      "dest": 5
+    }
+  ],
+  "classes": {
+    "photography_1": {
+      "labels": [
+        "ACTIVITY",
+        "INFORMATION_ENTITY"
+      ],
+      "class": "photography"
+    },
+    "media_2": {
+      "labels": [
+        "INFORMATION_ENTITY",
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "media"
+    },
+    "luminance_(brightness)_4": {
+      "labels": [
+        "ABSTRACT",
+        "INFORMATION_ENTITY"
+      ],
+      "class": "luminance (brightness)"
+    },
+    "shades_of_gray_5": {
+      "labels": [
+        "ABSTRACT",
+        "INFORMATION_ENTITY"
+      ],
+      "class": "shades of gray"
+    }
+  }
+}

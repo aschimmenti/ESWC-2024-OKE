@@ -1,0 +1,323 @@
+{
+  "text": "Strombolicchio is a sea stack of volcanic origin 2 km to the northeast of the island of Stromboli in the Aeolian Islands of Italy.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 14,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 37,
+      "end": 46,
+      "label": "CLASS"
+    },
+    {
+      "start": 62,
+      "end": 77,
+      "label": "CLASS"
+    },
+    {
+      "start": 90,
+      "end": 94,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 119,
+      "end": 128,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 153,
+      "end": 159,
+      "label": "CLASS"
+    },
+    {
+      "start": 175,
+      "end": 184,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 209,
+      "end": 224,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 245,
+      "end": 250,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start_char": 0,
+      "end_char": 14,
+      "label": "INDIVIDUAL",
+      "text": "Strombolicchio"
+    },
+    {
+      "start_char": 37,
+      "end_char": 46,
+      "label": "CLASS",
+      "text": "sea stack",
+      "subClassOf": [
+        "LOCATION",
+        "PHYSICAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 62,
+      "end_char": 77,
+      "label": "CLASS",
+      "text": "volcanic origin",
+      "subClassOf": [
+        "ABSTRACT"
+      ]
+    },
+    {
+      "start_char": 90,
+      "end_char": 94,
+      "label": "INDIVIDUAL",
+      "text": "2 km"
+    },
+    {
+      "start_char": 119,
+      "end_char": 128,
+      "label": "INDIVIDUAL",
+      "text": "northeast"
+    },
+    {
+      "start_char": 153,
+      "end_char": 159,
+      "label": "CLASS",
+      "text": "island",
+      "subClassOf": [
+        "LOCATION"
+      ]
+    },
+    {
+      "start_char": 175,
+      "end_char": 184,
+      "label": "INDIVIDUAL",
+      "text": "Stromboli"
+    },
+    {
+      "start_char": 209,
+      "end_char": 224,
+      "label": "INDIVIDUAL",
+      "text": "Aeolian Islands"
+    },
+    {
+      "start_char": 245,
+      "end_char": 250,
+      "label": "INDIVIDUAL",
+      "text": "Italy"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 14
+    },
+    {
+      "id": 1,
+      "start": 14,
+      "end": 31
+    },
+    {
+      "id": 2,
+      "start": 32,
+      "end": 34
+    },
+    {
+      "id": 3,
+      "start": 35,
+      "end": 36
+    },
+    {
+      "id": 4,
+      "start": 37,
+      "end": 40
+    },
+    {
+      "id": 5,
+      "start": 41,
+      "end": 46
+    },
+    {
+      "id": 6,
+      "start": 46,
+      "end": 58
+    },
+    {
+      "id": 7,
+      "start": 59,
+      "end": 61
+    },
+    {
+      "id": 8,
+      "start": 62,
+      "end": 70
+    },
+    {
+      "id": 9,
+      "start": 71,
+      "end": 77
+    },
+    {
+      "id": 10,
+      "start": 77,
+      "end": 89
+    },
+    {
+      "id": 11,
+      "start": 90,
+      "end": 91
+    },
+    {
+      "id": 12,
+      "start": 92,
+      "end": 94
+    },
+    {
+      "id": 13,
+      "start": 94,
+      "end": 111
+    },
+    {
+      "id": 14,
+      "start": 112,
+      "end": 114
+    },
+    {
+      "id": 15,
+      "start": 115,
+      "end": 118
+    },
+    {
+      "id": 16,
+      "start": 119,
+      "end": 128
+    },
+    {
+      "id": 17,
+      "start": 128,
+      "end": 145
+    },
+    {
+      "id": 18,
+      "start": 146,
+      "end": 148
+    },
+    {
+      "id": 19,
+      "start": 149,
+      "end": 152
+    },
+    {
+      "id": 20,
+      "start": 153,
+      "end": 159
+    },
+    {
+      "id": 21,
+      "start": 159,
+      "end": 171
+    },
+    {
+      "id": 22,
+      "start": 172,
+      "end": 174
+    },
+    {
+      "id": 23,
+      "start": 175,
+      "end": 184
+    },
+    {
+      "id": 24,
+      "start": 184,
+      "end": 201
+    },
+    {
+      "id": 25,
+      "start": 202,
+      "end": 204
+    },
+    {
+      "id": 26,
+      "start": 205,
+      "end": 208
+    },
+    {
+      "id": 27,
+      "start": 209,
+      "end": 216
+    },
+    {
+      "id": 28,
+      "start": 217,
+      "end": 224
+    },
+    {
+      "id": 29,
+      "start": 224,
+      "end": 241
+    },
+    {
+      "id": 30,
+      "start": 242,
+      "end": 244
+    },
+    {
+      "id": 31,
+      "start": 245,
+      "end": 250
+    },
+    {
+      "id": 32,
+      "start": 250,
+      "end": 267
+    },
+    {
+      "id": 33,
+      "start": 267,
+      "end": 268
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Strombolicchio",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "sea stack",
+      "dest": 1
+    },
+    {
+      "dep_text": "Strombolicchio",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "volcanic origin",
+      "dest": 2
+    }
+  ],
+  "classes": {
+    "sea_stack_1": {
+      "labels": [
+        "LOCATION",
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "sea stack"
+    },
+    "volcanic_origin_2": {
+      "labels": [
+        "ABSTRACT"
+      ],
+      "class": "volcanic origin"
+    },
+    "island_5": {
+      "labels": [
+        "LOCATION"
+      ],
+      "class": "island"
+    }
+  }
+}

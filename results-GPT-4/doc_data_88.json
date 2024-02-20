@@ -1,0 +1,488 @@
+{
+  "text": "The 'Jew of New York' is a graphic novel by Ben Katchor, inspired by Mordecai Manuel Noah's attempt to establish a Jewish homeland in Grand Island, New York in the 1820s. It was originally serialized in the pages of 'The Forward' before being published in book form in 1999.",
+  "ents": [
+    {
+      "start": 5,
+      "end": 20,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 44,
+      "end": 57,
+      "label": "CLASS"
+    },
+    {
+      "start": 73,
+      "end": 84,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 115,
+      "end": 135,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 178,
+      "end": 193,
+      "label": "CLASS"
+    },
+    {
+      "start": 209,
+      "end": 221,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 240,
+      "end": 248,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 273,
+      "end": 278,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 343,
+      "end": 354,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 412,
+      "end": 416,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start_char": 5,
+      "end_char": 20,
+      "label": "INDIVIDUAL",
+      "text": "Jew of New York"
+    },
+    {
+      "start_char": 44,
+      "end_char": 57,
+      "label": "CLASS",
+      "text": "graphic novel",
+      "subClassOf": [
+        "INFORMATION_ENTITY"
+      ]
+    },
+    {
+      "start_char": 73,
+      "end_char": 84,
+      "label": "INDIVIDUAL",
+      "text": "Ben Katchor"
+    },
+    {
+      "start_char": 115,
+      "end_char": 135,
+      "label": "INDIVIDUAL",
+      "text": "Mordecai Manuel Noah"
+    },
+    {
+      "start_char": 178,
+      "end_char": 193,
+      "label": "CLASS",
+      "text": "Jewish homeland",
+      "subClassOf": [
+        "LOCATION",
+        "SOCIAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 209,
+      "end_char": 221,
+      "label": "INDIVIDUAL",
+      "text": "Grand Island"
+    },
+    {
+      "start_char": 240,
+      "end_char": 248,
+      "label": "INDIVIDUAL",
+      "text": "New York"
+    },
+    {
+      "start_char": 273,
+      "end_char": 278,
+      "label": "INDIVIDUAL",
+      "text": "1820s"
+    },
+    {
+      "start_char": 343,
+      "end_char": 354,
+      "label": "INDIVIDUAL",
+      "text": "The Forward"
+    },
+    {
+      "start_char": 412,
+      "end_char": 416,
+      "label": "INDIVIDUAL",
+      "text": "1999"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 3
+    },
+    {
+      "id": 1,
+      "start": 4,
+      "end": 5
+    },
+    {
+      "id": 2,
+      "start": 5,
+      "end": 8
+    },
+    {
+      "id": 3,
+      "start": 9,
+      "end": 11
+    },
+    {
+      "id": 4,
+      "start": 12,
+      "end": 15
+    },
+    {
+      "id": 5,
+      "start": 16,
+      "end": 20
+    },
+    {
+      "id": 6,
+      "start": 20,
+      "end": 37
+    },
+    {
+      "id": 7,
+      "start": 37,
+      "end": 38
+    },
+    {
+      "id": 8,
+      "start": 39,
+      "end": 41
+    },
+    {
+      "id": 9,
+      "start": 42,
+      "end": 43
+    },
+    {
+      "id": 10,
+      "start": 44,
+      "end": 51
+    },
+    {
+      "id": 11,
+      "start": 52,
+      "end": 57
+    },
+    {
+      "id": 12,
+      "start": 57,
+      "end": 69
+    },
+    {
+      "id": 13,
+      "start": 70,
+      "end": 72
+    },
+    {
+      "id": 14,
+      "start": 73,
+      "end": 76
+    },
+    {
+      "id": 15,
+      "start": 77,
+      "end": 84
+    },
+    {
+      "id": 16,
+      "start": 84,
+      "end": 101
+    },
+    {
+      "id": 17,
+      "start": 101,
+      "end": 102
+    },
+    {
+      "id": 18,
+      "start": 103,
+      "end": 111
+    },
+    {
+      "id": 19,
+      "start": 112,
+      "end": 114
+    },
+    {
+      "id": 20,
+      "start": 115,
+      "end": 123
+    },
+    {
+      "id": 21,
+      "start": 124,
+      "end": 130
+    },
+    {
+      "id": 22,
+      "start": 131,
+      "end": 135
+    },
+    {
+      "id": 23,
+      "start": 135,
+      "end": 152
+    },
+    {
+      "id": 24,
+      "start": 152,
+      "end": 154
+    },
+    {
+      "id": 25,
+      "start": 155,
+      "end": 162
+    },
+    {
+      "id": 26,
+      "start": 163,
+      "end": 165
+    },
+    {
+      "id": 27,
+      "start": 166,
+      "end": 175
+    },
+    {
+      "id": 28,
+      "start": 176,
+      "end": 177
+    },
+    {
+      "id": 29,
+      "start": 178,
+      "end": 184
+    },
+    {
+      "id": 30,
+      "start": 185,
+      "end": 193
+    },
+    {
+      "id": 31,
+      "start": 193,
+      "end": 205
+    },
+    {
+      "id": 32,
+      "start": 206,
+      "end": 208
+    },
+    {
+      "id": 33,
+      "start": 209,
+      "end": 214
+    },
+    {
+      "id": 34,
+      "start": 215,
+      "end": 221
+    },
+    {
+      "id": 35,
+      "start": 221,
+      "end": 238
+    },
+    {
+      "id": 36,
+      "start": 238,
+      "end": 239
+    },
+    {
+      "id": 37,
+      "start": 240,
+      "end": 243
+    },
+    {
+      "id": 38,
+      "start": 244,
+      "end": 248
+    },
+    {
+      "id": 39,
+      "start": 248,
+      "end": 265
+    },
+    {
+      "id": 40,
+      "start": 266,
+      "end": 268
+    },
+    {
+      "id": 41,
+      "start": 269,
+      "end": 272
+    },
+    {
+      "id": 42,
+      "start": 273,
+      "end": 278
+    },
+    {
+      "id": 43,
+      "start": 278,
+      "end": 295
+    },
+    {
+      "id": 44,
+      "start": 295,
+      "end": 296
+    },
+    {
+      "id": 45,
+      "start": 297,
+      "end": 299
+    },
+    {
+      "id": 46,
+      "start": 300,
+      "end": 303
+    },
+    {
+      "id": 47,
+      "start": 304,
+      "end": 314
+    },
+    {
+      "id": 48,
+      "start": 315,
+      "end": 325
+    },
+    {
+      "id": 49,
+      "start": 326,
+      "end": 328
+    },
+    {
+      "id": 50,
+      "start": 329,
+      "end": 332
+    },
+    {
+      "id": 51,
+      "start": 333,
+      "end": 338
+    },
+    {
+      "id": 52,
+      "start": 339,
+      "end": 341
+    },
+    {
+      "id": 53,
+      "start": 342,
+      "end": 343
+    },
+    {
+      "id": 54,
+      "start": 343,
+      "end": 346
+    },
+    {
+      "id": 55,
+      "start": 347,
+      "end": 354
+    },
+    {
+      "id": 56,
+      "start": 354,
+      "end": 371
+    },
+    {
+      "id": 57,
+      "start": 371,
+      "end": 372
+    },
+    {
+      "id": 58,
+      "start": 373,
+      "end": 379
+    },
+    {
+      "id": 59,
+      "start": 380,
+      "end": 385
+    },
+    {
+      "id": 60,
+      "start": 386,
+      "end": 395
+    },
+    {
+      "id": 61,
+      "start": 396,
+      "end": 398
+    },
+    {
+      "id": 62,
+      "start": 399,
+      "end": 403
+    },
+    {
+      "id": 63,
+      "start": 404,
+      "end": 408
+    },
+    {
+      "id": 64,
+      "start": 409,
+      "end": 411
+    },
+    {
+      "id": 65,
+      "start": 412,
+      "end": 416
+    },
+    {
+      "id": 66,
+      "start": 416,
+      "end": 433
+    },
+    {
+      "id": 67,
+      "start": 433,
+      "end": 434
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Jew of New York",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "graphic novel",
+      "dest": 1
+    }
+  ],
+  "classes": {
+    "graphic_novel_1": {
+      "labels": [
+        "INFORMATION_ENTITY"
+      ],
+      "class": "graphic novel"
+    },
+    "Jewish_homeland_4": {
+      "labels": [
+        "LOCATION",
+        "SOCIAL_OBJECT"
+      ],
+      "class": "Jewish homeland"
+    }
+  }
+}

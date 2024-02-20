@@ -1,0 +1,231 @@
+{
+  "text": "The Socialist Party is a social-democratic political party in France, and the largest party of the French centre-left.",
+  "ents": [
+    {
+      "start": 4,
+      "end": 19,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 60,
+      "end": 75,
+      "label": "CLASS"
+    },
+    {
+      "start": 91,
+      "end": 97,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 145,
+      "end": 163,
+      "label": "CLASS"
+    },
+    {
+      "start_char": 4,
+      "end_char": 19,
+      "label": "INDIVIDUAL",
+      "text": "Socialist Party"
+    },
+    {
+      "start_char": 60,
+      "end_char": 75,
+      "label": "CLASS",
+      "text": "political party",
+      "subClassOf": [
+        "ORGANISATION",
+        "SOCIAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 91,
+      "end_char": 97,
+      "label": "INDIVIDUAL",
+      "text": "France"
+    },
+    {
+      "start_char": 145,
+      "end_char": 163,
+      "label": "CLASS",
+      "text": "French centre-left",
+      "subClassOf": [
+        "ORGANISATION",
+        "SOCIAL_OBJECT"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 3
+    },
+    {
+      "id": 1,
+      "start": 4,
+      "end": 13
+    },
+    {
+      "id": 2,
+      "start": 14,
+      "end": 19
+    },
+    {
+      "id": 3,
+      "start": 19,
+      "end": 36
+    },
+    {
+      "id": 4,
+      "start": 37,
+      "end": 39
+    },
+    {
+      "id": 5,
+      "start": 40,
+      "end": 41
+    },
+    {
+      "id": 6,
+      "start": 42,
+      "end": 48
+    },
+    {
+      "id": 7,
+      "start": 48,
+      "end": 49
+    },
+    {
+      "id": 8,
+      "start": 49,
+      "end": 59
+    },
+    {
+      "id": 9,
+      "start": 60,
+      "end": 69
+    },
+    {
+      "id": 10,
+      "start": 70,
+      "end": 75
+    },
+    {
+      "id": 11,
+      "start": 75,
+      "end": 87
+    },
+    {
+      "id": 12,
+      "start": 88,
+      "end": 90
+    },
+    {
+      "id": 13,
+      "start": 91,
+      "end": 97
+    },
+    {
+      "id": 14,
+      "start": 97,
+      "end": 114
+    },
+    {
+      "id": 15,
+      "start": 114,
+      "end": 115
+    },
+    {
+      "id": 16,
+      "start": 116,
+      "end": 119
+    },
+    {
+      "id": 17,
+      "start": 120,
+      "end": 123
+    },
+    {
+      "id": 18,
+      "start": 124,
+      "end": 131
+    },
+    {
+      "id": 19,
+      "start": 132,
+      "end": 137
+    },
+    {
+      "id": 20,
+      "start": 138,
+      "end": 140
+    },
+    {
+      "id": 21,
+      "start": 141,
+      "end": 144
+    },
+    {
+      "id": 22,
+      "start": 145,
+      "end": 151
+    },
+    {
+      "id": 23,
+      "start": 152,
+      "end": 158
+    },
+    {
+      "id": 24,
+      "start": 158,
+      "end": 159
+    },
+    {
+      "id": 25,
+      "start": 159,
+      "end": 163
+    },
+    {
+      "id": 26,
+      "start": 163,
+      "end": 175
+    },
+    {
+      "id": 27,
+      "start": 175,
+      "end": 176
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Socialist Party",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "political party",
+      "dest": 1
+    },
+    {
+      "dep_text": "Socialist Party",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "French centre-left",
+      "dest": 3
+    }
+  ],
+  "classes": {
+    "political_party_1": {
+      "labels": [
+        "ORGANISATION",
+        "SOCIAL_OBJECT"
+      ],
+      "class": "political party"
+    },
+    "French_centre-left_3": {
+      "labels": [
+        "ORGANISATION",
+        "SOCIAL_OBJECT"
+      ],
+      "class": "French centre-left"
+    }
+  }
+}

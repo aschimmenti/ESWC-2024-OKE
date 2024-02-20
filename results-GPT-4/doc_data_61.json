@@ -1,0 +1,491 @@
+{
+  "text": "The Berlin Blockade was one of the first major international crises of the Cold War. During the multinational occupation of post-World War II Germany, the Soviet Union blocked the Western Allies' railway, road, and canal access to the sectors of Berlin under Western control.",
+  "ents": [
+    {
+      "start": 4,
+      "end": 19,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 58,
+      "end": 84,
+      "label": "CLASS"
+    },
+    {
+      "start": 104,
+      "end": 112,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 142,
+      "end": 166,
+      "label": "CLASS"
+    },
+    {
+      "start": 187,
+      "end": 199,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 230,
+      "end": 242,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 272,
+      "end": 286,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 305,
+      "end": 336,
+      "label": "CLASS"
+    },
+    {
+      "start": 356,
+      "end": 373,
+      "label": "CLASS"
+    },
+    {
+      "start": 392,
+      "end": 407,
+      "label": "CLASS"
+    },
+    {
+      "start_char": 4,
+      "end_char": 19,
+      "label": "INDIVIDUAL",
+      "text": "Berlin Blockade"
+    },
+    {
+      "start_char": 58,
+      "end_char": 84,
+      "label": "CLASS",
+      "text": "major international crises",
+      "subClassOf": [
+        "EVENT",
+        "SITUATION"
+      ]
+    },
+    {
+      "start_char": 104,
+      "end_char": 112,
+      "label": "INDIVIDUAL",
+      "text": "Cold War"
+    },
+    {
+      "start_char": 142,
+      "end_char": 166,
+      "label": "CLASS",
+      "text": "multinational occupation",
+      "subClassOf": [
+        "EVENT",
+        "SITUATION"
+      ]
+    },
+    {
+      "start_char": 187,
+      "end_char": 199,
+      "label": "INDIVIDUAL",
+      "text": "World War II"
+    },
+    {
+      "start_char": 230,
+      "end_char": 242,
+      "label": "INDIVIDUAL",
+      "text": "Soviet Union"
+    },
+    {
+      "start_char": 272,
+      "end_char": 286,
+      "label": "INDIVIDUAL",
+      "text": "Western Allies"
+    },
+    {
+      "start_char": 305,
+      "end_char": 336,
+      "label": "CLASS",
+      "text": "railway, road, and canal access",
+      "subClassOf": [
+        "ACTIVITY",
+        "LOCATION"
+      ]
+    },
+    {
+      "start_char": 356,
+      "end_char": 373,
+      "label": "CLASS",
+      "text": "sectors of Berlin",
+      "subClassOf": [
+        "LOCATION"
+      ]
+    },
+    {
+      "start_char": 392,
+      "end_char": 407,
+      "label": "CLASS",
+      "text": "Western control",
+      "subClassOf": [
+        "LOCATION",
+        "SITUATION"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 3
+    },
+    {
+      "id": 1,
+      "start": 4,
+      "end": 10
+    },
+    {
+      "id": 2,
+      "start": 11,
+      "end": 19
+    },
+    {
+      "id": 3,
+      "start": 19,
+      "end": 36
+    },
+    {
+      "id": 4,
+      "start": 37,
+      "end": 40
+    },
+    {
+      "id": 5,
+      "start": 41,
+      "end": 44
+    },
+    {
+      "id": 6,
+      "start": 45,
+      "end": 47
+    },
+    {
+      "id": 7,
+      "start": 48,
+      "end": 51
+    },
+    {
+      "id": 8,
+      "start": 52,
+      "end": 57
+    },
+    {
+      "id": 9,
+      "start": 58,
+      "end": 63
+    },
+    {
+      "id": 10,
+      "start": 64,
+      "end": 77
+    },
+    {
+      "id": 11,
+      "start": 78,
+      "end": 84
+    },
+    {
+      "id": 12,
+      "start": 84,
+      "end": 96
+    },
+    {
+      "id": 13,
+      "start": 97,
+      "end": 99
+    },
+    {
+      "id": 14,
+      "start": 100,
+      "end": 103
+    },
+    {
+      "id": 15,
+      "start": 104,
+      "end": 108
+    },
+    {
+      "id": 16,
+      "start": 109,
+      "end": 112
+    },
+    {
+      "id": 17,
+      "start": 112,
+      "end": 129
+    },
+    {
+      "id": 18,
+      "start": 129,
+      "end": 130
+    },
+    {
+      "id": 19,
+      "start": 131,
+      "end": 137
+    },
+    {
+      "id": 20,
+      "start": 138,
+      "end": 141
+    },
+    {
+      "id": 21,
+      "start": 142,
+      "end": 155
+    },
+    {
+      "id": 22,
+      "start": 156,
+      "end": 166
+    },
+    {
+      "id": 23,
+      "start": 166,
+      "end": 178
+    },
+    {
+      "id": 24,
+      "start": 179,
+      "end": 181
+    },
+    {
+      "id": 25,
+      "start": 182,
+      "end": 186
+    },
+    {
+      "id": 26,
+      "start": 186,
+      "end": 187
+    },
+    {
+      "id": 27,
+      "start": 187,
+      "end": 192
+    },
+    {
+      "id": 28,
+      "start": 193,
+      "end": 196
+    },
+    {
+      "id": 29,
+      "start": 197,
+      "end": 199
+    },
+    {
+      "id": 30,
+      "start": 199,
+      "end": 216
+    },
+    {
+      "id": 31,
+      "start": 217,
+      "end": 224
+    },
+    {
+      "id": 32,
+      "start": 224,
+      "end": 225
+    },
+    {
+      "id": 33,
+      "start": 226,
+      "end": 229
+    },
+    {
+      "id": 34,
+      "start": 230,
+      "end": 236
+    },
+    {
+      "id": 35,
+      "start": 237,
+      "end": 242
+    },
+    {
+      "id": 36,
+      "start": 242,
+      "end": 259
+    },
+    {
+      "id": 37,
+      "start": 260,
+      "end": 267
+    },
+    {
+      "id": 38,
+      "start": 268,
+      "end": 271
+    },
+    {
+      "id": 39,
+      "start": 272,
+      "end": 279
+    },
+    {
+      "id": 40,
+      "start": 280,
+      "end": 286
+    },
+    {
+      "id": 41,
+      "start": 286,
+      "end": 303
+    },
+    {
+      "id": 42,
+      "start": 303,
+      "end": 304
+    },
+    {
+      "id": 43,
+      "start": 305,
+      "end": 312
+    },
+    {
+      "id": 44,
+      "start": 312,
+      "end": 313
+    },
+    {
+      "id": 45,
+      "start": 314,
+      "end": 318
+    },
+    {
+      "id": 46,
+      "start": 318,
+      "end": 319
+    },
+    {
+      "id": 47,
+      "start": 320,
+      "end": 323
+    },
+    {
+      "id": 48,
+      "start": 324,
+      "end": 329
+    },
+    {
+      "id": 49,
+      "start": 330,
+      "end": 336
+    },
+    {
+      "id": 50,
+      "start": 336,
+      "end": 348
+    },
+    {
+      "id": 51,
+      "start": 349,
+      "end": 351
+    },
+    {
+      "id": 52,
+      "start": 352,
+      "end": 355
+    },
+    {
+      "id": 53,
+      "start": 356,
+      "end": 363
+    },
+    {
+      "id": 54,
+      "start": 364,
+      "end": 366
+    },
+    {
+      "id": 55,
+      "start": 367,
+      "end": 373
+    },
+    {
+      "id": 56,
+      "start": 373,
+      "end": 385
+    },
+    {
+      "id": 57,
+      "start": 386,
+      "end": 391
+    },
+    {
+      "id": 58,
+      "start": 392,
+      "end": 399
+    },
+    {
+      "id": 59,
+      "start": 400,
+      "end": 407
+    },
+    {
+      "id": 60,
+      "start": 407,
+      "end": 419
+    },
+    {
+      "id": 61,
+      "start": 419,
+      "end": 420
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Berlin Blockade",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "major international crises",
+      "dest": 1
+    }
+  ],
+  "classes": {
+    "major_international_crises_1": {
+      "labels": [
+        "EVENT",
+        "SITUATION"
+      ],
+      "class": "major international crises"
+    },
+    "multinational_occupation_3": {
+      "labels": [
+        "EVENT",
+        "SITUATION"
+      ],
+      "class": "multinational occupation"
+    },
+    "railway,_road,_and_canal_access_7": {
+      "labels": [
+        "ACTIVITY",
+        "LOCATION"
+      ],
+      "class": "railway, road, and canal access"
+    },
+    "sectors_of_Berlin_8": {
+      "labels": [
+        "LOCATION"
+      ],
+      "class": "sectors of Berlin"
+    },
+    "Western_control_9": {
+      "labels": [
+        "LOCATION",
+        "SITUATION"
+      ],
+      "class": "Western control"
+    }
+  }
+}

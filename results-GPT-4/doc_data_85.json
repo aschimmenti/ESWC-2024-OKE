@@ -1,0 +1,427 @@
+{
+  "text": "Marriage, also called matrimony or wedlock, is a socially recognized union between spouses that establishes rights and obligations between them, between them and their children, and between them and their in-laws.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 8,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 39,
+      "end": 48,
+      "label": "CLASS"
+    },
+    {
+      "start": 64,
+      "end": 71,
+      "label": "CLASS"
+    },
+    {
+      "start": 110,
+      "end": 115,
+      "label": "CLASS"
+    },
+    {
+      "start": 136,
+      "end": 143,
+      "label": "CLASS"
+    },
+    {
+      "start": 173,
+      "end": 195,
+      "label": "CLASS"
+    },
+    {
+      "start": 245,
+      "end": 253,
+      "label": "CLASS"
+    },
+    {
+      "start": 294,
+      "end": 301,
+      "label": "CLASS"
+    },
+    {
+      "start_char": 0,
+      "end_char": 8,
+      "label": "INDIVIDUAL",
+      "text": "Marriage"
+    },
+    {
+      "start_char": 39,
+      "end_char": 48,
+      "label": "CLASS",
+      "text": "matrimony",
+      "subClassOf": [
+        "SITUATION",
+        "SOCIAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 64,
+      "end_char": 71,
+      "label": "CLASS",
+      "text": "wedlock",
+      "subClassOf": [
+        "SITUATION",
+        "SOCIAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 110,
+      "end_char": 115,
+      "label": "CLASS",
+      "text": "union",
+      "subClassOf": [
+        "ACTIVITY",
+        "SOCIAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 136,
+      "end_char": 143,
+      "label": "CLASS",
+      "text": "spouses",
+      "subClassOf": [
+        "ROLE",
+        "SOCIAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 173,
+      "end_char": 195,
+      "label": "CLASS",
+      "text": "rights and obligations",
+      "subClassOf": [
+        "ABSTRACT",
+        "SOCIAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 245,
+      "end_char": 253,
+      "label": "CLASS",
+      "text": "children",
+      "subClassOf": [
+        "PERSON",
+        "ROLE"
+      ]
+    },
+    {
+      "start_char": 294,
+      "end_char": 301,
+      "label": "CLASS",
+      "text": "in-laws",
+      "subClassOf": [
+        "PERSON",
+        "ROLE"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 8
+    },
+    {
+      "id": 1,
+      "start": 8,
+      "end": 25
+    },
+    {
+      "id": 2,
+      "start": 25,
+      "end": 26
+    },
+    {
+      "id": 3,
+      "start": 27,
+      "end": 31
+    },
+    {
+      "id": 4,
+      "start": 32,
+      "end": 38
+    },
+    {
+      "id": 5,
+      "start": 39,
+      "end": 48
+    },
+    {
+      "id": 6,
+      "start": 48,
+      "end": 60
+    },
+    {
+      "id": 7,
+      "start": 61,
+      "end": 63
+    },
+    {
+      "id": 8,
+      "start": 64,
+      "end": 71
+    },
+    {
+      "id": 9,
+      "start": 71,
+      "end": 83
+    },
+    {
+      "id": 10,
+      "start": 83,
+      "end": 84
+    },
+    {
+      "id": 11,
+      "start": 85,
+      "end": 87
+    },
+    {
+      "id": 12,
+      "start": 88,
+      "end": 89
+    },
+    {
+      "id": 13,
+      "start": 90,
+      "end": 98
+    },
+    {
+      "id": 14,
+      "start": 99,
+      "end": 109
+    },
+    {
+      "id": 15,
+      "start": 110,
+      "end": 115
+    },
+    {
+      "id": 16,
+      "start": 115,
+      "end": 127
+    },
+    {
+      "id": 17,
+      "start": 128,
+      "end": 135
+    },
+    {
+      "id": 18,
+      "start": 136,
+      "end": 143
+    },
+    {
+      "id": 19,
+      "start": 143,
+      "end": 155
+    },
+    {
+      "id": 20,
+      "start": 156,
+      "end": 160
+    },
+    {
+      "id": 21,
+      "start": 161,
+      "end": 172
+    },
+    {
+      "id": 22,
+      "start": 173,
+      "end": 179
+    },
+    {
+      "id": 23,
+      "start": 180,
+      "end": 183
+    },
+    {
+      "id": 24,
+      "start": 184,
+      "end": 195
+    },
+    {
+      "id": 25,
+      "start": 195,
+      "end": 207
+    },
+    {
+      "id": 26,
+      "start": 208,
+      "end": 215
+    },
+    {
+      "id": 27,
+      "start": 216,
+      "end": 220
+    },
+    {
+      "id": 28,
+      "start": 220,
+      "end": 221
+    },
+    {
+      "id": 29,
+      "start": 222,
+      "end": 229
+    },
+    {
+      "id": 30,
+      "start": 230,
+      "end": 234
+    },
+    {
+      "id": 31,
+      "start": 235,
+      "end": 238
+    },
+    {
+      "id": 32,
+      "start": 239,
+      "end": 244
+    },
+    {
+      "id": 33,
+      "start": 245,
+      "end": 253
+    },
+    {
+      "id": 34,
+      "start": 253,
+      "end": 265
+    },
+    {
+      "id": 35,
+      "start": 265,
+      "end": 266
+    },
+    {
+      "id": 36,
+      "start": 267,
+      "end": 270
+    },
+    {
+      "id": 37,
+      "start": 271,
+      "end": 278
+    },
+    {
+      "id": 38,
+      "start": 279,
+      "end": 283
+    },
+    {
+      "id": 39,
+      "start": 284,
+      "end": 287
+    },
+    {
+      "id": 40,
+      "start": 288,
+      "end": 293
+    },
+    {
+      "id": 41,
+      "start": 294,
+      "end": 296
+    },
+    {
+      "id": 42,
+      "start": 296,
+      "end": 297
+    },
+    {
+      "id": 43,
+      "start": 297,
+      "end": 301
+    },
+    {
+      "id": 44,
+      "start": 301,
+      "end": 313
+    },
+    {
+      "id": 45,
+      "start": 313,
+      "end": 314
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Marriage",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "matrimony",
+      "dest": 1
+    },
+    {
+      "dep_text": "Marriage",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "wedlock",
+      "dest": 2
+    },
+    {
+      "dep_text": "Marriage",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "union",
+      "dest": 3
+    }
+  ],
+  "classes": {
+    "matrimony_1": {
+      "labels": [
+        "SITUATION",
+        "SOCIAL_OBJECT"
+      ],
+      "class": "matrimony"
+    },
+    "wedlock_2": {
+      "labels": [
+        "SITUATION",
+        "SOCIAL_OBJECT"
+      ],
+      "class": "wedlock"
+    },
+    "union_3": {
+      "labels": [
+        "ACTIVITY",
+        "SOCIAL_OBJECT"
+      ],
+      "class": "union"
+    },
+    "spouses_4": {
+      "labels": [
+        "ROLE",
+        "SOCIAL_OBJECT"
+      ],
+      "class": "spouses"
+    },
+    "rights_and_obligations_5": {
+      "labels": [
+        "ABSTRACT",
+        "SOCIAL_OBJECT"
+      ],
+      "class": "rights and obligations"
+    },
+    "children_6": {
+      "labels": [
+        "PERSON",
+        "ROLE"
+      ],
+      "class": "children"
+    },
+    "in-laws_7": {
+      "labels": [
+        "PERSON",
+        "ROLE"
+      ],
+      "class": "in-laws"
+    }
+  }
+}

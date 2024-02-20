@@ -1,0 +1,566 @@
+{
+  "text": "Porcuna is a village and municipality in the province of Jaén in Andalusia, Spain, 42 km from Jaén and 50 km from Córdoba. The primary occupation of the 6,990 inhabitants is olive growing. The main tourist attractions are the tower of Boabdil, the Casa Piedra, the Paseo de Jesús and the various hermitages.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 7,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 30,
+      "end": 37,
+      "label": "CLASS"
+    },
+    {
+      "start": 54,
+      "end": 66,
+      "label": "CLASS"
+    },
+    {
+      "start": 98,
+      "end": 102,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 123,
+      "end": 132,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 151,
+      "end": 156,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 266,
+      "end": 279,
+      "label": "CLASS"
+    },
+    {
+      "start": 302,
+      "end": 321,
+      "label": "CLASS"
+    },
+    {
+      "start": 342,
+      "end": 358,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 381,
+      "end": 392,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 415,
+      "end": 429,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 464,
+      "end": 474,
+      "label": "CLASS"
+    },
+    {
+      "start_char": 0,
+      "end_char": 7,
+      "label": "INDIVIDUAL",
+      "text": "Porcuna"
+    },
+    {
+      "start_char": 30,
+      "end_char": 37,
+      "label": "CLASS",
+      "text": "village",
+      "subClassOf": [
+        "LOCATION"
+      ]
+    },
+    {
+      "start_char": 54,
+      "end_char": 66,
+      "label": "CLASS",
+      "text": "municipality",
+      "subClassOf": [
+        "LOCATION"
+      ]
+    },
+    {
+      "start_char": 98,
+      "end_char": 102,
+      "label": "INDIVIDUAL",
+      "text": "Jaén"
+    },
+    {
+      "start_char": 123,
+      "end_char": 132,
+      "label": "INDIVIDUAL",
+      "text": "Andalusia"
+    },
+    {
+      "start_char": 151,
+      "end_char": 156,
+      "label": "INDIVIDUAL",
+      "text": "Spain"
+    },
+    {
+      "start_char": 266,
+      "end_char": 279,
+      "label": "CLASS",
+      "text": "olive growing",
+      "subClassOf": [
+        "ACTIVITY"
+      ]
+    },
+    {
+      "start_char": 302,
+      "end_char": 321,
+      "label": "CLASS",
+      "text": "tourist attractions",
+      "subClassOf": [
+        "ACTIVITY",
+        "LOCATION"
+      ]
+    },
+    {
+      "start_char": 342,
+      "end_char": 358,
+      "label": "INDIVIDUAL",
+      "text": "tower of Boabdil"
+    },
+    {
+      "start_char": 381,
+      "end_char": 392,
+      "label": "INDIVIDUAL",
+      "text": "Casa Piedra"
+    },
+    {
+      "start_char": 415,
+      "end_char": 429,
+      "label": "INDIVIDUAL",
+      "text": "Paseo de Jesús"
+    },
+    {
+      "start_char": 464,
+      "end_char": 474,
+      "label": "CLASS",
+      "text": "hermitages",
+      "subClassOf": [
+        "LOCATION",
+        "PHYSICAL_OBJECT"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 7
+    },
+    {
+      "id": 1,
+      "start": 7,
+      "end": 24
+    },
+    {
+      "id": 2,
+      "start": 25,
+      "end": 27
+    },
+    {
+      "id": 3,
+      "start": 28,
+      "end": 29
+    },
+    {
+      "id": 4,
+      "start": 30,
+      "end": 37
+    },
+    {
+      "id": 5,
+      "start": 37,
+      "end": 49
+    },
+    {
+      "id": 6,
+      "start": 50,
+      "end": 53
+    },
+    {
+      "id": 7,
+      "start": 54,
+      "end": 66
+    },
+    {
+      "id": 8,
+      "start": 66,
+      "end": 78
+    },
+    {
+      "id": 9,
+      "start": 79,
+      "end": 81
+    },
+    {
+      "id": 10,
+      "start": 82,
+      "end": 85
+    },
+    {
+      "id": 11,
+      "start": 86,
+      "end": 94
+    },
+    {
+      "id": 12,
+      "start": 95,
+      "end": 97
+    },
+    {
+      "id": 13,
+      "start": 98,
+      "end": 102
+    },
+    {
+      "id": 14,
+      "start": 102,
+      "end": 119
+    },
+    {
+      "id": 15,
+      "start": 120,
+      "end": 122
+    },
+    {
+      "id": 16,
+      "start": 123,
+      "end": 132
+    },
+    {
+      "id": 17,
+      "start": 132,
+      "end": 149
+    },
+    {
+      "id": 18,
+      "start": 149,
+      "end": 150
+    },
+    {
+      "id": 19,
+      "start": 151,
+      "end": 156
+    },
+    {
+      "id": 20,
+      "start": 156,
+      "end": 173
+    },
+    {
+      "id": 21,
+      "start": 173,
+      "end": 174
+    },
+    {
+      "id": 22,
+      "start": 175,
+      "end": 177
+    },
+    {
+      "id": 23,
+      "start": 178,
+      "end": 180
+    },
+    {
+      "id": 24,
+      "start": 181,
+      "end": 185
+    },
+    {
+      "id": 25,
+      "start": 186,
+      "end": 190
+    },
+    {
+      "id": 26,
+      "start": 191,
+      "end": 194
+    },
+    {
+      "id": 27,
+      "start": 195,
+      "end": 197
+    },
+    {
+      "id": 28,
+      "start": 198,
+      "end": 200
+    },
+    {
+      "id": 29,
+      "start": 201,
+      "end": 205
+    },
+    {
+      "id": 30,
+      "start": 206,
+      "end": 213
+    },
+    {
+      "id": 31,
+      "start": 213,
+      "end": 214
+    },
+    {
+      "id": 32,
+      "start": 215,
+      "end": 218
+    },
+    {
+      "id": 33,
+      "start": 219,
+      "end": 226
+    },
+    {
+      "id": 34,
+      "start": 227,
+      "end": 237
+    },
+    {
+      "id": 35,
+      "start": 238,
+      "end": 240
+    },
+    {
+      "id": 36,
+      "start": 241,
+      "end": 244
+    },
+    {
+      "id": 37,
+      "start": 245,
+      "end": 250
+    },
+    {
+      "id": 38,
+      "start": 251,
+      "end": 262
+    },
+    {
+      "id": 39,
+      "start": 263,
+      "end": 265
+    },
+    {
+      "id": 40,
+      "start": 266,
+      "end": 271
+    },
+    {
+      "id": 41,
+      "start": 272,
+      "end": 279
+    },
+    {
+      "id": 42,
+      "start": 279,
+      "end": 291
+    },
+    {
+      "id": 43,
+      "start": 291,
+      "end": 292
+    },
+    {
+      "id": 44,
+      "start": 293,
+      "end": 296
+    },
+    {
+      "id": 45,
+      "start": 297,
+      "end": 301
+    },
+    {
+      "id": 46,
+      "start": 302,
+      "end": 309
+    },
+    {
+      "id": 47,
+      "start": 310,
+      "end": 321
+    },
+    {
+      "id": 48,
+      "start": 321,
+      "end": 333
+    },
+    {
+      "id": 49,
+      "start": 334,
+      "end": 337
+    },
+    {
+      "id": 50,
+      "start": 338,
+      "end": 341
+    },
+    {
+      "id": 51,
+      "start": 342,
+      "end": 347
+    },
+    {
+      "id": 52,
+      "start": 348,
+      "end": 350
+    },
+    {
+      "id": 53,
+      "start": 351,
+      "end": 358
+    },
+    {
+      "id": 54,
+      "start": 358,
+      "end": 375
+    },
+    {
+      "id": 55,
+      "start": 375,
+      "end": 376
+    },
+    {
+      "id": 56,
+      "start": 377,
+      "end": 380
+    },
+    {
+      "id": 57,
+      "start": 381,
+      "end": 385
+    },
+    {
+      "id": 58,
+      "start": 386,
+      "end": 392
+    },
+    {
+      "id": 59,
+      "start": 392,
+      "end": 409
+    },
+    {
+      "id": 60,
+      "start": 409,
+      "end": 410
+    },
+    {
+      "id": 61,
+      "start": 411,
+      "end": 414
+    },
+    {
+      "id": 62,
+      "start": 415,
+      "end": 420
+    },
+    {
+      "id": 63,
+      "start": 421,
+      "end": 423
+    },
+    {
+      "id": 64,
+      "start": 424,
+      "end": 429
+    },
+    {
+      "id": 65,
+      "start": 429,
+      "end": 447
+    },
+    {
+      "id": 66,
+      "start": 448,
+      "end": 451
+    },
+    {
+      "id": 67,
+      "start": 452,
+      "end": 455
+    },
+    {
+      "id": 68,
+      "start": 456,
+      "end": 463
+    },
+    {
+      "id": 69,
+      "start": 464,
+      "end": 474
+    },
+    {
+      "id": 70,
+      "start": 474,
+      "end": 487
+    },
+    {
+      "id": 71,
+      "start": 487,
+      "end": 488
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Porcuna",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "village",
+      "dest": 1
+    },
+    {
+      "dep_text": "Porcuna",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "municipality",
+      "dest": 2
+    }
+  ],
+  "classes": {
+    "village_1": {
+      "labels": [
+        "LOCATION"
+      ],
+      "class": "village"
+    },
+    "municipality_2": {
+      "labels": [
+        "LOCATION"
+      ],
+      "class": "municipality"
+    },
+    "olive_growing_6": {
+      "labels": [
+        "ACTIVITY"
+      ],
+      "class": "olive growing"
+    },
+    "tourist_attractions_7": {
+      "labels": [
+        "ACTIVITY",
+        "LOCATION"
+      ],
+      "class": "tourist attractions"
+    },
+    "hermitages_11": {
+      "labels": [
+        "LOCATION",
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "hermitages"
+    }
+  }
+}

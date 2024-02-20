@@ -1,0 +1,188 @@
+{
+  "text": "Alkalinity is the quantitative capacity of an aqueous solution to neutralize an acid.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 10,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 35,
+      "end": 56,
+      "label": "CLASS"
+    },
+    {
+      "start": 75,
+      "end": 91,
+      "label": "CLASS"
+    },
+    {
+      "start": 121,
+      "end": 125,
+      "label": "CLASS"
+    },
+    {
+      "start_char": 0,
+      "end_char": 10,
+      "label": "INDIVIDUAL",
+      "text": "Alkalinity"
+    },
+    {
+      "start_char": 35,
+      "end_char": 56,
+      "label": "CLASS",
+      "text": "quantitative capacity",
+      "subClassOf": [
+        "ABSTRACT"
+      ]
+    },
+    {
+      "start_char": 75,
+      "end_char": 91,
+      "label": "CLASS",
+      "text": "aqueous solution",
+      "subClassOf": [
+        "INFORMATION_ENTITY",
+        "PHYSICAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 121,
+      "end_char": 125,
+      "label": "CLASS",
+      "text": "acid",
+      "subClassOf": [
+        "PHYSICAL_OBJECT"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 10
+    },
+    {
+      "id": 1,
+      "start": 10,
+      "end": 27
+    },
+    {
+      "id": 2,
+      "start": 28,
+      "end": 30
+    },
+    {
+      "id": 3,
+      "start": 31,
+      "end": 34
+    },
+    {
+      "id": 4,
+      "start": 35,
+      "end": 47
+    },
+    {
+      "id": 5,
+      "start": 48,
+      "end": 56
+    },
+    {
+      "id": 6,
+      "start": 56,
+      "end": 68
+    },
+    {
+      "id": 7,
+      "start": 69,
+      "end": 71
+    },
+    {
+      "id": 8,
+      "start": 72,
+      "end": 74
+    },
+    {
+      "id": 9,
+      "start": 75,
+      "end": 82
+    },
+    {
+      "id": 10,
+      "start": 83,
+      "end": 91
+    },
+    {
+      "id": 11,
+      "start": 91,
+      "end": 103
+    },
+    {
+      "id": 12,
+      "start": 104,
+      "end": 106
+    },
+    {
+      "id": 13,
+      "start": 107,
+      "end": 117
+    },
+    {
+      "id": 14,
+      "start": 118,
+      "end": 120
+    },
+    {
+      "id": 15,
+      "start": 121,
+      "end": 125
+    },
+    {
+      "id": 16,
+      "start": 125,
+      "end": 137
+    },
+    {
+      "id": 17,
+      "start": 137,
+      "end": 138
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Alkalinity",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "quantitative capacity",
+      "dest": 1
+    },
+    {
+      "dep_text": "Alkalinity",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "aqueous solution",
+      "dest": 2
+    }
+  ],
+  "classes": {
+    "quantitative_capacity_1": {
+      "labels": [
+        "ABSTRACT"
+      ],
+      "class": "quantitative capacity"
+    },
+    "aqueous_solution_2": {
+      "labels": [
+        "INFORMATION_ENTITY",
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "aqueous solution"
+    },
+    "acid_3": {
+      "labels": [
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "acid"
+    }
+  }
+}

@@ -1,0 +1,437 @@
+{
+  "text": "Europe Ecology is a green electoral coalition of political parties in France created for the 2009 European elections composed of The Greens and other ecologists and regionalists. For the European Parliament election in 2014, this electoral alliance was renewed.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 14,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 37,
+      "end": 62,
+      "label": "CLASS"
+    },
+    {
+      "start": 78,
+      "end": 95,
+      "label": "CLASS"
+    },
+    {
+      "start": 111,
+      "end": 117,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 151,
+      "end": 174,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 204,
+      "end": 214,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 242,
+      "end": 252,
+      "label": "CLASS"
+    },
+    {
+      "start": 269,
+      "end": 281,
+      "label": "CLASS"
+    },
+    {
+      "start": 303,
+      "end": 331,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 352,
+      "end": 356,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start_char": 0,
+      "end_char": 14,
+      "label": "INDIVIDUAL",
+      "text": "Europe Ecology"
+    },
+    {
+      "start_char": 37,
+      "end_char": 62,
+      "label": "CLASS",
+      "text": "green electoral coalition",
+      "subClassOf": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "start_char": 78,
+      "end_char": 95,
+      "label": "CLASS",
+      "text": "political parties",
+      "subClassOf": [
+        "ORGANISATION",
+        "SOCIAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 111,
+      "end_char": 117,
+      "label": "INDIVIDUAL",
+      "text": "France"
+    },
+    {
+      "start_char": 151,
+      "end_char": 174,
+      "label": "INDIVIDUAL",
+      "text": "2009 European elections"
+    },
+    {
+      "start_char": 204,
+      "end_char": 214,
+      "label": "INDIVIDUAL",
+      "text": "The Greens"
+    },
+    {
+      "start_char": 242,
+      "end_char": 252,
+      "label": "CLASS",
+      "text": "ecologists",
+      "subClassOf": [
+        "PERSON",
+        "ROLE"
+      ]
+    },
+    {
+      "start_char": 269,
+      "end_char": 281,
+      "label": "CLASS",
+      "text": "regionalists",
+      "subClassOf": [
+        "ORGANISATION",
+        "ROLE"
+      ]
+    },
+    {
+      "start_char": 303,
+      "end_char": 331,
+      "label": "INDIVIDUAL",
+      "text": "European Parliament election"
+    },
+    {
+      "start_char": 352,
+      "end_char": 356,
+      "label": "INDIVIDUAL",
+      "text": "2014"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 6
+    },
+    {
+      "id": 1,
+      "start": 7,
+      "end": 14
+    },
+    {
+      "id": 2,
+      "start": 14,
+      "end": 31
+    },
+    {
+      "id": 3,
+      "start": 32,
+      "end": 34
+    },
+    {
+      "id": 4,
+      "start": 35,
+      "end": 36
+    },
+    {
+      "id": 5,
+      "start": 37,
+      "end": 42
+    },
+    {
+      "id": 6,
+      "start": 43,
+      "end": 52
+    },
+    {
+      "id": 7,
+      "start": 53,
+      "end": 62
+    },
+    {
+      "id": 8,
+      "start": 62,
+      "end": 74
+    },
+    {
+      "id": 9,
+      "start": 75,
+      "end": 77
+    },
+    {
+      "id": 10,
+      "start": 78,
+      "end": 87
+    },
+    {
+      "id": 11,
+      "start": 88,
+      "end": 95
+    },
+    {
+      "id": 12,
+      "start": 95,
+      "end": 107
+    },
+    {
+      "id": 13,
+      "start": 108,
+      "end": 110
+    },
+    {
+      "id": 14,
+      "start": 111,
+      "end": 117
+    },
+    {
+      "id": 15,
+      "start": 117,
+      "end": 134
+    },
+    {
+      "id": 16,
+      "start": 135,
+      "end": 142
+    },
+    {
+      "id": 17,
+      "start": 143,
+      "end": 146
+    },
+    {
+      "id": 18,
+      "start": 147,
+      "end": 150
+    },
+    {
+      "id": 19,
+      "start": 151,
+      "end": 155
+    },
+    {
+      "id": 20,
+      "start": 156,
+      "end": 164
+    },
+    {
+      "id": 21,
+      "start": 165,
+      "end": 174
+    },
+    {
+      "id": 22,
+      "start": 174,
+      "end": 191
+    },
+    {
+      "id": 23,
+      "start": 192,
+      "end": 200
+    },
+    {
+      "id": 24,
+      "start": 201,
+      "end": 203
+    },
+    {
+      "id": 25,
+      "start": 204,
+      "end": 207
+    },
+    {
+      "id": 26,
+      "start": 208,
+      "end": 214
+    },
+    {
+      "id": 27,
+      "start": 214,
+      "end": 231
+    },
+    {
+      "id": 28,
+      "start": 232,
+      "end": 235
+    },
+    {
+      "id": 29,
+      "start": 236,
+      "end": 241
+    },
+    {
+      "id": 30,
+      "start": 242,
+      "end": 252
+    },
+    {
+      "id": 31,
+      "start": 252,
+      "end": 264
+    },
+    {
+      "id": 32,
+      "start": 265,
+      "end": 268
+    },
+    {
+      "id": 33,
+      "start": 269,
+      "end": 281
+    },
+    {
+      "id": 34,
+      "start": 281,
+      "end": 293
+    },
+    {
+      "id": 35,
+      "start": 293,
+      "end": 294
+    },
+    {
+      "id": 36,
+      "start": 295,
+      "end": 298
+    },
+    {
+      "id": 37,
+      "start": 299,
+      "end": 302
+    },
+    {
+      "id": 38,
+      "start": 303,
+      "end": 311
+    },
+    {
+      "id": 39,
+      "start": 312,
+      "end": 322
+    },
+    {
+      "id": 40,
+      "start": 323,
+      "end": 331
+    },
+    {
+      "id": 41,
+      "start": 331,
+      "end": 348
+    },
+    {
+      "id": 42,
+      "start": 349,
+      "end": 351
+    },
+    {
+      "id": 43,
+      "start": 352,
+      "end": 356
+    },
+    {
+      "id": 44,
+      "start": 356,
+      "end": 373
+    },
+    {
+      "id": 45,
+      "start": 373,
+      "end": 374
+    },
+    {
+      "id": 46,
+      "start": 375,
+      "end": 379
+    },
+    {
+      "id": 47,
+      "start": 380,
+      "end": 389
+    },
+    {
+      "id": 48,
+      "start": 390,
+      "end": 398
+    },
+    {
+      "id": 49,
+      "start": 399,
+      "end": 402
+    },
+    {
+      "id": 50,
+      "start": 403,
+      "end": 410
+    },
+    {
+      "id": 51,
+      "start": 410,
+      "end": 411
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Europe Ecology",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "green electoral coalition",
+      "dest": 1
+    },
+    {
+      "dep_text": "Europe Ecology",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "political parties",
+      "dest": 2
+    }
+  ],
+  "classes": {
+    "green_electoral_coalition_1": {
+      "labels": [
+        "ORGANISATION"
+      ],
+      "class": "green electoral coalition"
+    },
+    "political_parties_2": {
+      "labels": [
+        "ORGANISATION",
+        "SOCIAL_OBJECT"
+      ],
+      "class": "political parties"
+    },
+    "ecologists_6": {
+      "labels": [
+        "PERSON",
+        "ROLE"
+      ],
+      "class": "ecologists"
+    },
+    "regionalists_7": {
+      "labels": [
+        "ORGANISATION",
+        "ROLE"
+      ],
+      "class": "regionalists"
+    }
+  }
+}

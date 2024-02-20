@@ -1,0 +1,760 @@
+{
+  "text": "Via Garibaldi is street of the historical centre of Genoa, northern Italy, well known for its ancient palaces. The street dates back to the year 1550. Originally named as Strada Maggiore, then Strada Nuova, only in 1882 its name was dedicated to Giuseppe Garibaldi. The street is 250 metres long and 7.5 metres wide. Since July 2006 Via Garibaldi is inscribed in the list of UNESCO World Heritage Sites as part of the system of the Palazzi dei Rolli and Strade Nuove del Centro Storico of Genoa.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 13,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 34,
+      "end": 40,
+      "label": "CLASS"
+    },
+    {
+      "start": 81,
+      "end": 86,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 114,
+      "end": 119,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 157,
+      "end": 172,
+      "label": "CLASS"
+    },
+    {
+      "start": 246,
+      "end": 261,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 285,
+      "end": 297,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 324,
+      "end": 328,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 372,
+      "end": 390,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 423,
+      "end": 433,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 460,
+      "end": 470,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 553,
+      "end": 580,
+      "label": "CLASS"
+    },
+    {
+      "start": 623,
+      "end": 640,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 663,
+      "end": 694,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start_char": 0,
+      "end_char": 13,
+      "label": "INDIVIDUAL",
+      "text": "Via Garibaldi"
+    },
+    {
+      "start_char": 34,
+      "end_char": 40,
+      "label": "CLASS",
+      "text": "street",
+      "subClassOf": [
+        "LOCATION"
+      ]
+    },
+    {
+      "start_char": 81,
+      "end_char": 86,
+      "label": "INDIVIDUAL",
+      "text": "Genoa"
+    },
+    {
+      "start_char": 114,
+      "end_char": 119,
+      "label": "INDIVIDUAL",
+      "text": "Italy"
+    },
+    {
+      "start_char": 157,
+      "end_char": 172,
+      "label": "CLASS",
+      "text": "ancient palaces",
+      "subClassOf": [
+        "LOCATION",
+        "PHYSICAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 246,
+      "end_char": 261,
+      "label": "INDIVIDUAL",
+      "text": "Strada Maggiore"
+    },
+    {
+      "start_char": 285,
+      "end_char": 297,
+      "label": "INDIVIDUAL",
+      "text": "Strada Nuova"
+    },
+    {
+      "start_char": 324,
+      "end_char": 328,
+      "label": "INDIVIDUAL",
+      "text": "1882"
+    },
+    {
+      "start_char": 372,
+      "end_char": 390,
+      "label": "INDIVIDUAL",
+      "text": "Giuseppe Garibaldi"
+    },
+    {
+      "start_char": 423,
+      "end_char": 433,
+      "label": "INDIVIDUAL",
+      "text": "250 metres"
+    },
+    {
+      "start_char": 460,
+      "end_char": 470,
+      "label": "INDIVIDUAL",
+      "text": "7.5 metres"
+    },
+    {
+      "start_char": 553,
+      "end_char": 580,
+      "label": "CLASS",
+      "text": "UNESCO World Heritage Sites",
+      "subClassOf": [
+        "LOCATION",
+        "SOCIAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 623,
+      "end_char": 640,
+      "label": "INDIVIDUAL",
+      "text": "Palazzi dei Rolli"
+    },
+    {
+      "start_char": 663,
+      "end_char": 694,
+      "label": "INDIVIDUAL",
+      "text": "Strade Nuove del Centro Storico"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 3
+    },
+    {
+      "id": 1,
+      "start": 4,
+      "end": 13
+    },
+    {
+      "id": 2,
+      "start": 13,
+      "end": 30
+    },
+    {
+      "id": 3,
+      "start": 31,
+      "end": 33
+    },
+    {
+      "id": 4,
+      "start": 34,
+      "end": 40
+    },
+    {
+      "id": 5,
+      "start": 40,
+      "end": 52
+    },
+    {
+      "id": 6,
+      "start": 53,
+      "end": 55
+    },
+    {
+      "id": 7,
+      "start": 56,
+      "end": 59
+    },
+    {
+      "id": 8,
+      "start": 60,
+      "end": 70
+    },
+    {
+      "id": 9,
+      "start": 71,
+      "end": 77
+    },
+    {
+      "id": 10,
+      "start": 78,
+      "end": 80
+    },
+    {
+      "id": 11,
+      "start": 81,
+      "end": 86
+    },
+    {
+      "id": 12,
+      "start": 86,
+      "end": 103
+    },
+    {
+      "id": 13,
+      "start": 103,
+      "end": 104
+    },
+    {
+      "id": 14,
+      "start": 105,
+      "end": 113
+    },
+    {
+      "id": 15,
+      "start": 114,
+      "end": 119
+    },
+    {
+      "id": 16,
+      "start": 119,
+      "end": 136
+    },
+    {
+      "id": 17,
+      "start": 136,
+      "end": 137
+    },
+    {
+      "id": 18,
+      "start": 138,
+      "end": 142
+    },
+    {
+      "id": 19,
+      "start": 143,
+      "end": 148
+    },
+    {
+      "id": 20,
+      "start": 149,
+      "end": 152
+    },
+    {
+      "id": 21,
+      "start": 153,
+      "end": 156
+    },
+    {
+      "id": 22,
+      "start": 157,
+      "end": 164
+    },
+    {
+      "id": 23,
+      "start": 165,
+      "end": 172
+    },
+    {
+      "id": 24,
+      "start": 172,
+      "end": 184
+    },
+    {
+      "id": 25,
+      "start": 184,
+      "end": 185
+    },
+    {
+      "id": 26,
+      "start": 186,
+      "end": 189
+    },
+    {
+      "id": 27,
+      "start": 190,
+      "end": 196
+    },
+    {
+      "id": 28,
+      "start": 197,
+      "end": 202
+    },
+    {
+      "id": 29,
+      "start": 203,
+      "end": 207
+    },
+    {
+      "id": 30,
+      "start": 208,
+      "end": 210
+    },
+    {
+      "id": 31,
+      "start": 211,
+      "end": 214
+    },
+    {
+      "id": 32,
+      "start": 215,
+      "end": 219
+    },
+    {
+      "id": 33,
+      "start": 220,
+      "end": 224
+    },
+    {
+      "id": 34,
+      "start": 224,
+      "end": 225
+    },
+    {
+      "id": 35,
+      "start": 226,
+      "end": 236
+    },
+    {
+      "id": 36,
+      "start": 237,
+      "end": 242
+    },
+    {
+      "id": 37,
+      "start": 243,
+      "end": 245
+    },
+    {
+      "id": 38,
+      "start": 246,
+      "end": 252
+    },
+    {
+      "id": 39,
+      "start": 253,
+      "end": 261
+    },
+    {
+      "id": 40,
+      "start": 261,
+      "end": 278
+    },
+    {
+      "id": 41,
+      "start": 278,
+      "end": 279
+    },
+    {
+      "id": 42,
+      "start": 280,
+      "end": 284
+    },
+    {
+      "id": 43,
+      "start": 285,
+      "end": 291
+    },
+    {
+      "id": 44,
+      "start": 292,
+      "end": 297
+    },
+    {
+      "id": 45,
+      "start": 297,
+      "end": 314
+    },
+    {
+      "id": 46,
+      "start": 314,
+      "end": 315
+    },
+    {
+      "id": 47,
+      "start": 316,
+      "end": 320
+    },
+    {
+      "id": 48,
+      "start": 321,
+      "end": 323
+    },
+    {
+      "id": 49,
+      "start": 324,
+      "end": 328
+    },
+    {
+      "id": 50,
+      "start": 328,
+      "end": 345
+    },
+    {
+      "id": 51,
+      "start": 346,
+      "end": 349
+    },
+    {
+      "id": 52,
+      "start": 350,
+      "end": 354
+    },
+    {
+      "id": 53,
+      "start": 355,
+      "end": 358
+    },
+    {
+      "id": 54,
+      "start": 359,
+      "end": 368
+    },
+    {
+      "id": 55,
+      "start": 369,
+      "end": 371
+    },
+    {
+      "id": 56,
+      "start": 372,
+      "end": 380
+    },
+    {
+      "id": 57,
+      "start": 381,
+      "end": 390
+    },
+    {
+      "id": 58,
+      "start": 390,
+      "end": 407
+    },
+    {
+      "id": 59,
+      "start": 407,
+      "end": 408
+    },
+    {
+      "id": 60,
+      "start": 409,
+      "end": 412
+    },
+    {
+      "id": 61,
+      "start": 413,
+      "end": 419
+    },
+    {
+      "id": 62,
+      "start": 420,
+      "end": 422
+    },
+    {
+      "id": 63,
+      "start": 423,
+      "end": 426
+    },
+    {
+      "id": 64,
+      "start": 427,
+      "end": 433
+    },
+    {
+      "id": 65,
+      "start": 433,
+      "end": 450
+    },
+    {
+      "id": 66,
+      "start": 451,
+      "end": 455
+    },
+    {
+      "id": 67,
+      "start": 456,
+      "end": 459
+    },
+    {
+      "id": 68,
+      "start": 460,
+      "end": 463
+    },
+    {
+      "id": 69,
+      "start": 464,
+      "end": 470
+    },
+    {
+      "id": 70,
+      "start": 470,
+      "end": 488
+    },
+    {
+      "id": 71,
+      "start": 489,
+      "end": 493
+    },
+    {
+      "id": 72,
+      "start": 493,
+      "end": 494
+    },
+    {
+      "id": 73,
+      "start": 495,
+      "end": 500
+    },
+    {
+      "id": 74,
+      "start": 501,
+      "end": 505
+    },
+    {
+      "id": 75,
+      "start": 506,
+      "end": 510
+    },
+    {
+      "id": 76,
+      "start": 511,
+      "end": 514
+    },
+    {
+      "id": 77,
+      "start": 515,
+      "end": 524
+    },
+    {
+      "id": 78,
+      "start": 525,
+      "end": 527
+    },
+    {
+      "id": 79,
+      "start": 528,
+      "end": 537
+    },
+    {
+      "id": 80,
+      "start": 538,
+      "end": 540
+    },
+    {
+      "id": 81,
+      "start": 541,
+      "end": 544
+    },
+    {
+      "id": 82,
+      "start": 545,
+      "end": 549
+    },
+    {
+      "id": 83,
+      "start": 550,
+      "end": 552
+    },
+    {
+      "id": 84,
+      "start": 553,
+      "end": 559
+    },
+    {
+      "id": 85,
+      "start": 560,
+      "end": 565
+    },
+    {
+      "id": 86,
+      "start": 566,
+      "end": 574
+    },
+    {
+      "id": 87,
+      "start": 575,
+      "end": 580
+    },
+    {
+      "id": 88,
+      "start": 580,
+      "end": 593
+    },
+    {
+      "id": 89,
+      "start": 594,
+      "end": 596
+    },
+    {
+      "id": 90,
+      "start": 597,
+      "end": 601
+    },
+    {
+      "id": 91,
+      "start": 602,
+      "end": 604
+    },
+    {
+      "id": 92,
+      "start": 605,
+      "end": 608
+    },
+    {
+      "id": 93,
+      "start": 609,
+      "end": 615
+    },
+    {
+      "id": 94,
+      "start": 616,
+      "end": 618
+    },
+    {
+      "id": 95,
+      "start": 619,
+      "end": 622
+    },
+    {
+      "id": 96,
+      "start": 623,
+      "end": 630
+    },
+    {
+      "id": 97,
+      "start": 631,
+      "end": 634
+    },
+    {
+      "id": 98,
+      "start": 635,
+      "end": 640
+    },
+    {
+      "id": 99,
+      "start": 640,
+      "end": 658
+    },
+    {
+      "id": 100,
+      "start": 659,
+      "end": 662
+    },
+    {
+      "id": 101,
+      "start": 663,
+      "end": 669
+    },
+    {
+      "id": 102,
+      "start": 670,
+      "end": 675
+    },
+    {
+      "id": 103,
+      "start": 676,
+      "end": 679
+    },
+    {
+      "id": 104,
+      "start": 680,
+      "end": 686
+    },
+    {
+      "id": 105,
+      "start": 687,
+      "end": 694
+    },
+    {
+      "id": 106,
+      "start": 694,
+      "end": 712
+    },
+    {
+      "id": 107,
+      "start": 713,
+      "end": 715
+    },
+    {
+      "id": 108,
+      "start": 716,
+      "end": 721
+    },
+    {
+      "id": 109,
+      "start": 721,
+      "end": 722
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Via Garibaldi",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "street",
+      "dest": 1
+    },
+    {
+      "dep_text": "Via Garibaldi",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "UNESCO World Heritage Sites",
+      "dest": 11
+    }
+  ],
+  "classes": {
+    "street_1": {
+      "labels": [
+        "LOCATION"
+      ],
+      "class": "street"
+    },
+    "ancient_palaces_4": {
+      "labels": [
+        "LOCATION",
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "ancient palaces"
+    },
+    "UNESCO_World_Heritage_Sites_11": {
+      "labels": [
+        "LOCATION",
+        "SOCIAL_OBJECT"
+      ],
+      "class": "UNESCO World Heritage Sites"
+    }
+  }
+}

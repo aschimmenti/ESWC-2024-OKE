@@ -1,0 +1,483 @@
+{
+  "text": "Of Zaza and Kurdish origin, after the 1938 Dersim Rebellion, Süreya and his family were displaced to Bilecik, a city in the Marmara Region of Turkey. This had a significant effect on his poems Cemâl Süreya, pen name of Cemâlettin Süreyya Seber, poet and writer.",
+  "ents": [
+    {
+      "start": 3,
+      "end": 7,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 29,
+      "end": 36,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 72,
+      "end": 93,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 112,
+      "end": 118,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 144,
+      "end": 150,
+      "label": "CLASS"
+    },
+    {
+      "start": 181,
+      "end": 188,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 221,
+      "end": 235,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 256,
+      "end": 262,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 324,
+      "end": 336,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 355,
+      "end": 363,
+      "label": "CLASS"
+    },
+    {
+      "start": 379,
+      "end": 403,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start_char": 3,
+      "end_char": 7,
+      "label": "INDIVIDUAL",
+      "text": "Zaza"
+    },
+    {
+      "start_char": 29,
+      "end_char": 36,
+      "label": "INDIVIDUAL",
+      "text": "Kurdish"
+    },
+    {
+      "start_char": 72,
+      "end_char": 93,
+      "label": "INDIVIDUAL",
+      "text": "1938 Dersim Rebellion"
+    },
+    {
+      "start_char": 112,
+      "end_char": 118,
+      "label": "INDIVIDUAL",
+      "text": "Süreya"
+    },
+    {
+      "start_char": 144,
+      "end_char": 150,
+      "label": "CLASS",
+      "text": "family",
+      "subClassOf": [
+        "ORGANISM",
+        "SOCIAL_OBJECT"
+      ]
+    },
+    {
+      "start_char": 181,
+      "end_char": 188,
+      "label": "INDIVIDUAL",
+      "text": "Bilecik"
+    },
+    {
+      "start_char": 221,
+      "end_char": 235,
+      "label": "INDIVIDUAL",
+      "text": "Marmara Region"
+    },
+    {
+      "start_char": 256,
+      "end_char": 262,
+      "label": "INDIVIDUAL",
+      "text": "Turkey"
+    },
+    {
+      "start_char": 324,
+      "end_char": 336,
+      "label": "INDIVIDUAL",
+      "text": "Cemâl Süreya"
+    },
+    {
+      "start_char": 355,
+      "end_char": 363,
+      "label": "CLASS",
+      "text": "pen name",
+      "subClassOf": [
+        "INFORMATION_ENTITY",
+        "ROLE"
+      ]
+    },
+    {
+      "start_char": 379,
+      "end_char": 403,
+      "label": "INDIVIDUAL",
+      "text": "Cemâlettin Süreyya Seber"
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 2
+    },
+    {
+      "id": 1,
+      "start": 3,
+      "end": 7
+    },
+    {
+      "id": 2,
+      "start": 7,
+      "end": 24
+    },
+    {
+      "id": 3,
+      "start": 25,
+      "end": 28
+    },
+    {
+      "id": 4,
+      "start": 29,
+      "end": 36
+    },
+    {
+      "id": 5,
+      "start": 36,
+      "end": 53
+    },
+    {
+      "id": 6,
+      "start": 54,
+      "end": 60
+    },
+    {
+      "id": 7,
+      "start": 60,
+      "end": 61
+    },
+    {
+      "id": 8,
+      "start": 62,
+      "end": 67
+    },
+    {
+      "id": 9,
+      "start": 68,
+      "end": 71
+    },
+    {
+      "id": 10,
+      "start": 72,
+      "end": 76
+    },
+    {
+      "id": 11,
+      "start": 77,
+      "end": 83
+    },
+    {
+      "id": 12,
+      "start": 84,
+      "end": 93
+    },
+    {
+      "id": 13,
+      "start": 93,
+      "end": 110
+    },
+    {
+      "id": 14,
+      "start": 110,
+      "end": 111
+    },
+    {
+      "id": 15,
+      "start": 112,
+      "end": 118
+    },
+    {
+      "id": 16,
+      "start": 118,
+      "end": 135
+    },
+    {
+      "id": 17,
+      "start": 136,
+      "end": 139
+    },
+    {
+      "id": 18,
+      "start": 140,
+      "end": 143
+    },
+    {
+      "id": 19,
+      "start": 144,
+      "end": 150
+    },
+    {
+      "id": 20,
+      "start": 150,
+      "end": 162
+    },
+    {
+      "id": 21,
+      "start": 163,
+      "end": 167
+    },
+    {
+      "id": 22,
+      "start": 168,
+      "end": 177
+    },
+    {
+      "id": 23,
+      "start": 178,
+      "end": 180
+    },
+    {
+      "id": 24,
+      "start": 181,
+      "end": 188
+    },
+    {
+      "id": 25,
+      "start": 188,
+      "end": 205
+    },
+    {
+      "id": 26,
+      "start": 205,
+      "end": 206
+    },
+    {
+      "id": 27,
+      "start": 207,
+      "end": 208
+    },
+    {
+      "id": 28,
+      "start": 209,
+      "end": 213
+    },
+    {
+      "id": 29,
+      "start": 214,
+      "end": 216
+    },
+    {
+      "id": 30,
+      "start": 217,
+      "end": 220
+    },
+    {
+      "id": 31,
+      "start": 221,
+      "end": 228
+    },
+    {
+      "id": 32,
+      "start": 229,
+      "end": 235
+    },
+    {
+      "id": 33,
+      "start": 235,
+      "end": 252
+    },
+    {
+      "id": 34,
+      "start": 253,
+      "end": 255
+    },
+    {
+      "id": 35,
+      "start": 256,
+      "end": 262
+    },
+    {
+      "id": 36,
+      "start": 262,
+      "end": 279
+    },
+    {
+      "id": 37,
+      "start": 279,
+      "end": 280
+    },
+    {
+      "id": 38,
+      "start": 281,
+      "end": 285
+    },
+    {
+      "id": 39,
+      "start": 286,
+      "end": 289
+    },
+    {
+      "id": 40,
+      "start": 290,
+      "end": 291
+    },
+    {
+      "id": 41,
+      "start": 292,
+      "end": 303
+    },
+    {
+      "id": 42,
+      "start": 304,
+      "end": 310
+    },
+    {
+      "id": 43,
+      "start": 311,
+      "end": 313
+    },
+    {
+      "id": 44,
+      "start": 314,
+      "end": 317
+    },
+    {
+      "id": 45,
+      "start": 318,
+      "end": 323
+    },
+    {
+      "id": 46,
+      "start": 324,
+      "end": 329
+    },
+    {
+      "id": 47,
+      "start": 330,
+      "end": 336
+    },
+    {
+      "id": 48,
+      "start": 336,
+      "end": 353
+    },
+    {
+      "id": 49,
+      "start": 353,
+      "end": 354
+    },
+    {
+      "id": 50,
+      "start": 355,
+      "end": 358
+    },
+    {
+      "id": 51,
+      "start": 359,
+      "end": 363
+    },
+    {
+      "id": 52,
+      "start": 363,
+      "end": 375
+    },
+    {
+      "id": 53,
+      "start": 376,
+      "end": 378
+    },
+    {
+      "id": 54,
+      "start": 379,
+      "end": 389
+    },
+    {
+      "id": 55,
+      "start": 390,
+      "end": 397
+    },
+    {
+      "id": 56,
+      "start": 398,
+      "end": 403
+    },
+    {
+      "id": 57,
+      "start": 403,
+      "end": 421
+    },
+    {
+      "id": 58,
+      "start": 421,
+      "end": 422
+    },
+    {
+      "id": 59,
+      "start": 423,
+      "end": 427
+    },
+    {
+      "id": 60,
+      "start": 428,
+      "end": 431
+    },
+    {
+      "id": 61,
+      "start": 432,
+      "end": 438
+    },
+    {
+      "id": 62,
+      "start": 438,
+      "end": 439
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Süreya",
+      "dep": 3,
+      "rel": "is_a",
+      "dest_text": "family",
+      "dest": 4
+    },
+    {
+      "dep_text": "Cemâl Süreya",
+      "dep": 8,
+      "rel": "is_a",
+      "dest_text": "pen name",
+      "dest": 9
+    }
+  ],
+  "classes": {
+    "family_4": {
+      "labels": [
+        "ORGANISM",
+        "SOCIAL_OBJECT"
+      ],
+      "class": "family"
+    },
+    "pen_name_9": {
+      "labels": [
+        "INFORMATION_ENTITY",
+        "ROLE"
+      ],
+      "class": "pen name"
+    }
+  }
+}

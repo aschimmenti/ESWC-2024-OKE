@@ -1,0 +1,288 @@
+{
+  "text": "Algebra (from Arabic al-jebr meaning \"reunion of broken parts\") is the study of mathematical symbols and the rules for manipulating these symbols.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 7,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 31,
+      "end": 45,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 105,
+      "end": 110,
+      "label": "CLASS"
+    },
+    {
+      "start": 126,
+      "end": 146,
+      "label": "CLASS"
+    },
+    {
+      "start": 167,
+      "end": 172,
+      "label": "CLASS"
+    },
+    {
+      "start_char": 0,
+      "end_char": 7,
+      "label": "INDIVIDUAL",
+      "text": "Algebra"
+    },
+    {
+      "start_char": 31,
+      "end_char": 45,
+      "label": "INDIVIDUAL",
+      "text": "Arabic al-jebr"
+    },
+    {
+      "start_char": 105,
+      "end_char": 110,
+      "label": "CLASS",
+      "text": "study",
+      "subClassOf": [
+        "TOPIC"
+      ]
+    },
+    {
+      "start_char": 126,
+      "end_char": 146,
+      "label": "CLASS",
+      "text": "mathematical symbols",
+      "subClassOf": [
+        "ABSTRACT",
+        "INFORMATION_ENTITY"
+      ]
+    },
+    {
+      "start_char": 167,
+      "end_char": 172,
+      "label": "CLASS",
+      "text": "rules",
+      "subClassOf": [
+        "ABSTRACT",
+        "TOPIC"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 7
+    },
+    {
+      "id": 1,
+      "start": 7,
+      "end": 24
+    },
+    {
+      "id": 2,
+      "start": 25,
+      "end": 26
+    },
+    {
+      "id": 3,
+      "start": 26,
+      "end": 30
+    },
+    {
+      "id": 4,
+      "start": 31,
+      "end": 37
+    },
+    {
+      "id": 5,
+      "start": 38,
+      "end": 40
+    },
+    {
+      "id": 6,
+      "start": 40,
+      "end": 41
+    },
+    {
+      "id": 7,
+      "start": 41,
+      "end": 45
+    },
+    {
+      "id": 8,
+      "start": 45,
+      "end": 62
+    },
+    {
+      "id": 9,
+      "start": 63,
+      "end": 70
+    },
+    {
+      "id": 10,
+      "start": 71,
+      "end": 72
+    },
+    {
+      "id": 11,
+      "start": 72,
+      "end": 79
+    },
+    {
+      "id": 12,
+      "start": 80,
+      "end": 82
+    },
+    {
+      "id": 13,
+      "start": 83,
+      "end": 89
+    },
+    {
+      "id": 14,
+      "start": 90,
+      "end": 95
+    },
+    {
+      "id": 15,
+      "start": 95,
+      "end": 96
+    },
+    {
+      "id": 16,
+      "start": 96,
+      "end": 97
+    },
+    {
+      "id": 17,
+      "start": 98,
+      "end": 100
+    },
+    {
+      "id": 18,
+      "start": 101,
+      "end": 104
+    },
+    {
+      "id": 19,
+      "start": 105,
+      "end": 110
+    },
+    {
+      "id": 20,
+      "start": 110,
+      "end": 122
+    },
+    {
+      "id": 21,
+      "start": 123,
+      "end": 125
+    },
+    {
+      "id": 22,
+      "start": 126,
+      "end": 138
+    },
+    {
+      "id": 23,
+      "start": 139,
+      "end": 146
+    },
+    {
+      "id": 24,
+      "start": 146,
+      "end": 158
+    },
+    {
+      "id": 25,
+      "start": 159,
+      "end": 162
+    },
+    {
+      "id": 26,
+      "start": 163,
+      "end": 166
+    },
+    {
+      "id": 27,
+      "start": 167,
+      "end": 172
+    },
+    {
+      "id": 28,
+      "start": 172,
+      "end": 184
+    },
+    {
+      "id": 29,
+      "start": 185,
+      "end": 188
+    },
+    {
+      "id": 30,
+      "start": 189,
+      "end": 201
+    },
+    {
+      "id": 31,
+      "start": 202,
+      "end": 207
+    },
+    {
+      "id": 32,
+      "start": 208,
+      "end": 215
+    },
+    {
+      "id": 33,
+      "start": 215,
+      "end": 216
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Algebra",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "study",
+      "dest": 2
+    },
+    {
+      "dep_text": "Algebra",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "mathematical symbols",
+      "dest": 3
+    },
+    {
+      "dep_text": "Algebra",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "rules",
+      "dest": 4
+    }
+  ],
+  "classes": {
+    "study_2": {
+      "labels": [
+        "TOPIC"
+      ],
+      "class": "study"
+    },
+    "mathematical_symbols_3": {
+      "labels": [
+        "ABSTRACT",
+        "INFORMATION_ENTITY"
+      ],
+      "class": "mathematical symbols"
+    },
+    "rules_4": {
+      "labels": [
+        "ABSTRACT",
+        "TOPIC"
+      ],
+      "class": "rules"
+    }
+  }
+}

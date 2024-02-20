@@ -1,0 +1,238 @@
+{
+  "text": "Otomedius is a side scrolling shooter by Konami which featured personification of space fighters from various Konami games.",
+  "ents": [
+    {
+      "start": 0,
+      "end": 9,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 32,
+      "end": 54,
+      "label": "CLASS"
+    },
+    {
+      "start": 70,
+      "end": 76,
+      "label": "INDIVIDUAL"
+    },
+    {
+      "start": 109,
+      "end": 124,
+      "label": "CLASS"
+    },
+    {
+      "start": 140,
+      "end": 154,
+      "label": "CLASS"
+    },
+    {
+      "start_char": 0,
+      "end_char": 9,
+      "label": "INDIVIDUAL",
+      "text": "Otomedius"
+    },
+    {
+      "start_char": 32,
+      "end_char": 54,
+      "label": "CLASS",
+      "text": "side scrolling shooter",
+      "subClassOf": [
+        "ACTIVITY",
+        "INFORMATION_ENTITY"
+      ]
+    },
+    {
+      "start_char": 70,
+      "end_char": 76,
+      "label": "INDIVIDUAL",
+      "text": "Konami"
+    },
+    {
+      "start_char": 109,
+      "end_char": 124,
+      "label": "CLASS",
+      "text": "personification",
+      "subClassOf": [
+        "PERSONIFICATION"
+      ]
+    },
+    {
+      "start_char": 140,
+      "end_char": 154,
+      "label": "CLASS",
+      "text": "space fighters",
+      "subClassOf": [
+        "PERSONIFICATION",
+        "PHYSICAL_OBJECT"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 9
+    },
+    {
+      "id": 1,
+      "start": 9,
+      "end": 26
+    },
+    {
+      "id": 2,
+      "start": 27,
+      "end": 29
+    },
+    {
+      "id": 3,
+      "start": 30,
+      "end": 31
+    },
+    {
+      "id": 4,
+      "start": 32,
+      "end": 36
+    },
+    {
+      "id": 5,
+      "start": 37,
+      "end": 46
+    },
+    {
+      "id": 6,
+      "start": 47,
+      "end": 54
+    },
+    {
+      "id": 7,
+      "start": 54,
+      "end": 66
+    },
+    {
+      "id": 8,
+      "start": 67,
+      "end": 69
+    },
+    {
+      "id": 9,
+      "start": 70,
+      "end": 76
+    },
+    {
+      "id": 10,
+      "start": 76,
+      "end": 93
+    },
+    {
+      "id": 11,
+      "start": 94,
+      "end": 99
+    },
+    {
+      "id": 12,
+      "start": 100,
+      "end": 108
+    },
+    {
+      "id": 13,
+      "start": 109,
+      "end": 124
+    },
+    {
+      "id": 14,
+      "start": 124,
+      "end": 136
+    },
+    {
+      "id": 15,
+      "start": 137,
+      "end": 139
+    },
+    {
+      "id": 16,
+      "start": 140,
+      "end": 145
+    },
+    {
+      "id": 17,
+      "start": 146,
+      "end": 154
+    },
+    {
+      "id": 18,
+      "start": 154,
+      "end": 166
+    },
+    {
+      "id": 19,
+      "start": 167,
+      "end": 171
+    },
+    {
+      "id": 20,
+      "start": 172,
+      "end": 179
+    },
+    {
+      "id": 21,
+      "start": 180,
+      "end": 186
+    },
+    {
+      "id": 22,
+      "start": 187,
+      "end": 192
+    },
+    {
+      "id": 23,
+      "start": 192,
+      "end": 193
+    }
+  ],
+  "relations": [
+    {
+      "dep_text": "Otomedius",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "side scrolling shooter",
+      "dest": 1
+    },
+    {
+      "dep_text": "Otomedius",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "personification",
+      "dest": 3
+    },
+    {
+      "dep_text": "Otomedius",
+      "dep": 0,
+      "rel": "is_a",
+      "dest_text": "space fighters",
+      "dest": 4
+    }
+  ],
+  "classes": {
+    "side_scrolling_shooter_1": {
+      "labels": [
+        "ACTIVITY",
+        "INFORMATION_ENTITY"
+      ],
+      "class": "side scrolling shooter"
+    },
+    "personification_3": {
+      "labels": [
+        "PERSONIFICATION"
+      ],
+      "class": "personification"
+    },
+    "space_fighters_4": {
+      "labels": [
+        "PERSONIFICATION",
+        "PHYSICAL_OBJECT"
+      ],
+      "class": "space fighters"
+    }
+  }
+}
