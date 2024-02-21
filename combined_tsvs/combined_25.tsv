@@ -1,0 +1,19 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+El	B-INDIVIDUAL		municipality	B-INDIVIDUAL		municipality
+Rourell	I-INDIVIDUAL		municipality	I-INDIVIDUAL		municipality
+is	O			O		
+a	O			O		
+municipality	B-CLASS	location		B-CLASS	location,organisation	
+in	O			O		
+the	O			O		
+comarca	O			O
+of	O			O		
+Alt	O			O
+Camp	O			O
+,	O			O		
+Tarragona	O			O
+,	O			O		
+Catalonia	O			O
+,	O			O		
+Spain	O			O
+.	O			O		

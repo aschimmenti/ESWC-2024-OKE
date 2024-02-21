@@ -1,0 +1,46 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Round	B-INDIVIDUAL		american-frenchmusicaldramafilm,dramafilm,film,musicaldramafilm	B-INDIVIDUAL		film
+Midnight	I-INDIVIDUAL		american-frenchmusicaldramafilm,dramafilm,film,musicaldramafilm	I-INDIVIDUAL		film
+is	O			O		
+an	O			O		
+American	B-CLASS	informationentity,musicaldramafilm		O		
+-	I-CLASS	informationentity,musicaldramafilm		O		
+French	I-CLASS	informationentity,musicaldramafilm		O		
+musical	I-CLASS	informationentity,musicaldramafilm		O		
+drama	B-CLASS	film,informationentity		O		
+film	I-CLASS	film,informationentity		B-CLASS	informationentity	
+directed	O			O		
+by	O			O		
+Bertrand	O		O		
+Tavernier	O			O	
+and	O			O		
+written	O			O		
+by	O			O		
+Tavernier	O			O		
+and	O			O		
+David	O		O		
+Rayfiel	O			O	
+.	O			O		
+It	O			O		
+stars	O			O		
+Dexter	O		O		
+Gordon	O			O	
+,	O			O		
+François	O		O		
+Cluzet	O			O	
+and	O			O		
+Herbie	O		O		
+Hancock	O			O	
+.	O			O		
+Martin	O		O		
+Scorsese	O			O	
+,	O			O		
+Philippe	O		O		
+Noiret	O			O	
+and	O			O		
+Wayne	O		O		
+Shorter	O			O	
+appear	O			O		
+in	O			O		
+cameos	O			O
+.	O			O		

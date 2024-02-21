@@ -1,0 +1,20 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Dirty	B-INDIVIDUAL		anime,fictionanime,humoroussciencefictionanime,sciencefictionanime	B-INDIVIDUAL		lightnovelseries
+Pair	I-INDIVIDUAL		anime,fictionanime,humoroussciencefictionanime,sciencefictionanime	I-INDIVIDUAL		lightnovelseries
+Flash	I-INDIVIDUAL		anime,fictionanime,humoroussciencefictionanime,sciencefictionanime	I-INDIVIDUAL		lightnovelseries
+is	O			O		
+a	O			O		
+humorous	B-CLASS	informationentity,sciencefictionanime		O		
+science	B-CLASS	fictionanime,informationentity		O		
+fiction	I-CLASS	fictionanime,informationentity		O		
+anime	I-CLASS	fictionanime,informationentity		O		
+based	O			O		
+on	O			O		
+the	O			O		
+light	O			B-CLASS	informationentity,socialobject	
+novel	O			I-CLASS	informationentity,socialobject	
+series	O			I-CLASS	informationentity,socialobject	
+by	O			O		
+Haruka	O			O		
+Takachiho	O			O
+.	O			O		

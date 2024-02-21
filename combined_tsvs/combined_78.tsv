@@ -1,0 +1,20 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Deontic	B-INDIVIDUAL		field	B-INDIVIDUAL		fieldoflogic
+logic	I-INDIVIDUAL		field	I-INDIVIDUAL		fieldoflogic
+is	O			O		
+the	O			O		
+field	B-CLASS	topic		B-CLASS	topic	
+of	O			I-CLASS	topic	
+logic	O			I-CLASS	topic	
+that	O			O		
+is	O			O		
+concerned	O			O		
+with	O			O		
+obligation	O			O
+,	O			O		
+permission	O			O
+,	O			O		
+and	O			O		
+related	O			O		
+concepts	O			O		
+.	O			O		

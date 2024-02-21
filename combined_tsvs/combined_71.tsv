@@ -1,0 +1,27 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Born	O			O		
+on	O			O		
+December	O			O
+,	O			O	
+1629	O			O	
+and	O			O		
+died	O			O		
+on	O			O		
+19	O			O		
+August	O			O	
+1686	O			O	
+,	O			O		
+Jean	B-INDIVIDUAL		catholictheologian,patristicscholar,scholar,theologian	B-INDIVIDUAL		catholictheologian,patristicscholar
+-	I-INDIVIDUAL		catholictheologian,patristicscholar,scholar,theologian	I-INDIVIDUAL		catholictheologian,patristicscholar
+Baptiste	I-INDIVIDUAL		catholictheologian,patristicscholar,scholar,theologian	I-INDIVIDUAL		catholictheologian,patristicscholar
+Cotelier	I-INDIVIDUAL		catholictheologian,patristicscholar,scholar,theologian	I-INDIVIDUAL		catholictheologian,patristicscholar
+or	O			O		
+Cotelerius	O			O	
+was	O			O		
+a	O			O		
+Patristic	B-CLASS	person,scholar		B-CLASS	person,role	
+scholar	I-CLASS	person,scholar		I-CLASS	person,role	
+and	O			O		
+Catholic	B-CLASS	person,theologian		B-CLASS	person,role	
+theologian	B-CLASS	person		I-CLASS	person,role	
+.	O			O		

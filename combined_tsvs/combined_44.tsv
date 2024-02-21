@@ -1,0 +1,81 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Messier	B-INDIVIDUAL		clusterofstars,globularclusterofstars	B-INDIVIDUAL		constellation,globularcluster,stars
+92	I-INDIVIDUAL		clusterofstars,globularclusterofstars	I-INDIVIDUAL		constellation,globularcluster,stars
+(	O			O		
+also	O			O		
+known	O			O		
+as	O			O		
+M92	O			O
+or	O			O		
+NGC	O			O
+6341	O			O
+)	O			O		
+is	O			O		
+a	O			O		
+globular	B-CLASS	clusterofstars,physicalobject		B-CLASS	physicalobject	
+cluster	I-CLASS	clusterofstars,physicalobject		I-CLASS	physicalobject	
+of	I-CLASS	clusterofstars,physicalobject		O		
+stars	I-CLASS	clusterofstars,physicalobject		B-CLASS	organism,physicalobject	
+in	O			O		
+the	O			O		
+northern	O			O		
+constellation	O			O
+of	O			O		
+Hercules	O			O
+.	O			O		
+It	O			O		
+was	O			O		
+discovered	O			O		
+by	O			O		
+Johann	O			O
+Elert	O			O
+Bode	O			O
+in	O			O		
+1777	O			O
+,	O			O		
+then	O			O		
+published	O			O		
+in	O			O		
+the	O			O		
+Jahrbuch	O			O
+during	O			O		
+1779	O			O		
+.	O			O		
+The	O			O		
+cluster	O			O		
+was	O			O		
+independently	O			O		
+rediscovered	O			O		
+by	O			O		
+Charles	O			O		
+Messier	O			O		
+on	O			O		
+March	O			O		
+18	O			O		
+,	O			O		
+1781	O			O
+and	O			O		
+added	O			O		
+as	O			O		
+the	O			O		
+92nd	O			O
+entry	O			O
+in	O			O		
+his	O			O		
+catalogue	O			O
+.	O			O		
+M92	O			O		
+is	O			O		
+at	O			O		
+a	O			O		
+distance	O			O		
+of	O			O		
+about	O			O		
+26,700	O			O
+light	O			O
+-	O			O
+years	O			O
+away	O			O		
+from	O			O		
+Earth	O			O		
+.	O			O		

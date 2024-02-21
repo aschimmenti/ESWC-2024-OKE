@@ -1,0 +1,71 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+The	O			O		
+TT	I-INDIVIDUAL		motorsportracetrack,racetrack,track	B-INDIVIDUAL		motorsportracetrack
+Circuit	I-INDIVIDUAL		motorsportracetrack,racetrack,track	I-INDIVIDUAL		motorsportracetrack
+Assen	I-INDIVIDUAL		motorsportracetrack,racetrack,track	I-INDIVIDUAL		motorsportracetrack
+is	O			O		
+a	O			O		
+motorsport	B-CLASS	physicalobject,racetrack		B-CLASS	activity,location	
+race	I-CLASS	physicalobject,racetrack		I-CLASS	activity,location	
+track	I-CLASS	physicalobject,racetrack		I-CLASS	activity,location	
+built	O			O		
+in	O			O		
+1955	O			O	
+and	O			O		
+located	O			O		
+in	O			O		
+Assen	O			O		
+,	O			O		
+Netherlands	O			O
+.	O			O		
+Host	O			O		
+of	O			O		
+the	O			O		
+Dutch	O			O
+TT	O			O	
+race	O			O	
+,	O			O		
+it	O			O		
+is	O			O		
+popularly	O			O		
+referred	O			O		
+to	O			O		
+as	O			O		
+"	O			O
+The	O			O
+Cathedral	O			O
+"	O			O
+of	O			O		
+motorcycling	O			O
+by	O			O		
+the	O			O		
+fans	O			O
+of	O			O		
+the	O			O		
+sport	O			O		
+.	O			O		
+It	O			O		
+has	O			O		
+a	O			O		
+capacity	O			O
+of	O			O		
+100,000	O			O		
+spectators	O			O
+,	O			O		
+including	O			O		
+60,000	O			O	
+seats	O			O
+.	O			O		
+Since	O			O		
+1992	O			O		
+it	O			O		
+is	O			O		
+also	O			O		
+part	O			O		
+of	O			O		
+the	O			O		
+Superbike	O			O
+World	O			O	
+Championship	O			O	
+calendar	O			O
+.	O			O		

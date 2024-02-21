@@ -1,0 +1,64 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+AmigaOne	B-INDIVIDUAL		computerseries,series	B-INDIVIDUAL		computers
+is	O			O		
+a	O			O		
+series	B-CLASS	collection,series		O		
+of	I-CLASS	collection,series		O		
+computers	I-CLASS	collection,series		B-CLASS	informationentity,physicalobject	
+intended	O			O		
+to	O			O		
+run	O			O		
+AmigaOS	O			O	
+4	O			O	
+developed	O			O		
+by	O			O		
+Hyperion	O			O	
+Entertainment	O			O	
+.	O			O		
+Earlier	O			O		
+models	O			O		
+were	O			O		
+produced	O			O		
+by	O			O		
+Eyetech	O			O	
+,	O			O		
+and	O			O		
+were	O			O		
+based	O			O		
+on	O			O		
+the	O			O		
+Teron	O			O	
+series	O			O	
+of	O			O		
+PowerPC	O			O	
+POP	O			O
+mainboards	O			O
+.	O			O		
+In	O			O		
+September	O			O	
+2009	O			O	
+,	O			O		
+Hyperion	O			O		
+Entertainment	O			O		
+secured	O			O		
+exclusive	O			O
+licence	O			O
+for	O			O		
+AmigaOne	O			O		
+name	O			O		
+and	O			O		
+subsequently	O			O		
+new	O			O		
+AmigaOne	O			O		
+computers	O			O		
+were	O			O		
+released	O			O		
+by	O			O		
+A	O			O	
+-	O			O	
+Eon	O			O	
+Technology	O			O	
+and	O			O		
+Acube	O			O	
+Systems	O			O	
+.	O			O		

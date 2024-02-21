@@ -1,0 +1,15 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Hesse	B-INDIVIDUAL		germanmathematician,mathematician	B-INDIVIDUAL		germanmathematician
+was	O			O		
+born	O			O		
+in	O			O		
+Königsberg	O			O
+,	O			O		
+Prussia	O			O
+,	O			O		
+and	O			O		
+was	O			O		
+a	O			O		
+German	B-CLASS	mathematician,person		B-CLASS	person,role	
+mathematician	I-CLASS	mathematician,person		I-CLASS	person,role	
+.	O			O		

@@ -1,0 +1,30 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+The	O			O		
+name	O			O		
+of	O			O		
+the	O			O		
+breed	O			O	
+means	O			O		
+"	O			O		
+an	O			O		
+estate	O			B-CLASS	organism,role	
+guard	O			I-CLASS	organism,role	
+dog	O			I-CLASS	organism,role	
+,	O			O		
+"	O			O		
+which	O			O		
+is	O			O		
+the	O			O		
+original	O			O		
+use	O			O		
+for	O			O		
+the	O			O		
+breed	O			O		
+.	O			O		
+The	O			O		
+Hovawart	B-INDIVIDUAL		breed,dogbreed,germandogbreed	B-INDIVIDUAL		breed,estateguarddog
+is	O			O		
+German	B-CLASS	dogbreed,organism		O		
+dog	B-CLASS	breed,organism		O		
+breed	I-CLASS	breed,organism		B-CLASS	organism		
+.	O			O		

@@ -1,0 +1,21 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Tiberio	B-INDIVIDUAL		actor,filmactor,italianfilmactor	B-INDIVIDUAL		italianfilmactor
+Murgia	I-INDIVIDUAL		actor,filmactor,italianfilmactor	I-INDIVIDUAL		italianfilmactor
+was	O			O		
+an	O			O		
+Italian	B-CLASS	filmactor,person		B-CLASS	person,role	
+film	I-CLASS	filmactor,person		I-CLASS	person,role	
+actor	I-CLASS	filmactor,person		I-CLASS	person,role	
+.	O			O		
+He	O			O		
+appeared	O			O		
+in	O			O		
+more	O			O		
+than	O			O		
+100	O			O		
+films	O			O		
+between	O			O		
+1958	O			O		
+and	O			O		
+2009	O			O		
+.	O			O		

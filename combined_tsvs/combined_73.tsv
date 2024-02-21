@@ -1,0 +1,44 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Year	O			O		
+183	B-INDIVIDUAL		year	B-INDIVIDUAL		year
+BC	I-INDIVIDUAL		year	I-INDIVIDUAL		year
+was	O			O		
+a	O			O		
+year	B-CLASS	timeinterval		B-CLASS	timeinterval	
+of	O			O		
+the	O			O		
+pre	O			O
+-	O			O
+Julian	O			O
+Roman	O			O
+calendar	O			O
+.	O			O		
+At	O			O		
+the	O			O		
+time	O			O		
+it	O			O		
+was	O			O		
+known	O			O		
+as	O			O		
+the	O			O		
+Year	O			O
+of	O			O
+the	O			O
+Consulship	O			O
+of	O			O
+Marcellus	O			O
+and	O			O
+Labeo	O			O
+(	O			O		
+or	O			O		
+,	O			O		
+less	O			O		
+frequently	O			O		
+,	O			O		
+year	O			O		
+571	O			O		
+Ab	O			O		
+urbe	O			O		
+condita	O			O		
+)	O			O		
+.	O			O		

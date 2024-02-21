@@ -1,0 +1,40 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Music	B-INDIVIDUAL		album	B-INDIVIDUAL		album,soundtrack
+from	I-INDIVIDUAL		album	I-INDIVIDUAL		album,soundtrack
+Macbeth	I-INDIVIDUAL		album	I-INDIVIDUAL		album,soundtrack
+is	O			O		
+a	O			O		
+1972	O			O		
+album	B-CLASS	informationentity		B-CLASS	informationentity,physicalobject	
+by	O			O		
+progressive	O			O	
+-	O			O	
+rock	O			O	
+band	O			O	
+Third	O			O
+Ear	O			O
+Band	O			O
+.	O			O		
+It	O			O		
+consists	O			O		
+of	O			O		
+the	O			O		
+soundtrack	O			B-CLASS	informationentity	
+from	O			O		
+Roman	O			O		
+Polanski	O			O		
+'s	O			O		
+1971	O			O		
+film	O			O	
+Macbeth	O			O		
+,	O			O		
+an	O			O		
+adaptation	O			O		
+of	O			O		
+Shakespeare	O			O		
+'s	O			O		
+The	O			O		
+Tragedy	O			O		
+of	O			O		
+Macbeth	O			O		
+.	O			O		

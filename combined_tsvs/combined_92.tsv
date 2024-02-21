@@ -1,0 +1,70 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Natura	B-INDIVIDUAL		latintag,tag	B-INDIVIDUAL		latintag,nature
+naturans	I-INDIVIDUAL		latintag,tag	I-INDIVIDUAL		latintag,nature
+is	O			O		
+a	O			O		
+Latin	B-CLASS	informationentity,tag		B-CLASS	informationentity	
+tag	I-CLASS	informationentity,tag		I-CLASS	informationentity	
+coined	O			O		
+during	O			O		
+the	O			O		
+Middle	O			O		
+Ages	O			O		
+,	O			O		
+meaning	O			O		
+"	O			O		
+Nature	O			O
+naturing	O			O
+"	O			O		
+,	O			O		
+or	O			O		
+more	O			O		
+loosely	O			O		
+,	O			O		
+"	O			O		
+nature	O			B-CLASS	abstract,topic	
+doing	O			O		
+what	O			O		
+nature	O			O		
+does	O			O		
+"	O			O		
+.	O			O		
+The	O			O		
+Latin	O			O		
+,	O			O		
+naturans	O			O		
+,	O			O		
+is	O			O		
+the	O			O		
+present	O			O		
+active	O			O		
+participle	O			O		
+of	O			O		
+naturo	O			O
+,	O			O		
+indicated	O			O		
+by	O			O		
+the	O			O		
+suffix	O			O
+"	O			O		
+-ans	O			O		
+"	O			O		
+which	O			O		
+is	O			O		
+akin	O			O		
+to	O			O		
+the	O			O		
+English	O			O
+suffix	O			O
+"	O			O		
+-ing	O			O		
+.	O			O		
+"	O			O		
+naturata	O			O
+,	O			O		
+is	O			O		
+the	O			O		
+perfect	O			O
+passive	O			O
+participle	O			O
+.	O			O		

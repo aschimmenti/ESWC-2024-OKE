@@ -1,0 +1,26 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Strombolicchio	B-INDIVIDUAL		seastack,stack	B-INDIVIDUAL		seastack,volcanicorigin
+is	O			O		
+a	O			O		
+sea	B-CLASS	physicalobject,stack		B-CLASS	location,physicalobject	
+stack	B-CLASS	physicalobject		I-CLASS	location,physicalobject	
+of	O			O		
+volcanic	O			O	
+origin	O			O
+2	O			O
+km	O			O
+to	O			O		
+the	O			O		
+northeast	O			O
+of	O			O		
+the	O			O		
+island	O			O
+of	O			O		
+Stromboli	O			O		
+in	O			O		
+the	O			O		
+Aeolian	O			O
+Islands	O			O
+of	O			O		
+Italy	O			O
+.	O			O		

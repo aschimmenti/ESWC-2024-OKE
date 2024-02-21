@@ -1,0 +1,47 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+In	O			O		
+Ancient	O			O		
+Rome	O			O
+,	O			O		
+a	O			O		
+province	B-INDIVIDUAL		territorialunit,unit	B-CLASS	location	territorialunit
+(	O			O		
+Latin	O			O
+,	O			O		
+provincia	O			B-INDIVIDUAL		
+,	O			O		
+pl	O			O
+.	O			O
+provinciae	O			O
+)	O			O		
+was	O			O		
+a	O			O		
+territorial	B-CLASS	location,unit		B-CLASS	location	
+unit	B-CLASS	location		I-CLASS	location	
+of	O			O		
+the	O			O		
+empire	O			O
+'s	O			O		
+territorial	O			O		
+possessions	O			O		
+outside	O			O		
+of	O			O		
+Italy	O			O
+.	O			O		
+The	O			O		
+word	O			O		
+province	O			O		
+in	O			O		
+modern	O			O		
+English	O			O
+has	O			O		
+its	O			O		
+origins	O			O		
+in	O			O		
+the	O			O		
+term	O			O		
+used	O			O		
+by	O			O		
+the	O			O		
+Romans	O			O
+.	O			O		

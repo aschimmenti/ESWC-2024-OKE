@@ -1,0 +1,15 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Alkalinity	B-INDIVIDUAL		capacity,quantitativecapacity	B-INDIVIDUAL		aqueoussolution,quantitativecapacity
+is	O			O		
+the	O			O		
+quantitative	B-CLASS	capacity,characteristic		B-CLASS	abstract	
+capacity	I-CLASS	capacity,characteristic		I-CLASS	abstract	
+of	O			O		
+an	O			O		
+aqueous	O			B-CLASS	informationentity,physicalobject	
+solution	O			I-CLASS	informationentity,physicalobject	
+to	O			O		
+neutralize	O			O		
+an	O			O		
+acid	O			I
+.	O			O		

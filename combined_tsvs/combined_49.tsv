@@ -1,0 +1,103 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+The	O			O		
+Treaty	B-INDIVIDUAL		agreement,peaceagreement	B-INDIVIDUAL		peaceagreement,peaceoflodi
+of	I-INDIVIDUAL		agreement,peaceagreement	I-INDIVIDUAL		peaceagreement,peaceoflodi
+Lodi	I-INDIVIDUAL		agreement,peaceagreement	I-INDIVIDUAL		peaceagreement,peaceoflodi
+,	O			O		
+also	O			O		
+known	O			O		
+as	O			O		
+the	O			O		
+Peace	O			B-CLASS	event,informationentity	
+of	O			I-CLASS	event,informationentity	
+Lodi	O			I-CLASS	event,informationentity	
+was	O			O		
+a	O			O		
+peace	B-CLASS	agreement,description		B-CLASS	event,socialobject	
+agreement	B-CLASS	description		I-CLASS	event,socialobject	
+between	O			O		
+Milan	O			O		
+,	O			O		
+Naples	O			O
+,	O			O		
+and	O			O		
+Florence	O			O
+signed	O			O		
+on	O			O		
+April	O			O
+9	O			O
+,	O			O
+1454	O			O
+at	O			O		
+Lodi	O			O		
+in	O			O		
+Lombardy	O			O
+,	O			O		
+on	O			O		
+the	O			O		
+banks	O			O		
+of	O			O		
+the	O			O		
+Adda	O			O
+.	O			O		
+It	O			O		
+put	O			O		
+an	O			O		
+end	O			O		
+to	O			O		
+the	O			O		
+long	O			O		
+struggles	O			O		
+between	O			O		
+expansive	O			O		
+Milan	O			O		
+,	O			O		
+under	O			O		
+Filippo	O			O
+Maria	O			O
+Visconti	O			O
+,	O			O		
+and	O			O		
+Venice	O			O
+in	O			O		
+the	O			O		
+terraferma	O			O
+,	O			O		
+which	O			O		
+had	O			O		
+produced	O			O		
+a	O			O		
+single	O			O		
+decisive	O			O		
+Venetian	O			O
+victory	O			O		
+,	O			O		
+at	O			O		
+the	O			O		
+battle	O			O		
+of	O			O		
+Maclodio	O			O		
+in	O			O		
+1427	O			O		
+,	O			O		
+in	O			O		
+which	O			O		
+the	O			O		
+Venetian	O			O		
+ally	O			O		
+was	O			O		
+Florence	O			O		
+,	O			O		
+but	O			O		
+had	O			O		
+resulted	O			O		
+in	O			O		
+no	O			O		
+lasting	O			O		
+peace	O			O		
+:	O			O		
+see	O			O		
+Wars	O			O
+in	O			O
+Lombardy	O			O
+.	O			O		

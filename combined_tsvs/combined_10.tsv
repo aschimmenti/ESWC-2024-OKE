@@ -1,0 +1,23 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+The	O			O		
+Teatro	B-INDIVIDUAL		company,house,operacompany,operahouse	B-INDIVIDUAL		operacompany,operahouse
+Massimo	I-INDIVIDUAL		company,house,operacompany,operahouse	I-INDIVIDUAL		operacompany,operahouse
+Vittorio	I-INDIVIDUAL		company,house,operacompany,operahouse	I-INDIVIDUAL		operacompany,operahouse
+Emanuele	I-INDIVIDUAL		company,house,operacompany,operahouse	I-INDIVIDUAL		operacompany,operahouse
+is	O			O		
+an	O			O		
+opera	B-CLASS	house,physicalobject		B-CLASS	location,organisation	
+house	I-CLASS	house,physicalobject		I-CLASS	location,organisation	
+and	O			O		
+opera	B-CLASS	company,organization		B-CLASS	organisation	
+company	I-CLASS	company,organization		I-CLASS	organisation	
+located	O			O		
+on	O			O		
+the	O			O		
+Piazza	O			O
+Verdi	O			O		
+in	O			O		
+Palermo	O			O
+,	O			O		
+Sicily	O			O
+.	O			O		

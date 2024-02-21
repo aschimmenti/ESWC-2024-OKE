@@ -1,0 +1,55 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Glen	B-INDIVIDUAL		composer,percussionist,vocalist	B-INDIVIDUAL		composer,framedrums,percussionist,vocalist
+Velez	I-INDIVIDUAL		composer,percussionist,vocalist	I-INDIVIDUAL		composer,framedrums,percussionist,vocalist
+(	O			O		
+born	O			O		
+1949	O			O		
+)	O			O		
+is	O			O		
+a	O			O		
+percussionist	B-CLASS	person		B-CLASS	person,role	
+,	O			O		
+vocalist	B-CLASS	person		B-CLASS	person,role	
+,	O			O		
+and	O			O		
+composer	B-CLASS	person		B-CLASS	person,role	
+,	O			O		
+specializing	O			O		
+in	O			O		
+frame	O			B-CLASS	physicalobject,role	
+drums	O			I-CLASS	physicalobject,role	
+from	O			O		
+around	O			O		
+the	O			O		
+world	O			O		
+.	O			O		
+He	O			O		
+is	O			O		
+largely	O			O		
+responsible	O			O		
+for	O			O		
+the	O			O		
+increasing	O			O		
+popularity	O			O		
+of	O			O		
+frame	O			O		
+drums	O			O		
+in	O			O		
+the	O			O		
+United	O			O
+States	O			O
+and	O			O		
+around	O			O		
+the	O			O		
+world	O			O		
+.	O			O		
+Velez	O			O		
+is	O			O		
+married	O			O		
+to	O			O		
+Loire	O			O		
+(	O			O
+Lori	O			O
+Cotler	O			O
+)	O			O
+.	O			O		

@@ -1,0 +1,51 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+The	O			O		
+'	O			O		
+Pokémon	B-INDIVIDUAL		console,gameconsole,handheldgameconsole	B-INDIVIDUAL		gamesystem,handheldgameconsole,interchangeablecartridges,pokémonmediafranchise
+Mini	I-INDIVIDUAL		console,gameconsole,handheldgameconsole	I-INDIVIDUAL		gamesystem,handheldgameconsole,interchangeablecartridges,pokémonmediafranchise
+'	O			O		
+is	O			O		
+a	B-CLASS	gameconsole,physicalobject		O		
+handheld	I-CLASS	gameconsole,physicalobject		B-CLASS	informationentity,physicalobject	
+game	I-CLASS	gameconsole,physicalobject		I-CLASS	informationentity,physicalobject	
+console	I-CLASS	gameconsole,physicalobject		I-CLASS	informationentity,physicalobject	
+designed	O			O		
+and	O			O		
+manufactured	O			O		
+by	O			O		
+Nintendo	O			B-INDIVIDUAL		
+and	O			O		
+themed	O			O		
+around	O			O		
+the	O			O		
+Pokémon	O			B-CLASS	informationentity,organisation	
+media	O			I-CLASS	informationentity,organisation	
+franchise	O			I-CLASS	informationentity,organisation	
+.	O			O		
+It	O			O		
+is	O			O		
+the	O			O		
+smallest	O			O		
+game	O			B-CLASS	informationentity,physicalobject	
+system	O			I-CLASS	informationentity,physicalobject	
+with	O			O		
+interchangeable	O			B-CLASS	physicalobject	
+cartridges	O			I-CLASS	physicalobject	
+ever	O			O		
+produced	O			O		
+by	O			O		
+Nintendo	O			O		
+,	O			O		
+weighing	O			O		
+just	O			O		
+under	O			O		
+two	O			O
+and	O			O
+a	O			O
+half	O			O
+ounces	O			O
+(	O			O		
+70	O			O
+grams	O			O
+)	O			O		
+.	O			O		

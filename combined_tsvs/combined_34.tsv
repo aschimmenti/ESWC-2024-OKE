@@ -1,0 +1,52 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+A	O			O		
+professor	B-INDIVIDUAL		scholarlyteacher,teacher	B-CLASS	role	teacher
+is	O			O		
+a	O			O		
+scholarly	B-CLASS	role,teacher		O		
+teacher	B-CLASS	role,teacher		B-CLASS	person,role	
+in	O			O		
+post	O			O
+-	O			O
+secondary	O			O
+education	O			O
+;	O			O		
+the	O			O		
+precise	O			O		
+meaning	O			O		
+of	O			O		
+the	O			O		
+term	O			O		
+varies	O			O		
+by	O			O		
+country	O			O		
+.	O			O		
+Literally	O			O		
+,	O			O		
+professor	O			O		
+derives	O			O		
+from	O			O		
+Latin	O			O
+as	O			O		
+a	O			O		
+"	O			O		
+person	O			O
+who	O			O		
+professes	O			O		
+"	O			O		
+being	O			O		
+usually	O			O		
+an	O			O		
+expert	O			O
+in	O			O		
+arts	O			O
+or	O			O		
+sciences	O			O	
+,	O			O		
+a	O			O		
+teacher	O			O		
+of	O			O		
+the	O			O		
+highest	O			O		
+rank	O			O	
+.	O			O		

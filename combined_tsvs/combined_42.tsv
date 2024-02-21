@@ -1,0 +1,31 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Bhima	B-INDIVIDUAL		character	B-INDIVIDUAL		bhimasena,vrikodara,wolf'sbelly
+,	O			O		
+also	O			O		
+called	O			O		
+Bhimasena	O			B-CLASS	person,personification	
+and	O			O		
+Vrikodara	O			B-CLASS	person,personification	
+(	O			O		
+Vṛkōdara	O			O		
+,	O			O		
+lit	O			O		
+.	O			O		
+'	O			O		
+one	O			O		
+with	O			O		
+a	O			O		
+wolf	O			B-CLASS	personification	
+'s	O			I-CLASS	personification	
+belly	O			I-CLASS	personification	
+'	O			O		
+)	O			O		
+,	O			O		
+is	O			O		
+a	O			O		
+character	B-CLASS	personification		O		
+of	O			O		
+the	O			O		
+Hindu	O			O		
+epic	O			O		
+Mahabharata	O			O		

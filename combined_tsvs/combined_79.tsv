@@ -1,0 +1,53 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Of	O			O		
+Zaza	O			O
+and	O			O		
+Kurdish	O			O
+origin	O			O		
+,	O			O		
+after	O			O		
+the	O			O		
+1938	O			O
+Dersim	O			O
+Rebellion	O			O
+,	O			O		
+Süreya	O			O
+and	O			O		
+his	O			O		
+family	O			O
+were	O			O		
+displaced	O			O		
+to	O			O		
+Bilecik	O			O
+,	O			O		
+a	O			O		
+city	O			O		
+in	O			O		
+the	O			O		
+Marmara	O			O
+Region	O			O
+of	O			O		
+Turkey	O			O
+.	O			O		
+This	O			O		
+had	O			O		
+a	O			O		
+significant	O			O		
+effect	O			O		
+on	O			O		
+his	O			O		
+poems	O			O		
+Cemâl	B-INDIVIDUAL		poet,writer	B-INDIVIDUAL		penname
+Süreya	I-INDIVIDUAL		poet,writer	I-INDIVIDUAL		penname
+,	O			O		
+pen	O			B-CLASS	informationentity,role	
+name	O			I-CLASS	informationentity,role	
+of	O			O		
+Cemâlettin	O			B-INDIVIDUAL		
+Süreyya	O			I-INDIVIDUAL		
+Seber	O			I-INDIVIDUAL		
+,	O			O		
+poet	B-CLASS	person		O		
+and	O			O		
+writer	B-CLASS	person		O		
+.	O			O		

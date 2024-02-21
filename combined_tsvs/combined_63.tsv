@@ -1,0 +1,29 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Tomaso	B-INDIVIDUAL		italianpainter,painter	B-INDIVIDUAL		italianpainter
+Barisini	I-INDIVIDUAL		italianpainter,painter	I-INDIVIDUAL		italianpainter
+,	O			O		
+better	O			O		
+known	O			O		
+as	O			O		
+Tommaso	O			O	
+da	O			O
+Modena	O			O
+and	O			O		
+sometimes	O			O		
+called	O			O		
+Tomaso	O			O
+Baffini	O			O
+(	O			O		
+1326	O			O		
+–	O			O		
+1379	O			O		
+)	O			O		
+was	O			O		
+an	O			O		
+Italian	B-CLASS	painter,person		B-CLASS	person,role	
+painter	B-CLASS	person		I-CLASS	person,role	
+of	O			O		
+the	O			O		
+mid-14th	O			O
+century	O			O
+.	O			O		

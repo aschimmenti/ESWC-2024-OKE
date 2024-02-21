@@ -1,0 +1,57 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Rolling	B-INDIVIDUAL		motion	B-INDIVIDUAL		motion,object,rotation,surface,translation
+is	O			O		
+a	O			O		
+type	O			O		
+of	O			O		
+motion	B-CLASS	situation		B-CLASS	activity,physicalobject	
+that	O			O		
+combines	O			O		
+rotation	O			B-CLASS	abstract,activity	
+(	O			O		
+commonly	O			O		
+,	O			O		
+of	O			O		
+an	O			O		
+axially	O			O		
+symmetric	O			O		
+object	O			B-CLASS	physicalobject	
+)	O			O		
+and	O			O		
+translation	O			B-CLASS	informationentity	
+of	O			O		
+that	O			O		
+object	O			O		
+with	O			O		
+respect	O			O		
+to	O			O		
+a	O			O		
+surface	O			B-CLASS	physicalobject	
+(	O			O		
+either	O			O		
+one	O			O		
+or	O			O		
+the	O			O		
+other	O			O		
+moves	O			O		
+)	O			O		
+,	O			O		
+such	O			O		
+that	O			O		
+,	O			O		
+if	O			O		
+ideal	O			O		
+conditions	O			O		
+exist	O			O		
+,	O			O		
+the	O			O		
+two	O			O		
+are	O			O		
+in	O			O		
+contact	O			O		
+with	O			O		
+each	O			O		
+other	O			O		
+without	O			O		
+sliding	O			O		
+.	O			O		

@@ -1,0 +1,12 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Hatshepsut	B-INDIVIDUAL		pharaoh	B-INDIVIDUAL		pharaoh
+was	O			O		
+a	O			O		
+pharaoh	B-CLASS	person		B-CLASS	person,role	
+of	O			O		
+the	O			O		
+Eighteenth	O			O
+dynasty	O			O
+of	O			O		
+Egypt	O			O
+.	O			O		

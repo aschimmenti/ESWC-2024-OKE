@@ -1,0 +1,58 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Popeye	B-INDIVIDUAL		cartoonfictionalcharacter,character,fictionalcharacter	B-INDIVIDUAL		cartoonfictionalcharacter
+the	O			I-INDIVIDUAL		cartoonfictionalcharacter
+Sailor	O			I-INDIVIDUAL		cartoonfictionalcharacter
+Man	O			I-INDIVIDUAL		cartoonfictionalcharacter
+is	O			O		
+a	O			O		
+cartoon	B-CLASS	fictionalcharacter,personification		B-CLASS	informationentity,personification	
+fictional	I-CLASS	fictionalcharacter,personification		I-CLASS	informationentity,personification	
+character	B-CLASS	personification		I-CLASS	informationentity,personification	
+,	O			O		
+created	O			O		
+by	O			O		
+Elzie	O			O		
+Crisler	O			O	
+Segar	O			O
+,	O			O		
+who	O			O		
+has	O			O		
+appeared	O			O		
+in	O			O		
+comic	O			O
+strips	O			O
+and	O			O		
+theatrical	O			O
+and	O			O
+television	O			O
+animated	O			O
+cartoons	O			O
+.	O			O		
+He	O			O		
+first	O			O		
+appeared	O			O		
+in	O			O		
+the	O			O		
+daily	O			O		
+King	O			O		
+Features	O			O
+comic	O			O		
+strip	O			O		
+Thimble	O			O
+Theatre	O			O
+on	O			O		
+January	O			O
+17	O			O
+,	O			O
+1929	O			O
+;	O			O		
+Popeye	O			O		
+became	O			O		
+the	O			O		
+strip	O			O		
+'s	O			O		
+title	O			O		
+in	O			O		
+later	O			O		
+years	O			O		
+.	O			O		

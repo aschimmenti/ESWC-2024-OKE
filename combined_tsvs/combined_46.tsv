@@ -1,0 +1,26 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Richard	B-INDIVIDUAL		professor	B-INDIVIDUAL		professorofphysics
+Threlkeld	I-INDIVIDUAL		professor	I-INDIVIDUAL		professorofphysics
+Cox	I-INDIVIDUAL		professor	I-INDIVIDUAL		professorofphysics
+was	O			O		
+a	O			O		
+professor	B-CLASS	person		B-CLASS	person,role	
+of	O			I-CLASS	person,role	
+physics	O			I-CLASS	person,role	
+at	O			O		
+Johns	O			O		
+Hopkins	O			O
+University	O			O
+,	O			O		
+known	O			O		
+for	O			O		
+Cox	O			O
+'s	O			O
+theorem	O			O
+relating	O			O		
+to	O			O		
+the	O			O		
+foundations	O			O
+of	O			O
+probability	O			O
+.	O			O		

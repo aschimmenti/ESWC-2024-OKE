@@ -1,0 +1,58 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+In	O			O		
+meteorology	O			O	
+,	O			O		
+virga	B-INDIVIDUAL		observableprecipitationshaft,precipitationshaft,shaft	B-INDIVIDUAL		precipitationshaft
+is	O			O		
+an	O			O		
+observable	B-CLASS	event,precipitationshaft		O		
+precipitation	B-CLASS	event,shaft		B-CLASS	physicalobject	
+shaft	B-CLASS	event		I-CLASS	physicalobject	
+that	O			O		
+falls	O			O		
+from	O			O		
+a	O			O		
+cloud	O			O		
+but	O			O		
+evaporates	O			O		
+or	O			O		
+sublimes	O			O		
+before	O			O		
+reaching	O			O		
+the	O			O		
+ground	O			O		
+.	O			O		
+At	O			O		
+high	O			O		
+altitudes	O			O		
+the	O			O		
+precipitation	O			O		
+falls	O			O		
+mainly	O			O		
+as	O			O		
+ice	O			O
+crystals	O			O
+before	O			O		
+melting	O			O		
+and	O			O		
+finally	O			O		
+evaporating	O			O		
+;	O			O		
+this	O			O		
+is	O			O		
+often	O			O		
+due	O			O		
+to	O			O		
+compressional	O			O		
+heating	O			O		
+,	O			O		
+because	O			O		
+the	O			O		
+air	O			O
+pressure	O			O
+increases	O			O		
+closer	O			O		
+to	O			O		
+the	O			O		
+ground	O			O		
+.	O			O		

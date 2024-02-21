@@ -1,0 +1,21 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Caatinga	B-INDIVIDUAL		typeofdesertvegetation	B-INDIVIDUAL		desertvegetation,ecoregion
+is	O			O		
+a	O			O		
+type	B-CLASS	description		O		
+of	I-CLASS	description		O		
+desert	I-CLASS	description		B-CLASS	organism	
+vegetation	I-CLASS	description		I-CLASS	organism	
+,	O			O		
+and	O			O		
+an	O			O		
+ecoregion	O			B-CLASS	location,organism	
+characterized	O			O		
+by	O			O		
+this	O			O		
+vegetation	O			O		
+in	O			O		
+interior	O			O		
+northeastern	O			O
+Brazil	O			O
+.	O			O		

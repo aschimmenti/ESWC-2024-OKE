@@ -1,0 +1,35 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Mickey	B-INDIVIDUAL		anthropomorphiccartooncharacter,cartooncharacter,character	B-INDIVIDUAL		cartooncharacter,officialmascot
+Mouse	I-INDIVIDUAL		anthropomorphiccartooncharacter,cartooncharacter,character	I-INDIVIDUAL		cartooncharacter,officialmascot
+is	O			O		
+an	O			O		
+anthropomorphic	B-CLASS	cartooncharacter,personification		O		
+cartoon	B-CLASS	character,personification		B-CLASS	personification,role	
+character	I-CLASS	character,personification		I-CLASS	personification,role	
+and	O			O		
+the	O			O		
+official	O			B-CLASS	personification,role	
+mascot	O			I-CLASS	personification,role	
+of	O			O		
+The	O			O
+Walt	O			O
+Disney	O			O
+Company	O			O
+.	O			O		
+He	O			O		
+was	O			O		
+created	O			O		
+by	O			O		
+Walt	O			O		
+Disney	O			O		
+and	O			O		
+Ub	O			O
+Iwerks	O			O
+at	O			O		
+the	O			O		
+Walt	O			O
+Disney	O			O
+Studios	O			O
+in	O			O		
+1928	O			O
+.	O			O		

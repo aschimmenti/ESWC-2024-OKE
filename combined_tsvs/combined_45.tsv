@@ -1,0 +1,38 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Science	B-INDIVIDUAL		fictiongenre,genre	B-INDIVIDUAL		fictiongenre
+fiction	I-INDIVIDUAL		fictiongenre,genre	I-INDIVIDUAL		fictiongenre
+is	O			O		
+a	O			O		
+fiction	B-CLASS	collection,genre		B-CLASS	informationentity,topic	
+genre	B-CLASS	collection		I-CLASS	informationentity,topic	
+dealing	O			O		
+with	O			O		
+imaginative	O			P
+content	O			O
+such	O			O		
+as	O			O		
+futuristic	O			O
+settings	O			O	
+,	O			O		
+futuristic	O			O	
+science	O			O	
+and	O			O	
+technology	O			O	
+,	O			O		
+space	O			O	
+travel	O			O
+,	O			O		
+time	O			O	
+travel	O			O
+,	O			O		
+faster	O			O	
+than	O			O	
+light	O			O	
+travel	O			O	
+,	O			O		
+parallel	O			O	
+universes	O			O	
+and	O			O		
+extraterrestrial	O			O
+life	O			O
+.	O			O		

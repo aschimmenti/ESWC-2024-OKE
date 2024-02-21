@@ -1,0 +1,58 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Harun	B-INDIVIDUAL		wali	B-INDIVIDUAL		wali
+of	I-INDIVIDUAL		wali	I-INDIVIDUAL		wali
+Barcelona	I-INDIVIDUAL		wali	I-INDIVIDUAL		wali
+was	O			O		
+the	O			O		
+last	O			O		
+Wali	B-CLASS	person		B-CLASS	person,role	
+of	O			O		
+Barcelona	O			O		
+,	O			O		
+ruling	O			O		
+from	O			O		
+800	O			O		
+to	O			O		
+801	O			O		
+.	O			O		
+Harun	O			O		
+succeeded	O			O		
+as	O			O		
+Wali	O			O		
+when	O			O		
+his	O			O		
+predecessor	O			O		
+,	O			O		
+Sa'dun	O			O	
+al	O			O	
+Ruayni	O			O
+was	O			O		
+captured	O			O		
+by	O			O		
+besieging	O			O		
+Frank	O			O
+Forces	O			O
+while	O			O		
+trying	O			O		
+reach	O			O		
+Córdoba	O			O
+to	O			O		
+raise	O			O		
+help	O			O		
+.	O			O		
+Harun	O			O		
+was	O			O		
+chosen	O			O		
+as	O			O		
+Wali	O			O		
+by	O			O		
+both	O			O		
+the	O			O		
+Goths	O			O
+and	O			O		
+Muslim	O			O
+population	O			O
+in	O			O		
+the	O			O		
+City	O			O		
+.	O			O		

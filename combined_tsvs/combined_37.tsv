@@ -1,0 +1,39 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Munkebo	B-INDIVIDUAL		town	B-INDIVIDUAL		town
+is	O			O		
+a	O			O		
+town	B-CLASS	location		B-CLASS	location	
+in	O			O		
+central	O			O		
+Denmark	O			O		
+,	O			O		
+located	O			O		
+in	O			O		
+Kerteminde	O			O
+municipality	O			O
+,	O			O		
+Region	O			O
+of	O			O
+Southern	O			O
+Denmark	O			O
+on	O			O		
+the	O			O		
+island	O			O
+of	O			O
+Funen	O			O
+.	O			O		
+It	O			O		
+was	O			O		
+also	O			O		
+the	O			O		
+site	O			O		
+of	O			O		
+the	O			O		
+municipal	O			O
+council	O			O
+of	O			O		
+the	O			O		
+abolished	O			O		
+Munkebo	O			O		
+municipality	O			O		
+.	O			O		

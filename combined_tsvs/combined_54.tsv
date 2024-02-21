@@ -1,0 +1,20 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Zino	O			B-INDIVIDUAL		french,virtuosoviolinist
+Francescatti	O			I-INDIVIDUAL		french,virtuosoviolinist
+was	O			O		
+born	O			O		
+in	O			O		
+Marseilles	O			O		
+,	O			O		
+to	O			O		
+a	O			O		
+musical	O			O	
+family	O			O	
+.	O			O		
+He	B-INDIVIDUAL		frenchvirtuosoviolinist,violinist,virtuosoviolinist	O		
+was	O			O		
+a	O			O		
+French	B-CLASS	person,virtuosoviolinist		B-CLASS	person,role	
+virtuoso	I-CLASS	person,virtuosoviolinist		B-CLASS	person,role	
+violinist	I-CLASS	person,virtuosoviolinist		I-CLASS	person,role	
+.	O			O		

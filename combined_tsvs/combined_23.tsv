@@ -1,0 +1,52 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Nothing	B-INDIVIDUAL		comedy-dramafilm,film	B-INDIVIDUAL		comedy-dramafilm
+in	I-INDIVIDUAL		comedy-dramafilm,film	I-INDIVIDUAL		comedy-dramafilm
+Common	I-INDIVIDUAL		comedy-dramafilm,film	I-INDIVIDUAL		comedy-dramafilm
+is	O			O		
+a	O			O		
+1986	O			B-INDIVIDUAL		
+comedy	B-CLASS	film,informationentity		B-CLASS	informationentity	
+-	I-CLASS	film,informationentity		I-CLASS	informationentity	
+drama	I-CLASS	film,informationentity		I-CLASS	informationentity	
+film	B-CLASS	informationentity		I-CLASS	informationentity	
+,	O			O		
+directed	O			O		
+by	O			O		
+Garry	O			O		
+Marshall	O			O		
+.	O			O		
+It	O			O		
+stars	O			O		
+Tom	O			O
+Hanks	O			O
+and	O			O		
+Jackie	O			O
+Gleason	O			O
+in	O			O		
+what	O			O		
+would	O			O		
+prove	O			O		
+to	O			O		
+be	O			O		
+Gleason	O			O	
+'s	O			O
+final	O			O	
+film	O			O	
+role	O			O
+-	O			O		
+he	O			O		
+was	O			O		
+suffering	O			O		
+from	O			O		
+colon	O			O		
+cancer	O			O		
+,	O			O		
+liver	O			O		
+cancer	O			O		
+,	O			O		
+and	O			O		
+thrombosed	O			O		
+hemorrhoids	O			O		
+during	O			O		
+production	O			O		
+.	O			O		

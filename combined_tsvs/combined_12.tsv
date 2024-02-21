@@ -1,0 +1,60 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+n	O			O		
+monotheism	O			B-CLASS	abstract,topic	
+and	O			O		
+henotheism	O			B-CLASS	topic	
+,	O			O		
+God	B-INDIVIDUAL		being,supremebeing	B-INDIVIDUAL		henotheism,monotheism,supremebeing
+is	O			O		
+conceived	O			O		
+as	O			O		
+the	O			O		
+Supreme	B-CLASS	being,personification		B-CLASS	abstract,personification	
+Being	I-CLASS	being,personification		I-CLASS	abstract,personification	
+.	O			O		
+The	O			O		
+concept	O			O		
+of	O			O		
+God	O			O		
+as	O			O		
+described	O			O		
+by	O			O		
+theologians	O			O
+commonly	O			O		
+includes	O			O		
+the	O			O		
+attributes	O			O
+of	O			O		
+omniscience	O			O
+(	O			O		
+infinite	O			O		
+knowledge	O			O		
+)	O			O		
+,	O			O		
+omnipotence	O			O
+(	O			O		
+unlimited	O			O		
+power	O			O		
+)	O			O		
+,	O			O		
+omnipresence	O			O
+(	O			O		
+present	O			O		
+everywhere	O			O		
+)	O			O		
+,	O			O		
+omnibenevolence	O			O
+(	O			O		
+perfect	O			O		
+goodness	O			O		
+)	O			O		
+,	O			O		
+divine	O			O
+simplicity	O			O
+,	O			O		
+and	O			O		
+eternal	O			O
+and	O			O
+necessary	O			O
+existence	O			O
+.	O			O		

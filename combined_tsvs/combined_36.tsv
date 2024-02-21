@@ -1,0 +1,58 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+The	O			O		
+Basilica	B-INDIVIDUAL		augustinianchurch,church	B-INDIVIDUAL		augustinianchurch
+of	I-INDIVIDUAL		augustinianchurch,church	I-INDIVIDUAL		augustinianchurch
+Santa	I-INDIVIDUAL		augustinianchurch,church	I-INDIVIDUAL		augustinianchurch
+Maria	I-INDIVIDUAL		augustinianchurch,church	I-INDIVIDUAL		augustinianchurch
+del	I-INDIVIDUAL		augustinianchurch,church	I-INDIVIDUAL		augustinianchurch
+Popolo	I-INDIVIDUAL		augustinianchurch,church	I-INDIVIDUAL		augustinianchurch
+is	O			O		
+an	O			O		
+Augustinian	B-CLASS	church,physicalobject		B-CLASS	location,organisation	
+church	I-CLASS	church,physicalobject		I-CLASS	location,organisation	
+in	O			O		
+Rome	O			O	
+,	O			O		
+Italy	O			O
+.	O			O		
+It	O			O		
+stands	O			O		
+on	O			O		
+the	O			O		
+north	O			O		
+side	O			O		
+of	O			O		
+Piazza	O			O		
+del	O			O
+Popolo	O			O
+,	O			O		
+one	O			O		
+of	O			O		
+the	O			O		
+most	O			O		
+famous	O			O		
+squares	O			O		
+in	O			O		
+the	O			O		
+city	O			O		
+.	O			O		
+The	O			O		
+church	O			O		
+is	O			O		
+hemmed	O			O		
+in	O			O		
+between	O			O		
+Porta	O			O	
+del	O			O
+Popolo	O			O
+(	O			O		
+the	O			O		
+ancient	O			O		
+Porta	O			O
+Flaminia	O			O
+)	O			O		
+and	O			O		
+the	O			O		
+Pincio	O			O
+hill	O			O
+.	O			O		

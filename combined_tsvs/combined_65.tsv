@@ -1,0 +1,19 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Julien	O			B-INDIVIDUAL		artist
+Ranouil	O			I-INDIVIDUAL		artist
+,	O			O		
+known	O			O		
+by	O			O		
+his	O			O		
+stage	O			O		
+name	O			O		
+Pakito	B-INDIVIDUAL		artist,dancemusicartist,electronicdancemusicartist,frenchelectronicdancemusicartist,musicartist	B-INDIVIDUAL		
+,	O			O		
+is	O			O		
+a	O			O		
+French	B-CLASS	electronicdancemusicartist,person		O
+electronic	I-CLASS	electronicdancemusicartist,person		O		
+dance	B-CLASS	musicartist,person		O		
+music	I-CLASS	musicartist,person		O		
+artist	I-CLASS	musicartist,person		B-CLASS	person,role	
+.	O			O		

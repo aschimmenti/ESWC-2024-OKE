@@ -1,0 +1,28 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Holothuria	B-INDIVIDUAL		genus	B-INDIVIDUAL		marineanimals
+is	O			O		
+a	O			O		
+genus	B-CLASS	physicalobject		O		
+of	O			O		
+marine	O			B-CLASS	organism	
+animals	O			I-CLASS	organism	
+of	O			O		
+the	O			O		
+family	O			O
+Holothuriidae	O			O
+.	O			O		
+Members	O			O		
+of	O			O		
+the	O			O		
+genus	O			O		
+are	O			O		
+found	O			O		
+in	O			O		
+coastal	O			O	
+waters	O			O	
+in	O			O		
+tropical	O			O	
+and	O			O	
+temperate	O			O	
+regions	O			O	
+.	O			O		

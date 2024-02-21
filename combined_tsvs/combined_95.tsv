@@ -1,0 +1,20 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Otomedius	B-INDIVIDUAL		scrollingshooter,shooter,sidescrollingshooter	B-INDIVIDUAL		personification,sidescrollingshooter,spacefighters
+is	O			O		
+a	O			O		
+side	B-CLASS	informationentity,scrollingshooter		B-CLASS	activity,informationentity	
+scrolling	B-CLASS	informationentity,shooter		I-CLASS	activity,informationentity	
+shooter	I-CLASS	informationentity,shooter		I-CLASS	activity,informationentity	
+by	O			O		
+Konami	O			O		
+which	O			O		
+featured	O			O		
+personification	O			B-CLASS	personification	
+of	O			O		
+space	O			B-CLASS	personification,physicalobject	
+fighters	O			I-CLASS	personification,physicalobject	
+from	O			O		
+various	O			O		
+Konami	O			O		
+games	O			O		
+.	O			O		

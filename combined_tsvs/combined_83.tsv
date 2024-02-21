@@ -1,0 +1,58 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Mauerpark	B-INDIVIDUAL		linearpark,park,publiclinearpark	B-INDIVIDUAL		deathstrip,publiclinearpark,wallpark
+is	O			O		
+a	O			O		
+public	B-CLASS	linearpark,location		B-CLASS	location,physicalobject	
+linear	I-CLASS	linearpark,location		I-CLASS	location,physicalobject	
+park	I-CLASS	linearpark,location		I-CLASS	location,physicalobject	
+in	O			O		
+Berlin	O			O		
+'s	O			O		
+Prenzlauer	O			O		
+Berg	O			I-INDIVIDUAL		
+district	O			O		
+.	O			O		
+The	O			O		
+name	O			O		
+translates	O			O		
+to	O			O		
+"	O			O		
+Wall	O			B-CLASS	location	
+Park	O			I-CLASS	location	
+"	O			O		
+,	O			O		
+referring	O			O		
+to	O			O		
+its	O			O		
+status	O			O		
+as	O			O		
+a	O			O		
+former	O			O		
+part	O			O		
+of	O			O		
+the	O			O		
+Berlin	O			O		
+Wall	O			O	
+and	O			O		
+its	O			O		
+Death	O			B-CLASS	location,situation	
+Strip	O			I-CLASS	location,situation	
+.	O			O		
+The	O			O		
+park	O			O		
+is	O			O		
+located	O			O		
+at	O			O		
+the	O			O		
+border	O			O		
+of	O			O		
+Prenzlauer	O			O		
+Berg	O			O		
+and	O			O		
+Gesundbrunnen	O			O		
+district	O			O		
+of	O			O		
+former	O			O		
+West	O			O		
+Berlin	O			O
+.	O			O		

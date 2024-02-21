@@ -1,0 +1,72 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Yasutora	B-INDIVIDUAL		character,fictionalcharacter	B-INDIVIDUAL		animeandmangaseries,fictionalcharacter,teenager
+Sado	I-INDIVIDUAL		character,fictionalcharacter	I-INDIVIDUAL		animeandmangaseries,fictionalcharacter,teenager
+is	O			O		
+a	O			O		
+fictional	B-CLASS	character,personification		B-CLASS	personification,role	
+character	I-CLASS	character,personification		I-CLASS	personification,role	
+in	O			O		
+the	O			O		
+anime	O			B-CLASS	informationentity,socialobject	
+and	O			I-CLASS	informationentity,socialobject	
+manga	O			I-CLASS	informationentity,socialobject	
+series	O			I-CLASS	informationentity,socialobject	
+Bleach	O			O		
+created	O			O		
+by	O			O		
+Tite	O			O
+Kubo	O			O
+.	O			O		
+He	O			O		
+is	O			O		
+an	O			O		
+extremely	O			O		
+tall	O			O		
+teenager	O			B-CLASS	person,role	
+who	O			O		
+studies	O			O		
+in	O			O		
+the	O			O		
+same	O			O		
+class	O			O		
+as	O			O		
+Ichigo	O			O		
+Kurosaki	O			O
+.	O			O		
+Because	O			O		
+Ichigo	O			O		
+first	O			O		
+read	O			O		
+Yasutora	O			O		
+'s	O			O		
+name	O			O		
+off	O			O		
+a	O			O		
+nametag	O			O	
+,	O			O		
+he	O			O		
+pronounced	O			O		
+his	O			O		
+family	O			O		
+name	O			O		
+as	O			O		
+Chad	O			O
+due	O			O		
+to	O			O		
+the	O			O		
+variable	O			O		
+pronunciations	O			O		
+of	O			O		
+kanji	O			O		
+,	O			O		
+and	O			O		
+Ichigo	O			O		
+continues	O			O		
+to	O			O		
+call	O			O		
+him	O			O		
+this	O			O		
+throughout	O			O		
+the	O			O		
+story	O			O		
+.	O			O		

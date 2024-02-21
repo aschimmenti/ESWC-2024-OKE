@@ -1,0 +1,50 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Pearse	B-INDIVIDUAL		gaastadium,stadium	B-INDIVIDUAL		gaastadium
+Stadium	I-INDIVIDUAL		gaastadium,stadium	I-INDIVIDUAL		gaastadium
+is	O			O		
+the	O			O		
+GAA	B-CLASS	physicalobject,stadium		B-CLASS	location,physicalobject	
+stadium	B-CLASS	physicalobject		I-CLASS	location,physicalobject	
+,	O			O		
+in	O			O		
+County	O			O		
+Galway	O			O		
+,	O			O		
+Ireland	O			O		
+.	O			O		
+The	O			O		
+stadium	O			O		
+opened	O			O		
+on	O			O		
+June	O			O		
+16	O			O		
+,	O			O		
+1957	O			O		
+,	O			O		
+as	O			O		
+16,000	O			O		
+people	O			O		
+came	O			O		
+to	O			O		
+watch	O			O		
+Galway	O			O		
+beat	O			O		
+Tipperary	O			O		
+in	O			O		
+hurling	O			O	
+,	O			O		
+and	O			O		
+Kerry	O			O		
+in	O			O		
+football	O			O	
+,	O			O		
+and	O			O		
+to	O			O		
+watch	O			O		
+Bishop	O			O		
+Michael	O			O		
+Browne	O			O		
+bless	O			O		
+the	O			O		
+facility	O			B-CLASS	physicalobject	
+.	O			O		

@@ -1,0 +1,23 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+In	O			O		
+geometry	O			B-CLASS	topic	
+,	O			O		
+a	O			O		
+deltoid	B-INDIVIDUAL		hypocycloid	B-INDIVIDUAL		geometry,hypocycloid,steinercurve,tricuspoid
+,	O			O		
+also	O			O		
+known	O			O		
+as	O			O		
+a	O			O		
+tricuspoid	O			B-CLASS	abstract	
+or	O			O		
+Steiner	O			B-CLASS	abstract	
+curve	O			I-CLASS	abstract	
+,	O			O		
+is	O			O		
+a	O			O		
+hypocycloid	B-CLASS	abstract		B-CLASS	abstract	
+of	O			O		
+three	O			O		
+cusps	O			O		
+.	O			O		

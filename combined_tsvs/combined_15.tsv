@@ -1,0 +1,12 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+98	B-INDIVIDUAL		naturalnumber,number	B-INDIVIDUAL		naturalnumber
+is	O			O		
+the	O			O		
+natural	B-CLASS	abstract,number		B-CLASS	abstract	
+number	B-CLASS	abstract		I-CLASS	abstract	
+following	O			O		
+97	O			O	
+and	O			O		
+preceding	O			O		
+99	O			O
+.	O			O		

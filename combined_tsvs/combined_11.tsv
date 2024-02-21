@@ -1,0 +1,35 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Marlik	B-INDIVIDUAL		ancientsite,site	B-INDIVIDUAL		ancientsite
+is	O			O		
+an	O			O		
+ancient	B-CLASS	location,site		B-CLASS	location	
+site	I-CLASS	location,site		I-CLASS	location	
+near	O			O		
+Roudbar	O			O		
+in	O			O		
+Gilan	O			O		
+,	O			O		
+north	O			O		
+of	O			O		
+Iran	O			O		
+.	O			O		
+The	O			O		
+site	O			O		
+of	O			O		
+a	O			O		
+royal	O			O
+cemetery	O			O
+,	O			O		
+and	O			O		
+artifacts	O			O		
+found	O			O		
+at	O			O		
+this	O			O		
+site	O			O		
+date	O			O		
+back	O			O		
+to	O			O		
+3,000	O			O
+years	O			O
+ago	O			O
+.	O			O		

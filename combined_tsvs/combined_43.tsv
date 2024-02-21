@@ -1,0 +1,55 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Diorite	B-INDIVIDUAL		igneousrock,intrusiveigneousrock,rock	B-INDIVIDUAL		intrusiveigneousrock
+is	O			O		
+an	O			O		
+intrusive	B-CLASS	igneousrock,physicalobject		B-CLASS	organism	
+igneous	I-CLASS	igneousrock,physicalobject		I-CLASS	organism	
+rock	B-CLASS	physicalobject		I-CLASS	organism	
+composed	O			O		
+principally	O			O		
+of	O			O		
+plagioclase	O			O
+feldspar	O			O
+(	O			O		
+typically	O			O		
+andesine	O			O
+)	O			O		
+,	O			O		
+biotite	O			O
+,	O			O		
+hornblende	O			O
+,	O			O		
+and/or	O			O		
+pyroxene	O			O
+.	O			O		
+It	O			O		
+is	O			O		
+distinguished	O			O		
+from	O			O		
+gabbro	O			O
+on	O			O		
+the	O			O		
+basis	O			O		
+of	O			O		
+the	O			O		
+composition	O			O		
+of	O			O		
+the	O			O		
+plagioclase	O			O		
+species	O			O		
+,	O			O		
+where	O			O		
+average	O			O		
+An	O			O
+-	O			O
+content	O			O
+of	O			O		
+plagioclase	O			O		
+in	O			O		
+a	O			O		
+diorite	O			O		
+is	O			O		
+less	O			O		
+than	O			O		
+An50	O			O
+.	O			O		

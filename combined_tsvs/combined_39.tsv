@@ -1,0 +1,30 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+In	O			O		
+the	O			O		
+mathematical	O			O
+field	O			O	
+of	O			O		
+numerical	O			O	
+analysis	O			O
+,	O			O		
+interpolation	B-INDIVIDUAL		method	B-INDIVIDUAL		method
+is	O			O		
+a	O			O		
+method	B-CLASS	description		B-CLASS	abstract,activity	
+of	O			O		
+constructing	O			O		
+new	O			O		
+data	O			O	
+points	O			O	
+within	O			O		
+the	O			O		
+range	O			O		
+of	O			O		
+a	O			O		
+discrete	O			O		
+set	O			O		
+of	O			O		
+known	O			O		
+data	O			O		
+points	O			O		
+.	O			O		

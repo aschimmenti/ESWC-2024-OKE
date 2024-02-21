@@ -1,0 +1,40 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+occam	B-INDIVIDUAL		concurrentprogramminglanguage,language,programminglanguage	B-INDIVIDUAL		concurrentprogramminglanguage
+is	O			O		
+a	O			O		
+concurrent	B-CLASS	informationentity,programminglanguage		B-CLASS	informationentity,topic	
+programming	I-CLASS	informationentity,programminglanguage		I-CLASS	informationentity,topic	
+language	I-CLASS	informationentity,programminglanguage		I-CLASS	informationentity,topic	
+that	O			O		
+builds	O			O		
+on	O			O		
+the	O			O		
+communicating	O			O
+sequential	O			O
+processes	O			O
+(	O			O
+CSP	O			O
+)	O			O
+process	O			O
+algebra	O			O
+,	O			O		
+and	O			O		
+shares	O			O		
+many	O			O		
+of	O			O		
+its	O			O		
+features	O			O		
+.	O			O		
+It	O			O		
+is	O			O		
+named	O			O		
+after	O			O		
+William	O			O
+of	O			O
+Ockham	O			O
+of	O			O		
+Occam	O			O
+'s	O			O
+Razor	O			O
+fame	O			O		
+.	O			O		

@@ -1,0 +1,20 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Umm	B-INDIVIDUAL		oasistown,town	B-INDIVIDUAL		oasistown
+Dreiga	I-INDIVIDUAL		oasistown,town	I-INDIVIDUAL		oasistown
+or	O			O		
+Oum	O			O		
+Dreiga	O			O		
+is	O			O		
+an	O			O		
+oasis	B-CLASS	location,town		B-CLASS	location	
+town	B-CLASS	location		I-CLASS	location	
+in	O			O		
+the	O			O		
+Río	O			O		
+de	O			O
+Oro	O			O
+area	O			O		
+of	O			O		
+Western	O			O
+Sahara	O			O
+.	O			O		

@@ -1,0 +1,35 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Hanja	B-INDIVIDUAL		koreanname,name	B-INDIVIDUAL		chinese,chinesecharacters,korean,koreanlanguage,koreanpronunciation
+is	O			O		
+the	O			O		
+Korean	B-CLASS	description,name		B-CLASS	informationentity,person	
+name	B-CLASS	description		O		
+for	O			O		
+Chinese	O			B-CLASS	informationentity	
+characters	O			I-CLASS	informationentity	
+(	O			O		
+hanzi	O			O
+)	O			O		
+.	O			O		
+More	O			O		
+specifically	O			O		
+,	O			O		
+it	O			O		
+refers	O			O		
+to	O			O		
+those	O			O		
+Chinese	O			O		
+characters	O			O		
+borrowed	O			O		
+from	O			O		
+Chinese	O			O		
+and	O			O		
+incorporated	O			O		
+into	O			O		
+the	O			O		
+Korean	O			B-CLASS	informationentity,socialobject	
+language	O			I-CLASS	informationentity,socialobject	
+with	O			O		
+Korean	O			B-CLASS	informationentity	
+pronunciation	O			I-CLASS	informationentity	
+.	O			O		

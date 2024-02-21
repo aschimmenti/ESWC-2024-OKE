@@ -1,0 +1,59 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+The	O			O		
+'	O			O		
+Jew	B-INDIVIDUAL		graphicnovel,novel	B-INDIVIDUAL		graphicnovel
+of	I-INDIVIDUAL		graphicnovel,novel	I-INDIVIDUAL		graphicnovel
+New	I-INDIVIDUAL		graphicnovel,novel	I-INDIVIDUAL		graphicnovel
+York	I-INDIVIDUAL		graphicnovel,novel	I-INDIVIDUAL		graphicnovel
+'	I-INDIVIDUAL		graphicnovel,novel	O		
+is	O			O		
+a	B-CLASS	informationentity,novel		O		
+graphic	I-CLASS	informationentity,novel		B-CLASS	informationentity	
+novel	I-CLASS	informationentity,novel		I-CLASS	informationentity	
+by	O			O		
+Ben	O			O		
+Katchor	O			O
+,	O			O		
+inspired	O			O		
+by	O			O		
+Mordecai	O			O
+Manuel	O			O	
+Noah	O			O	
+'s	O			O		
+attempt	O			O		
+to	O			O		
+establish	O			O		
+a	O			O		
+Jewish	O			O
+homeland	O			O
+in	O			O		
+Grand	O			O
+Island	O			O	
+,	O			O		
+New	O			O		
+York	O			O		
+in	O			O		
+the	O			O		
+1820s	O			O
+.	O			O		
+It	O			O		
+was	O			O		
+originally	O			O		
+serialized	O			O		
+in	O			O		
+the	O			O		
+pages	O			O		
+of	O			O		
+'	O			O		
+The	O			O
+Forward	O			O	
+'	O			O		
+before	O			O		
+being	O			O		
+published	O			O		
+in	O			O		
+book	O			O		
+form	O			O		
+in	O			O		
+1999	O			O
+.	O			O		

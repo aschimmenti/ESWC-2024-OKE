@@ -1,0 +1,101 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+In	O			O		
+the	O			O		
+philosophy	O			B-CLASS	topic	
+of	O			I-CLASS	topic	
+mathematics	O			I-CLASS	topic	
+,	O			O		
+intuitionism	B-INDIVIDUAL		approach	B-INDIVIDUAL		analyticactivities,approach,logic,mathematics,neointuitionism,preintuitionism
+,	O			O		
+or	O			O		
+neointuitionism	O			B-CLASS	abstract,topic	
+(	O			O		
+opposed	O			O		
+to	O			O		
+preintuitionism	O			B-CLASS	abstract,topic	
+)	O			O		
+,	O			O		
+is	O			O		
+an	O			O		
+approach	B-CLASS	activity		B-CLASS	abstract,topic	
+where	O			O		
+mathematics	O			O		
+is	O			O		
+considered	O			O		
+to	O			O		
+be	O			O		
+purely	O			O		
+the	O			O		
+result	O			O		
+of	O			O		
+the	O			O		
+constructive	O			O		
+mental	O			O		
+activity	O			O		
+of	O			O		
+humans	O			O
+rather	O			O		
+than	O			O		
+the	O			O		
+discovery	O			O		
+of	O			O		
+fundamental	O			O
+principles	O			O
+claimed	O			O		
+to	O			O		
+exist	O			O		
+in	O			O		
+an	O			O		
+objective	O			O
+reality	O			O
+.	O			O		
+That	O			O		
+is	O			O		
+,	O			O		
+logic	O			O
+and	O			O		
+mathematics	O			O		
+are	O			O		
+not	O			O		
+considered	O			O		
+analytic	O			B-CLASS	abstract,activity	
+activities	O			I-CLASS	abstract,activity	
+wherein	O			O		
+deep	O			O
+properties	O			O
+of	O			O		
+objective	O			O		
+reality	O			O		
+are	O			O		
+revealed	O			O		
+and	O			O		
+applied	O			O		
+but	O			O		
+are	O			O		
+instead	O			O		
+considered	O			O		
+the	O			O		
+application	O			O		
+of	O			O		
+internally	O			O		
+consistent	O			O		
+methods	O			O		
+used	O			O		
+to	O			O		
+realize	O			O		
+more	O			O		
+complex	O			O		
+mental	O			O		
+constructs	O			O		
+,	O			O		
+regardless	O			O		
+of	O			O		
+their	O			O		
+possible	O			O		
+independent	O			O
+existence	O			O
+in	O			O		
+an	O			O		
+objective	O			O		
+reality	O			O		
+.	O			O		

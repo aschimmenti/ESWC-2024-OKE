@@ -1,0 +1,59 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Hannover	B-INDIVIDUAL		mainrailwaystation,railwaystation,station	B-INDIVIDUAL		railwaystation
+Hauptbahnhof	I-INDIVIDUAL		mainrailwaystation,railwaystation,station	I-INDIVIDUAL		railwaystation
+is	O			O		
+the	O			O		
+main	B-CLASS	physicalobject,railwaystation		O		
+railway	B-CLASS	physicalobject,station		B-CLASS	location,physicalobject	
+station	B-CLASS	physicalobject		I-CLASS	location,physicalobject	
+for	O			O		
+the	O			O		
+city	O			O
+of	O			O		
+Hanover	O			O
+in	O			O		
+Lower	O			O
+Saxony	O			O
+,	O			O		
+Germany	O			O
+.	O			O		
+The	O			O		
+station	O			O		
+has	O			O		
+six	O			O		
+platforms	O			O
+with	O			O		
+twelve	O			O		
+platform	O			O
+tracks	O			O
+and	O			O		
+two	O			O		
+through	O			O	
+tracks	O			O
+without	O			O		
+platforms	O			O		
+.	O			O		
+Each	O			O		
+Day	O			O		
+it	O			O		
+is	O			O		
+used	O			O		
+by	O			O		
+250,000	O			O		
+passengers	O			O
+and	O			O		
+622	O			O		
+trains	O			O
+(	O			O		
+as	O			O		
+of	O			O		
+November	O			O		
+2008	O			O		
+)	O			O		
+and	O			O		
+about	O			O		
+2,000	O			O		
+people	O			O
+work	O			O		
+here	O			O		
+.	O			O		

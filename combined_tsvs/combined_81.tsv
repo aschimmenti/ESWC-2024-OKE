@@ -1,0 +1,43 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Europe	B-INDIVIDUAL		coalition,electoralcoalition,greenelectoralcoalition	B-INDIVIDUAL		greenelectoralcoalition,politicalparties
+Ecology	I-INDIVIDUAL		coalition,electoralcoalition,greenelectoralcoalition	I-INDIVIDUAL		greenelectoralcoalition,politicalparties
+is	O			O		
+a	O			O		
+green	B-CLASS	electoralcoalition,organization		B-CLASS	organisation	
+electoral	B-CLASS	coalition,organization		I-CLASS	organisation	
+coalition	I-CLASS	coalition,organization		I-CLASS	organisation	
+of	O			O		
+political	O			B-CLASS	organisation,socialobject	
+parties	O			I-CLASS	organisation,socialobject	
+in	O			O		
+France	O			O		
+created	O			O		
+for	O			O		
+the	O			O		
+2009	O			O
+European	O			O
+elections	O			O
+composed	O			O		
+of	O			O		
+The	O			O
+Greens	O			O
+and	O			O		
+other	O			O		
+ecologists	O			O
+and	O			O		
+regionalists	O			O
+.	O			O		
+For	O			O		
+the	O			O		
+European	O			O
+Parliament	O			O
+election	O			O
+in	O			O		
+2014	O			O
+,	O			O		
+this	O			O		
+electoral	O			O		
+alliance	O			O		
+was	O			O		
+renewed	O			O		
+.	O			O		

@@ -1,0 +1,31 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Kopps	B-INDIVIDUAL		film,swedishfilm	B-INDIVIDUAL		pun,swedishfilm
+is	O			O		
+a	O			O		
+2003	O			O		
+Swedish	B-CLASS	film,informationentity		B-CLASS	informationentity,socialobject	
+film	B-CLASS	informationentity		I-CLASS	informationentity,socialobject	
+directed	O			O		
+by	O			O		
+Josef	O			O		
+Fares	O			O		
+.	O			O		
+The	O			O		
+name	O			O		
+itself	O			O		
+is	O			O		
+a	O			O		
+pun	O			B-CLASS	informationentity	
+on	O			O		
+pronouncing	O			O		
+the	O			O		
+English	O			O	
+word	O			O	
+"	O			O		
+Cops	O			O		
+"	O			O		
+with	O			O		
+a	O			O		
+Swedish	O			O		
+accent	O			O		
+.	O			O		

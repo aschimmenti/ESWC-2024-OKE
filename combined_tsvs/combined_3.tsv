@@ -1,0 +1,48 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+'	O			O		
+Futūh	B-INDIVIDUAL		arabicbook,book	B-INDIVIDUAL		arabicbook
+al	I-INDIVIDUAL		arabicbook,book	I-INDIVIDUAL		arabicbook
+-	I-INDIVIDUAL		arabicbook,book	I-INDIVIDUAL		arabicbook
+Buldān	I-INDIVIDUAL		arabicbook,book	I-INDIVIDUAL		arabicbook
+'	O			O		
+is	O			O		
+an	O			O		
+Arabic	I-CLASS	book,physicalobject		B-CLASS	informationentity	
+book	I-CLASS	informationentity,physicalobject		I-CLASS	informationentity	
+by	O			O		
+Persian	O			O
+historian	O			O
+Ahmad	O			O
+Ibn	O			O
+Yahya	O			O
+al	O			O
+-	O			O
+Baladhuri	O			O
+.	O			O		
+The	O			O		
+work	O			O		
+by	O			O		
+which	O			O		
+he	O			O		
+is	O			O		
+best	O			O		
+known	O			O		
+is	O			O		
+the	O			O		
+Kitab	O			O
+Futuh	O			O
+al	O			O
+-	O			O
+Buldan	O			O
+,	O			O		
+edited	O			O		
+by	O			O		
+M.	O			O		
+J.	O			O		
+de	O			O		
+Goeje	O			O		
+as	O			O		
+Liber	O			O
+expugnationis	O			O
+regionum	O			O
+.	O			O		

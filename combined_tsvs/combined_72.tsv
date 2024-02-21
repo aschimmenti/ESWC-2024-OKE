@@ -1,0 +1,46 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Color	B-INDIVIDUAL		photography	B-INDIVIDUAL		media,photography
+photography	I-INDIVIDUAL		photography	I-INDIVIDUAL		media,photography
+is	O			O		
+photography	B-CLASS	process		B-CLASS	informationentity,physicalobject
+that	O			O		
+uses	O			O		
+media	O			B-CLASS	informationentity,physicalobject	
+capable	O			O		
+of	O			O		
+reproducing	O			O		
+colors	O			O		
+.	O			O		
+By	O			O		
+contrast	O			O		
+,	O			O		
+black	O			O
+-	O			O
+and	O			O
+-	O			O
+white	O			O
+(	O			O
+monochrome	O			O
+)	O			O
+photography	O			O
+records	O			O		
+only	O			O		
+a	O			O		
+single	O			O		
+channel	O			O		
+of	O			O		
+luminance	O			O	
+(	O			O
+brightness	O			O
+)	O			O
+and	O			O		
+uses	O			O		
+media	O			O		
+capable	O			O		
+only	O			O		
+of	O			O		
+showing	O			O		
+shades	O			O	
+of	O			O
+gray	O			O
+.	O			O		

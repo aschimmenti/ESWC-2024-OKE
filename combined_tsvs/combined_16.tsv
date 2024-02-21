@@ -1,0 +1,38 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Environmental	B-INDIVIDUAL		scientificstudy,study	B-INDIVIDUAL		chemicalandbiochemicalphenomena,naturalplaces,scientificstudy
+chemistry	I-INDIVIDUAL		scientificstudy,study	I-INDIVIDUAL		chemicalandbiochemicalphenomena,naturalplaces,scientificstudy
+is	O			O		
+the	O			O		
+scientific	B-CLASS	activity,study		B-CLASS	activity,topic	
+study	I-CLASS	activity,study		I-CLASS	activity,topic	
+of	O			O		
+the	O			O		
+chemical	O			B-CLASS	abstract,topic	
+and	O			I-CLASS	abstract,topic	
+biochemical	O			I-CLASS	abstract,topic	
+phenomena	O			I-CLASS	abstract,topic	
+that	O			O		
+occur	O			O		
+in	O			O		
+natural	O			B-CLASS	location,topic	
+places	O			I-CLASS	location,topic	
+.	O			O		
+It	O			O		
+should	O			O		
+not	O			O		
+be	O			O		
+confused	O			O		
+with	O			O		
+green	O			O
+chemistry	O			O
+,	O			O		
+which	O			O		
+seeks	O			O		
+to	O			O		
+reduce	O			O		
+potential	O			O
+pollution	O			O
+at	O			O		
+its	O			O		
+source	O			O
+.	O			O		

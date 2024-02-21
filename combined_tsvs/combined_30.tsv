@@ -1,0 +1,46 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Cooperative	B-INDIVIDUAL		approach,educationalapproach	B-INDIVIDUAL		academicandsociallearningexperiences,classroomactivities,educationalapproach,positiveinterdependence
+learning	I-INDIVIDUAL		approach,educationalapproach	I-INDIVIDUAL		academicandsociallearningexperiences,classroomactivities,educationalapproach,positiveinterdependence
+is	O			O		
+an	O			O		
+educational	B-CLASS	activity,approach		B-CLASS	activity,topic	
+approach	I-CLASS	activity,approach		I-CLASS	activity,topic	
+which	O			O		
+aims	O			O		
+to	O			O		
+organize	O			O		
+classroom	O			B-CLASS	activity	
+activities	O			I-CLASS	activity	
+into	O			O		
+academic	O			B-CLASS	activity,socialobject	
+and	O			I-CLASS	activity,socialobject	
+social	O			I-CLASS	activity,socialobject	
+learning	O			I-CLASS	activity,socialobject	
+experiences	O			I-CLASS	activity,socialobject	
+.	O			O		
+There	O			O		
+is	O			O		
+much	O			O		
+more	O			O		
+to	O			O		
+Cooperative	O			O		
+Learning	O			O		
+than	O			O		
+merely	O			O		
+arranging	O			O		
+students	O			O
+into	O			O		
+groups	O			O
+,	O			O		
+and	O			O		
+it	O			O		
+has	O			O		
+been	O			O		
+described	O			O		
+as	O			O		
+"	O			O		
+structuring	O			O		
+positive	O			B-CLASS	abstract,situation	
+interdependence	O			I-CLASS	abstract,situation	
+.	O			O		
+"	O			O		

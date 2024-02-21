@@ -1,0 +1,39 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Marriage	B-INDIVIDUAL		recognizedunion,sociallyrecognizedunion,union	B-INDIVIDUAL		matrimony,union,wedlock
+,	O			O		
+also	O			O		
+called	O			O		
+matrimony	O			B-CLASS	situation,socialobject	
+or	O			O		
+wedlock	O			B-CLASS	situation,socialobject	
+,	O			O		
+is	O			O		
+a	O			O		
+socially	B-CLASS	recognizedunion,relation		O		
+recognized	B-CLASS	relation,union		O		
+union	I-CLASS	relation,union		B-CLASS	activity,socialobject	
+between	O			O		
+spouses	O			O	
+that	O			O		
+establishes	O			O		
+rights	O			O
+and	O			O
+obligations	O			O
+between	O			O		
+them	O			O		
+,	O			O		
+between	O			O		
+them	O			O		
+and	O			O		
+their	O			O		
+children	O			O
+,	O			O		
+and	O			O		
+between	O			O		
+them	O			O		
+and	O			O		
+their	O			O		
+in	O			O
+-	O			O
+laws	O			O
+.	O			O		

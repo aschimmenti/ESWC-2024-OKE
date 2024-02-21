@@ -1,0 +1,52 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Argo	B-INDIVIDUAL		constellation,largeconstellation	B-INDIVIDUAL		constellation
+Navis	I-INDIVIDUAL		constellation,largeconstellation	I-INDIVIDUAL		constellation
+was	O			O		
+a	O			O		
+large	B-CLASS	collection,constellation		O		
+constellation	B-CLASS	collection		B-CLASS	informationentity,location	
+in	O			O		
+the	O			O		
+southern	O			O
+sky	O			O
+that	O			O		
+has	O			O		
+since	O			O		
+been	O			O		
+divided	O			O		
+into	O			O		
+three	O			O		
+constellations	O			O		
+.	O			O		
+It	O			O		
+represented	O			O		
+the	O			O		
+Argo	O			O		
+,	O			O		
+the	O			O		
+ship	O			O		
+used	O			O		
+by	O			O		
+Jason	O			O		
+and	O			O		
+the	O			O		
+Argonauts	O			O		
+in	O			O		
+Greek	O			O
+mythology	O			O
+.	O			O		
+The	O			O		
+abbreviation	O			O	
+was	O			O		
+"	O			O		
+Arg	O			O		
+"	O			O		
+and	O			O		
+the	O			O		
+genitive	O			O	
+was	O			O		
+"	O			O		
+Argus	O			O		
+Navis	O			O		
+"	O			O		
+.	O			O		

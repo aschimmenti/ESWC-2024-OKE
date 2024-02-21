@@ -1,0 +1,46 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+The	O			O		
+Autochrome	B-INDIVIDUAL		colorphotographyprocess,photographyprocess,process	B-INDIVIDUAL		colorphotographyprocess
+Lumière	I-INDIVIDUAL		colorphotographyprocess,photographyprocess,process	I-INDIVIDUAL		colorphotographyprocess
+is	O			O		
+an	O			O		
+early	O		O		
+color	B-CLASS	cognitiveentity,process		B-CLASS	activity,informationentity	
+photography	I-CLASS	cognitiveentity,process		I-CLASS	activity,informationentity	
+process	I-CLASS	cognitiveentity,process		I-CLASS	activity,informationentity	
+.	O			O		
+Patented	O			
+in	O			O		
+1903	O			O
+by	O			O		
+the	O			O		
+Lumière	O			O
+brothers	O			O
+in	O			O		
+France	O			O
+and	O			O		
+first	O			O		
+marketed	O			O		
+in	O			O		
+1907	O			O
+,	O			O		
+it	O			O		
+was	O			O		
+the	O			O		
+principal	O			O		
+color	O			O		
+photography	O			O		
+process	O			O		
+in	O			O		
+use	O			O		
+before	O			O		
+the	O			O		
+advent	O			O		
+of	O			O		
+subtractive	O			O		
+color	O			O
+film	O			O
+in	O			O		
+the	O			O		
+mid-1930s	O			O		
+.	O			O		

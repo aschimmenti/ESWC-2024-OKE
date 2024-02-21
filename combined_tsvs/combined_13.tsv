@@ -1,0 +1,38 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+The	B-INDIVIDUAL		painting	B-INDIVIDUAL		painting
+Choice	I-INDIVIDUAL		painting	I-INDIVIDUAL		painting
+of	I-INDIVIDUAL		painting	I-INDIVIDUAL		painting
+Hercules	I-INDIVIDUAL		painting	I-INDIVIDUAL		painting
+is	O			O		
+a	O			O		
+painting	B-CLASS	informationentity		B-CLASS	informationentity,physicalobject	
+by	O			O		
+the	O			O		
+Italian	O			O
+Baroque	O			O	
+painter	O			O	
+Annibale	O			O
+Carracci	O			O
+.	O			O		
+Dating	O			O		
+from	O			O		
+1596	O			O		
+,	O			O		
+it	O			O		
+is	O			O		
+housed	O			O		
+in	O			O		
+the	O			O		
+Capodimonte	O			O		
+Gallery	O			O		
+of	O			O		
+Naples	O			O		
+.	O			O		
+The	O			O		
+subject	O			O
+is	O			O		
+the	O			O		
+Choice	O			O		
+of	O			O		
+Hercules	O			O		
+.	O			O		

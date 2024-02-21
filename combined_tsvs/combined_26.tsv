@@ -1,0 +1,15 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Cool	B-INDIVIDUAL		album,studioalbum	B-INDIVIDUAL		studioalbum
+Hand	I-INDIVIDUAL		album,studioalbum	I-INDIVIDUAL		studioalbum
+Lōc	I-INDIVIDUAL		album,studioalbum	I-INDIVIDUAL		studioalbum
+is	O			O		
+the	O			O		
+second	O			O		
+and	O			O		
+final	O			O		
+studio	B-CLASS	album,informationentity		B-CLASS	informationentity	
+album	I-CLASS	album,informationentity		I-CLASS	informationentity	
+by	O			O		
+Tone	O			O	
+Lōc	O			O
+.	O			O		

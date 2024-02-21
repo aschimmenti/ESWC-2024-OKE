@@ -1,0 +1,16 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Maurice	B-INDIVIDUAL		cardinal,princeofsavoy	B-INDIVIDUAL		17th-centurycardinal,princeofsavoy
+of	I-INDIVIDUAL		cardinal,princeofsavoy	I-INDIVIDUAL		17th-centurycardinal,princeofsavoy
+Savoy	I-INDIVIDUAL		cardinal,princeofsavoy	I-INDIVIDUAL		17th-centurycardinal,princeofsavoy
+was	O			O		
+a	O			O		
+Prince	B-CLASS	person		B-CLASS	person,role	
+of	I-CLASS	person		I-CLASS	person,role	
+Savoy	I-CLASS	person		I-CLASS	person,role	
+and	O			O		
+a	O			O		
+17th	O			B-CLASS	person,role	
+-	O			I-CLASS	person,role	
+century	O			I-CLASS	person,role	
+cardinal	B-CLASS	person		I-CLASS	person,role	
+.	O			O		

@@ -1,0 +1,83 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+The	O			O		
+western	B-INDIVIDUAL		wallaby	B-INDIVIDUAL		black-glovedwallaby,leastconcern,wallaby
+brush	I-INDIVIDUAL		wallaby	I-INDIVIDUAL		black-glovedwallaby,leastconcern,wallaby
+(	O			O		
+Macropus	O			O		
+irma	O			O	
+)	O			O		
+,	O			O		
+also	O			O		
+known	O			O		
+as	O			O		
+the	O			O		
+black	O			B-CLASS	organism	
+-	O			I-CLASS	organism	
+gloved	O			I-CLASS	organism	
+wallaby	O			I-CLASS	organism	
+,	O			O		
+is	O			O		
+a	O			O		
+wallaby	B-CLASS	organism		O		
+found	O			O		
+in	O			O		
+the	O			O		
+southwest	O			O	
+coastal	O			O
+region	O			O
+of	O			O		
+Western	O			O
+Australia	O			O
+.	O			O		
+The	O			O		
+wallaby	O			O		
+'s	O			O		
+main	O			O
+threat	O			O
+is	O			O		
+predation	O			O
+by	O			O		
+the	O			O		
+introduced	O			O		
+red	O			O
+fox	O			O
+(	O			O		
+Vulpes	O			O
+vulpes	O			O
+)	O			O		
+.	O			O		
+The	O			O		
+IUCN	O			O
+lists	O			O		
+the	O			O		
+western	O			O		
+brush	O			O		
+wallaby	O			O		
+as	O			O		
+Least	O			B-CLASS	abstract	
+Concern	O			I-CLASS	abstract	
+,	O			O		
+as	O			O		
+it	O			O		
+remains	O			O		
+fairly	O			O		
+widespread	O			O		
+and	O			O		
+the	O			O		
+population	O			O
+is	O			O		
+believed	O			O		
+to	O			O		
+be	O			O		
+stable	O			O	
+or	O			O
+increasing	O			O
+,	O			O		
+as	O			O		
+a	O			O		
+result	O			O		
+of	O			O		
+fox	O			O
+control	O			O
+programs	O			O
+.	O			O		

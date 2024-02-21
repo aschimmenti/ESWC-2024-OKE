@@ -1,0 +1,32 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Kojiki	B-INDIVIDUAL		chronicle,extantchronicle	B-INDIVIDUAL		extantchronicle
+is	O			O		
+the	O			O		
+oldest	O			O	
+extant	B-CLASS	chronicle,informationentity		B-CLASS	informationentity,timeinterval	
+chronicle	I-CLASS	chronicle,informationentity		I-CLASS	informationentity,timeinterval	
+in	O			O		
+Japan	O			O		
+,	O			O		
+dating	O			O		
+from	O			O		
+the	O			O		
+early	O			O		
+8th	O			O		
+century	O			O
+(	O			O		
+711–712	O			O		
+)	O			O		
+and	O			O		
+composed	O			O		
+by	O			O		
+Ō	O			O	
+no	O			O
+Yasumaro	O			O
+at	O			O		
+the	O			O		
+request	O			O		
+of	O			O		
+Empress	O			O
+Gemmei	O			O
+.	O			O		

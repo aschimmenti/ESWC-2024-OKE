@@ -1,0 +1,72 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+The	O			O		
+United	B-INDIVIDUAL		court,federalcourt	B-INDIVIDUAL		appellatejurisdiction,districtcourts,federalcourt
+States	I-INDIVIDUAL		court,federalcourt	I-INDIVIDUAL		appellatejurisdiction,districtcourts,federalcourt
+Court	I-INDIVIDUAL		court,federalcourt	I-INDIVIDUAL		appellatejurisdiction,districtcourts,federalcourt
+of	I-INDIVIDUAL		court,federalcourt	I-INDIVIDUAL		appellatejurisdiction,districtcourts,federalcourt
+Appeals	I-INDIVIDUAL		court,federalcourt	I-INDIVIDUAL		appellatejurisdiction,districtcourts,federalcourt
+for	I-INDIVIDUAL		court,federalcourt	I-INDIVIDUAL		appellatejurisdiction,districtcourts,federalcourt
+the	I-INDIVIDUAL		court,federalcourt	I-INDIVIDUAL		appellatejurisdiction,districtcourts,federalcourt
+Tenth	I-INDIVIDUAL		court,federalcourt	I-INDIVIDUAL		appellatejurisdiction,districtcourts,federalcourt
+Circuit	I-INDIVIDUAL		court,federalcourt	I-INDIVIDUAL		appellatejurisdiction,districtcourts,federalcourt
+(	O			O		
+in	O			O		
+case	O			O		
+citations	O			O		
+,	O			O		
+10th	O			O		
+Cir	O			O		
+.	O			O		
+)	O			O		
+is	O			O		
+a	O			O		
+federal	B-CLASS	court,organization		B-CLASS	location,organisation	
+court	B-CLASS	organization		I-CLASS	location,organisation	
+with	O			O		
+appellate	O			B-CLASS	informationentity,role	
+jurisdiction	O			I-CLASS	informationentity,role	
+over	O			O		
+the	O			O		
+district	O			B-CLASS	location,organisation	
+courts	O			I-CLASS	location,organisation	
+in	O			O		
+the	O			O		
+following	O			O		
+districts	O			O		
+:	O			O		
+District	O			O
+of	O			O		
+Colorado	O			O		
+,	O			O		
+District	O			O
+of	O			O		
+Kansas	O			O		
+,	O			O		
+District	O			O
+of	O			O		
+New	O			O		
+Mexico	O			O		
+,	O			O		
+Eastern	O			O
+District	O			O		
+of	O			O		
+Oklahoma	O			O		
+,	O			O		
+Northern	O			O
+District	O			O		
+of	O			O		
+Oklahoma	O			O		
+,	O			O		
+Western	O			O
+District	O			O		
+of	O			O		
+Oklahoma	O			O		
+,	O			O		
+District	O			O
+of	O			O		
+Utah	O			O		
+and	O			O		
+District	O			O
+of	O			O		
+Wyoming	O			O		
+.	O			O		

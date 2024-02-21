@@ -1,0 +1,42 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Democracy	B-INDIVIDUAL		governmentsystem,system	B-INDIVIDUAL		systemofgovernment
+is	O			O		
+"	O			O		
+a	O			O		
+system	B-CLASS	system,system		B-CLASS	abstract,socialobject	
+of	I-CLASS	system,system		I-CLASS	abstract,socialobject	
+government	I-CLASS	system,system		I-CLASS	abstract,socialobject	
+in	O			O		
+which	O			O		
+all	O			O		
+the	O			O		
+people	O			O		
+of	O			O		
+a	O			O		
+state	O			O		
+or	O			O		
+polity	O			O	
+...	O			O		
+are	O			O		
+involved	O			O		
+in	O			O		
+making	O			O		
+decisions	O			O		
+about	O			O		
+its	O			O		
+affairs	O			O		
+,	O			O		
+typically	O			O		
+by	O			O		
+voting	O			O	
+to	O			O		
+elect	O			O		
+representatives	O			O	
+to	O			O		
+a	O			O		
+parliament	O			O
+or	O			O		
+similar	O			O		
+assembly	O			O	
+.	O			O		
+"	O			O		

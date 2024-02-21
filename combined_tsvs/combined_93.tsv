@@ -1,0 +1,41 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Laudio	B-INDIVIDUAL		municipality,town	B-INDIVIDUAL		municipality,province,town
+/	I-INDIVIDUAL		municipality,town	I-INDIVIDUAL		municipality,province,town
+Llodio	I-INDIVIDUAL		municipality,town	I-INDIVIDUAL		municipality,province,town
+is	O			O		
+a	O			O		
+town	B-CLASS	location		B-CLASS	location	
+and	O			O		
+municipality	B-CLASS	location		B-CLASS	location	
+located	O			O		
+in	O			O		
+the	O			O		
+province	O			B-CLASS	location	
+of	O			O		
+Álava	O			O		
+,	O			O		
+in	O			O		
+the	O			O		
+Basque	O			O		
+Country	O			O		
+,	O			O		
+northern	O			O		
+Spain	O			O		
+.	O			O		
+Laudio	O			O		
+is	O			O		
+the	O			O		
+name	O			O		
+in	O			O		
+Basque	O			O
+language	O			O
+and	O			O		
+Llodio	O			O		
+in	O			O		
+Spanish	O			O
+;	O			O		
+both	O			O		
+are	O			O		
+used	O			O		
+indistinctly	O			O		
+.	O			O		

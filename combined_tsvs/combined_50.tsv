@@ -1,0 +1,14 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+A	O			O		
+utopia	B-INDIVIDUAL		communitypossessing,possessing	B-INDIVIDUAL		community
+is	O			O		
+a	O			O		
+community	B-CLASS	description,possessing		B-CLASS	socialobject	
+possessing	I-CLASS	description,possessing		O		
+highly	O			O		
+desirable	O			O		
+or	O			O		
+near	O			O		
+perfect	O			O		
+qualities	O			O		
+.	O			O		

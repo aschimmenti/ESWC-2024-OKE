@@ -1,0 +1,24 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+The	O			O		
+Rapallo	B-INDIVIDUAL		italianliteraryprize,literaryprize,prize	B-INDIVIDUAL		italianliteraryprize
+Carige	I-INDIVIDUAL		italianliteraryprize,literaryprize,prize	I-INDIVIDUAL		italianliteraryprize
+Prize	I-INDIVIDUAL		italianliteraryprize,literaryprize,prize	I-INDIVIDUAL		italianliteraryprize
+is	O			O		
+an	O			O		
+Italian	B-CLASS	description,literaryprize		B-CLASS	activity,socialobject	
+literary	B-CLASS	description,prize		I-CLASS	activity,socialobject	
+prize	I-CLASS	description,prize		I-CLASS	activity,socialobject	
+,	O			O		
+established	O			O		
+in	O			O		
+1985	O			O
+by	O			O		
+the	O			O		
+Municipality	O			O
+of	O			O		
+Rapallo	O			O
+and	O			O		
+the	O			O		
+Carige	O			O
+Bank	O			O
+.	O			O		

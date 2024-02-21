@@ -1,0 +1,60 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+'	O			O		
+La	B-INDIVIDUAL		book,italianbook	B-INDIVIDUAL		bestseller,italianbook
+casta	I-INDIVIDUAL		book,italianbook	I-INDIVIDUAL		bestseller,italianbook
+.	I-INDIVIDUAL		book,italianbook	I-INDIVIDUAL		bestseller,italianbook
+Così	I-INDIVIDUAL		book,italianbook	I-INDIVIDUAL		bestseller,italianbook
+i	I-INDIVIDUAL		book,italianbook	I-INDIVIDUAL		bestseller,italianbook
+politici	I-INDIVIDUAL		book,italianbook	I-INDIVIDUAL		bestseller,italianbook
+italiani	I-INDIVIDUAL		book,italianbook	I-INDIVIDUAL		bestseller,italianbook
+sono	I-INDIVIDUAL		book,italianbook	I-INDIVIDUAL		bestseller,italianbook
+diventati	I-INDIVIDUAL		book,italianbook	I-INDIVIDUAL		bestseller,italianbook
+intoccabili	I-INDIVIDUAL		book,italianbook	I-INDIVIDUAL		bestseller,italianbook
+'	O			O		
+is	O			O		
+an	O			O		
+Italian	I-CLASS	book,informationentity		B-CLASS	informationentity	
+book	I-CLASS	informationentity,physicalobject		I-CLASS	informationentity	
+,	O			O		
+written	O			O		
+by	O			O		
+Sergio	O			O
+Rizzo	O			
+and	O			O		
+Gian	O			
+Antonio	O			
+Stella	O			
+,	O			O		
+two	O			O		
+journalists	O			
+from	O			O		
+the	O			O		
+Italian	O			O		
+national	O			O		
+newspaper	O			O		
+Corriere	O			O		
+della	O			O		
+Sera	O			O		
+,	O			O		
+detailing	O			O		
+the	O			O		
+amount	O			O		
+of	O			O		
+graft	O			O	
+and	O			O		
+corruption	O			O	
+in	O			O		
+italian	O			O	
+politics	O			O
+.	O			O		
+It	O			O		
+was	O			O		
+published	O			O		
+in	O			O		
+2007	O			O		
+,	O			O		
+and	O			O		
+became	O			O		
+a	O			O		
+bestseller	O			B-CLASS	informationentity,socialobject	
+.	O			O		

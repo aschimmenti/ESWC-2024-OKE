@@ -1,0 +1,22 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+A	O			O		
+gyroscope	B-INDIVIDUAL		disc,spinningwheel,wheel	B-INDIVIDUAL		disc,spinningwheel
+is	O			O		
+a	O			O		
+spinning	B-CLASS	physicalobject,wheel		B-CLASS	physicalobject	
+wheel	B-CLASS	physicalobject		I-CLASS	physicalobject	
+or	O			O		
+disc	B-CLASS	physicalobject		B-CLASS	physicalobject	
+in	O			O		
+which	O			O		
+the	O			O		
+axis	O			O
+of	O			O
+rotation	O			O
+is	O			O		
+free	O			O		
+to	O			O		
+assume	O			O		
+any	O			O		
+orientation	O			O
+.	O			O		

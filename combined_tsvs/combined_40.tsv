@@ -1,0 +1,28 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+The	O			O		
+Bulls	B-INDIVIDUAL		setofceltiberiansculptures	B-INDIVIDUAL		celtiberiansculptures
+of	I-INDIVIDUAL		setofceltiberiansculptures	I-INDIVIDUAL		celtiberiansculptures
+Guisando	I-INDIVIDUAL		setofceltiberiansculptures	I-INDIVIDUAL		celtiberiansculptures
+are	O			O		
+a	O			O		
+set	B-CLASS	collection		O		
+of	I-CLASS	collection		O		
+celtiberian	I-CLASS	collection		B-CLASS	informationentity,physicalobject	
+sculptures	I-CLASS	collection		I-CLASS	informationentity,physicalobject	
+located	O			O		
+on	O			O		
+the	O			O		
+hill	O			O	
+of	O			O		
+Guisando	O			O		
+in	O			O		
+the	O			O		
+municipality	O			O		
+of	O			O		
+El	O			O		
+Tiemblo	O			O		
+,	O			O		
+Ávila	O			O		
+,	O			O		
+Spain	O			O
+.	O			O		

@@ -1,0 +1,25 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+The	O			O		
+Socialist	B-INDIVIDUAL		party,politicalparty,social-democraticpoliticalparty	B-INDIVIDUAL		frenchcentre-left,politicalparty
+Party	I-INDIVIDUAL		party,politicalparty,social-democraticpoliticalparty	I-INDIVIDUAL		frenchcentre-left,politicalparty
+is	O			O		
+a	O			O		
+social	B-CLASS	organization,politicalparty		O		
+-	I-CLASS	organization,politicalparty		O		
+democratic	I-CLASS	organization,politicalparty		O		
+political	I-CLASS	organization,politicalparty		B-CLASS	organisation,socialobject	
+party	I-CLASS	organization,politicalparty		I-CLASS	organisation,socialobject	
+in	O			O		
+France	O			O
+,	O			O		
+and	O			O		
+the	O			O		
+largest	O			O		
+party	O			O		
+of	O			O		
+the	O			O		
+French	O			B-CLASS	organisation,socialobject	
+centre	O			I-CLASS	organisation,socialobject	
+-	O			I-CLASS	organisation,socialobject	
+left	O			I-CLASS	organisation,socialobject	
+.	O			O		

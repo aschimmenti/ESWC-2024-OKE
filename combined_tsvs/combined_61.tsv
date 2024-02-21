@@ -1,0 +1,53 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+The	O			O		
+Berlin	B-INDIVIDUAL		crises,internationalcrises,majorinternationalcrises	B-INDIVIDUAL		majorinternationalcrises
+Blockade	I-INDIVIDUAL		crises,internationalcrises,majorinternationalcrises	I-INDIVIDUAL		majorinternationalcrises
+was	O			O		
+one	O			O		
+of	O			O		
+the	O			O		
+first	B-CLASS	internationalcrises,situation		O		
+major	I-CLASS	internationalcrises,situation		B-CLASS	event,situation	
+international	I-CLASS	internationalcrises,situation		I-CLASS	event,situation	
+crises	O			O	
+of	O			O		
+the	O			O		
+Cold	O			O
+War	O			O
+.	O			O		
+During	O			O		
+the	O			O		
+multinational	O			O
+occupation	O			O
+of	O			O		
+post	O			O		
+-	O			O		
+World	O			O
+War	O			O
+II	O			O
+Germany	O			O		
+,	O			O		
+the	O			O		
+Soviet	O			O
+Union	O			O
+blocked	O			O		
+the	O			O		
+Western	O			O
+Allies	O			O
+'	O			O		
+railway	O			O
+,	O			O	
+road	O			O	
+,	O			O	
+and	O			O	
+canal	O			O	
+access	O			O	
+to	O			O		
+the	O			O		
+sectors	O			O	
+of	O			O	
+Berlin	O			O	
+under	O			O		
+Western	O			O	
+control	O			O
+.	O			O		

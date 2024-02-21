@@ -1,0 +1,49 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+The	O			O		
+Battle	B-INDIVIDUAL		aircampaign,campaign	B-INDIVIDUAL		airbattleforengland
+of	I-INDIVIDUAL		aircampaign,campaign	I-INDIVIDUAL		airbattleforengland
+Britain	I-INDIVIDUAL		aircampaign,campaign	I-INDIVIDUAL		airbattleforengland
+(	O			O		
+German	O			O		
+:	O			O		
+Luftschlacht	O			O		
+um	O			O		
+England	O			O		
+,	O			O		
+literally	O			O		
+"	O			O		
+Air	O			B-CLASS	activity,event	
+battle	O			I-CLASS	activity,event	
+for	O			I-CLASS	activity,event	
+England	O			I-CLASS	activity,event	
+"	O			O		
+)	O			O		
+is	O			O		
+the	O			O		
+name	O			O		
+given	O			O		
+to	O			O		
+the	O			O		
+air	B-CLASS	activity,campaign		O		
+campaign	B-CLASS	activity		O		
+waged	O			O		
+by	O			O		
+the	O			O		
+German	O			O		
+Air	O			O		
+Force	O			O		
+(	O			O		
+Luftwaffe	O			O		
+)	O			O		
+against	O			O		
+the	O			O		
+United	O			O		
+Kingdom	O			O		
+during	O			O		
+the	O			O		
+summer	O			O		
+and	O			O		
+autumn	O			O		
+of	O			O		
+1940	O			O		
+.	O			O		

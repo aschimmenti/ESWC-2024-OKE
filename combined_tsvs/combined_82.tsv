@@ -1,0 +1,30 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Algebra	B-INDIVIDUAL		study	B-INDIVIDUAL		mathematicalsymbols,rules,study
+(	O			O		
+from	O			O		
+Arabic	O			O		
+al	O			O	
+-	O			O	
+jebr	O			O	
+meaning	O			O		
+"	O			O		
+reunion	O			O		
+of	O			O		
+broken	O			O		
+parts	O			O		
+"	O			O		
+)	O			O		
+is	O			O		
+the	O			O		
+study	B-CLASS	activity		B-CLASS	topic	
+of	O			O		
+mathematical	O			B-CLASS	abstract,informationentity	
+symbols	O			I-CLASS	abstract,informationentity	
+and	O			O		
+the	O			O		
+rules	O			B-CLASS	abstract,topic	
+for	O			O		
+manipulating	O			O		
+these	O			O		
+symbols	O			O		
+.	O			O		

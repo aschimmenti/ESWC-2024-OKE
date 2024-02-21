@@ -1,0 +1,42 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Hard	B-INDIVIDUAL		water	B-INDIVIDUAL		mineralcontent,water
+water	I-INDIVIDUAL		water	I-INDIVIDUAL		mineralcontent,water
+is	O			O		
+water	B-CLASS		physicalobject	B-CLASS		physicalobject
+that	O			O		
+has	O			O		
+high	O			O		
+mineral	O			B-CLASS	informationentity,physicalobject	
+content	O			I-CLASS	informationentity,physicalobject	
+(	O			O		
+in	O			O		
+contrast	O			O		
+with	O			O		
+"	O			O		
+soft	O			O	
+water	O			O	
+"	O			O		
+)	O			O		
+.	O			O		
+Hard	O			O		
+water	O			O		
+is	O			O		
+formed	O			O		
+when	O			O		
+water	O			O		
+percolates	O			O		
+through	O			O		
+deposits	O			O		
+of	O			O		
+limestone	O			O		
+and	O			O		
+chalk	O			O	
+-	O			O	
+containing	O			O	
+minerals	O			O	
+such	O			O		
+as	O			O		
+calcium	O			O		
+and	O			O		
+magnesium	O			O		
+.	O			O		

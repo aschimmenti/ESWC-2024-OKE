@@ -1,0 +1,19 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Gelderland	B-INDIVIDUAL		province	B-INDIVIDUAL		province
+is	O			O		
+a	O			O		
+province	B-CLASS	location		B-CLASS	location	
+of	O			O		
+the	O			O		
+Netherlands	O			O
+,	O			O		
+located	O			O		
+in	O			O		
+the	O			O		
+central	O			O
+eastern	O			O
+part	O			O
+of	O			O		
+the	O			O		
+country	O			O		
+.	O			O		

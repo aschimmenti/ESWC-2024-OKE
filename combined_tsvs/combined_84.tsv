@@ -1,0 +1,97 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Via	B-INDIVIDUAL		street	B-INDIVIDUAL		street,unescoworldheritagesites
+Garibaldi	I-INDIVIDUAL		street	I-INDIVIDUAL		street,unescoworldheritagesites
+is	O			O		
+street	B-CLASS	location		B-CLASS	location	
+of	O			O		
+the	O			O		
+historical	O			O		
+centre	O			O		
+of	O			O		
+Genoa	O			O	
+,	O			O		
+northern	O			O		
+Italy	O			O
+,	O			O		
+well	O			O		
+known	O			O		
+for	O			O		
+its	O			O		
+ancient	O			O
+palaces	O			O
+.	O			O		
+The	O			O		
+street	O			O		
+dates	O			O		
+back	O			O		
+to	O			O		
+the	O			O		
+year	O			O		
+1550	O			O		
+.	O			O		
+Originally	O			O		
+named	O			O		
+as	O			O		
+Strada	O			O
+Maggiore	O			O
+,	O			O		
+then	O			O		
+Strada	O			O
+Nuova	O			O
+,	O			O		
+only	O			O		
+in	O			O		
+1882	O			O
+its	O			O		
+name	O			O		
+was	O			O		
+dedicated	O			O		
+to	O			O		
+Giuseppe	O			O
+Garibaldi	O			O
+.	O			O		
+The	O			O		
+street	O			O		
+is	O			O		
+250	O			O
+metres	O			O
+long	O			O		
+and	O			O		
+7.5	O			O
+metres	O			O
+wide	O			O		
+.	O			O		
+Since	O			O		
+July	O			O		
+2006	O			O		
+Via	O			O		
+Garibaldi	O			O		
+is	O			O		
+inscribed	O			O		
+in	O			O		
+the	O			O		
+list	O			O		
+of	O			O		
+UNESCO	O			B-CLASS	location,socialobject	
+World	O			I-CLASS	location,socialobject	
+Heritage	O			I-CLASS	location,socialobject	
+Sites	O			I-CLASS	location,socialobject	
+as	O			O		
+part	O			O		
+of	O			O		
+the	O			O		
+system	O			O		
+of	O			O		
+the	O			O		
+Palazzi	O			O
+dei	O			O
+Rolli	O			O
+and	O			O		
+Strade	O			O
+Nuove	O			O
+del	O			O
+Centro	O			O
+Storico	O			O
+of	O			O		
+Genoa	O			O		
+.	O			O		

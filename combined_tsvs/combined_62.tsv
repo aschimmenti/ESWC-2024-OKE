@@ -1,0 +1,20 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+El	B-INDIVIDUAL		album	B-INDIVIDUAL		album
+Oso	I-INDIVIDUAL		album	I-INDIVIDUAL		album
+,	O			O		
+released	O			O		
+in	O			O		
+1998	O			O		
+,	O			O		
+is	O			O		
+an	O			O		
+album	B-CLASS	informationentity		B-CLASS	informationentity	
+by	O			O		
+the	O			O		
+New	O			O		
+York	O			O		
+City	O			O
+band	O			O
+Soul	O			O
+Coughing	O			O
+.	O			O		

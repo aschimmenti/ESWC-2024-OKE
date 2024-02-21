@@ -1,0 +1,32 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Typhoon	B-INDIVIDUAL		cyclon,tropicalcyclon	O
+Haiyan	I-INDIVIDUAL		cyclon,tropicalcyclon	O
+,	O			O		
+known	O			O		
+in	O			O		
+the	O			O		
+Philippines	O			O		
+as	O			O		
+Typhoon	O			O		
+Yolanda	O			O		
+,	O			O		
+was	O			O		
+a	O			O		
+tropical	B-CLASS	cyclon,event		O		
+cyclon	I-CLASS	cyclon,event		O		
+devastating	O			O		
+portions	O			O		
+of	O			O		
+Southeast	O			O		
+Asia	O			O		
+,	O			O		
+particularly	O			O		
+the	O			O		
+Philippines	O			O		
+,	O			O		
+in	O			O		
+early	O			O		
+-	O			O		
+November	O			O		
+2013	O			O	
+.	O			O		

@@ -1,0 +1,61 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Laika	B-INDIVIDUAL		dog,sovietspacedog,spacedog	B-INDIVIDUAL		sovietspacedog,space,straydog
+was	O			O		
+a	O			O		
+Soviet	B-CLASS	organism,spacedog		B-CLASS	organism,role	
+space	I-CLASS	organism,spacedog		I-CLASS	organism,role	
+dog	I-CLASS	organism,spacedog		I-CLASS	organism,role	
+who	O			O		
+became	O			O		
+one	O			O		
+of	O			O		
+the	O			O		
+first	O			O		
+animals	O			O		
+in	O			O		
+space	O			O		
+,	O			O		
+and	O			O		
+the	O			O		
+first	O			O		
+animal	O			O		
+to	O			O		
+orbit	O			O		
+the	O			O		
+Earth	O			O		
+.	O			O		
+Laika	O			O		
+,	O			O		
+a	O			O		
+stray	O			B-CLASS	organism,role	
+dog	O			I-CLASS	organism,role	
+from	O			O		
+the	O			O		
+streets	O			O		
+of	O			O		
+Moscow	O			O	
+,	O			O		
+was	O			O		
+selected	O			O		
+to	O			O		
+be	O			O		
+the	O			O		
+occupant	O			O		
+of	O			O		
+the	O			O		
+Soviet	O			O	
+spacecraft	O			O
+Sputnik	O			O
+2	O			O
+that	O			O		
+was	O			O		
+launched	O			O		
+into	O			O		
+outer	O			O		
+space	O			O		
+on	O			O		
+November	O			O
+3	O			O
+,	O			O
+1957	O			O
+.	O			O		

@@ -1,0 +1,36 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+The	O			O		
+Adamawa	B-INDIVIDUAL		plateauregion,region	B-INDIVIDUAL		plateauregion
+Plateau	I-INDIVIDUAL		plateauregion,region	I-INDIVIDUAL		plateauregion
+is	O			O		
+a	O			O		
+plateau	B-CLASS	location,region		B-CLASS	location	
+region	I-CLASS	location,region		I-CLASS	location	
+in	O			O		
+west	O			O		
+-	O			O
+central	O			O
+Africa	O			O
+stretching	O			O		
+from	O			O		
+south	O			O		
+-	O			O		
+eastern	O			O		
+Nigeria	O			O		
+through	O			O		
+north	O			O		
+-	O			O		
+central	O			O		
+Cameroon	O			O		
+(	O			O		
+Adamawa	O			O		
+and	O			O		
+North	O			O		
+Provinces	O			O
+)	O			O		
+to	O			O		
+the	O			O		
+Central	O			O		
+African	O			O
+Republic	O			O
+.	O			O		

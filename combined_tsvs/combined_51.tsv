@@ -1,0 +1,70 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Bradycardia	B-INDIVIDUAL		heartrate,rate,restingheartrate,slowheartrate	B-INDIVIDUAL		beatsperminute(bpm),bradyarrhythmia,cardiacarrhythmia,heartrate,restingheartrate
+,	O			O		
+also	O			O		
+known	O			O		
+as	O			O		
+bradyarrhythmia	O			B-CLASS	situation	
+,	O			O		
+is	O			O		
+a	O			O		
+slow	B-CLASS	heartrate,situation		O		
+heart	I-CLASS	heartrate,situation		B-CLASS	informationentity,situation	
+rate	I-CLASS	heartrate,situation		I-CLASS	informationentity,situation	
+,	O			O		
+namely	O			O		
+,	O			O		
+a	O			O		
+resting	B-CLASS	heartrate,situation		B-CLASS	informationentity,situation	
+heart	B-CLASS	rate,situation		I-CLASS	informationentity,situation	
+rate	I-CLASS	rate,situation		I-CLASS	informationentity,situation	
+of	O			O		
+under	O			O		
+60	O			O		
+beats	O			B-CLASS	abstract,informationentity	
+per	O			I-CLASS	abstract,informationentity	
+minute	O			I-CLASS	abstract,informationentity	
+(	O			I-CLASS	abstract,informationentity	
+BPM	O			I-CLASS	abstract,informationentity	
+)	O			I-CLASS	abstract,informationentity	
+in	O			O		
+adults	O			O		
+.	O			O		
+It	O			O		
+is	O			O		
+a	O			O		
+type	O			O		
+of	O			O		
+cardiac	O			B-CLASS	informationentity,situation	
+arrhythmia	O			I-CLASS	informationentity,situation	
+.	O			O		
+It	O			O		
+seldom	O			O		
+results	O			O		
+in	O			O		
+symptoms	O			O	
+until	O			O		
+the	O			O		
+rate	O			O		
+drops	O			O		
+below	O			O		
+50	O			O		
+BPM	O			O		
+.	O			O		
+It	O			O		
+sometimes	O			O		
+results	O			O		
+in	O			O		
+fatigue	O			O	
+,	O			O		
+weakness	O			O	
+,	O			O		
+dizziness	O			O	
+,	O			O		
+and	O			O		
+at	O			O		
+very	O			O		
+low	O			O		
+rates	O			O		
+fainting	O			O	
+.	O			O		

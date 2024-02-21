@@ -1,0 +1,77 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Year	O			B-INDIVIDUAL		annodominicalendarera,pre-julianromancalendar,year342aburbecondita,yearoftheconsulshipofambustusandpacilus
+412	B-INDIVIDUAL		year	I-INDIVIDUAL		annodominicalendarera,pre-julianromancalendar,year342aburbecondita,yearoftheconsulshipofambustusandpacilus
+BC	I-INDIVIDUAL		year	I-INDIVIDUAL		annodominicalendarera,pre-julianromancalendar,year342aburbecondita,yearoftheconsulshipofambustusandpacilus
+was	O			O		
+a	O			O		
+year	B-CLASS	timeinterval		O		
+of	O			O		
+the	O			O		
+pre	O			B-CLASS	informationentity,timeinterval	
+-	O			I-CLASS	informationentity,timeinterval	
+Julian	O			I-CLASS	informationentity,timeinterval	
+Roman	O			I-CLASS	informationentity,timeinterval	
+calendar	O			I-CLASS	informationentity,timeinterval	
+.	O			O		
+At	O			O		
+the	O			O		
+time	O			O		
+,	O			O		
+it	O			O		
+was	O			O		
+known	O			O		
+as	O			O		
+the	O			O		
+Year	O			B-CLASS	timeinterval	
+of	O			I-CLASS	timeinterval	
+the	O			I-CLASS	timeinterval	
+Consulship	O			I-CLASS	timeinterval	
+of	O			I-CLASS	timeinterval	
+Ambustus	O			I-CLASS	timeinterval	
+and	O			I-CLASS	timeinterval	
+Pacilus	O			I-CLASS	timeinterval	
+(	O			O		
+or	O			O		
+,	O			O		
+less	O			O		
+frequently	O			O		
+,	O			O		
+year	O			B-CLASS	timeinterval	
+342	O			I-CLASS	timeinterval	
+Ab	O			I-CLASS	timeinterval	
+urbe	O			I-CLASS	timeinterval	
+condita	O			I-CLASS	timeinterval	
+)	O			O		
+.	O			O		
+The	O			O		
+denomination	O			O		
+412	O			O		
+BC	O			O		
+for	O			O		
+this	O			O		
+year	O			O		
+has	O			O		
+been	O			O		
+used	O			O		
+since	O			O		
+the	O			O		
+early	O			O		
+medieval	O			O		
+period	O			O		
+,	O			O		
+when	O			O		
+the	O			O		
+Anno	O			B-CLASS	informationentity,timeinterval	
+Domini	O			I-CLASS	informationentity,timeinterval	
+calendar	O			I-CLASS	informationentity,timeinterval	
+era	O			I-CLASS	informationentity,timeinterval	
+became	O			O		
+the	O			O		
+prevalent	O			O		
+method	O			O		
+in	O			O		
+Europe	O			O	
+for	O			O		
+naming	O			O		
+years	O			O		
+.	O			O		

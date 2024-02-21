@@ -1,0 +1,20 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+The	O			O		
+Hopetoun	B-INDIVIDUAL		event,politicalevent	B-INDIVIDUAL		politicalevent
+Blunder	I-INDIVIDUAL		event,politicalevent	I-INDIVIDUAL		politicalevent
+was	O			O		
+a	O			O		
+political	B-CLASS	event,situation		B-CLASS	event,socialobject	
+event	I-CLASS	event,situation		I-CLASS	event,socialobject	
+immediately	O			O		
+prior	O			O		
+to	O			O		
+the	O			O		
+Federation	O			O	
+of	O			O		
+the	O			O		
+British	O			O		
+colonies	O			O		
+in	O			O		
+Australia	O			O		
+.	O			O		

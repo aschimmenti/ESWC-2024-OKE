@@ -1,0 +1,57 @@
+Token	Eval-Annotation	Eval-ClassSubclassOf	Eval-IndividualClasses	Pred-Annotation	Pred-ClassSubclassOf	Pred-IndividualClasses
+Radicchio	B-INDIVIDUAL		perennial	B-INDIVIDUAL		bitterandspicytaste,grilledorroasted,italianchicory,leafchicory,leafvegetable,perennial,white-veinedredleaves
+is	O			O		
+a	O			O		
+leaf	O			B-CLASS	organism	
+chicory	O			I-CLASS	organism	
+(	O			O		
+Cichorium	O			O
+intybus	O			O
+,	O			O		
+Asteraceae	O			O
+)	O			O		
+,	O			O		
+sometimes	O			O		
+known	O			O		
+as	O			O		
+Italian	O			B-CLASS	organism	
+chicory	O			I-CLASS	organism	
+,	O			O		
+and	O			O		
+is	O			O		
+a	O			O		
+perennial	B-CLASS	organism		B-CLASS	organism	
+.	O			O		
+It	O			O		
+is	O			O		
+grown	O			O		
+as	O			O		
+a	O			O		
+leaf	O			B-CLASS	organism	
+vegetable	O			I-CLASS	organism	
+which	O			O		
+usually	O			O		
+has	O			O		
+white	O			B-CLASS	organism	
+-	O			I-CLASS	organism	
+veined	O			I-CLASS	organism	
+red	O			I-CLASS	organism	
+leaves	O			I-CLASS	organism	
+.	O			O		
+It	O			O		
+has	O			O		
+a	O			O		
+bitter	O			B-CLASS	informationentity	
+and	O			I-CLASS	informationentity	
+spicy	O			I-CLASS	informationentity	
+taste	O			I-CLASS	informationentity	
+,	O			O		
+which	O			O		
+mellows	O			O		
+when	O			O		
+it	O			O		
+is	O			O		
+grilled	O			B-CLASS	activity	
+or	O			I-CLASS	activity	
+roasted	O			I-CLASS	activity	
+.	O			O		
